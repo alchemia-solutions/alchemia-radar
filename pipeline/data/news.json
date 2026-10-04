@@ -1,6 +1,69 @@
 [
   {
     "kind": "news",
+    "title": "Diretor da OMS reconhece avanço da Fiocruz em vacina de mRNA - Tribuna do Agreste",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQai1KTTF2djFjWFdCZFBJTm5YeVN1Q3JWU0NWT0h2Mmd6NC1kLUt2UzhRUEFNLXlrR3M3ek5YU0duRGVFN2NyQWczc0IwZW9rRTZMYXVMc1IzNnV3Z1U0YUZGQkJINmhRSjFYT3MzalM2RGVJQzVHS1RhYzZ3Ym1uQmpvSVFPVUpIeUZkRFRXYW44N1hObDdhallVVHYwV0k4eTAxcjU2ei14dTloenZCb09MQ1VKWVBONFYzNA?oc=5",
+    "source": "Tribuna do Agreste",
+    "source_type": "news",
+    "published_date": "2026-10-04",
+    "collected_at": "2026-10-04T14:58:34.665403+00:00",
+    "authors": [],
+    "summary": "Diretor da OMS reconhece avanço da Fiocruz em vacina de mRNA Tribuna do Agreste",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmivafbvv95cuxqai1kttf2djfjwfdczfbjtm5yevn1q3jwu0nwt0h2mmd6nc1klut2uzhruefnlxlrr3m3ek5yu0durgvfn2nyqwczc0iwzw9rrtzmyxvmc1iznnv3z1u0yuzgqkjinmhrsjfyt3mzalm2rgvjqzvhs1rhyzz3ym1uqmpvsvfpvupieuzkrfrxyw44n1hobddhallvvhywv0k4etaxcju2ei14dtloenzcb09mq1vkwvbonfyzna?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Excelência científica: chefe da OMS parabeniza Fiocruz por avanço em vacina de mRNA - Tribuna do Sertão",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNakFNbUpaR28tQ1BkemhaYTg3aUZiTFkxUkx0VVQ2OXFfaEs2bHNCTnJHVnVqd3Z5bG1OaVU0WVVpeXk5bEFkTDhYTXNoRVlDUmdHVjR1YTA5dmkxTk9wdFBfS0ZqNGlLaWcyNUVzT2t6R215VmNyRWRfd3ltcmMyMjlRTkY5QVdjWVl4aUxiWk4wWEtscE1LRnJvQ0UxUm5sYjN6MXdnUGZnQ08wNDRhaGJHRlRWRDhqQWJFSWJnNVFXblRPTVpmU3BUZHU5NnJQXzlwTm0tTXo?oc=5",
+    "source": "Tribuna do Sertão",
+    "source_type": "news",
+    "published_date": "2026-10-04",
+    "collected_at": "2026-10-04T14:58:34.665481+00:00",
+    "authors": [],
+    "summary": "Excelência científica: chefe da OMS parabeniza Fiocruz por avanço em vacina de mRNA Tribuna do Sertão",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi2afbvv95cuxnakfnbupar28tq1bkemhaytg3auzitfkxukx0vvq2oxffaes2bhnctnjhvnvqd3z5bg1oavu0wvvpexk5befktdhytxnorvldumdhvjr1yta5dmkxtk9wdfbfs0zqngllawcynuvzt2t6r215vmnyrwrfd3ltcmmymjlrtky5qvdjwvl4auxiwk4wwetsce1lrnjvq0uxum5syjn6mxdnugznq08wndrhagjhrlrwrdhqqwjfswjnnvfxblrptvpmu3buzhu5nnjqxzlwtm0ttxo?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "UAE scientists harness AI to discover potential blood cancer drug - thenationalnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb2lfNlViMjFRekdaRkpWamJRcUNHTEFDTDBjYWVHdm9UNkRGbnJnX0FwcWx2S0hNTUVOLUdnU1hMQWxORUNyM1o2X3F1aGZVOHRMbElKZVZ5Uk50Z3FaYXBzQlRUWF9mallhZThpX2t2bl82MHI2VFFfZ1VOTjhQeUh0SFdocTF1QXhoSlM0WHpvakFIOE1NczV1TnN1cEdoOHpTM2tlQlR1a0o2bklQVGF4RWhSc1RlTXc?oc=5",
+    "source": "thenationalnews.com",
+    "source_type": "press",
+    "published_date": "2026-10-04",
+    "collected_at": "2026-10-04T14:58:36.504037+00:00",
+    "authors": [],
+    "summary": "UAE scientists harness AI to discover potential blood cancer drug thenationalnews.com",
+    "doi": null,
+    "company_slug": "insilico-medicine",
+    "keywords_matched": [
+      "Insilico Medicine"
+    ],
+    "extra": {
+      "query": "\"Insilico Medicine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiugfbvv95cuxpb2lfnlvimjfrekdarkpwamjrcunhtefdtdbjywvhdm9unkrgbnjnx0fwcwx2s0hntuvoludnu1hmqwxorunym1o2x3f1agzvohrmbelkzvz5uk50z3fayxbzqlruwf9mallhzthpx2t2bl82mhi2vfffz1votjhqeuh0sfdoctf1qxhoslm0whpvakfioe1nczv1tnn1cedoohptm2tlqlr1a0o2bklqvgf4rwhsc1rltxc?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Could Tempus RNA License Alter The Investment Case For Recursion Pharmaceuticals (RXRX)? - Simply Wall Street",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSUFMM0lyalplazFkeVNhLS1aQlpCZmZHT3E4aXhWVmNsNHdxLU9qZWI3Tk5BaGpzQVVOeGYzSnN3U3VxeXdtOGlfUWs1bGI1SzB5czRibVhpRlJVT0tERFI2S3AwYkZSR3FPNGkwWkFDUEJRVmEtQkM5ZFZqR1dHME4wMFZWQkNyZlNnQ1E5Q2JYaE1vVm9saVpzejBieHFwU2JndFpSSVJIZ0xnTGNVUXpNZkdwVXc2MldYMkFUZ3NRTTFlWjFCM3lqei1vbDBMSTZld1dHbmFGeW5CZGU4NWQ1dWlKbkdlb2t4T2NnUUdKT2tPSHfSAfYBQVVfeXFMT0lBTDNJcmpaZWsxZHlTYS0tWkJaQmZmR09xOGl4VlZjbDR3cS1PamViN05OQWhqc0FVTnhmM0pzd1N1cXl3bThpX1FrNWxiNUsweXM0Ym1YaUZSVU9LRERSNktwMGJGUkdxTzRpMFpBQ1BCUVZhLUJDOWRWakdXRzBOMDBWVkJDcmZTZ0NROUNiWGhNb1ZvbGlac3owYnhxcFNiZ3RaUklSSGdMZ0xjVVF6TWZHcFV3NjJXWDJBVGdzUU0xZVoxQjN5anotb2wwTEk2ZXdXR25hRnluQmRlODVkNXVpSm5HZW9reE9jZ1FHSk9rT0h3?oc=5",
     "source": "Simply Wall Street",
@@ -124,6 +187,48 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi5afbvv95cuxorgx4retoc09nn2rjrzvxy1lysvlfumhpd3fsrnz6exfsafrsckywcgjsyxe1celhu0nsugsxlvbjt1frwkfaehjqseg2x0v4cg4xelzlwlq3ckxlyxdpykhhves5z012q3jhvzrkvfhmvuxknffar2rwt1poujnlr214eudcctvbqm1bt0duttk4y3v1auzqbtzxudzjuhnzt3pls0nqduvhyu8wvm5vwml2cklxb1f1bgzlcwizmvr1zwvfofveawxtwwxlbdlkofzgadzxdlzqrjzrd0hnvfd0ag4?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Form 4 Recursion Pharmaceuticals Inc For: 2 October By Investing.com - Investing.com Nigeria",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkpSODBaZ0hJQlJhU19ZM0dEU3BESlVxV1J4b2xxVUJhNl9Ra2VqWUJvVjFFWU1KWHZmT1ZzWUNmWWhSNmF1RWYyY1VNOTFWbXpXM2R3M1Z1YVlJa0Jtc2FfaG1TaWNpWGtiY3QtR1pPdHJsaG40R1ZNaUY4V293bGNnMGRpdXpLbzl4ZkxlWXhGUGxpUkRmaGN2MG1ocG5IeGtvbUZhZ2UyWlZOQXhtTA?oc=5",
+    "source": "Investing.com Nigeria",
+    "source_type": "press",
+    "published_date": "2026-10-03",
+    "collected_at": "2026-10-04T14:58:39.280766+00:00",
+    "authors": [],
+    "summary": "Form 4 Recursion Pharmaceuticals Inc For: 2 October By Investing.com Investing.com Nigeria",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxoykpsodbaz0hjqljhu19zm0deu3beslvxv1j4b2xxvujhnl9ra2vqwujvvjffwu1kwhzmt1zzwunmwwhsnmf1rwyyy1vnotfwbxpxm2r3m1z1yvlja0jtc2ffag1tawnpwgtiy3qtr1ppdhjsag40r1znauy4v293bgnnmgrpdxplbzl4zkxlwxhgugxpukrmagn2mg1ocg5iegtvbuzhz2uywlzoqxhtta?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Form 4 Recursion Pharmaceuticals Inc For: 2 October By Investing.com - Investing.com South Africa",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb25fb0dHTXU1bnZsRWFndmd6ZjREdXlPcTlkQjVvdTdSa2czVlFRTk94SXp4emxMbHZJdU1IYnVueE5wM2dXbFhMOVM3ek5yekZNdGJ0azdqYW5obDNkVk12T1p0YnNPV0ZreUNMbnJ2MzVBTWJsc3ZudHBzQ0ZraHZCVGZIZ21fRXIyakRQeWEtNkJCalJYTGZ6WDFLdHE0c2c5WTRVc1hoc1FKV0hhRw?oc=5",
+    "source": "Investing.com South Africa",
+    "source_type": "press",
+    "published_date": "2026-10-03",
+    "collected_at": "2026-10-04T14:58:39.283548+00:00",
+    "authors": [],
+    "summary": "Form 4 Recursion Pharmaceuticals Inc For: 2 October By Investing.com Investing.com South Africa",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxob25fb0dhtxu1bnzsrwfndmd6zjredxlpctlkqjvvdtdsa2czvlfrtk94sxp4emxmbhzjdu1iynvuee5wm2dxbfhmovm3ek5yekzndgj0azdqyw5obdnkvk12t1p0ynnpv0zreunmbnj2mzvbtwjsc3zudhbzq0zrahzcvgziz21frxiyakrqewetnkjcaljytgz6wdfldhe0c2c5wtrvc1hoc1fkv0hhrw?oc=5"
   },
   {
     "kind": "news",
@@ -27149,6 +27254,27 @@
   },
   {
     "kind": "news",
+    "title": "Morgan Stanley Adjusts PT on Recursion Pharmaceuticals to $5.30 From $5.50, Keeps Equalweight Rating - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOakEtSWFNMkF1VXlkZjNFdVFhZWlpelNWQVhzSXFTSjlabHlaX0xGMHZyMFplLXNfdWpmWm9qOGU5OExHVnExdHFzYTlvNHFyT2U2RHBIYXdGbHRtMTV4QU52NUJiOE5KbjhQZXl1YTRZZWwyRVFQcTdSN1ZlOXRyVmFnaWNIcUNkb3EyTE5hY21BX2M1VTBXUnFwVkRPZDluVHc?oc=5",
+    "source": "Yahoo Finance",
+    "source_type": "press",
+    "published_date": "2026-08-17",
+    "collected_at": "2026-10-04T14:58:39.292712+00:00",
+    "authors": [],
+    "summary": "Morgan Stanley Adjusts PT on Recursion Pharmaceuticals to $5.30 From $5.50, Keeps Equalweight Rating Yahoo Finance",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiogfbvv95cuxoaketswfnmkf1vxlkzjnfdvfhzwlpelnwqvhzsxftsjlabhlax0xgmhzymfpllxnfdwpmwm9qogu5oexhvnexdhfzytlvnhfyt2u2rhbiyxdgbhrtmtv4qu52nujioe5kbjhqzxl1ytrzzwwyrvfqctdsn1zloxryvmfnawnicunkb3eyte5hy21bx2m1vtbxunfwvkrpzdluvhc?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Recursion Pharmaceuticals Highlights AI Platform, Roche Progress and Pipeline Updates - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWGtTbnhiVzI2R1dDcXVoZmp0UzluTkk0azZpdkNQZTJCcVk5NWMwWXVVZHVpb0VBVlQ1djJnR2Y3ZUFUQkdtOFFMT3Vwd25QOXhQWVFNX1M5cjBPOTdjaVE2QTJWREx2TWRBY2Y1aVJYdlF4NU9fTHp2SHE4U3BNaE5OQ05vd0ZKbUxGcmNaa2o0b1pqaWFTTTdRVWRUaDdPbXJqRVNkcmVldEZnbFE?oc=5",
     "source": "Yahoo Finance",
@@ -33928,6 +34054,27 @@
   },
   {
     "kind": "news",
+    "title": "Business Watch: Anthropic launches Claude Science; AstraZeneca links with CSPC again - Chemical & Engineering News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnRNTGEzZWNTUkRwaElRa2VPYTU3ajNmN2RqMXRXWmxCcTdnS3Zkcm5yUGQtWS1YZWVNbDgxLTM0MVN6TXRkNTVLQmFDR0g0SmpsSXJDeExpck1uZjBOR203S0xuVFhzNGpoUnd2VkhUNmRUTXB6OXRjbnRYam51SDZHRTUtNXZpdjZCMmo2aEF3Q09LWndOYUduV21SRmlHVWlF?oc=5",
+    "source": "Chemical & Engineering News",
+    "source_type": "press",
+    "published_date": "2026-07-07",
+    "collected_at": "2026-10-04T14:58:37.304083+00:00",
+    "authors": [],
+    "summary": "Business Watch: Anthropic launches Claude Science; AstraZeneca links with CSPC again Chemical & Engineering News",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiowfbvv95cuxqynrntgezzwntukrwaelra2vpytu3ajnmn2rqmxrxwmxcctdns3zkcm5yugqtws1yzwvnbdgxltm0mvn6txrkntvlqmfdr0g0smpssxjdeexpck1uzjbor203s0xuvfhzngpound2vkhunmrutxb6oxrjbnryam51sdzhrtutnxzpdjzcmmo2aef3q09lwndoyuduv21srmlhvwlf?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "'O prazo será o mais rápido possível' diz Alexandre Padilha sobre tempo de avaliação da vacina da dengue do Butantan - O GLOBO",
     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORmNKUzJnRG1UbFdlNi1qWVFPTURwVnVYQ2xPaldjZngwSG1YOHRobmlSV3Z4NXVuRGxwVmgyNEJwdVpKdnNLTnYxQTRIZVlseDVHOWxlNWJScndfUURlQm1id0JYeHFldm5YMllwZ2MzRWIyTFdkRHYwVkNGbFhBYkh0NjdaRmU2VFMxNGtSV1NHOGhoS21NYTRUeWp0eEhjT01wYk5EVkJqU2ZFYTAycDRQMUV0MUVjbl9ySmdwOFlJaFpia2o1YXZ2Xy1rOGZiaENwbDhJN0tITVRuRTNySnp3Z1hfTjUzNlM5b0hlTHhXMGI1dno3VjlEQWtnZzTSAY4CQVVfeXFMTUxQekpJMi1qOXk3a3RwMVlBYzRrQW9aVHVKeWhwdjRSLUtHNWxUZnZ3cy1ueXZnQ040VllBV2N6WHo3VzdsdXBfdldjZzI3c1J5REhRZEdlcmhMOWhFT3VqNVl1OGYza0tTaERiUU1CU3JSZmQtMWVUREhYTkZpRWZRcWl3MmpQbWZiYVJtRUJDc3pvbUh6SzlDZXdyZ3d3eHRhOUdwZ19ENUY5eGpjQWItcDQyUXZneVBKUjduMFlEVFlYUHZlVDZpcEtWdi11ekhjM2t2NGJENTFKaXJRRDZibXB3MzE4SVdLOEJmY1ZUMVppUFExREE3V2hJb3lubl9CcWxHUWhJV0FjWFBB?oc=5",
     "source": "O GLOBO",
@@ -35296,6 +35443,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmirafbvv95cuxob1lwnmnxsvqyzkltykdlmwhjtnf1rflhmuljoe1snk10wu9jqufztmhlrwrouhdqbgc0z05qrwq1a3lgqjjmvlnhzthewejqr3bdnf9teem1mhdqn0u1c0fqbxrhc2flcfrwatnesdj2ovnvac1lduvqnmlza0vxb3h3n0jszg92zhjwx1r2nhjivgdqxy1eslc5q1fhv3dvs2nszgxvvs1hqjhj?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Cientistas da Fiocruz podem produzir vacina completa contra a malária - Correio de Carajás",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOEgwOTNrSkpkcFpQeUF2ZXNDX2sxckI2dmpJYUZ5Y1J5Si1uVzJ4YXA2eHZqWFk4U1k1bjlYWlU4dFk2VTY2RFVJYWxUa1UySEYzRmRPQjN1T1QyYWcybXVneVpISDJrRkZLQlZOV3Y4M0RScG5SOFJyVVhhRzIyMnU2alphWUhiaERfOWNzSTRwWEhlaFZqbnkwMnVCNUNlVTduTw?oc=5",
+    "source": "Correio de Carajás",
+    "source_type": "news",
+    "published_date": "2026-07-02",
+    "collected_at": "2026-10-04T14:58:34.666738+00:00",
+    "authors": [],
+    "summary": "Cientistas da Fiocruz podem produzir vacina completa contra a malária Correio de Carajás",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmipafbvv95cuxqoegwotnrskpkcfpqeuf2zxndx2sxcki2dmpjyuz5y1j5si1uvzj4yxa2ehzqwfk4u1k1bjlywlu4dfk2vty2rfvjywxua1uyseyzrmrpqjn1t1qyywcybxvnevpisdjrrkzlqlzov3y4m0rscg5sofjyvvhhrziymnu2alphwuhiaerfownzstrwwehlafzqbnkwmnvcnunlvtdutw?oc=5"
   },
   {
     "kind": "news",
@@ -40647,6 +40815,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi6afbvv95cuxou2znz2ncbjjdsmjvn2jsbxhorepfmf9jv2ezwdvvvhdnnjlkzjryzfpimwvgmjdvbwtjyjnhujvfqvdevnlnwjjnewgtzkfbctvma0xldupkvg5pnw1slvdrqlo4y1dyyutorhpib3jpnznjr1dkehpyr3vnvwvnvxpvexiyni1ezuxoaglvyuk1a1dxbnfonlbzdldlmxnxrlk1bfzovujitthucvzudmx6bhc3mlhgevjusuflbedfrhnsbulywtk1swxrn053cnllbk1ywe9nyvrhqxhfbguwzfk3rnlr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Vacina da dengue: tomei o imunizante do Butantan, o que devo fazer? - O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZTFSMXhFdGc4emRubFppMm12VlZPQ3Q3R1VFWm9IWHAzVFdZOVpFMkpNdGpUR1hwUnVuc3dhMU1yYnMzT0pOTDBqeXI1QzRKeGVLZ2YzYzJQTlNHdGhQWE9Wd2FLZkMxaXl4ZFhpTE11RmRhY0FENEdURWRUb2RwRzJmWUVOd1h0S1RyeldtWXY4c085WFRkRVdrM0JEOWpuUUFPTVlsNDZuU3BNZUxLRU1KOW4yNkJsNjBWQg?oc=5",
+    "source": "O GLOBO",
+    "source_type": "news",
+    "published_date": "2026-06-09",
+    "collected_at": "2026-10-04T14:58:34.084185+00:00",
+    "authors": [],
+    "summary": "Vacina da dengue: tomei o imunizante do Butantan, o que devo fazer? O GLOBO",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmivafbvv95cuxpztfsmxhfdgc4emrubfppmm12vlzpq3q3r1vfwm9iwhazvfdzovpfmkpndgpur1hwunvuc3dhmu1yynmzt0potdbqexi1qzrkegvlz2yzyzjqtlnhdghqwe9wd2flzkmxaxl4zfhpte11rmrhy0fenedurwrub2rwrzjmwuvod1h0s1ryeldtwxy4c085wfrkrvdrm0jeowpuuufptvlsndzuu3bnzuxlru1kow4ynkjsnjbwqg?oc=5"
   },
   {
     "kind": "news",
@@ -53919,6 +54108,27 @@
   },
   {
     "kind": "news",
+    "title": "Chinese Scientists Develop AI-Driven Ultra-Fast Drug Screening Platform - 一财全球Yicai Global",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWlJ1SjVDSUUwLTQ2WjBER1M1a3RpdU5wVlE3VFBPNklDQXI0V3Vad0RjX2E5dnVlNThqZlZRdXk0ZGE5WldYQzRHdnpvQlF0eDFtYVQ3Y0dFYkxhUm93VkV5NzkzTGNvVjBSSmhBbkk0ZEpyckg5UWxEWVhsaURya3h2U2tOY0FBLTZYR3NtUkM3SlN4UEdCcGtiTnd0akFhVV9jUUJEWQ?oc=5",
+    "source": "一财全球Yicai Global",
+    "source_type": "news",
+    "published_date": "2026-01-13",
+    "collected_at": "2026-10-04T14:58:32.554462+00:00",
+    "authors": [],
+    "summary": "Chinese Scientists Develop AI-Driven Ultra-Fast Drug Screening Platform 一财全球Yicai Global",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking\" AI"
+    ],
+    "extra": {
+      "query": "\"molecular docking\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmipwfbvv95cuxnwlj1sjvdsuuwltq2wjber1m1a3rpdu5wvle3vfbpnkldqxi0v3vad0rjx2e5dnvlnthqzlzrdxk0zge5wldyqzrhdnpvqlf0edftyvq3y0dfykxhum93vkv5nzkztgnvvjbssmhbbkk0zepyckg5uwxewvhsaurya3h2u2toy0fbltzyr3ntukm3sln4uedccgtitnd0akfhvv9juujewq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Ministério da Saúde barra produção da vacina Qdenga pela Fiocruz - Metrópoles",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlOHR5TzhCejFGV3cwOWtHYWNmNzRWWjBkWTBkejFYY0ZTYTByVGtrSmowTGctandNU1dCNjdManY2R1Y0SkxLdmJIRmk4eDdWbUQyUy1HblRsUHkzRlRsMnRpOVhUM2Jlc09wRThoZEk?oc=5",
     "source": "Metrópoles",
@@ -59722,6 +59932,27 @@
   },
   {
     "kind": "news",
+    "title": "Generative Chemistry: Navigating Vast Chemical Space in Drug Discovery - Technology Networks",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdUFiS2NEdGxNb1JOcWt3RFR4NGYtOTJwQTd4Y2VaN3ZqQ1h6OHBWVVhHTS1yOC1Ibk9wOUpaNzRCY0t0bmZGUHFudHlJQ0N4WlN2YjNvZUpCWjNYWE9aNmp3VjJaRnBmdXBQWVQ5MHN3RVMwNURZTGIwVkoxdVRXWmduTWdaVUFWVlVwbmMzVWU5SGhGcjN1SUk0blAxcGlmTjN4WnRsV29YTGRCdWstbDZLNmFBNFV1empCMG1OOExhRURjQy1ubld5WTRyTm51?oc=5",
+    "source": "Technology Networks",
+    "source_type": "news",
+    "published_date": "2025-06-23",
+    "collected_at": "2026-10-04T14:58:29.770702+00:00",
+    "authors": [],
+    "summary": "Generative Chemistry: Navigating Vast Chemical Space in Drug Discovery Technology Networks",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "generative chemistry\" AI"
+    ],
+    "extra": {
+      "query": "\"generative chemistry\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi0afbvv95cuxndufis2nedgxnb1jocwt3rfr4ngytotjwqtd4y2van3zqq1h6ohbwvvhhts1yoc1ibk9woupanzrcy0t0bmzguhfudhljq0n4wln2yjnvzupcwjnywe9anmp3vjjarnbmdxbqwvq5mhn3rvmwnurztgiwvkoxdvrxwmdutwdavufwvlvwbmmzvwu5sghgcjn1suk0blaxcglmtjn4wnrsv29ytgrcdwstbdzlnmfbnfv1empcmg1ooexhrurjqy1ubld5wtrytm51?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Healey-Driscoll Administration announces tax incentives to create 1,519 life sciences jobs in Boston area, Fall River, Western MA, other communities - Fall River Reporter",
     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNU2ozcGd1ZTZ1ZDlzNHZ2NU0xaEJST2ZjYnFqTG95RlhidGVqTXZ2VWV5WE5ZMXlfQklwWEhQODhPTUl0R1hVOUxNcmFmSW03VlNpaXR1cGVkNUJ2T2EtbDFUMm9XZURkaTU2c2FkWXhseXl1bFdJaWpWNHhEdUFtWFRoRnQxVzJfWkRIZGFZZUZqVm52NGlHRFpBZ09COTU4MXMzS2VOU2FHbVhjakNiR2xqRURwMFFMX0VOaDdza2R4NUJpTkdENzEtSlNOOVhEX2N3TWM1eFY1ZGZWcGMwQVVXNDJabWwtNWxpZ3pqalFzRlA1alQyUkZqei1jOEw0NnotUDlR0gGGAkFVX3lxTE1TajNwZ3VlNnVkOXM0dnY1TTFoQlJPZmNicWpMb3lGWGJ0ZWpNdnZVZXlYTlkxeV9CSXBYSFA4OE9NSXRHWFU5TE1yYWZJbTdWU2lpdHVwZWQ1QnZPYS1sMVQyb1dlRGRpNTZzYWRZeGx5eXVsV0lpalY0eER1QW1YVGhGdDFXMl9aREhkYVllRmpWbnY0aUdEWkFnT0I5NTgxczNLZU5TYUdtWGNqQ2JHbGpFRHAwUUxfRU5oN3NrZHg1QmlOR0Q3MS1KU045WERfY3dNYzV4VjVkZlZwYzBBVVc0MlptbC01bGlnempqUXNGUDVqVDJSRmp6LWM4TDQ2ei1QOVE?oc=5",
     "source": "Fall River Reporter",
@@ -60139,6 +60370,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmieefvx3lxte1luldmtmh4wmrwdzzsevpozgnetuhmvle1nuvxzjh0oefyvtzkn2rkcflwx203auvjsv9yzehtqmnwymxvx3c3ufvlqxjiwknlbxhnxzvxbky2s1nrmwy1v0vevzdimfy5r0jidniyslhic2i1rlayng?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Amorepacific uses AI to design peptides that make hair stronger - Korea Biomedical Review",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vakF6OWUtQmJwZHBoM0thSkNhUnNfM1dPNmxzbC1JUzJ2S0I2UENaVW80dl9ldks4b3JNdnF6ZWhkWThiR01xYmkwSlpobWlkajFyYms3ZEpIZGRsTGNkNmdSSnRSNVlNMHJLNE9R0gFyQVVfeXFMTmRjdy1uLWlYN3Z0R3FsTzUtcm90a0FJUkwtQmE0QnpuYXhfWlJFMDNsdFFBSFNuNFpKUE1yVUZTdzl5dzAwaUJ3LUhEWUY1WHZjTng2NVNTR05LNHVYanFCQWk1TEROS1NRNV9NOFdnMENn?oc=5",
+    "source": "Korea Biomedical Review",
+    "source_type": "news",
+    "published_date": "2025-05-27",
+    "collected_at": "2026-10-04T14:58:32.555764+00:00",
+    "authors": [],
+    "summary": "Amorepacific uses AI to design peptides that make hair stronger Korea Biomedical Review",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking\" AI"
+    ],
+    "extra": {
+      "query": "\"molecular docking\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmibkfvx3lxte5vakf6owutqmjwzhbom0thsknhunnfm1dpnmxzbc1juzj2s0i2uenavw80dl9ldks4b3jndnf6zwhkwthir01xymkwslpobwlkajfyyms3zepizgrstgnknmdssnrsnvlnmhjlne9r0gfyqvvfexfmtmrjdy1ulwlyn3z0r3fstzutcm90a0fjukwtqme0qnpuyxhfwljfmdnsdffbsfnunfpkue1yvuztdzl5dzawauj3luhewuy1whzjtng2nvntr05lnhvyanfcqwk1teros1nrnv9nofdnmenn?oc=5"
   },
   {
     "kind": "news",
@@ -64765,6 +65017,27 @@
   },
   {
     "kind": "news",
+    "title": "Iktos announces the appointment of Avirup Bose as Chief Business Officer - BioSpace",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORWFOTFJDX3dJWU9OYXM3dTZ6Yng2cThLWkppTzZKeHZrTFZqajJ1c1pfcTk0U1RzRlZURTRrVWlIaGR0VGQwMnV2cGFtLUppMjdGYXBuWHJpd1poQXlyV0V0cVVmN0ZGbFJwRUlGVkxObzQ5YjhjR2s2emJBYkxDRHdTQ0ZUdDBTQnhORkdmbFpnRkR0d2lBTFBiajV1UQ?oc=5",
+    "source": "BioSpace",
+    "source_type": "press",
+    "published_date": "2024-01-18",
+    "collected_at": "2026-10-04T14:58:39.549034+00:00",
+    "authors": [],
+    "summary": "Iktos announces the appointment of Avirup Bose as Chief Business Officer BioSpace",
+    "doi": null,
+    "company_slug": "iktos",
+    "keywords_matched": [
+      "Iktos"
+    ],
+    "extra": {
+      "query": "\"Iktos\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmingfbvv95cuxorwfotfjdx3djwu9oyxm3dtz6yng2cthlwkpptzzkehzrtfzqajj1c1pfctk0u1rzrlzurtrrvwliagr0vgqwmnv2cgftluppmjdgyxbuwhjpd1poqxlyv0v0cvvmn0zgbfjwrulgvkxobzq5yjhjr2s2emjbykxdrhdtq0zuddbtqnhorkdmbfpnrkr0d2lbtfbiajv1uq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "NVIDIA CEO: ‘This Year, Every Industry Will Become a Technology Industry’ - NVIDIA Blog",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNXBTVUJiNGR0Q2VfM19BeElmUG1wa0U1MkJ5ZE5XbEpBQXBWZm42Q1FTaEdTb1ZwWEN5R1NNU3gtbTRvYUpzc3pISVVjU01UeVpQVWZfMWltWFhaQVdoSjhsZTJmcHI1anRKb21BT2h6ZkRpeC1LV0M4UU5NdUl1dDlCeTdybHRkVWVIWTV3?oc=5",
     "source": "NVIDIA Blog",
@@ -65984,6 +66257,27 @@
   },
   {
     "kind": "news",
+    "title": "Fiocruz assina acordo para retomar produção de vacina BCG no país - Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdWZoVGxaVzg3WFdpV3BYMk56UnpnV2FZOEYxbVY1ZU03S0FFTjlrWG0zeE5BUVE3ajIxOC1sN0RuUEdCNi0tUXBOUERpZG0yazJJRkJURjRDMEVlSXphdXBzejJ6b19LZ1Zpc2JtLWxWcFYySWJicVdNZHhzUm82a1R0SE44ZWJtQl8zS2NvR1VIWE5xNnF6XzFNM0pwWHdLdlNkLXhQYWVRS0YzZWZQdmZMTXNpTmpyZS1YNw?oc=5",
+    "source": "Agência Brasil",
+    "source_type": "news",
+    "published_date": "2023-06-06",
+    "collected_at": "2026-10-04T14:58:34.668417+00:00",
+    "authors": [],
+    "summary": "Fiocruz assina acordo para retomar produção de vacina BCG no país Agência Brasil",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmivafbvv95cuxndwzovgxavzg3wfdpv3bymk56unpnv2fzoeyxbvy1zu03s0fftjlrwg0zee5buve3ajixoc1sn0ruuedcni0tuxbouerpzg0yazjjrkjurjrdmevlsxphdxbzejj6b19lz1zpc2jtlwxwcfyyswjicvdnzhhzum82a1r0se44zwjtql8zs2nvr1viwe5xnnf6xzfnm0pwwhdldlnklxhqywvrs0yzzwzqdmzmtxnptmpyzs1ynw?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "CHF 100'000 for Adaptyv Bio and Hexem - Startupticker",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jcVpLMHRkNTloNzdtejJkWVJkbHFtT3ZXT19hd1BwVENibEhPTHhIanRyRmNRX09pVTdaSjJHMHI0QTVPSmx1Z2x6bnY1a0t1NEVGa19rUmtZQ3dlTkFIY1dSbW5CVzQwYnVIYlpXY2NIVVptUE1mMWdhVHd5ODg?oc=5",
     "source": "Startupticker",
@@ -66191,6 +66485,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi2wfbvv95cuxoys1elwphoenhmc03ujlgvmtmbnltmmnqblrqrkdys3ngwgtpwunot255qxv2yzc5zlfvy2vmetlfmu96wxvuquu4destwefbzlfquk93vwnddg5rmlpcyzziy04zuhcxeduyzu5mv1k2rmvragxly1ewbzfsnlfqz0jrrjbnwhrxwejyzgzsnkrwa0vjx2ixu05mynzhvmjgt1paweiwythlbnfxdwnqser3nfdpefffvvl4dk1ylw1dret2yvnicxrdwwj0djhnvljicjvxcmfxr2c?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Vacina BCG não protege profissionais da saúde contra Covid-19 - fiotec.fiocruz.br",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQXpPWko2TzdwOTFrVWFUemZwUHJmZDhnYUFwWUEtd3YycjBvQjJZX3Y0Q18wOVZvX1RSVTIzVmVHZGNRRklxVlRJYzFCSnJxNUthNUNKQVQ1TnJoZWhPUlUyMzlqSHpTN3o4WDRZVThDbnF4bUhtWFROVGFaR2QwVXhSZ2tlWWhIbDQwc0pBbmVYSUd2aHJteUZkOHZuOVVuMlhPX2JQSWRvcFRPWUhJ?oc=5",
+    "source": "fiotec.fiocruz.br",
+    "source_type": "news",
+    "published_date": "2023-04-27",
+    "collected_at": "2026-10-04T14:58:34.668358+00:00",
+    "authors": [],
+    "summary": "Vacina BCG não protege profissionais da saúde contra Covid-19 fiotec.fiocruz.br",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmirwfbvv95cuxpqxppwko2tzdwotfrvwfuemzwuhjmzdhnyufwwuetd3yycjbvqjjzx3y0q18wovzvx1rsvtizvmvhzgnrrklxvlrjyzfcsnjxnuthnunkqvq1tnjozwhpuluymzlqshptn3o4wdrzvthdbnf4buhtwfrovgfar2qwvxhsz2tlwwhibdqwc0pbbmvysud2ahjteuzkohzuovvumlhpx2jqswrvcfrpwuhj?oc=5"
   },
   {
     "kind": "news",
@@ -67981,6 +68296,27 @@
   },
   {
     "kind": "news",
+    "title": "Fiocruz recebe lote de IFA para produzir 5,1 milhões de doses de vacina contra covid-19 - Valor Econômico",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcFpUMTd1WnUxaEh0U2laN2taZnd5VjUzdFdrUk9HVUpQdmdqRDJkTEl5MTZ0WTRQY25NaXRWNm1FcU0yVjdtTGx2ajJUb3FCdWoyWEo5UW1RY2dHQmc5b1lXY2JGOTZqTXdGVWl1eHpQZS1KZFVDLThVUkVaQ3M3R2NoaFpGUTljeklGS0tkMEpLWnhDaFcxeHpPOHRfX1pKUGVIdUxTU0ZKM3pzTDZMOXZKTVhiMWpCb0dORVlqUko1aFF3Sko5dDhWWFhpSlVpT3hua3NfOW7SAecBQVVfeXFMT2JlNHlsamdaVVJobnM2VlBjSkpRM29uWXZzYklPMXlxQUdPTFZHRUlKeWtkUWNwcDliVHZVX1luMnBxWWVWcVU4TE5KUWZDSVdQTThwODBESlhzR3R5cHBxLTAtQU1yTEgzM2ppSE1iajVkY2Q0dGs3U25qMGhvT3JaanMzRjZCNDFyTm1sZHowbjVaNW4wdklwVUFWVmEyOXk0M0Z4MHpTMDNpLU9nVF9xeFF0VkI4MUx2ZFdWMEpKRjJ4MXMtNzN2OFIxZ1BrUHNfTU42NHFlU2xkd3UyUE4zajJvMlIw?oc=5",
+    "source": "Valor Econômico",
+    "source_type": "news",
+    "published_date": "2021-10-04",
+    "collected_at": "2026-10-04T14:58:34.668387+00:00",
+    "authors": [],
+    "summary": "Fiocruz recebe lote de IFA para produzir 5,1 milhões de doses de vacina contra covid-19 Valor Econômico",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi2afbvv95cuxqcfpumtd1wnuxaeh0u2lan2taznd5vjuzdfdruk9hvupqdmdqrdjktel5mtz0wtrqy25naxrwnm1fcu0yvjdttgx2ajjub3fcdwoyweo5uw1ry2dhqmc5b1lxy2jgotzqtxdgvwl1ehpqzs1kzfvdlthvukvaq3m3r2noafpgutljeklgs0tkmeplwnhdafcxehppohrfx1pkugviduxtu0zkm3pztdzmoxzktvhimwpcb0dorvlquko1aff3sko5ddhwwfhpslvpt3hua3nfow7saecbqvvfexfmt2jlnhlsamdavvjobnm2vlbjskprm29uwxzzyklpmxlxqudptfzhrulkewtkuwnwcdlivhzvx1lumnbxwwvwcvu4te5kuwzdsvdqtthwodbeslhzr3r5chbxltatqu1ytegzm2ppse1iajvky2q0dgs3u25qmghvt3jaanmzrjzcndfytm1szhowbjvanw4wdklwvufwvmeyoxk0m0z4mhptmdnplu9nvf9xeff0vki4mux2zfdwmepkrjj4mxmtnzn2ofixz1bruhnftu42nhflu2xkd3uyue4zajjvmliw?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Computers Aid Drug Design and Discovery - Science | AAAS",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcW1xOGdXMUlscDNmUzhIZFJMMkxlNzhLUVpsNUJxSEw1cE1nbTMtNm5GRDZEMDdmT1l6SUNHVXMzNlR3Vm5LeTlHeG5laGViNVdocG56Z3QyZUNHb1R5R2FJVUxsNUJDQ3BPZFQ1U1laSDlDanBIYTlEMDBGUEZ4azZHOXpNZw?oc=5",
     "source": "Science | AAAS",
@@ -68083,6 +68419,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiuwfbvv95cuxnvup0nel4tnmxdvfvuhf1mgizltfbr1ktmljhoeeyemk5bjvkrzhzaur5n25audvezuq0bgfnufzizjzmx21mc2e2ahjqoup5ue9orzfube5lajvym2xfwtfrcxfqn0rkdtrmsxh4zzbzekfiuvpvqzq4ddbfsffvlwxov3fcu1lzb0pptznsmnq5x0nsmduyd3v5bzzlvg5ibjzwd3r1b2dtdk90rwrutmpjzznsrkdxckx3?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Fiocruz é selecionada pela OMS para produção de vacina de mRNA na América Latina - fiotec.fiocruz.br",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdnczcTdQQzdZVy0zMm1PUmVYN2tuS3BrWE84ZXE0cjhEM1hiQUdlcWlNWG96TGlEWEpqU0gzRE53Z29zV1VCdFdVUVZjRVI0eEpJcEdkbDFKSElRWTNfcmVpSXFaSlhKb3RtNWVUQlRnVXRDa3JzNWhDbENIQzZybzZZdlVKZjBzdHQ3Z0ZkWjJGeDcyN0dhVGhLVkdkQ3NlN28yOUMxMWlLQ3k5a2dLYkxQRFdNTE41LUxYVVFGXzhMdTJRSWhGbg?oc=5",
+    "source": "fiotec.fiocruz.br",
+    "source_type": "news",
+    "published_date": "2021-09-22",
+    "collected_at": "2026-10-04T14:58:34.668483+00:00",
+    "authors": [],
+    "summary": "Fiocruz é selecionada pela OMS para produção de vacina de mRNA na América Latina fiotec.fiocruz.br",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiyafbvv95cuxpdnczctdqqzdzvy0zmm1pumvyn2tus3brwe84zxe0cjhem1hiqudlcwlnwg96tglewepqu0gzre53z29zv1vcdfdvuvzjrvi0eepjcedkbdfkselrwtnfcmvpsxfaslhkb3rtnwvuqlrnvxrda3jznwhdbeniqzzybzzzdlvkzjbzdhq3z0zkwjjgedcyn0dhvghlvkdkq3nln28youmxmwllq3k5a2dlykxqrfdnte41luxyvvfgxzhmdtjrswhgbg?oc=5"
   },
   {
     "kind": "news",
@@ -70120,6 +70477,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiw0fvx3lxtfblagduddlmuklkb1dlbtn0lwlwwtm5q29irlvosmnsmwjenuq5v1vysuqwzlrsejh3d1hwyw45cgitulzkqjztzznzsvb6r0k0qi1knnnndnhlrnm?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "High antigen levels induce an exhausted phenotype in a chronic infection without impairing T cell expansion and survival | Journal of Experimental Medicine - Rockefeller University Press",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yb0FQMUhyVzRNVkRyLTNtZWVJV2pVaFgycXVQUVozclM3S09CeE8yX3ZUd1RiT09aWThwS1JMQWM1dU5nT3BZTElFcGd1LTk1UHVaMzJYTkZUelVxTGkzR05vczR6UDlt?oc=5",
+    "source": "Rockefeller University Press",
+    "source_type": "press",
+    "published_date": "2016-07-25",
+    "collected_at": "2026-10-04T14:58:37.624033+00:00",
+    "authors": [],
+    "summary": "High antigen levels induce an exhausted phenotype in a chronic infection without impairing T cell expansion and survival | Journal of Experimental Medicine Rockefeller University Press",
+    "doi": null,
+    "company_slug": "expasy",
+    "keywords_matched": [
+      "ExPASy (SIB)"
+    ],
+    "extra": {
+      "query": "\"ExPASy\" OR \"SIB Swiss Institute of Bioinformatics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiaefvx3lxte1yb0fqmuhyvzrnvkryltntzwvjv2pvafgycxvquvozclm3s09cee8yx3zud1rit09awthws1jmqwm1du5nt3bztelfcgd1ltk1uhvamzjytkzuelvxtgkzr05vczr6udlt?oc=5"
   },
   {
     "kind": "news",
