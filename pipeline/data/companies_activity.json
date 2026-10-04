@@ -22,6 +22,27 @@
   },
   {
     "kind": "news",
+    "title": "AI’s Real Gift to Science - The Atlantic",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcW1HZDBHU1JFd1NqX1hLUlJ1ZFZOTDF4N1RSQ3F3OG9DemdIWEE3OUdxRlZhMURtQVQ3ODVBS0ZEY04yeHZTMk9SNkV5S0RzODFwS214QkIxY1pRSlFnWU5NcFA0LVBnNnNGYWlscFpsUkhuYXEwTEZFbU9GajFrb0poakw2MTBnaXI4aFVoakkxTk1OQlFLb1M5MWVFM3ZKNWg0?oc=5",
+    "source": "The Atlantic",
+    "source_type": "press",
+    "published_date": "2026-10-04",
+    "collected_at": "2026-10-04T18:47:45.356902+00:00",
+    "authors": [],
+    "summary": "AI’s Real Gift to Science The Atlantic",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiowfbvv95cuxocw1hzdbhu1jfd1nqx1hlulj1zfzotdf4n1rsq3f3og9demdiwee3oudxrlzhmurtqvq3odvbs0zey04yehztmk9snkv5s0rzodfws214qkixy1prslfnwu5ncfa0lvbnnnngywlscfpsukhuyxewtezfbu9gajfrb0poakw2mtbnaxi4afvoakkxtk1oqlflb1m5mwvfm3zknwg0?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Could Tempus RNA License Alter The Investment Case For Recursion Pharmaceuticals (RXRX)? - Simply Wall Street",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSUFMM0lyalplazFkeVNhLS1aQlpCZmZHT3E4aXhWVmNsNHdxLU9qZWI3Tk5BaGpzQVVOeGYzSnN3U3VxeXdtOGlfUWs1bGI1SzB5czRibVhpRlJVT0tERFI2S3AwYkZSR3FPNGkwWkFDUEJRVmEtQkM5ZFZqR1dHME4wMFZWQkNyZlNnQ1E5Q2JYaE1vVm9saVpzejBieHFwU2JndFpSSVJIZ0xnTGNVUXpNZkdwVXc2MldYMkFUZ3NRTTFlWjFCM3lqei1vbDBMSTZld1dHbmFGeW5CZGU4NWQ1dWlKbkdlb2t4T2NnUUdKT2tPSHfSAfYBQVVfeXFMT0lBTDNJcmpaZWsxZHlTYS0tWkJaQmZmR09xOGl4VlZjbDR3cS1PamViN05OQWhqc0FVTnhmM0pzd1N1cXl3bThpX1FrNWxiNUsweXM0Ym1YaUZSVU9LRERSNktwMGJGUkdxTzRpMFpBQ1BCUVZhLUJDOWRWakdXRzBOMDBWVkJDcmZTZ0NROUNiWGhNb1ZvbGlac3owYnhxcFNiZ3RaUklSSGdMZ0xjVVF6TWZHcFV3NjJXWDJBVGdzUU0xZVoxQjN5anotb2wwTEk2ZXdXR25hRnluQmRlODVkNXVpSm5HZW9reE9jZ1FHSk9rT0h3?oc=5",
     "source": "Simply Wall Street",
@@ -694,6 +715,27 @@
   },
   {
     "kind": "news",
+    "title": "A Hacking Competition Shows the Power of China’s Approach to A.I. - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMDRiay1mS2VPaElGTE93M29nWndFc3RLb1ZYTk9BdnhHYzE0eXNDZEhrVC1lcDhwOTZjTUFMeUpGQ2xQSzVIbTd6LUh6c0FoQ2hCNlluZVBoRHJVa0c4RHJhblNYc1FPaVdQZEM4eWhRMWhkMnZGRFpnLTlUQ0tEQU5ZRG5Oc0l5ci1v?oc=5",
+    "source": "The New York Times",
+    "source_type": "press",
+    "published_date": "2026-10-01",
+    "collected_at": "2026-10-04T18:47:45.361267+00:00",
+    "authors": [],
+    "summary": "A Hacking Competition Shows the Power of China’s Approach to A.I. The New York Times",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiiwfbvv95cuxomdriay1ms2vpaelgte93m29nwndfc3rlb1zytk9bdnhhyze0exndzehrvc1lcdhwotzjtufmeupgq2xqszvibtd6luh6c0foq2hcnlluzvborhjva0c4rhjhblnyc1fpavdqzem4ewhrmwhkmnzgrfpnltluq0tequ5zrg5oc0l5ci1v?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Breaking the Safety Barrier - Insilico Medicine",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fb3BYbWh3NFZMQzZnWDZNZUJhcEFDcFh4Mk02aExoLVpBRjg0RVFtQjZjWHN2WE1wU0kyNkNHSG1NeklIbV8tSEdvYkxPV3ZRbEFHT0FoTzdKTzR3eEZjTVpqZnNHcXhzXzNPWF9CbHVpdUd6bkxIUzRFTXQ?oc=5",
     "source": "Insilico Medicine",
@@ -986,6 +1028,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi6afbvv95cuxpmhfmq2hszexmbu0ty0ezyzzwwda0vefaem1eqxrbejnrnxe2lvzabll3uvjgsjdtwfznrm9fawtssxbls0tlvfprrhbcrdhqbddqdjzqx2t6bxdqsu52b2y2nzjxugzqa0pwuurpahu2nzlplvdfetbzzgrtmvexvldfcxpcns1fmk5uwmllavnemgviadvxmvduuuvpvulgwjhqstbjtxa5zlzlanprrkxnt2h2wxlab0hnuu1sv2i5rmhpx3farnpnaxa3tzy3ullqytzjnut3mgdldvdrynduof90rzy2?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "SynthID Bio protein watermark: how it works in AI - NeoTeo",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZXhaT19RbW00cFlqTGtYZmhpZnJzSElUYlpzMmRvMExsSEUxSWFEYTdqWGdhTE1FS3RVM2RFb2d1RHRTamdjN0l2ZnFMRHp2VG5RUDNVblc5RVNPdmx4aVNvSmdPcmhPT0N5OVJhUE9YajdoYzVIM09zS3I5dXhlaVRLVnNNMFFMbVdCMFJmUTVCUQ?oc=5",
+    "source": "NeoTeo",
+    "source_type": "press",
+    "published_date": "2026-09-30",
+    "collected_at": "2026-10-04T18:47:44.853011+00:00",
+    "authors": [],
+    "summary": "SynthID Bio protein watermark: how it works in AI NeoTeo",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmikgfbvv95cuxpzxhat19rbw00cflqtgtyzmhpznjzseluylpzmmrvmexsseuxswfeytdqwgdhte1fs3rvm2rfb2d1rhrtamdjn0l2znfmrhp2vg5rudnvblc5rvnpdmx4avnvsmdpcmhpt0n5ovjhue9yajdoyzvim09zs3i5dxhlavrlvnnnmffmbvdcmfjmutvcuq?oc=5"
   },
   {
     "kind": "news",
@@ -38555,6 +38618,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmihafbvv95cuxpq2xtz1vumvlfduhsaelqdgtoewpzyvvwtlyxmkpfqnb6otfjeeq4d19svldhd0s3mmfknfpzbjrwunvbqnpauzhkqmnruws2vvpuvgloqwp3s0utsvfmmwrrt2fcuxhewki5vzblvxoyd0hsu3zururtcdltmjm1blnxdc0?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Merck Announces Collaboration With Iktos for Generative AI Technology - TimesTech",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmxyX3RlcnZpMXhzU2cyWUNpTTRvRU9QcmwwVXNlZTJXMENHVjVWb0VaX1czdS0tanY3c0I2c3NfY01RaGFpRHd1cjgyU2d0YUlnU0JoY0lDaE5iYjRFSUtLeTllYTg3MW9DaFA4Vlkwb3RTY1lTSGVBSTFBRl9XWmF0VHM5QndiemFHLVFmUEk0Mk91bnc?oc=5",
+    "source": "TimesTech",
+    "source_type": "press",
+    "published_date": "2019-03-16",
+    "collected_at": "2026-10-04T18:47:43.735747+00:00",
+    "authors": [],
+    "summary": "Merck Announces Collaboration With Iktos for Generative AI Technology TimesTech",
+    "doi": null,
+    "company_slug": "iktos",
+    "keywords_matched": [
+      "Iktos"
+    ],
+    "extra": {
+      "query": "\"Iktos\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmilgfbvv95cuxowmxyx3rlcnzpmxhzu2cywunpttrvru9qcmwwvxnlztjxmenhvjvwb0vax1czds0tany3c0i2c3nfy01ragfprhd1cjgyu2d0yulnu0joy0ldae5iyjrfsutletllytg3mw9dafa4vlkwb3rty1ltsgvbstfbrl9xwmf0vhm5qndiemfhlvfmuek0mk91bnc?oc=5"
   },
   {
     "kind": "news",
