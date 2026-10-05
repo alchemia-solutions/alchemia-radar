@@ -85,6 +85,27 @@
   },
   {
     "kind": "news",
+    "title": "Google DeepMind watermarks AI-designed proteins | ETIH EdTech News - EdTech Innovation Hub",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVnFQTDlrbjY4bTZ0Qk55eDF2cjlCQl82RTloblRTV3pvUXppRVJkUWsybUlpckZhaG5kb1lZcnF3bXhCaXkzNC00Sk1QNUZ1SnB4WG13SjVDVjFxaFRJeG4wSlNfWGNlTktPWnhKU0tMN0NpeG9ERHhBNjJFeXRySjJwanFWQS05c2lOckQyWEMyQXVhc1NVQm5lRlNiUkZSTkFwRXMyR3Y2aGV6NHE0UVNUWVZwVEhxZElXRC1pdk5sdmtV?oc=5",
+    "source": "EdTech Innovation Hub",
+    "source_type": "press",
+    "published_date": "2026-10-04",
+    "collected_at": "2026-10-05T00:08:58.143547+00:00",
+    "authors": [],
+    "summary": "Google DeepMind watermarks AI-designed proteins | ETIH EdTech News EdTech Innovation Hub",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmixafbvv95cuxpvnfqtdlrbjy4btz0qk55edf2cjlcql82rtloblrtv3pvuxpprvjkuwsybulpckzhag5kb1lzcnf3bxhcaxkznc00sk1qnuz1snb4wg13sjvdvjfxafrjeg4wslnfwgnltktpwnhku0tmn0npeg9erhhbnjjfexrysjjwanfwqs05c2lockqywemyqxvhc1nvqm5lrlniukzstkfwrxmyr3y2agv6nhe0uvnuwvzwvehxzelxrc1pdk5sdmtv?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Could Tempus RNA License Alter The Investment Case For Recursion Pharmaceuticals (RXRX)? - Simply Wall Street",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSUFMM0lyalplazFkeVNhLS1aQlpCZmZHT3E4aXhWVmNsNHdxLU9qZWI3Tk5BaGpzQVVOeGYzSnN3U3VxeXdtOGlfUWs1bGI1SzB5czRibVhpRlJVT0tERFI2S3AwYkZSR3FPNGkwWkFDUEJRVmEtQkM5ZFZqR1dHME4wMFZWQkNyZlNnQ1E5Q2JYaE1vVm9saVpzejBieHFwU2JndFpSSVJIZ0xnTGNVUXpNZkdwVXc2MldYMkFUZ3NRTTFlWjFCM3lqei1vbDBMSTZld1dHbmFGeW5CZGU4NWQ1dWlKbkdlb2t4T2NnUUdKT2tPSHfSAfYBQVVfeXFMT0lBTDNJcmpaZWsxZHlTYS0tWkJaQmZmR09xOGl4VlZjbDR3cS1PamViN05OQWhqc0FVTnhmM0pzd1N1cXl3bThpX1FrNWxiNUsweXM0Ym1YaUZSVU9LRERSNktwMGJGUkdxTzRpMFpBQ1BCUVZhLUJDOWRWakdXRzBOMDBWVkJDcmZTZ0NROUNiWGhNb1ZvbGlac3owYnhxcFNiZ3RaUklSSGdMZ0xjVVF6TWZHcFV3NjJXWDJBVGdzUU0xZVoxQjN5anotb2wwTEk2ZXdXR25hRnluQmRlODVkNXVpSm5HZW9reE9jZ1FHSk9rT0h3?oc=5",
     "source": "Simply Wall Street",
@@ -250,6 +271,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxob25fb0dhtxu1bnzsrwfndmd6zjredxlpctlkqjvvdtdsa2czvlfrtk94sxp4emxmbhzjdu1iynvuee5wm2dxbfhmovm3ek5yekzndgj0azdqyw5obdnkvk12t1p0ynnpv0zreunmbnj2mzvbtwjsc3zudhbzq0zrahzcvgziz21frxiyakrqewetnkjcaljytgz6wdfldhe0c2c5wtrvc1hoc1fkv0hhrw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Form 4 Recursion Pharmaceuticals Inc For: 2 October By Investing.com - Investing.com Australia",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPazNWUktZdnJ4Sm1JclNzMXlTYnh2Rkx3THVPZU41bS1NUWRtUnFIWXBrd09VR0JIQWRCNC05OWFZa3VqWkJEcktweF8zR0x5dkRNUFBuX3Y4bDdTWmpMWXZTUWdJaXQtLVJMQUVUZHpYSjJtNnVBTnQwTUc0Z0QzTzI5WnZ2UGxjUm1GakU3ZW16MHMtSWhyZENHMkV0ekhPaXEwRVFJM19aY2VpSUZHTg?oc=5",
+    "source": "Investing.com Australia",
+    "source_type": "press",
+    "published_date": "2026-10-03",
+    "collected_at": "2026-10-05T00:08:56.618328+00:00",
+    "authors": [],
+    "summary": "Form 4 Recursion Pharmaceuticals Inc For: 2 October By Investing.com Investing.com Australia",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxpaznwuktzdnj4sm1jclnzmxltynh2rkx3thvpzu41bs1nuwrtunfiwxbrd09vr0jiqwrcnc05owfza3vqwkjecktwef8zr0x5dkrnufbux3y4bddtwmpmwxztuwdjaxqtlvjmquvuzhpysjjtnnvbtnqwtuc0z0qztzi5wnz2ugxjum1gaku3zw16mhmtswhyzenhmkv0ekhpaxewrvfjm19ay2vpsuzhtg?oc=5"
   },
   {
     "kind": "news",
@@ -746,6 +788,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmifkfvx3lxtfb3v0txwlrpefctedbnbxqyrmz6bmjhuk1ktlv2rxm4m2hpz0zusdj5bwnsn2q2awp6devqywpznke0t0g5new1unjvb3c3lwvcu1fvemjkx3h6txgwyudfvc10azrxqjnqzww1bu4zbhcwmzetdfddzmdya3rddw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic tried to persuade Pope that AI could be conscious being - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT3lZY1VidVRENGV6dzI3ZVB1aHJ3ZDdVbGxOOUw5TkVQZjZHUTNWZGduQlpybGZVcU5JbjNmVGdhOHFnYWRSVjJPWW12ZHdCbnpuUy1HdFRvWjhGVWJ2TEVSRmxLUlVXa2p5eDZFYjhLQ3N2cXZnZUlDWmtlekF5d2M2cGFzUFJlMFh0M3AxdENaMjFCcnc?oc=5",
+    "source": "Yahoo",
+    "source_type": "press",
+    "published_date": "2026-10-02",
+    "collected_at": "2026-10-05T00:08:58.690853+00:00",
+    "authors": [],
+    "summary": "Anthropic tried to persuade Pope that AI could be conscious being Yahoo",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmilgfbvv95cuxqt3lzy1vidvrengv6dzi3zvb1ahj3zddvbgxoouw5tkvqzjzhutnwzgduqlpybgzvcu5jbjnmvgdhohfnywrsvjjpww12zhdcbnpuuy1hdfrvwjhgvwj2tevsrmxlulvxa2p5edzfyjhlq3n2cxznzuldwmtlekf5d2m2cgfzufjlmfh0m3axdenamjfccnc?oc=5"
   },
   {
     "kind": "news",
@@ -20962,6 +21025,27 @@
   },
   {
     "kind": "news",
+    "title": "Fiocruz vai iniciar testes da primeira vacina RNAm contra a covid-19 - Agite Manaus",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcjBkeGl1bHprLV9kX2dIVzlnYW1kVXhlSGVTUm53QVFwem1ROTFVRGtvVXd3aWJGY0U5OTh3SjVWZXFteTZEQkp2VVhDc2ZIaE1xeUV2LWxsb25FY0FjTnRmaEczbTd2NlJOei1jSkh2VlV3STl2RzJDOUpVQ3l2M3JlSmh0enZDVzVod25rX3BybC1oZVJRV0dnTjVtR1N2ZFZTc09sMjhLVUdNeFhTOQ?oc=5",
+    "source": "Agite Manaus",
+    "source_type": "news",
+    "published_date": "2026-09-05",
+    "collected_at": "2026-10-05T00:08:51.561425+00:00",
+    "authors": [],
+    "summary": "Fiocruz vai iniciar testes da primeira vacina RNAm contra a covid-19 Agite Manaus",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxncjbkegl1bhprlv9kx2divzlnyw1kvxhlsgvtum53qvfwem1rotfvrgtvvxd3awjgy0u5oth3sjvwzxftetzeqkp2vvhdc2ziae1xeuv2lwxsb25fy0fjtnrmaeczbtd2nljoei1jskh2vlv3stl2rzjdoupvq3l2m3jlsmh0enzdvzvod25rx3bybc1ozvjrv0dntjvtr1n2zfztc09smjhlvudnefhtoq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Covalent Warhead Reactivity Cheat Sheet",
     "url": "https://drughunter.com/resource/covalent-warhead-reactivity-cheat-sheet",
     "source": "Drug Hunter",
@@ -27377,6 +27461,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmisgfbvv95cuxqzwnqatbvzkttndbjdzrctwp0luy0eutkntrtnm1bmtrxtnvxwfawr3btmxlwbmhsbc10odqwznmttmrqqutonzrjejk5wnqtvgz4bkz2a0dfcmf4wvzicddkdey2mm51cwj2t2w4mzzewkvrctvpskhhdgh4aldwnli5t2lnww0zv2zhre5by2qzohryytmwaxbnr1j5z0pfalltsvrwbmytbzm4czlqbxf3?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Schrodinger Inc. (SDGR) Slides 4.7% to $17.59 as Bearish Momentum Builds - Last Point Support - dars.gov.et",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaFdySkd0R3BsaVloUUIzX2NMc0FYaGxYdXJtS0I1bzV0Qnk0OTI2a1dYdUJ6T2cwa1VmamdHZE5xSmlpNzNQODNKNmN0UWpkVWg2Z01oWVdDeE94cFZHMXBJUWhIRHhGUHp2cGtDZHp6VnNEOU5pT2IyMExlY0ExNk1wQVZja08zRkdDWVM2UW9RMU13UzJDbXZjWEl2ZFRYLXpLLUFrUGdZeFhlRkxDWENIMHJrQ3FRTFBoYU5ORHlTd0lyaWhJaldDRVFVZnhENVFHZ0xVLUNqcFNtVzA5T0c3X2dnY0Zp?oc=5",
+    "source": "dars.gov.et",
+    "source_type": "press",
+    "published_date": "2026-08-16",
+    "collected_at": "2026-10-05T00:08:51.908132+00:00",
+    "authors": [],
+    "summary": "Schrodinger Inc. (SDGR) Slides 4.7% to $17.59 as Bearish Momentum Builds - Last Point Support dars.gov.et",
+    "doi": null,
+    "company_slug": "schrodinger",
+    "keywords_matched": [
+      "Schrödinger"
+    ],
+    "extra": {
+      "query": "\"Schrodinger\" (drug discovery OR \"molecular design\" OR \"computational chemistry\" OR pharmaceutical)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi6afbvv95cuxoafdyskd0r3bsavlouuizx2nmc0fyagxydxjts0i1bzv0qnk0oti2a1dyduj6t2cwa1vmamdhze5xsmlpnznqodnknmn0uwpkvwg2z01owvddee94cfzhmxbjuwhirhhguhp2cgtdzhp6vnneou5pt2iymexly0exnk1wqvzja08zrkddwvm2uw9rmu13uzjdbxzjwel2zfrylxpllufrugdzefhlrkxdwenimhjrq3frtfboyu5orhltd0lyawhjalddrvfvznhenvfhz0xvlunqcfntvza5t0c3x2dny0zp?oc=5"
   },
   {
     "kind": "news",
@@ -39975,6 +40080,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi9wfbvv95cuxqqlfnuklez29luvdtvklsnvp1vs00b1hhvuvnyxzzsmtmatzjd25omez1resxuxu2ndl2ntzmtk5ctktwdu5zcmlgtk5oy0f5behtwc1pqnvquw5lmhdnr0hvnzj0ngq1lwhsm045z0vmrw5jnxkzczr1owhirgfdu1lmsklsuuhcogvfvmstvk1rdwstrutrvudna2rkrudum1rnn3lxwvbaowtxn21zx2xocgfmmwvbvzzhykpoewtwbel4tjg4ei1qvwlzr1dsntcyvw53andjqtbusznsbnf2ajnioxb6mznunwqtrmxzrulpa2rv?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "A suspensão temporária da vacina contra dengue do Instituto Butantan, anunciada na última segunda-feira, 8, após o registro de reações adversas graves, gerou dúvidas sobre outro imunizante, a vacina Qdenga. ⁣ ⁣ Apesar de ter a mesma finalidade, as va - instagram.com",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wNFR3VmFOWlNESFlscXJMa2wtMnNTN3dEQmYySnVvRGpQQ3Fqc0hFTTZxTUZfQmVnU0pnM2FIRHlyUjdwV1ZwWmZqSnE0eWUzYWc?oc=5",
+    "source": "instagram.com",
+    "source_type": "news",
+    "published_date": "2026-06-10",
+    "collected_at": "2026-10-05T00:08:50.929967+00:00",
+    "authors": [],
+    "summary": "A suspensão temporária da vacina contra dengue do Instituto Butantan, anunciada na última segunda-feira, 8, após o registro de reações adversas graves, gerou dúvidas sobre outro imunizante, a vacina Qdenga. ⁣ ⁣ Apesar de ter a mesma finalidade, as va instagram.com",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiukfvx3lxte9wnfr3vmfowlnesflscxjma2wtmnntn3deqmyysnvvrgpqq3fqc0hfttzxtuzfqmvnu0pnm2firhlyujdwv1zwwmzqsne0ewuzywc?oc=5"
   },
   {
     "kind": "news",
