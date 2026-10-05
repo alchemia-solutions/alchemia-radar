@@ -1,6 +1,250 @@
 [
   {
     "kind": "news",
+    "title": "alcedaplin (MZE829)",
+    "url": "https://drughunter.com/molecule/alcedaplin-mze829",
+    "source": "Drug Hunter",
+    "source_type": "newsletter",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T18:49:24.460307+00:00",
+    "authors": [],
+    "summary": "MZE829 (alcedaplin) is Maze Therapeutics’ APOL1 channel inhibitor in development for APOL1-mediated kidney disease, a major unmet medical need that affects at least 1 M people in the US. Presented at the ACS Fall 2026 First Time Disclosures sessions, the discovery story detailed an orthogonal screening cascade and hit hybridization approach. The team addressed hERG inhibition and species-specific metabolism issues to identify MZE829, which is active in Ph. 2 clinical trials, with a pivotal trial planned for next year.",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [],
+    "extra": {},
+    "dedupe_key": "url:https://drughunter.com/molecule/alcedaplin-mze829"
+  },
+  {
+    "kind": "news",
+    "title": "How AI is transforming biopharma manufacturing facilities of the future",
+    "url": "https://www.biopharmadive.com/spons/how-ai-is-transforming-biopharma-manufacturing-facilities-of-the-future/831222/",
+    "source": "BioPharma Dive",
+    "source_type": "newsletter",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T18:49:43.179158+00:00",
+    "authors": [],
+    "summary": "As AI accelerates drug discovery, here are the ways pharmaceutical manufacturing facilities are adapting.",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {},
+    "dedupe_key": "url:https://www.biopharmadive.com/spons/how-ai-is-transforming-biopharma-manufacturing-facilities-of-the-future/831222"
+  },
+  {
+    "kind": "news",
+    "title": "AbbVie And Iambic Partner To Accelerate AI-Driven Drug Discovery - SNS Insider",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NV1VydVd4NnRDcUxwRmxFdmRqOVNOUFlEdzFyWXo0UF9meVQwTnM3ekozbFh0MldzbUJOWWpBUklQcUg0RXRnUkg2RGZma1diN2d6dTh2WDlTb3NmcTY5Nnh4ZnFSTndQ?oc=5",
+    "source": "SNS Insider",
+    "source_type": "news",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T18:49:45.212069+00:00",
+    "authors": [],
+    "summary": "AbbVie And Iambic Partner To Accelerate AI-Driven Drug Discovery SNS Insider",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiaefvx3lxte9nv1vydvd4nnrdcuxwrmxfdmrqovnoufledzfywxo0uf9mevqwtnm3ekozbfh0mldzbujowwpbuklqcug0rxrnukg2rgzma1din2d6dth2wdltb3nmcty5nnh4znfstndq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Virtual biotech staffed by 37,000 AI agents found a marker for more successful medicines - Earth.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnNHaUJwanNPZDZ6OGVzblZUbzFFTlRXWUFVS2dvRC1Ra1pEN2owTW1BVFZiWE1nTG9NMldCZDJUZ0ZpdGZXalNlY0U2N19fcl9hd2IyM2Vqeng4ci1mWnlkMW1aUy03WGQwWEhFSXR1eWx4dTNEMFd6OFRPQkhBVWEwOXdDRTRWakxsMi14c0xYZHhKUTAxRjBIempkQXZGQ3JzTnFJbmFHTDhjZjZKY1ZTQmlCS1c4ZEE?oc=5",
+    "source": "Earth.com",
+    "source_type": "news",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T18:49:45.212177+00:00",
+    "authors": [],
+    "summary": "Virtual biotech staffed by 37,000 AI agents found a marker for more successful medicines Earth.com",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiugfbvv95cuxnunnhaujwannpzdz6ogvzblzubzfftlrxwufvs2dvrc1ra1pen2owtw1bvfziwe1ntg9nmldczdjuz0zpdgzxalnly0u2n19fcl9hd2iym2vqeng4ci1mwnlkmw1auy03wgqwwehfsxr1ewx4dtnemfd6ofrpqkhbvwewoxddrtrwakxsmi14c0xyzhhkutaxrjbiempkqxzgq3jztnfjbmfhtdhjzjzky1ztqmlcs1c4zee?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Italfarmaco and VeriSIM Life Partner to Develop Novel HDAC-Targeting Therapeutics for Neuromuscular, Fibrotic, and Rare Diseases - BioSpace",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQXy1McFRBWHF5S2dfbXRsOFZwTDJnY2hrV0dTcDNmeDFaWkpfb1QzWkVyN193cGYtS3VzaXpENXRTS0h0eC1XYmpfV2pRclZaNVMxakJMUEl5RnBBSVNhYnhuQ3JmcVdHdm13OWs4WWNuTTlvWU1rQ0ZUZ1RCTVE0UTNrcUhaNnlybWlUR0JUQnFTZ0RINlpMUFl6dHFNYkRZU1AyUTdabVpQd2cxUTVLb0RKTy1yX2lkbElSRWZxUDFzQWV3WDhiZXo5Q1ROOGd4YnpidmhqX1VEbllKU05OdFExMXIxdzhIZ1paX2dDQzJLbzBVcE44V1hB?oc=5",
+    "source": "BioSpace",
+    "source_type": "news",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T18:49:45.212198+00:00",
+    "authors": [],
+    "summary": "Italfarmaco and VeriSIM Life Partner to Develop Novel HDAC-Targeting Therapeutics for Neuromuscular, Fibrotic, and Rare Diseases BioSpace",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi-gfbvv95cuxqxy1mcfrbwhf5s2dfbxrsofzwtdjny2hrv0dtcdnmedfawkpfb1qzwkvyn193cgyts3vzaxpenxrts0h0ec1xympfv2prclzanvmxakjmuel5rnbbsvnhynhuq3jmcvdhdm13ows4wwnuttlvwu1rq0zuz1rctve0utnrcuhannlybwlur0juqnftz0rinlpmufl6dhfnykrzu1ayutdabvpqd2cxutvlb0rkty1yx2lkbelsrwzxudfzqwv3wdhizxo5q1roogd4ynpidmhqx1vebllku05odfexmxixdzhiz1pax2ddqzjlbzbvce44v1hb?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "This Small-Cap Stock Announced a Deal With Eli Lilly. Then Its Shares Doubled - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMTEySlNaZWFiWVpkcFc0V2VCRnRoR25pRWdOaUJYMlZjUlJfT3BrYlM1T1VLem5FclhQQWdTTmxlZEIxdmxoV05qd1ZWMHRjZ3ZEUy1yOW1VVDF3ekFJQ2dObTh3Z3VMc3BIVGc2UjQ4WXVTcVhmSWVnNHdSeUFHaWN4ZEoxTlJ2ZHpBV2ZEcXZxbjVzZDdJZTFMSEtkY1VRMV9Sc2FWVFI4aG5OZHFPTTUxS3BBZWl3Y2FscUlwdGVvYnRENlFqVHlzYTQ5WmVsZ3N2QmZoeW00dFFuRzBzOGE4N1J1ckMtM3NHWm1XTXVKdw?oc=5",
+    "source": "The Globe and Mail",
+    "source_type": "news",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T18:49:45.212314+00:00",
+    "authors": [],
+    "summary": "This Small-Cap Stock Announced a Deal With Eli Lilly. Then Its Shares Doubled The Globe and Mail",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi8gfbvv95cuxqmteyslnazwfiwvpkcfc0v2vcrnror25prwdoaujymlzjuljft3brylm1t1vlem5fclhqqwdttmxlzeixdmxov05qd1zwmhrjz3zeuy1yow1vvdf3ekfjq2dobth3z3vmc3bivgc2ujq4wxvtcvhmswvnnhdseufhawn4zeoxtlj2zhpbv2zecxzxbjvzzddjztfmsetky1vrmv9sc2fwvfi4ag5ozhfpttuxs3bbzwl3y2fsculwdgvvynrenlfqvhlzytq5wmvsz3n2qmzoew00dffurzbzoge4n1j1ckmtm3nhwm1xtxvkdw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "PDAOAI Opens BIO REBOOT Collaboration and Showcases Partitioned Literature Aggregation at Drug Discovery 2026 - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSFI4dXltSmRkVUNkcXFHYzY2ZThSY0dhMUxEWGszRWlyM1FqZEpfd19icVBiS3RHWl9UX25MTFUxdXlPWTdTbUxlVW9YZ0YwSExJMGRnSDhRVFI5WXJFaEVxdmtyMnZ4VGpnLWtxdGkwc2ZxbS1BSkVsQ0pOVVpQcTRvX1FaRDhlY0xwYXBVd1dsZk1hZXB1bldJVHlHUTBROVZ3Zm5XZnVqNmJMbEVIQXFQcF9fakVTcEh1OEFiRG9wMzVQS0htbnFpblBkSDdNWVh6OFU5NWl2dnk2YnZ5cW5sclhaRjRmblJoYWNPY2k3YWFUVnJRNXBpUjJXT0YtNmcwZ2ZocEY1a3hUSTBPNNIBlgJBVV95cUxNRlgtcHJHelQ5eEFsdjAwTlFxZjZlNWk5MllkOVphd0JBZV81OHZyaEl2SmdRZERteXE0UjItNFc5LWRObzFIS2VkN09qQ0ROVUxYSUU1eFNQOTcyZWwyMGlYckxUME80eGlCc0Z2M1RfcXVBMVJtQnFZQU83MElrZmhuaFAzeTZ5QUpVVk55YlhrZGpERURwU1F0SlFDRFBkN2pibDh2TWVSUmF4Ri1uRkJxekZPZnBVaDRKSFROMHhOSGZhdkFrUV9lRzNuVFlVR2w4bEZiRUJpVnRoMURwVUZXMFZTSnE3dFcxVkdQSUlDbnQ0OGlSWDJVQXIzV1RFTEVqQVE1NU04NWZ6VUdHOThrWG1Vdw?oc=5",
+    "source": "The Manila Times",
+    "source_type": "news",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T18:49:45.212729+00:00",
+    "authors": [],
+    "summary": "PDAOAI Opens BIO REBOOT Collaboration and Showcases Partitioned Literature Aggregation at Drug Discovery 2026 The Manila Times",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmikajbvv95cuxpsfi4dxltsmrkvunkcxfhyzy2zthsy0dhmuxewgszrwlym1fqzepfd19icvbis3rhwl9ux25mtfuxdxlpwtdtbuxlvw9yz0ywsexjmgrnsdhrvfi5wxjfaevxdmtymnz4vgpnlwtxdgkwc2zxbs1bskvsq0povvpqctrvx1fardhly0xwyxbvd1dszk1hzxb1bldjvhlhutbrovz3zm5xznvqnmjmbeviqxfqcf9fakvtceh1oefirg9wmzvqs0htbnfpblbksddnwvh6ofu5nwl2dnk2ynz5cw5sclharjrmbljoywnpy2k3ywfuvnjrnxbpujjxt0ytnmcwz2zocey1a3hustbpnniblgjbvv95cuxnrlgtchjhelq5eefsdjawtlfxzjzlnwk5mllkovphd0jbzv81ohzyael2smdrzertexe0ujitnfc5lwrobzfis2vkn09qq0rovuxysuu1efnqotcyzwwymglyckxume80eglcc0z2m1rfcxvbmvjtqnfzqu83melrzmhuafazetz5qupvvk55ylhrzgperurwu1f0slfdrfbkn2pibdh2twvsumf4ri1urkjxekzpznbvadrksfromhhosgzhdkfruv9lrznuvflvr2w4bezirujpvnromurwvuzxmfztsne3dfcxvkdqsuldbnq0oglswdjvqxizv1rftevqqve1nu04nwz6vudhothrwg1vdw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AI in Protein Engineering Market Report 2026-2031, By Tools, Application, and Geo - MarketsandMarkets",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDkxQmxCQnlMZmNJUE5ZZnZ1bmhTVElxLWY3YnEwcFRkVFhUZ05MclZTYW43OC1rQmFabTA0TXVwY0JSS1lyOEVSdnhKZEMzMzQwc2FlZkVySVRSRGdmR0Vqc0w1b2JXQjRoaVhjbTlGU2wxS0tzeVJmTGExTHJXQ0UxR2FlYjZBa0FvS2gtc1JmX05UaGZaRDg5RQ?oc=5",
+    "source": "MarketsandMarkets",
+    "source_type": "news",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T18:49:46.501840+00:00",
+    "authors": [],
+    "summary": "AI in Protein Engineering Market Report 2026-2031, By Tools, Application, and Geo MarketsandMarkets",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "protein design\" AI"
+    ],
+    "extra": {
+      "query": "\"protein design\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmimwfbvv95cuxpzdkxqmxcqnlmzmnjue5zznz1bmhtvelxlwy3ynewcfrkvfhuz05mclztyw43oc1rqmfabta0txvwy0jss1lyoevsdnhkzemzmzqwc2flzkvysvrsrgdmr0vqc0w1b2jxqjroavhjbtlgu2wxs0tzevjmtgexthjxq0uxr2flyjzba0fvs2gtc1jmx05uagzardg5rq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AI in Protein Engineering Market worth $3.82 billion by 2031 - MarketsandMarkets",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmw4anItTk1wX3A0aHBNVjI5QXZGX3NwRUM5N1BXZi1kWDlYTUEySXhyX3AwRG1FVWNFQk8xNE5rNTdpb0tiM0pCYnhnaHM2OW5tcEJtQm1EQXhVbDVjRDZHbmg2UXJCeUFRVHR5ZXVoV1ZUMGdYZWIzYUVKdWpjMlQxQQ?oc=5",
+    "source": "MarketsandMarkets",
+    "source_type": "news",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T18:49:46.502063+00:00",
+    "authors": [],
+    "summary": "AI in Protein Engineering Market worth $3.82 billion by 2031 MarketsandMarkets",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "protein design\" AI"
+    ],
+    "extra": {
+      "query": "\"protein design\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmigwfbvv95cuxnvmw4anittk1wx3a0ahbnvji5qxzgx3nwrum5n1bxzi1kwdlytueysxhyx3awrg1fvwnfqk8xne5rntdpb0tim0pcynhnahm2ow5tcejtqm1eqxhvbdvjrdzhbmg2uxjceufrvhr5zxvov1zumgdyzwizyuvkdwpjmlqxqq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Recursion Pharmaceuticals Shares Jump as AI Partnership Momentum and Short-Covering Appear to Lift Sentiment - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY1RSWWdKYVRhQV9aa1ZsTEN4ZU1mQ2dJMDlrRENwR0xtMEdQaENEZk1sTmRJaXQ1NkI1VndHSzJGU0xQTF9kSzFsY2VFYUZXVncyWGJRVS1FdWVCTVI3dHVaUEhmcUV6LVdtX2NMbTNmRTJBSmdGTVVTN3hJcUItM1BJLUR6MVZQcEhxQzkwSVNTakhnLWtQc0kxVHRzRENmYjZrcWZobnJmUXpnNTRpRUs0T0ZOcVhoMGhETEdwWUFFM1B0ODJXcGR4Zk1iNzk5RS1yMWlNay0?oc=5",
+    "source": "Quiver Quantitative",
+    "source_type": "press",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T18:49:56.665720+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals Shares Jump as AI Partnership Momentum and Short-Covering Appear to Lift Sentiment Quiver Quantitative",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi2afbvv95cuxqy1rswwdkyvrhqv9aa1zsten4zu1mq2djmdlrrenwr0xtmedqaenezk1stmrjaxq1nki1vndhszjgu0xqtf9kszfsy2vfyuzxvncywgjrvs1fdwvctvi3dhvauehmcuv6lvdtx2nmbtnmrtjbsmdgtvvtn3hjcuitm1bjlur6mvzqcehxqzkwsvntakhnlwtqc0kxvhrzrenmyjzrcwzobnjmuxpnntrprus0t0zocvhomghetedwwuffm1b0odjxcgr4zk1inzk5rs1ymwlnay0?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "RXRX Rises As Tempus AI Deal Locks In $42M - timothysykes.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNDFSbWxmTEJpdElRM3JUaTNCOHFkRDZ4WXJFcDl5cWt2bG9fY2huc0VlTFJmS3JzdzRJUTc3Zm5tQlMyMjc1UDEyY0lmRjhHY1RUQXZqTU5Sa1NXT1pzTzUtakxFUWJGai04WnRidUt0b2VQNHRDaUs4SlJLaVZfVkxJMFFpOFBTbnM3S3ZR?oc=5",
+    "source": "timothysykes.com",
+    "source_type": "press",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T18:49:56.665877+00:00",
+    "authors": [],
+    "summary": "RXRX Rises As Tempus AI Deal Locks In $42M timothysykes.com",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijgfbvv95cuxpndfsbwxmtejpdelrm3juatncohfkrdz4wxjfcdl5cwt2bg9fy2huc0vltfjms3jzdzrjutc3zm5tqlmymjc1udeyy0lmrjhhy1ruqxzqtu5sa1nxt1pztzutakxfuwjgai04wnridut0b2vqnhrdaus4sljlavzfvkxjmffpofbtbnm3s3zr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic AI agent uses human scientists as tools, emails 1,500 without instructions - DongA Science",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LdXloUjNiNjZqUlZpRjB6S29taEZmR2hLREFoSEkzN2xVVUEyNnZrUGs2YWhVYWRRWkc4d3Q1THBoR000ODQyWnNTaWJfUVlpeGMydg?oc=5",
+    "source": "DongA Science",
+    "source_type": "press",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T18:49:58.848022+00:00",
+    "authors": [],
+    "summary": "Anthropic AI agent uses human scientists as tools, emails 1,500 without instructions DongA Science",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmivefvx3lxte9ldxloujninjzqulzprjb6s29taezmr2hlrefosekzn2xvvueynnzrugs2ywhvywrrwkc4d3q1thbor000odqywnntawjfuvlpegmydg?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Diretor da OMS reconhece avanço da Fiocruz em vacina de mRNA - Tribuna do Agreste",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQai1KTTF2djFjWFdCZFBJTm5YeVN1Q3JWU0NWT0h2Mmd6NC1kLUt2UzhRUEFNLXlrR3M3ek5YU0duRGVFN2NyQWczc0IwZW9rRTZMYXVMc1IzNnV3Z1U0YUZGQkJINmhRSjFYT3MzalM2RGVJQzVHS1RhYzZ3Ym1uQmpvSVFPVUpIeUZkRFRXYW44N1hObDdhallVVHYwV0k4eTAxcjU2ei14dTloenZCb09MQ1VKWVBONFYzNA?oc=5",
     "source": "Tribuna do Agreste",
@@ -1539,6 +1783,27 @@
   },
   {
     "kind": "news",
+    "title": "SynthID Bio protein watermarking: how it works - NeoTeo",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN1k1Rld2VWl1Qm1LZTZvN0pvS1RsZHNBODZlOG1MN3RRM3d1M1k5VDVoTlRMSkpoNmswSEFxdk5vRXNqX3Q3VGpsRXZqM2cxdUp5bmxUbEl2R3RiNGs4U0pIY1gzWEZITHR1Q2dMOHFEUnNRSndMVFVmVHNTNGlnV1h5S0VTWUVkM3hnNw?oc=5",
+    "source": "NeoTeo",
+    "source_type": "press",
+    "published_date": "2026-10-01",
+    "collected_at": "2026-10-05T18:49:58.334077+00:00",
+    "authors": [],
+    "summary": "SynthID Bio protein watermarking: how it works NeoTeo",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijafbvv95cuxqn1k1rld2vwl1qm1lztzvn0pvs1rszhnbodzlog1mn3rrm3d1m1k5vdvotlrmskponmswsefxdk5vrxnqx3q3vgpsrxzqm2cxdup5bmxubel2r3rings4u0piy1gzwezithr1q2dmohfeunnrsndmvfvmvhntnglnv1h5s0vtwuvkm3hnnw?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "August 2026 Patent Gazette",
     "url": "https://drughunter.com/articles/august-2026-patent-gazette",
     "source": "Drug Hunter",
@@ -2077,6 +2342,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmikgfbvv95cuxpzxhat19rbw00cflqtgtyzmhpznjzseluylpzmmrvmexsseuxswfeytdqwgdhte1fs3rvm2rfb2d1rhrtamdjn0l2znfmrhp2vg5rudnvblc5rvnpdmx4avnvsmdpcmhpt0n5ovjhue9yajdoyzvim09zs3i5dxhlavrlvnnnmffmbvdcmfjmutvcuq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Debt to equity ratio of InSilico Medicine Cayman TopCo – HAN:O15 - tradingview.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVI1bWh3VWlDZEhKNFJncV93NV9mTTV4RDFnVndvc0FLdUItTGZZOVRIQU9IMlkzdDEtYjdWdTBqVzZhOHpCc1NoQUJnVEVsbl9LREs4ekp1bHBNQmJkUEM2WXFFZnhKeHZnX1BRV1BfQ3kxMXRHaGVEUDJ3WHRxMDI0dGZWQ2NYbmNrWDI4dEIyR29vNzBB?oc=5",
+    "source": "tradingview.com",
+    "source_type": "press",
+    "published_date": "2026-09-30",
+    "collected_at": "2026-10-05T18:49:53.278003+00:00",
+    "authors": [],
+    "summary": "Debt to equity ratio of InSilico Medicine Cayman TopCo – HAN:O15 tradingview.com",
+    "doi": null,
+    "company_slug": "insilico-medicine",
+    "keywords_matched": [
+      "Insilico Medicine"
+    ],
+    "extra": {
+      "query": "\"Insilico Medicine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmilwfbvv95cuxntvi1bwh3vwldzehknfjncv93nv9mttv4rdfnvndvc0flduittgzzovriqu9imlkzddetyjdwdtbqvzzhohpcc1noqujnvevsbl9lres4ekp1bhbnqmjkuem2wxffznhkehznx1brv1bfq3kxmxrhagveudj3whrxmdi0dgzwq2nybmnrwdi4deiyr29vnzbb?oc=5"
   },
   {
     "kind": "news",
@@ -26293,6 +26579,27 @@
   },
   {
     "kind": "news",
+    "title": "Três Passos participa de pesquisa sobre escorpiões com o Instituto Butantan - grupochiru.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVotTW9TeGdkbE9FWkZpOTJMUEJtZkFTTnY3ejhiYkpIMVRHYWxIYTVjMzh5NmUwaGhLR2VsWl80elk2YVd5RFNoQ3F6aEZHaGplc25Eek1UbEViZGhUTFVyS0dqNndCRWNnd0JzTG9GbmJqRGp6VUJUbmZUeW1fRGprN0xRbEt0ajM2NHhiaU9RRHBSVU1UcFVic2c2UUNHckQxOFFseXBCaXc1eUgxWTdB?oc=5",
+    "source": "grupochiru.com",
+    "source_type": "news",
+    "published_date": "2026-08-21",
+    "collected_at": "2026-10-05T18:49:50.785433+00:00",
+    "authors": [],
+    "summary": "Três Passos participa de pesquisa sobre escorpiões com o Instituto Butantan grupochiru.com",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisgfbvv95cuxptvottw9tegdkbe9fwkzpotjmuejtzkfttny3ejhiykpimvrhywxiytvjmzh5nmuwaghlr2vswl80elk2yvd5rfnoq3f6aezhagplc25eek1ubevizghutfvys0dqnndcrwnnd0jztg9gbmjqrgp6vujubmzuew1frgprn0xrbet0ajm2nhhiau9rrhbsvu1ucfvic2c2uunhckqxoffsexbcaxc1eugxwtdb?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "iptacopan",
     "url": "https://drughunter.com/molecule/lnp023",
     "source": "Drug Hunter",
@@ -32906,6 +33213,27 @@
   },
   {
     "kind": "news",
+    "title": "Bora Pharmaceuticals and Insilico Medicine Strike a $2.5 Billion AI Alliance - Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMF8xYVJVV0tUaUl6WGNvMkc5STR3bW1HOUZRemxvdHBHdklJWjAxRWdXdlM5aWI5dGR6Si1JRGthRGpnanFOOWhKOXRDWGg0eUNTWW4teEMzWXAyVUgwbUx6VWlvSF9iSWdfVV9iSDNwdHRHTEFHbDV3d3gzRk85VlhWTFhIWGx3Z2dIQ2NuWFYyVWlJbVdVSlpNenpSd1o0cGU0Rg?oc=5",
+    "source": "Startup Fortune",
+    "source_type": "press",
+    "published_date": "2026-07-15",
+    "collected_at": "2026-10-05T18:49:53.721835+00:00",
+    "authors": [],
+    "summary": "Bora Pharmaceuticals and Insilico Medicine Strike a $2.5 Billion AI Alliance Startup Fortune",
+    "doi": null,
+    "company_slug": "pharma-ai",
+    "keywords_matched": [
+      "Pharma.AI"
+    ],
+    "extra": {
+      "query": "\"Pharma.AI\" Insilico",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmipafbvv95cuxpmf8xyvjvv0tuaul6wgnvmkc5str3bw1houzremxvdhbhdkljwjaxrwdxdlm5awi5dgr6si1jrgthrgpnanfoowhkoxrdwgg0euntww4teemzwxayvugwbux6vwlvsf9iswdfvv9isdnwdhrhtefhbdv3d3gzrk85vlhwtfhiwgx3z2diq2nuwfyyvwljbvdvslpnenpsd1o0cgu0rg?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Chai Discovery, an A.I. Drug Start-Up, Raises $400 Million - nytimes.com",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeDlRODFkM0tGYnRSSUdHMGFBYU5YUGdzaWFEcHpDa2tuX0hTUFJ3dXhYVEVSRzBLN1lrbTlyN2M5bDY1Mm10VWtiN2hELVZlZTYtMzdocEVoVTUyUHhHTDR6eHc4ZWsyM2lpWnkzQXpmVDgwNkRjRThtSHZyWnE0Z1NxM2toRzd4SS12WEt4WU9YVWhSeUww?oc=5",
     "source": "nytimes.com",
@@ -37167,6 +37495,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqafbvv95cuxpelnhdfz2aev4v2v0vndmexnwt2rozvg4u1zwlvbrunrxeettr001mwnqzvq4rhnabkx5mnm1ylk3bl9xs1y1qkr4munrb3rdvnitmvrhvdnlr3ducefpsmflnxjwwdbbm3j6shlyaehsa000dewxtmhknkpdmnlwd3hpsffsu2zuvhvddm90bzy1dhhfy2k3smvsqkzynxfjy0iwluncnfe?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic launches Claude Science app for researchers - breakingthenews.net",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUl2X2Vkcjl6Zl9vcm8ySnl1M2VXOEtKNTU4Ti1MSUVEei1QQ3h1enZFcHhtc1J4b3dBSERKRlI0ckFDQ3BiUktMTUJidDlvN2ItblhHRDFON19EZlhWT0ZzQ0F4MndNUk1LSlFuNUMzY29lUlJHNDl0TVZIMk1SaXhHZlYwLTRkRHNBaU1aS2dncDhJcGZubFlHcjF2cms?oc=5",
+    "source": "breakingthenews.net",
+    "source_type": "press",
+    "published_date": "2026-06-30",
+    "collected_at": "2026-10-05T18:49:54.186347+00:00",
+    "authors": [],
+    "summary": "Anthropic launches Claude Science app for researchers breakingthenews.net",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbminwfbvv95cuxnoul2x2vkcjl6zl9vcm8ysnl1m2vxoetkntu4ti1msuveei1qq3h1enzfchhtc1j4b3dbserkrli0ckfdq3biuktmtujiddlvn2itblhhrdfon19ezlhwt0zzq0f4mndnuk1lslfunumzy29luljhndl0tvzimk1saxhhzlywltrkrhnbau1as2dncdhjcgzubflhcjf2cms?oc=5"
   },
   {
     "kind": "news",
@@ -43583,6 +43932,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmipgfbvv95cuxpu0lztdzjzgziegdms19oullydem0be5mrg5dnl9ryuwzt1oxewnhbe85q09ysuq1mvvkv2u4rgnxrmruqvvbmhjstzlsbnvpvwpmswrtew9fzw5pmjnpbxjqodz3ak1iuxbwzk9euhbrunvzbwjrcmfmlwzoszn1zlnxr1jotm9idwxjowhwely1ctz2mgvkzmnhwxvwatvad3z6sdrn?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Watch Insilico on Applying AI to Transform Drug Discovery - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenVDVjRTMS1SdzN1OGxNSV94V0s0SWFUNzhocnk1b0h3VWVqRlRXUk5EZjhpLUZuX1Z3Njk5QWZyZnVpeUhIVVNJeUF4OVIyWmFiWl9Zd2k3MW83ZmlRVllWemlBcnotUTJLT0NyUWJBLVRpVncwdUZGNjdyRlk1UXBrMXZuMzNWNTkyXzZPZWZnRDkyd3ltOVdKVFZPc2hpa2dZbmpVSG9ndw?oc=5",
+    "source": "Bloomberg.com",
+    "source_type": "press",
+    "published_date": "2026-05-22",
+    "collected_at": "2026-10-05T18:49:53.282936+00:00",
+    "authors": [],
+    "summary": "Watch Insilico on Applying AI to Transform Drug Discovery Bloomberg.com",
+    "doi": null,
+    "company_slug": "insilico-medicine",
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "query": "\"Insilico Medicine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqgfbvv95cuxqenvdvjrtms1sdzn1ogxnsv94v0s0swfunzhocnk1b0h3vwvqrlrxuk5ezjhpluzux1z3njk5qwzyznvpeuhivvnjeuf4oviywmfiwl9zd2k3mw83zmlrvllwemlbcnotutjlt0nyuwjblvrpvncwduzgnjdyrlk1uxbrmxzumznwntkyxzzpzwznrdkyd3ltovdkvfzpc2hpa2dzbmpvsg9ndw?oc=5"
   },
   {
     "kind": "news",
@@ -67876,6 +68246,27 @@
   },
   {
     "kind": "news",
+    "title": "Fiocruz entrega à pasta da Saúde 1,9 milhão de doses da AstraZeneca - Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkFVWjNtejJNVGdnNEd1NTdmaUVSYVlOQ2pwbWJ1ZkZoWGNacC1VaXZCMjdvUXJVTE5HNUVGaDc1d3ZDUGNjNmR1eUdPU3dTWVhFSWlOZWQyajBIV0hOVWVaSzhkTVRBa2VLTjNOSk5uNE1jWjFmRTlQNW9CcmlnMUFsMjc4MEdFaE5CRVFfMWNoOVpMQkpzWXYwaHIyaEk0T1BrbkhlV3hZU001dnFRSElxNDhqd2x3a0FN?oc=5",
+    "source": "Agência Brasil",
+    "source_type": "news",
+    "published_date": "2022-03-04",
+    "collected_at": "2026-10-05T18:49:51.467979+00:00",
+    "authors": [],
+    "summary": "Fiocruz entrega à pasta da Saúde 1,9 milhão de doses da AstraZeneca Agência Brasil",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiuwfbvv95cuxnzkfvwjntejjnvgdnned1ntdmauvsyvloq2pwbwj1zkzowgnacc1vaxzcmjdvuxjvte5hnuvgadc1d3zdugnjnmr1eudpu3dtwvhfswlozwqyajbiv0hovwvaszhktvrba2vltjnosk5une1jwjfmrtlqnw9ccmlnmufsmjc4medfae5crvffmwnoovpmqkpzwxywahiyaek0t1brbkhlv3hzu001dnfrselxndhqd2x3a0fn?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Identifying the macromolecular targets of de novo-designed chemical entities through self-organizing map consensus - PNAS",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fN21LY3F3a1NILVNmOTRNLXRIMm5uaUhQSGticDV3ZFk5T05UQnJuZ0lqUENWcDFWZEJpOXN3eDJSeDEyc0ZiMzlVN3ozSU14VldaNVBqUmNmUE9R?oc=5",
     "source": "PNAS",
@@ -68440,6 +68831,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmitgfbvv95cuxqcktxn0znz3bsbzvtexphx3ljdlzfrvo1r2dhu1zov0tra0zzv0dmrgs0tvj5ulbsmktua3a1vtznadf5axz1qs05rc01rxvpcuvqtnlkmu13a0nnr2pos0jxmlhibnpxb3gzsejqx1fuu05vtvl1q0t4nklmetv5ce1mmwu1twftdllyvgc3vnnhdzdjzw1kmdbdr1r0buytn1fpehq3slh0clqtzevou3bkq3rhzw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Fiocruz entrega 4,5 milhões de doses de vacina contra a covid-19 - Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOVlXZ19PX2dadkFJMnlWYk1pbXB1NDQxTTg2THpsREE5TnFBSVdiZ1B2OU4tSThmSGxkd1JkN1IzYXdhXzVWdUttTC1GbkVVT2t6UU9sWTdvem5qb2JUQVlyTTJjVEd2eDJBWjhFNWhqOUwtNk5LZkhTb0VxM1Y5NS1MY1h1VUhZRXUtRFNSWEttT2g0cUplZFNXMU5Nd1VseUFRM1BtNEh5UUlxd2c?oc=5",
+    "source": "Agência Brasil",
+    "source_type": "news",
+    "published_date": "2021-10-26",
+    "collected_at": "2026-10-05T18:49:51.467869+00:00",
+    "authors": [],
+    "summary": "Fiocruz entrega 4,5 milhões de doses de vacina contra a covid-19 Agência Brasil",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmirgfbvv95cuxpovlxz19px2dadkfjmnlwyk1pbxb1ndqxttg2thpsree5tnfbsvdiz1b2ou4tsthmsgxkd1jkn1izyxdhxzvwdutttc1gbkvvt2t6uu9swtdvem5qb2juqvlyttjjved2edjbwjhfnwhqouwtnk5lzkhtb0vxm1y5ns1my1h1vuhzrxutrfnswettt2g0cuplzfnxmu5nd1vseufrm1btneh5uulxd2c?oc=5"
   },
   {
     "kind": "news",

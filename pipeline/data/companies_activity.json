@@ -1,6 +1,69 @@
 [
   {
     "kind": "news",
+    "title": "Recursion Pharmaceuticals Shares Jump as AI Partnership Momentum and Short-Covering Appear to Lift Sentiment - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY1RSWWdKYVRhQV9aa1ZsTEN4ZU1mQ2dJMDlrRENwR0xtMEdQaENEZk1sTmRJaXQ1NkI1VndHSzJGU0xQTF9kSzFsY2VFYUZXVncyWGJRVS1FdWVCTVI3dHVaUEhmcUV6LVdtX2NMbTNmRTJBSmdGTVVTN3hJcUItM1BJLUR6MVZQcEhxQzkwSVNTakhnLWtQc0kxVHRzRENmYjZrcWZobnJmUXpnNTRpRUs0T0ZOcVhoMGhETEdwWUFFM1B0ODJXcGR4Zk1iNzk5RS1yMWlNay0?oc=5",
+    "source": "Quiver Quantitative",
+    "source_type": "press",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T18:49:56.665720+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals Shares Jump as AI Partnership Momentum and Short-Covering Appear to Lift Sentiment Quiver Quantitative",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi2afbvv95cuxqy1rswwdkyvrhqv9aa1zsten4zu1mq2djmdlrrenwr0xtmedqaenezk1stmrjaxq1nki1vndhszjgu0xqtf9kszfsy2vfyuzxvncywgjrvs1fdwvctvi3dhvauehmcuv6lvdtx2nmbtnmrtjbsmdgtvvtn3hjcuitm1bjlur6mvzqcehxqzkwsvntakhnlwtqc0kxvhrzrenmyjzrcwzobnjmuxpnntrprus0t0zocvhomghetedwwuffm1b0odjxcgr4zk1inzk5rs1ymwlnay0?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "RXRX Rises As Tempus AI Deal Locks In $42M - timothysykes.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNDFSbWxmTEJpdElRM3JUaTNCOHFkRDZ4WXJFcDl5cWt2bG9fY2huc0VlTFJmS3JzdzRJUTc3Zm5tQlMyMjc1UDEyY0lmRjhHY1RUQXZqTU5Sa1NXT1pzTzUtakxFUWJGai04WnRidUt0b2VQNHRDaUs4SlJLaVZfVkxJMFFpOFBTbnM3S3ZR?oc=5",
+    "source": "timothysykes.com",
+    "source_type": "press",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T18:49:56.665877+00:00",
+    "authors": [],
+    "summary": "RXRX Rises As Tempus AI Deal Locks In $42M timothysykes.com",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijgfbvv95cuxpndfsbwxmtejpdelrm3juatncohfkrdz4wxjfcdl5cwt2bg9fy2huc0vltfjms3jzdzrjutc3zm5tqlmymjc1udeyy0lmrjhhy1ruqxzqtu5sa1nxt1pztzutakxfuwjgai04wnridut0b2vqnhrdaus4sljlavzfvkxjmffpofbtbnm3s3zr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic AI agent uses human scientists as tools, emails 1,500 without instructions - DongA Science",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LdXloUjNiNjZqUlZpRjB6S29taEZmR2hLREFoSEkzN2xVVUEyNnZrUGs2YWhVYWRRWkc4d3Q1THBoR000ODQyWnNTaWJfUVlpeGMydg?oc=5",
+    "source": "DongA Science",
+    "source_type": "press",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T18:49:58.848022+00:00",
+    "authors": [],
+    "summary": "Anthropic AI agent uses human scientists as tools, emails 1,500 without instructions DongA Science",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmivefvx3lxte9ldxloujninjzqulzprjb6s29taezmr2hlrefosekzn2xvvueynnzrugs2ywhvywrrwkc4d3q1thbor000odqywnntawjfuvlpegmydg?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "UAE scientists harness AI to discover potential blood cancer drug - thenationalnews.com",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb2lfNlViMjFRekdaRkpWamJRcUNHTEFDTDBjYWVHdm9UNkRGbnJnX0FwcWx2S0hNTUVOLUdnU1hMQWxORUNyM1o2X3F1aGZVOHRMbElKZVZ5Uk50Z3FaYXBzQlRUWF9mallhZThpX2t2bl82MHI2VFFfZ1VOTjhQeUh0SFdocTF1QXhoSlM0WHpvakFIOE1NczV1TnN1cEdoOHpTM2tlQlR1a0o2bklQVGF4RWhSc1RlTXc?oc=5",
     "source": "thenationalnews.com",
@@ -799,6 +862,27 @@
   },
   {
     "kind": "news",
+    "title": "SynthID Bio protein watermarking: how it works - NeoTeo",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN1k1Rld2VWl1Qm1LZTZvN0pvS1RsZHNBODZlOG1MN3RRM3d1M1k5VDVoTlRMSkpoNmswSEFxdk5vRXNqX3Q3VGpsRXZqM2cxdUp5bmxUbEl2R3RiNGs4U0pIY1gzWEZITHR1Q2dMOHFEUnNRSndMVFVmVHNTNGlnV1h5S0VTWUVkM3hnNw?oc=5",
+    "source": "NeoTeo",
+    "source_type": "press",
+    "published_date": "2026-10-01",
+    "collected_at": "2026-10-05T18:49:58.334077+00:00",
+    "authors": [],
+    "summary": "SynthID Bio protein watermarking: how it works NeoTeo",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijafbvv95cuxqn1k1rld2vwl1qm1lztzvn0pvs1rszhnbodzlog1mn3rrm3d1m1k5vdvotlrmskponmswsefxdk5vrxnqx3q3vgpsrxzqm2cxdup5bmxubel2r3rings4u0piy1gzwezithr1q2dmohfeunnrsndmvfvmvhntnglnv1h5s0vtwuvkm3hnnw?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Breaking the Safety Barrier - Insilico Medicine",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fb3BYbWh3NFZMQzZnWDZNZUJhcEFDcFh4Mk02aExoLVpBRjg0RVFtQjZjWHN2WE1wU0kyNkNHSG1NeklIbV8tSEdvYkxPV3ZRbEFHT0FoTzdKTzR3eEZjTVpqZnNHcXhzXzNPWF9CbHVpdUd6bkxIUzRFTXQ?oc=5",
     "source": "Insilico Medicine",
@@ -1133,6 +1217,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmix0fvx3lxtfatrhvnstrrve9bdmtwt2pwago3ee94yzftzktuohr6ehdgrnu1tju0ujnjn2nsqtzhm2jqs3jpnhi3dvznaw50vhfxnwrpd2hvs0p5evzjexlcnuqzdllj?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Debt to equity ratio of InSilico Medicine Cayman TopCo – HAN:O15 - tradingview.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVI1bWh3VWlDZEhKNFJncV93NV9mTTV4RDFnVndvc0FLdUItTGZZOVRIQU9IMlkzdDEtYjdWdTBqVzZhOHpCc1NoQUJnVEVsbl9LREs4ekp1bHBNQmJkUEM2WXFFZnhKeHZnX1BRV1BfQ3kxMXRHaGVEUDJ3WHRxMDI0dGZWQ2NYbmNrWDI4dEIyR29vNzBB?oc=5",
+    "source": "tradingview.com",
+    "source_type": "press",
+    "published_date": "2026-09-30",
+    "collected_at": "2026-10-05T18:49:53.278003+00:00",
+    "authors": [],
+    "summary": "Debt to equity ratio of InSilico Medicine Cayman TopCo – HAN:O15 tradingview.com",
+    "doi": null,
+    "company_slug": "insilico-medicine",
+    "keywords_matched": [
+      "Insilico Medicine"
+    ],
+    "extra": {
+      "query": "\"Insilico Medicine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmilwfbvv95cuxntvi1bwh3vwldzehknfjncv93nv9mttv4rdfnvndvc0flduittgzzovriqu9imlkzddetyjdwdtbqvzzhohpcc1noqujnvevsbl9lres4ekp1bhbnqmjkuem2wxffznhkehznx1brv1bfq3kxmxrhagveudj3whrxmdi0dgzwq2nybmnrwdi4deiyr29vnzbb?oc=5"
   },
   {
     "kind": "news",
@@ -21028,6 +21133,27 @@
   },
   {
     "kind": "news",
+    "title": "Bora Pharmaceuticals and Insilico Medicine Strike a $2.5 Billion AI Alliance - Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMF8xYVJVV0tUaUl6WGNvMkc5STR3bW1HOUZRemxvdHBHdklJWjAxRWdXdlM5aWI5dGR6Si1JRGthRGpnanFOOWhKOXRDWGg0eUNTWW4teEMzWXAyVUgwbUx6VWlvSF9iSWdfVV9iSDNwdHRHTEFHbDV3d3gzRk85VlhWTFhIWGx3Z2dIQ2NuWFYyVWlJbVdVSlpNenpSd1o0cGU0Rg?oc=5",
+    "source": "Startup Fortune",
+    "source_type": "press",
+    "published_date": "2026-07-15",
+    "collected_at": "2026-10-05T18:49:53.721835+00:00",
+    "authors": [],
+    "summary": "Bora Pharmaceuticals and Insilico Medicine Strike a $2.5 Billion AI Alliance Startup Fortune",
+    "doi": null,
+    "company_slug": "pharma-ai",
+    "keywords_matched": [
+      "Pharma.AI"
+    ],
+    "extra": {
+      "query": "\"Pharma.AI\" Insilico",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmipafbvv95cuxpmf8xyvjvv0tuaul6wgnvmkc5str3bw1houzremxvdhbhdkljwjaxrwdxdlm5awi5dgr6si1jrgthrgpnanfoowhkoxrdwgg0euntww4teemzwxayvugwbux6vwlvsf9iswdfvv9isdnwdhrhtefhbdv3d3gzrk85vlhwtfhiwgx3z2diq2nuwfyyvwljbvdvslpnenpsd1o0cgu0rg?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Insilico Medicine and Bora Pharmaceuticals Announce Strategic Alliance for AI-Driven Drug Discovery and Development - Insilico Medicine",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUFJrNjZHd0tsNzdzMnczSnl2TzhTS045MW5Xb2tNTWNhNnJBY2U4WWRvU2I0ZnhqTWVES3hTODFhcXdwODc1a21Gc1Y4MUJCVDhSb1U2a3JtMGFEa2FCck11WkREQmJFWUVkMVFUVkFTVGJiMXNBWklLekowQmNtcDhwcw?oc=5",
     "source": "Insilico Medicine",
@@ -24161,6 +24287,27 @@
   },
   {
     "kind": "news",
+    "title": "Anthropic launches Claude Science app for researchers - breakingthenews.net",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUl2X2Vkcjl6Zl9vcm8ySnl1M2VXOEtKNTU4Ti1MSUVEei1QQ3h1enZFcHhtc1J4b3dBSERKRlI0ckFDQ3BiUktMTUJidDlvN2ItblhHRDFON19EZlhWT0ZzQ0F4MndNUk1LSlFuNUMzY29lUlJHNDl0TVZIMk1SaXhHZlYwLTRkRHNBaU1aS2dncDhJcGZubFlHcjF2cms?oc=5",
+    "source": "breakingthenews.net",
+    "source_type": "press",
+    "published_date": "2026-06-30",
+    "collected_at": "2026-10-05T18:49:54.186347+00:00",
+    "authors": [],
+    "summary": "Anthropic launches Claude Science app for researchers breakingthenews.net",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbminwfbvv95cuxnoul2x2vkcjl6zl9vcm8ysnl1m2vxoetkntu4ti1msuveei1qq3h1enzfchhtc1j4b3dbserkrli0ckfdq3biuktmtujiddlvn2itblhhrdfon19ezlhwt0zzq0f4mndnuk1lslfunumzy29luljhndl0tvzimk1saxhhzlywltrkrhnbau1as2dncdhjcgzubflhcjf2cms?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Demis Hassabis: DeepMind Talent Advantage 2026 - StartupHub.ai",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnBhUTkxVjRrSTI2cE5XZS1jU0k1RTd3SW92VERKaUUxMGM4Ym9JeHc0SEo5UXRUR1M0THNZMnRKb0NpS2pEVkVWZGJ2VU83NEFRdVVGUUw1VHNRdjkxMGE0MXJzYlBKM0w2eDJFcFRMQmpMRTJhdktoM3JMM2VoT2JvUWNLTGVSUVRhd1R0aWp2X0hRdUtHYVYydXpqVkZtSm5xQXdvLVB4dw?oc=5",
     "source": "StartupHub.ai",
@@ -26670,6 +26817,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmipgfbvv95cuxpu0lztdzjzgziegdms19oullydem0be5mrg5dnl9ryuwzt1oxewnhbe85q09ysuq1mvvkv2u4rgnxrmruqvvbmhjstzlsbnvpvwpmswrtew9fzw5pmjnpbxjqodz3ak1iuxbwzk9euhbrunvzbwjrcmfmlwzoszn1zlnxr1jotm9idwxjowhwely1ctz2mgvkzmnhwxvwatvad3z6sdrn?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Watch Insilico on Applying AI to Transform Drug Discovery - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenVDVjRTMS1SdzN1OGxNSV94V0s0SWFUNzhocnk1b0h3VWVqRlRXUk5EZjhpLUZuX1Z3Njk5QWZyZnVpeUhIVVNJeUF4OVIyWmFiWl9Zd2k3MW83ZmlRVllWemlBcnotUTJLT0NyUWJBLVRpVncwdUZGNjdyRlk1UXBrMXZuMzNWNTkyXzZPZWZnRDkyd3ltOVdKVFZPc2hpa2dZbmpVSG9ndw?oc=5",
+    "source": "Bloomberg.com",
+    "source_type": "press",
+    "published_date": "2026-05-22",
+    "collected_at": "2026-10-05T18:49:53.282936+00:00",
+    "authors": [],
+    "summary": "Watch Insilico on Applying AI to Transform Drug Discovery Bloomberg.com",
+    "doi": null,
+    "company_slug": "insilico-medicine",
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "query": "\"Insilico Medicine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqgfbvv95cuxqenvdvjrtms1sdzn1ogxnsv94v0s0swfunzhocnk1b0h3vwvqrlrxuk5ezjhpluzux1z3njk5qwzyznvpeuhivvnjeuf4oviywmfiwl9zd2k3mw83zmlrvllwemlbcnotutjlt0nyuwjblvrpvncwduzgnjdyrlk1uxbrmxzumznwntkyxzzpzwznrdkyd3ltovdkvfzpc2hpa2dzbmpvsg9ndw?oc=5"
   },
   {
     "kind": "news",
