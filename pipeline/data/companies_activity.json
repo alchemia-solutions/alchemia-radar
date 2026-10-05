@@ -64,6 +64,48 @@
   },
   {
     "kind": "news",
+    "title": "RXRX Stock Rises As Tempus AI Deal Extends To 2029 - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQXRrM0FFcmhZMkNSWWh6Y2RlNWE4UzhLMmVWOGlKUGZ2UUxJZm5WN3otOC02YjZBZzVia3BZUG5uRDBxUXdLUUxGVW51RzY1NUpjUXVId3RiQmR1cklmVG9ZMGFrN1hmTnpycXNUWkZhbnBSazd3Tzh2TjVpZlp3TzJMY2puWm5seXc?oc=5",
+    "source": "StocksToTrade",
+    "source_type": "press",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T22:11:17.835389+00:00",
+    "authors": [],
+    "summary": "RXRX Stock Rises As Tempus AI Deal Extends To 2029 StocksToTrade",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiigfbvv95cuxqqxrrm0ffcmhzmknswwh6y2rlnwe4uzhlmmvwoglkugz2uuxjzm5wn3otoc02yjzbzzvia3bzug5urdbxuxdluuxgvw51rzy1nupjuxvid3riqmr1cklmvg9zmgfrn1hmtnpycxnuwkzhbnbsazd3tzh2tjvpzlp3tzjmy2puwm5sexc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google DeepMind Gives AI-Designed Proteins a Watermark - SingularityHub",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbFJMcllTSlI4SmRobE9YYjlOTnExWG5EVER3ZkRTUGJaQlJBVDk3dG14Y2NDSjhtRVM5MjVtdktGUFoxWFN1TVhSdWJLVXcycU5uWGZYalZTaFEzVUNDc2I1UzFjUVBEVHlKejJoRWtTejBRZDI5YlNtNmFLRFBoaVQxU0JzSDdsUkoxNnFzLU1QS01MNkUxMw?oc=5",
+    "source": "SingularityHub",
+    "source_type": "press",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T22:11:19.271134+00:00",
+    "authors": [],
+    "summary": "Google DeepMind Gives AI-Designed Proteins a Watermark SingularityHub",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmimafbvv95cuxnbfjmclltsli4smrobe9yyjlotnexwg5ever3zkrtugjaqljbvdk3dg14y2ndsjhtrvm5mjvtdktgufoxwfn1tvhsdwjlvxcycu5uwgzyalztafezvundc2i1uzfjuvbevhlkejjorwttejbrzdi5ylntnmflrfboavqxu0jzsddsukoxnnfzlu1qs01mnkuxmw?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "UAE scientists harness AI to discover potential blood cancer drug - thenationalnews.com",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb2lfNlViMjFRekdaRkpWamJRcUNHTEFDTDBjYWVHdm9UNkRGbnJnX0FwcWx2S0hNTUVOLUdnU1hMQWxORUNyM1o2X3F1aGZVOHRMbElKZVZ5Uk50Z3FaYXBzQlRUWF9mallhZThpX2t2bl82MHI2VFFfZ1VOTjhQeUh0SFdocTF1QXhoSlM0WHpvakFIOE1NczV1TnN1cEdoOHpTM2tlQlR1a0o2bklQVGF4RWhSc1RlTXc?oc=5",
     "source": "thenationalnews.com",
@@ -544,6 +586,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmilgfbvv95cuxqt3lzy1vidvrengv6dzi3zvb1ahj3zddvbgxoouw5tkvqzjzhutnwzgduqlpybgzvcu5jbjnmvgdhohfnywrsvjjpww12zhdcbnpuuy1hdfrvwjhgvwj2tevsrmxlulvxa2p5edzfyjhlq3n2cxznzuldwmtlekf5d2m2cgfzufjlmfh0m3axdenamjfccnc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Form 4 Recursion Pharmaceuticals Inc For: 2 October By Investing.com - Investing.com UK",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWF9idFhHYUxqOWJfSEctRmtRRndjVjMzNFNLcTcyY3NNdHduLTFEbElXUzVpYU5qRng3ZXZ0Y3ZIc096RFV4NHJpR3BWLUVKa3lyTFVtdkNHTDM4LTZCTlFDTTZ0SUR0N0xXQVRzNm90bDM4Q25kQkVGTWJGUEUwdHZNbDhXVll3TFRkWktQYUVKUGRpTFRNMmdiMFgwWEZkYkFMcTBlM3hNYmUyc3V5SQ?oc=5",
+    "source": "Investing.com UK",
+    "source_type": "press",
+    "published_date": "2026-10-02",
+    "collected_at": "2026-10-05T22:11:17.843584+00:00",
+    "authors": [],
+    "summary": "Form 4 Recursion Pharmaceuticals Inc For: 2 October By Investing.com Investing.com UK",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxnwf9idfhhyuxqowjfsectrmtrrndjvjmznfnlctcyy3nndhdultfebelxuzvpyu5qrng3zxz0y3zic096rfv4nhjpr3bwluvka3lytfvtdknhtdm4ltzctlfdttz0sur0n0xxqvrznm90bdm4q25kqkvgtwjgueuwdhznbdhxvll3tfrkwktqyuvkugrptfrnmmdimfgwwezkykfmctblm3hnymuyc3v5sq?oc=5"
   },
   {
     "kind": "news",
@@ -34049,6 +34112,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmizwfbvv95cuxote9cawlpys1tnc1brvjtlwlpelq2ztdndkytzfg2bghcudvjenozakq3svpxumpkadlzwgvpogjudvznvethvfbjq3btt25mt3k2tw5ctemtwld2weg4yudyvelode1rskf6emtotf85eg9hndziu0zzsgllt3ruv3uzs3c5azbzcdl5muhyntm5aw8wnhpga2fdd2dpdtvznzfzu21qrm5fowwzazdxmezrc1f3bvj1m2dpqjnqm2vwcf9pddzpam5sn0ruagpsac8bqvvfexfmuepvetfcotfny3hqaezhzc13rwg3r1vmq2ttx3nrr3bfee5nz3u5emtnt0l0x25tqjfnsm1zaw9pswv0cmtlbthmzujru19vqnnqqnfiawdfyv9nrnbndgdkuk94uu1wn2xcuul6dznftkxnx3ngaeo0etbmyu9lnzrfwxdjullocw03mghyrnnjxzmtmjbqd0xdmxfrakvku0o2vwxayuvfsglraev1yjvobl9mqmffmhjydelwzvzvvtzpy2nvefbsefzoq1hf?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Servier latest to tap Insilico Medicine's AI platform for cancer drug development - FirstWord PHARMA",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56Vl9rZldGTmVSV3JoSWlTY1hoeDZ2aVNpNTFBampEVUhnWmd2MWVlX1lMMTdYU2hrNGotOWZpcTNXbTVYaEU2dEZqaklEWDVTdlBB?oc=5",
+    "source": "FirstWord PHARMA",
+    "source_type": "press",
+    "published_date": "2026-01-05",
+    "collected_at": "2026-10-05T22:11:15.487088+00:00",
+    "authors": [],
+    "summary": "Servier latest to tap Insilico Medicine's AI platform for cancer drug development FirstWord PHARMA",
+    "doi": null,
+    "company_slug": "pharma-ai",
+    "keywords_matched": [
+      "Pharma.AI"
+    ],
+    "extra": {
+      "query": "\"Pharma.AI\" Insilico",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiu0fvx3lxte56vl9rzldgtmvsv3joswlty1hoedz2avnpntfbampevuhnwmd2mwvlx1lmmtdyu2hrngotowzpctnxbtvyaeu2dezqaklewdvtdlbb?oc=5"
   },
   {
     "kind": "news",

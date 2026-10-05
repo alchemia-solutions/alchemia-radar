@@ -688,6 +688,30 @@
   },
   {
     "kind": "article",
+    "title": "Magnetic Field Enhanced Docosahexaenoic Acid Delivery for Acetylcholine Restoration in Alzheimers Disease an In Silico Study",
+    "url": "https://doi.org/10.64898/2026.09.28.755051",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-05T22:10:37.670014+00:00",
+    "authors": [
+      "Dasgupta, M.",
+      "Konar, A.",
+      "Nagar, A. K."
+    ],
+    "summary": "Alzheimers Disease (AD) is characterised by the progressive depletion of Acetylcholine (ACh), a neurotransmitter essential for cognition and synaptic communication. Docosahexaenoic acid (DHA), the predominant omega 3 polyunsaturated fatty acid in neuronal membranes, raises cerebral ACh and supports cholinergic transmission, but its therapeutic efficacy is limited by poor blood brain barrier permeability and slow passive diffusion. This work addresses these limitations through a closed form mathematical model coupling the spatiotemporal dynamics of DHA diffusion and ACh synthesis under an externally applied static magnetic field. Because DHA is diamagnetically anisotropic, it aligns along the field axis through diamagnetic torque while body cells form field aligned linear arrays; together these effects raise the effective diffusion coefficient of DHA. At a representative observation point, 0.5cm, magnetic field assisted transport reduces the time for ACh to reach a therapeutic threshold by 83.3%, from 10.55 s to 1.76 s. This reduction is spatially uniform across the modelled range of 0 to 3.0 cm from the source, with the absolute saving growing from 6.71 s at the source to 19.21 s a",
+    "doi": "10.64898/2026.09.28.755051",
+    "company_slug": null,
+    "keywords_matched": [
+      "in silico"
+    ],
+    "extra": {
+      "category": "neuroscience"
+    },
+    "dedupe_key": "doi:10.64898/2026.09.28.755051"
+  },
+  {
+    "kind": "article",
     "title": "Gag proteolysis drives HIV-1 envelope conformational closure through the gp41 cytoplasmic tail",
     "url": "https://doi.org/10.64898/2026.10.02.756164",
     "source": "bioRxiv",
@@ -64553,5 +64577,243 @@
       "journal": "Journal of molecular graphics & modelling"
     },
     "dedupe_key": "doi:10.1016/j.jmgm.2026.109591"
+  },
+  {
+    "kind": "article",
+    "title": "Phytochemicals of Boswellia serrata and Crocus sativus as natural scaffolds for β-lactamase inhibition.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42832765/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-05T22:10:06.362686+00:00",
+    "authors": [
+      "Ruchi Singh",
+      "Arun Kumar Balasubramaniam",
+      "Ganesh Saste",
+      "Asghar Ali",
+      "Mohan Kamthan",
+      "Lal Hingorani",
+      "Shoma Paul Nandi"
+    ],
+    "summary": "Antimicrobial resistance (AMR) is a major global health challenge that necessitates the development of further studies to overcome resistance mechanisms. In this study, phytochemicals of Boswellia serrata and Crocus sativus were investigated as promising natural scaffolds to β-lactamase inhibition. To our knowledge, this is the first study, the isolated compounds were virtually screened against β-lactamase enzymes (Classes A-D) using molecular docking and also confirmed using experimental approach. Among the screened compounds, picrocrocin showed the strongest affinity across Class A, Class B and Class C β-lactamases as compared to the reference inhibitor Tazobactam. The purified compounds were further evaluated through nitrocefin based colorimetric assay against β-lactamase producing Klebsiella pneumoniae strain BLR01. Picrocrocin and Serratol inhibited β-lactamase by 57.4 ± 2.77% and 56.1 ± 1.88%, respectively at 200 μM. These findings identify phytochemicals from Boswellia serrata and Crocus sativus as promising natural scaffolds for further investigation as β-lactamase-targeting agents.",
+    "doi": "10.1080/14786419.2026.2740614",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42832765",
+      "journal": "Natural product research"
+    },
+    "dedupe_key": "doi:10.1080/14786419.2026.2740614"
+  },
+  {
+    "kind": "article",
+    "title": "Screening the anti-neuroinflammatory active fraction of Wenmian San and exploring the underlying mechanism by UPLC-Triple-TOF-MS/MS-based network pharmacology, DEGs, WGCNA, and molecular docking.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42832764/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-05T22:10:06.363269+00:00",
+    "authors": [
+      "Fang-Fang Liu",
+      "Tong-Sheng Xu",
+      "Jun-Zhuo Zhao",
+      "Pei Xu",
+      "Pei-Pei Jiang",
+      "Qin Xu",
+      "Liang Liu",
+      "Qi-Jun Dai"
+    ],
+    "summary": "This study aimed to screen the anti-neuroinflammatory active fraction of Wenmian San and to elucidate its underlying mechanisms. A lipopolysaccharide (LPS)-induced BV2 cell model was established to evaluate the anti-neuroinflammatory activities of different fractions; the ethyl acetate fraction (EAF) exhibited the most potent inhibitory effects on NO production and cytokine release. Chemical analysis identified 41 compounds, mainly including flavonoids, coumarins, and phenylpropanoids. Network pharmacology integrated with weighted gene co-expression network analysis (WGCNA) and differentially expressed genes (DEGs) analysis identified ICAM1 and NFKB1 as core target genes, with isorhamnetin, quercetin, byakangelicin, kaempferol, imperatorin, and isoliquiritigenin as the major active components. Molecular docking analysis further verified favourable binding affinity between the screened active compounds and the identified targets. Overall, the EAF of Wenmian San exerts significant anti-neuroinflammatory effects through a multi-component, multi-pathway, and multi-target therapeutic pattern.",
+    "doi": "10.1080/14786419.2026.2738221",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42832764",
+      "journal": "Natural product research"
+    },
+    "dedupe_key": "doi:10.1080/14786419.2026.2738221"
+  },
+  {
+    "kind": "article",
+    "title": "Novel inhibitors against Cryptosporidium parvum through blocking its energy metabolism.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42832573/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-05T22:10:06.363813+00:00",
+    "authors": [
+      "Chang Xu",
+      "Yaru Ji",
+      "Qiang Sha",
+      "Kun Li"
+    ],
+    "summary": "Through systematic structural optimization and modification of anti-Cryptosporidium parvum compound NSC158011 (N-1-naphthalenyl-2-(phenylthiol) ethane thioamide), we constructed a virtual compound library comprising 1,440 derivatives, and 29 derivatives were selected via molecular docking for chemical synthesis. Among them, eight derivatives exhibited significant inhibitory effects on LDH compared with NSC158011. In vitro examination found that two derivatives could markedly reduce the number of C. parvum in cells while exhibiting reduced toxicity. In vivo studies in model animals (IFN-γ knockout mouse) and native animals (calves) further validated the derivatives' potent anti-parasitic effects and their ability to alleviate intestinal villus atrophy caused by parasitic infections. Further investigations revealed that compound treatment was associated with upregulated expression of intestinal tight junction proteins (ZO-1, Occludin, Claudin-1) and downregulated the expression level of inflammatory protein Caspase-1. Analysis of the gut microbiota and metabolomics in calves indicated that treatment significantly restored the abundance of beneficial flora and regulated key metabolites, including isocitric acid and ornithine. The two derivatives identified in this study represent promising lead compounds for further development as anti-cryptosporidiosis agents, with potential relevance to livestock production and public health.",
+    "doi": "10.1371/journal.pntd.0014742",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42832573",
+      "journal": "PLoS neglected tropical diseases"
+    },
+    "dedupe_key": "doi:10.1371/journal.pntd.0014742"
+  },
+  {
+    "kind": "article",
+    "title": "Identification of new fucosyltransferase-8 inhibitors: An integrated biochemical, biophysical, and computational approach.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42832539/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-05T22:10:06.364420+00:00",
+    "authors": [
+      "Muhammad Awais",
+      "Noor Rahman",
+      "Sumaira Javaid",
+      "Atia-Tul- Wahab",
+      "Thirugnanasambandam Rajendran",
+      "M Iqbal Choudhary",
+      "Humaira Zafar"
+    ],
+    "summary": "The α-1,6-fucosyltransferase (FUT8) mediated core fucosylation is responsible for several pathophysiological processes, including prostate cancer progression. FUT8 is a promising therapeutic target owing to its effects on cell migration and its capacity to convert androgen-dependent prostate cancer cells into androgen-independent cells. This study, therefore, investigates potential FUT8 inhibitors as therapeutic options for prostate cancer by targeting FUT8-mediated core fucosylation using in vitro, biophysical, and computational approaches. Eight of the 265 compounds showed significant cytotoxicity against the prostate cancer (PC3) cell line in in vitro screening. These compounds demonstrated dose-dependent reductions in cell viability, with IC50 values ranging from 2.94 ± 0.04 to 75.82 ± 2.10 µM. These compounds were non-cytotoxic against the normal human fibroblast (BJ) cell line. Biophysical and in silico analyses were conducted on active compounds to obtain atomic-level structural details of interactions between FUT8 and ligands. Among these, compounds 1, 3, 6, and 7 showed significant Saturation Transfer Difference Nuclear Magnetic Resonance (STD-NMR) effects and induced a decrease in the melting temperature (Tm) of FUT8 in the differential scanning fluorimetry (DSF) assay (0.25°C-9°C), indicating ligand-associated destabilization of the protein. Molecular docking and molecular dynamics simulation results showed that compounds 1, 2, 3, 4, 6, and 7 stably interacted with the FUT8 binding site. These compounds also exhibited anti-migratory activity in a scratch cell assay, as indicated by scratch closure of only 3.14% to 14.18%, compared with 45.45% to 100% in the control group. Our study identified compounds 1, 3, 6, and 7 as promising leads against the FUT8 enzyme. Further mechanistic and in vivo studies are required to evaluate their mechanisms of action for FUT8-driven prostate cancer progression.",
+    "doi": "10.1371/journal.pone.0349302",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42832539",
+      "journal": "PloS one"
+    },
+    "dedupe_key": "doi:10.1371/journal.pone.0349302"
+  },
+  {
+    "kind": "article",
+    "title": "Network toxicology, molecular docking and molecular dynamics simulations for bisphenol A neurotoxicity in depression pathogenesis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42832521/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-05T22:10:06.365033+00:00",
+    "authors": [
+      "Jinlian Zhang",
+      "Yuanhao Ma",
+      "Miguo Lu",
+      "Xiaohuan Jiang",
+      "Qingmi Zhong",
+      "Yan Zhang",
+      "Yan Xiong",
+      "Qiliang Wu",
+      "Lina Chen",
+      "Ruikang Pang"
+    ],
+    "summary": "Bisphenol A (BPA), a widespread environmental endocrine disruptor, can cross the blood-brain barrier and exert neurotoxic effects closely associated with depression pathogenesis. However, the precise molecular targets and signaling pathways mediating BPA-induced depression remain poorly understood. This study integrated network toxicology, molecular docking, molecular dynamics simulation, GEO transcriptomic dataset analysis, and in vivo experimental validation in mice to systematically investigate the potential toxicological targets and underlying mechanisms of BPA in depression. BPA-related targets were predicted from ChEMBL, STITCH, and SwissTargetPrediction, and depression-associated targets were retrieved from GeneCards, OMIM, and TTD databases. Overlapping targets were subjected to PPI network construction, as well as GO and KEGG enrichment analyses. Molecular docking and 100 ns molecular dynamics simulations were performed to verify the binding affinity and structural stability between BPA and hub targets. A total of 29 overlapping targets were screened, which were significantly enriched in neural synaptic function, neurotransmitter binding, and the neuroactive ligand‑receptor interaction pathway. Five core hub genes including INS, ESR1, SLC6A4, GRIA1, and NTRK2 were identified, all of which exhibited stable specific binding to BPA with favorable binding free energies. Further validation based on multiple GEO datasets confirmed that these five core genes were markedly downregulated in MDD patients, accompanied by significant suppression of neurotrophic and insulin-related pathways. In vivo animal experiments further demonstrated that BPA exposure aggravated depressive-like behaviors in mice and significantly downregulated both mRNA and protein expression of the five core molecules in brain tissues. Collectively, this study identifies key neurotoxicity-related targets and molecular pathways underlying BPA-induced depression, providing a theoretical foundation for future mechanistic investigation and clinical intervention strategies.",
+    "doi": "10.1371/journal.pone.0359940",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics"
+    ],
+    "extra": {
+      "pmid": "42832521",
+      "journal": "PloS one"
+    },
+    "dedupe_key": "doi:10.1371/journal.pone.0359940"
+  },
+  {
+    "kind": "article",
+    "title": "Apigenin attenuates MASLD progression by suppressing lipogenesis and macrophage M1-like inflammatory activation: involvement of SMAD4-associated signaling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42832089/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-05T22:10:06.365619+00:00",
+    "authors": [
+      "Lijun Cao",
+      "Yongna Zhao",
+      "Ping Li"
+    ],
+    "summary": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is characterized by dysregulated hepatic lipid metabolism and persistent inflammatory remodeling. Apigenin has lipid-regulatory and anti-inflammatory activities, but the molecular basis linking these effects remains incompletely understood. This study investigated whether SMAD4-associated signaling contributes to the coordinated regulation of hepatocyte lipogenesis and macrophage inflammatory activation by apigenin. C57BL/6J mice were fed a high-fat diet (HFD) to establish MASLD and treated with apigenin. Palmitic acid (PA)-treated HepG2 cells and lipopolysaccharide (LPS)-stimulated RAW264.7 macrophages were used as complementary in vitro models. Hepatic lipid accumulation, inflammatory responses, macrophage phenotype, and SMAD4-associated signaling were evaluated using biochemical assays, histological staining, ELISA, RT-qPCR, Western blotting, immunohistochemistry, and immunofluorescence. Molecular docking was used to predict the potential interaction between apigenin and SMAD4, a cellular thermal shift assay (CETSA) was performed in HepG2 cells to assess cellular target engagement of SMAD4 by apigenin, and SMAD4/Smad4 overexpression was used to evaluate functional involvement. Apigenin alleviated HFD-induced liver injury, dyslipidemia, and hepatic lipid deposition and suppressed the SREBP-1c/FAS/ACC lipogenic program in mouse liver and PA-treated HepG2 cells. Apigenin also reduced hepatic CD68-positive macrophage accumulation, decreased CD86 and iNOS expression and pro-inflammatory cytokine levels, and attenuated M1-like inflammatory activation in vivo and in LPS-stimulated RAW264.7 macrophages. Molecular docking predicted a favorable interaction between apigenin and SMAD4, while CETSA demonstrated increased thermal stability of SMAD4 following apigenin exposure in HepG2 cells, supporting cellular target engagement in this cellular context. Apigenin further attenuated SMAD4-associated signaling, whereas SMAD4/Smad4 overexpression partially counteracted its anti-lipogenic and anti-inflammatory effects in HepG2 cells and RAW264.7 macrophages, respectively. These findings indicate that apigenin alleviates HFD-induced MASLD by coordinately suppressing hepatocellular lipogenesis and macrophage-associated inflammatory activation and suggest that SMAD4-associated signaling contributes to these metabolic and inflammatory effects.",
+    "doi": "10.1007/s10735-026-11000-0",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42832089",
+      "journal": "Journal of molecular histology"
+    },
+    "dedupe_key": "doi:10.1007/s10735-026-11000-0"
+  },
+  {
+    "kind": "article",
+    "title": "Dual action of baicalin against renal fibrosis in hyperuricemic nephropathy: targeting PANX1-P2Y6 signaling and gut microbiota dysbiosis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42831993/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-05T22:10:06.366219+00:00",
+    "authors": [
+      "Xiang Yu",
+      "Yu Wang",
+      "Changle Dong",
+      "Ziqi Liu",
+      "Xia Hou",
+      "Huimin Yang",
+      "Yifeng Zou",
+      "Yinsheng Qiu",
+      "Lingyun Xu"
+    ],
+    "summary": "Hyperuricemic nephropathy (HN) is accompanied by persistent hyperuricemia, progressive renal injury, and fibrosis, but effective treatment for the fibrotic component remains limited. Baicalin (BA), a flavonoid isolated from Scutellaria baicalensis Georgi, has been reported to have anti-inflammatory and antioxidant effects, although its role in HN-associated renal fibrosis has not been fully defined. In this study, HN was induced in mice with yeast extract and potassium oxonate, followed by BA treatment. Transcriptomic analysis, molecular docking, molecular dynamics simulation, Western blotting, RT-qPCR, and 16S rRNA sequencing were used to investigate the renal effects of BA and the pathways involved. BA treatment reduced serum uric acid (UA), blood urea nitrogen, and creatinine levels and improved renal histological changes. Fibrotic lesions were also alleviated. At the molecular level, BA decreased transforming growth factor beta 1 (TGF-β1) expression and phosphorylated SMAD family member 3 (p-SMAD3)/SMAD family member 3 (SMAD3) ratio, while pannexin 1/P2Y purinergic receptor 6 (PANX1/P2Y6) signaling and cysteine-aspartic protease 3 (Caspase-3) activation were suppressed. Changes were also observed in the intestinal microbiota, with increased abundance of Lactobacillus and Bacteroides after BA administration. Docking and molecular dynamics analyses further showed favorable and stable interactions of BA with PANX1, TGF-β1, SMAD3, and Caspase-3. These findings suggest that the renal protective effect of BA in HN correlates with inhibition of PANX1/P2Y6-related fibrotic signaling and amelioration of gut microbial dysbiosis, suggesting BA as a potential candidate for reducing hyperuricemia-induced renal injury and fibrosis.",
+    "doi": "10.1007/s10735-026-10973-2",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics"
+    ],
+    "extra": {
+      "pmid": "42831993",
+      "journal": "Journal of molecular histology"
+    },
+    "dedupe_key": "doi:10.1007/s10735-026-10973-2"
+  },
+  {
+    "kind": "article",
+    "title": "A critical appraisal of structure-based virtual screening, binding free energy methods, and AI-driven molecular design across the evolving computational landscape of drug discovery.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42831991/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-05T22:10:06.366768+00:00",
+    "authors": [
+      "Oluwaseun E Agboola",
+      "Samuel S Agboola",
+      "Odunayo Selimot Adedeji",
+      "Temitope C Aribigbola",
+      "Olutosin S Ilesanmi",
+      "Babasola Aiyeku"
+    ],
+    "summary": "Structure-based drug design rests on the physical chemistry of molecular recognition, and every computational advance represents a successive attempt to capture that reality with greater fidelity and at greater scale. This review examines that progression through three lenses: the empirical performance of prospective structure-based virtual screening across 419 documented case studies, the accuracy of binding free energy methods, and the capability of generative artificial intelligence to design molecules de novo. Across the surveyed campaigns, the best hit was better than 1 micromolar in 113 of 419 studies. Ensitrelvir, discovered by virtual screening of a proprietary library followed by structure-based optimisation, received emergency regulatory approval in Japan in November 2022 and standard approval in March 2024. Scaling a docking library from 99 million to 1.7 billion compounds against the same target raises the confirmed active rate, but the reported enhancement factor ranges from 1.09-fold to 4.18-fold depending on the activity threshold and selection rule applied, so the direction of the effect is more robust than its magnitude. Extended-sampling free-energy perturbation reduces prediction RMSE to 0.78 kcal/mol, approaching the median reproducibility of the experiments against which such methods are judged. Rentosertib, the first molecule whose target and structure were both generated computationally to reach a randomised trial, met a safety primary endpoint in a 71-patient Phase IIa study; its lung-function findings were secondary and exploratory. The review introduces the Computational-to-Clinical Translation Index as a proof-of-concept reporting framework with an explicit operational specification, and articulates a mechanistically grounded research agenda.",
+    "doi": "10.1007/s10822-026-00955-7",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery",
+      "drug design",
+      "virtual screening",
+      "structure-based drug design"
+    ],
+    "extra": {
+      "pmid": "42831991",
+      "journal": "Journal of computer-aided molecular design"
+    },
+    "dedupe_key": "doi:10.1007/s10822-026-00955-7"
   }
 ]
