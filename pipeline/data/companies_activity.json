@@ -1,6 +1,171 @@
 [
   {
     "kind": "news",
+    "title": "Insilico's Zhavoronkov: The Longevity Field Finally Has Clinical Proof, and the Real Competition Is in China - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mWUxfblg3c0ZlRmNtS1FZbUJpWmJ4XzhJNkRpbk5XMTRaRFdpUHY2UW8tSXVFUW45QlNwT3R1dTJtWDRuQ1FZdGltdThUbEVPZ3VmWGZwTzB1TzQ?oc=5",
+    "source": "finance.biggo.com",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:35.253739+00:00",
+    "authors": [],
+    "summary": "Insilico's Zhavoronkov: The Longevity Field Finally Has Clinical Proof, and the Real Competition Is in China finance.biggo.com",
+    "doi": null,
+    "company_slug": "insilico-medicine",
+    "keywords_matched": [
+      "Insilico Medicine"
+    ],
+    "extra": {
+      "query": "\"Insilico Medicine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiw0fvx3lxte5mwuxfblg3c0zlrmnts1fzbujpwmj4xzhjnkrpbk5xmtrarfdpuhy2uw8tsxvfuw45qlnwt3r1dtjtwdruq1fzdgltdthubevpz3vmwgzwtzb1tzq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "DrugSpace 2026 Symposium – The Path to Digital Chemistry",
+    "url": "https://www.biosolveit.de/2026/10/06/drugspace-2026-path-to-digital-chemistry/",
+    "source": "BioSolveIt",
+    "source_type": "company_blog",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:38.316655+00:00",
+    "authors": [],
+    "summary": "Where Medicinal and Computational Chemistry Come Together We are delighted to invite drug hunters, compound enthusiasts, and molecule designers back to the virtual DrugSpace Symposium. The fifth edition takes place on December 9, 2026, under the theme “The Path to Digital Chemistry,” and turns the spotlight on where computational and medicinal chemistry meet. New approaches […]",
+    "doi": null,
+    "company_slug": "biosolveit",
+    "keywords_matched": [
+      "computational chemistry"
+    ],
+    "extra": {},
+    "dedupe_key": "url:https://www.biosolveit.de/2026/10/06/drugspace-2026-path-to-digital-chemistry"
+  },
+  {
+    "kind": "news",
+    "title": "25,000 shares worth $125K are proposed for sale by Recursion (RXRX) director Robert Hershberg. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN2VESzVqSEFiUmFWMEs3RUJ6SWV5UHp1bXdxd0IzaDNyZWRqeTYzYVdxXzVHcFJBQVRBeUVBMEN0NnZ0SndZNWdCbVhaTG1vek1qSmktVWZWblVVRzRHNEwteXRKekFiUjlQUEZUNDkwYnZWZXU3TUs4UnBncUMyRGQzOC1CempkU04xS0JMQVUyVy04MzV6WWhPUEF4NHNHOVVwM0plNE1aUQ?oc=5",
+    "source": "Stock Titan",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:39.340168+00:00",
+    "authors": [],
+    "summary": "25,000 shares worth $125K are proposed for sale by Recursion (RXRX) director Robert Hershberg. Stock Titan",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqgfbvv95cuxnn2veszvqsefiumfwmes3ruj6swv5uhp1bxdxd0izadnyzwrqetyzyvdxxzvhcfjbqvrbeuvbmen0nnz0sndznwdcbvhatg1vek1qsmktvwzwblvvrzrhnewtexrkekfiujlquezundkwynzwzxu3tus4unbncumyrgqzoc1cempku04xs0jmqvuyvy04mzv6wwhpuef4nhnhovvwm0plne1auq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Recursion Pharmaceuticals (Ondo Tokenized Stock) Analytics - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbFpOa0o1ay0wbzZYaTNPM2ljSlN3OFR0LUFUd3I1eWZURE5kSHdiVzNadjVxakltc0gzaURJUlhTRmF3MW11Ul96REpuZ21CTUFsS0dUN0NWbmFWZkQ0ZWdrQUFwNl9JcmlDWWFJOHBObGR5eElEcHZQR0FwdXZJU1FDQy1hYkQ0b09RNQ?oc=5",
+    "source": "CryptoRank",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:39.340439+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals (Ondo Tokenized Stock) Analytics CryptoRank",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijafbvv95cuxnbfpoa0o1ay0wbzzyatnpm2ljsln3ofr0lufud3i1ewzure5kshdivznadjvxakltc0gzaurjulhtrmf3mw11ul96repuz21ctufss0dun0nwbmfwzkq0zwdrqufwnl9jcmldwwfjohbobgr5eelechzqr0fwdxzju1fdqy1hykq0b09rnq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Recursion Pharmaceuticals (Ondo Tokenized Stock) Exchanges RXRXON Markets | Buy & Sell & Trade - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWw0dmtEMlhwSExHdE1sUEYtUTVpNTljeFdTZmZPcFVTTGQ4ZkNHZnNOTHhuRXZjaHJyTTZjbzhRMnFuNmVHaXFyOXl5SEhrX2dXNFpoZURsMzVLTW5pYnpQMThJVExVeUlJaUZzTEZZZ3h5ZUtndk0wbXZBNUdtWV8tTWVEdmo5M3g0RA?oc=5",
+    "source": "CryptoRank",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:39.341132+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals (Ondo Tokenized Stock) Exchanges RXRXON Markets | Buy & Sell & Trade CryptoRank",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijafbvv95cuxobww0dmtemlhwsexhde1sueytutvpntljefdtzmzpcfvttgq4zknhznnothhurxzjahjyttzjbzhrmnfunmvhaxfyoxl5sehrx2dxnfpozursmzvltw5pynpqmthjvexveuljauzztezzz3h5zutndk0wbxzbnudtwv8ttwvedmo5m3g0ra?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Recursion Pharmaceuticals (Ondo Tokenized Stock) - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQl9RZnFEOW5OTm05XzVqeUlqakV3dHVmYmctTjdCSjVicXNUU3ptNUl0WXhWZG5YU241YjBTY3hqejdsUzdoZklrd1lYVnIzRGlqeEZaY05WSUxPVWVQUkFCT0xNdjVmS2pHRWRRZzBQdUQ4Um5iY1lTdW92S1pUandwS28?oc=5",
+    "source": "CryptoRank",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:39.341560+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals (Ondo Tokenized Stock) CryptoRank",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmihafbvv95cuxoql9rznfeow5otm05xzvqeulqakv3dhvmymcttjdcsjvicxnuu3ptnul0wxhwzg5yu241yjbty3hqejdsuzdozklrd1lyvnizrglqeezay05wsuxpvwvqukfct0xndjvms2phrwrrzzbqduq4um5iy1ltdw92s1puandws28?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Why Did Four Biotechs Surge Up to 30.7 Percent: Vaxcyte (NASDAQ:PCVX), Novavax (NASDAQ:NVAX), Recursion (NASDAQ:RXRX), Ginkgo (NYSE:DNA)? - kalkine.ca",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZjlkb3RuOVpiaDFwV3pqWFRDX1R6WHBJdWRpVVRCeVFIcVpRZm5CZXgwODBhZkVTcGtZRXA1VE1heC1zbV9WUmlrUFJsNEZYTmp2YlZEQ051S1VIRmZheVFhQTRCLWQ4Z3U4OVFzbHpzTThWRmhtQUs1TTd5QWlzX0xQdHRJblBkSkJKUDlkMnFkMDdaQmpnX0I2Rnh6MlpPVG1tS0F3ckJOdkhXemY4X1FrMTRHZjFaa0VXMUE5RUI2MnR5cUxWMjhmSXdYWnJvUzk4bkRQMVcwUW9Ja1RwZDI5MkY4d1BzVV83TQ?oc=5",
+    "source": "kalkine.ca",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:39.348136+00:00",
+    "authors": [],
+    "summary": "Why Did Four Biotechs Surge Up to 30.7 Percent: Vaxcyte (NASDAQ:PCVX), Novavax (NASDAQ:NVAX), Recursion (NASDAQ:RXRX), Ginkgo (NYSE:DNA)? kalkine.ca",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi7afbvv95cuxqzjlkb3ruovpiadfwv3pqwfrdx1r6whbjdwrpvvrcevficvprzm5czxgwodbhzkvtcgtzrxa1ve1hec1zbv9wumlrufjsnezytmp2ylzeq051s1virmzhevfhqtrclwq4z3u4ovfzbhpztthwrmhtqus1ttd5qwlzx0xqdhrjblbkskjkudlkmnfkmddaqmpnx0i2rnh6mlppvg1ts0f3ckjodkhxemy4x1frmtrhzjfaa0vxmue5rui2mnr5cuxwmjhmsxdywnjvuzk4bkrqmvcwuw9ja1rwzdi5mky4d1bzvv83tq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "What Anthropic’s AI biology experiment actually showed - IBM",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZmpmeWsyejA2eFFOUWRnb2ZrRVBXX2tDVTJ1ajJ2UlF2Y0FfVTFGeWRoWmR4Vi1DdTU1RDNzQjZWY0VtbnZNdWJmNGNnYmdZQ1JVLXhSSE54Tm02T0U0QXp3RkNWanNtckxPMXB1NDNYbkJMZ3NObV96QWpoeGU2cw?oc=5",
+    "source": "IBM",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:41.858890+00:00",
+    "authors": [],
+    "summary": "What Anthropic’s AI biology experiment actually showed IBM",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmigafbvv95cuxozmpmewsyeja2effouwrnb2zrrvbxx2tdvtj1ajj2ulf2y0ffvtfgewrowmr4vi1ddtu1rdnzqjzwy0vtbnzndwjmngnnymdzq1jvlxhsse54tm02t0u0qxp3rknwanntckxpmxb1ndnybkjmz3nobv96qwpoegu2cw?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Recursion Pharmaceuticals Shares Jump as AI Partnership Momentum and Short-Covering Appear to Lift Sentiment - Quiver Quantitative",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY1RSWWdKYVRhQV9aa1ZsTEN4ZU1mQ2dJMDlrRENwR0xtMEdQaENEZk1sTmRJaXQ1NkI1VndHSzJGU0xQTF9kSzFsY2VFYUZXVncyWGJRVS1FdWVCTVI3dHVaUEhmcUV6LVdtX2NMbTNmRTJBSmdGTVVTN3hJcUItM1BJLUR6MVZQcEhxQzkwSVNTakhnLWtQc0kxVHRzRENmYjZrcWZobnJmUXpnNTRpRUs0T0ZOcVhoMGhETEdwWUFFM1B0ODJXcGR4Zk1iNzk5RS1yMWlNay0?oc=5",
     "source": "Quiver Quantitative",
@@ -124,6 +289,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiogfbvv95cuxqvg9lq2fgzevpqk53v3i1b0zwt0tzvddmlvnwbw0wmhhoywp3yxfyqlrjalityldxqxduautktxfdyljpahjnmhjkwl9taehovzh4cnixdwdkwdfmdhlwefhwnuztntdvr0llenu3egfoytjmemtnmen0y1dftheyr1htbtdnekh3vznvwlzpac1vlwjpwmh5rep4chnfzvpyamc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "RXRX Rises As Tempus AI Deal Locks In $42M - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFhQM1h0Z3kwaHpEZnNESktfWV9HQVVhUVQ1NC1JLUR6ZFJDdW9nZ0VYSGg4RlhsN3pwUmVFUHFjemtjVlhuM0hzWVFNQWRWaUNCY0Z3OFJMVHZCc2NYeXRYSjEzMFZjX2xsWjNZekt2VktQdmwyenpQcXJVV0w4OTgxV2JpTW1z?oc=5",
+    "source": "Timothy Sykes",
+    "source_type": "press",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-06T16:15:39.340303+00:00",
+    "authors": [],
+    "summary": "RXRX Rises As Tempus AI Deal Locks In $42M Timothy Sykes",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiiafbvv95cuxnzfhqm1h0z3kwahpeznnesktfwv9hqvvhuvq1nc1jlur6zfjddw9nz0vysgg4rlhsn3pwumvfuhfjemtjvlhum0hzwvfnqwrwauncy0z3ofjmvhzcc2nyexrysjezmfzjx2xswjnzekt2vktqdmwyenpqcxjvv0w4otgxv2jptw1z?oc=5"
   },
   {
     "kind": "news",
@@ -334,6 +520,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxpaznwuktzdnj4sm1jclnzmxltynh2rkx3thvpzu41bs1nuwrtunfiwxbrd09vr0jiqwrcnc05owfza3vqwkjecktwef8zr0x5dkrnufbux3y4bddtwmpmwxztuwdjaxqtlvjmquvuzhpysjjtnnvbtnqwtuc0z0qztzi5wnz2ugxjum1gaku3zw16mhmtswhyzenhmkv0ekhpaxewrvfjm19ay2vpsuzhtg?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Could Tempus RNA License Alter The Investment Case For Recursion Pharmaceuticals (RXRX)? - Simply Wall Street",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWDhEZGZ3UEw5UFY2ZkU3YVJOaksxZ1lCYl9MclNLMVNzcldPcnJrQ2t2VXJUYVJ2NDZJSThaYnVVZ3BGTFpwSGJaNmVhc1RQNV9qbnZIV3NOb1lpRy1lNnVxdGJQdWZJbjBFcUc5ckE3NHZScjNNUmVFWlJPa0NlSDNYNkIzdUZCWk0yeXE5QmJXZFF6WlJINEhLU0hNMGlTY2VPQTJiUDYyNkxqVUtwdzhja1ZGQlJHcnk0SENGenBqenc0Z1lIdG1ZRFY5c3U4Wlo3TWlWX1RQbTViVE1IYS1EYWdtaFVWVG5IMmtjOGLSAfYBQVVfeXFMT0lBTDNJcmpaZWsxZHlTYS0tWkJaQmZmR09xOGl4VlZjbDR3cS1PamViN05OQWhqc0FVTnhmM0pzd1N1cXl3bThpX1FrNWxiNUsweXM0Ym1YaUZSVU9LRERSNktwMGJGUkdxTzRpMFpBQ1BCUVZhLUJDOWRWakdXRzBOMDBWVkJDcmZTZ0NROUNiWGhNb1ZvbGlac3owYnhxcFNiZ3RaUklSSGdMZ0xjVVF6TWZHcFV3NjJXWDJBVGdzUU0xZVoxQjN5anotb2wwTEk2ZXdXR25hRnluQmRlODVkNXVpSm5HZW9reE9jZ1FHSk9rT0h3?oc=5",
+    "source": "Simply Wall Street",
+    "source_type": "press",
+    "published_date": "2026-10-03",
+    "collected_at": "2026-10-06T16:15:39.340728+00:00",
+    "authors": [],
+    "summary": "Could Tempus RNA License Alter The Investment Case For Recursion Pharmaceuticals (RXRX)? Simply Wall Street",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi8afbvv95cuxpwdhezgz3uew5ufy2zku3yvjoaksxz1lcyl9mclnlmvnzcldpcnjrq2t2vxjuyvj2ndzjsthaynvvz3bgtfpwsgjanmvhc1rqnv9qbnziv3nob1lpry1lnnvxdgjqdwzjbjbfcuc5cke3nhzscjnnumvfwljpa0nlsdnynkizduzcwk0yexe5qmjxzff6wljinehlu0hnmglty2vpqtjiudyynkxqvutwdzhja1zgqljhcnk0sengenbqenc0z1lidg1zrfy5c3u4wlo3twlwx1rqbtvive1iys1eywdtafvwvg5immtjoglsafybqvvfexfmt0lbtdnjcmpazwsxzhltys0twkjaqmzmr09xogl4vlzjbdr3cs1pamvin05oqwhqc0fvtnhmm0pzd1n1cxl3bthpx1frnwxinuswexm0ym1yauzsvu9lrersnktwmgjgukdxtzrpmfpbq1bcuvzhlujdowrwakdxrzbomdbwvkjdcmztz0nrouniwghnb1zvbglac3owynhxcfniz3rauklssgdmz0xjvvf6twzhcfv3njjxwdjbvgdzuu0xzvoxqjn5anotb2wwtek2zxdxr25hrnluqmrlodvknxvpsm5hzw9ree9jz1fhsk9rt0h3?oc=5"
   },
   {
     "kind": "news",
@@ -38681,6 +38888,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxnmjbmquw3xznozvzktxdmt0f2r09tr2lcefk4zlnustytzfvsdtnrcvpornbuakzslxpvdnvku0thwnfrlu55mkjxwgjutetuwhzlclcxevytlwlmc1zlamhpanzpn0gtsgtsylvuav90d1ituhuwn0hjyufcz3v4lwmwak5ss2r0ywlyq0tnulf6etl0sdjymhfhmvhumhdqqus1dejqrjnqmkh5edbtra?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Iktos Announces Additional Collaboration With Merck KGaA, Darmstadt, Germany in AI for New Drug Design - Lelezard",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHZseDIzLTdGcTcyQy1CMkV5b3pXNGc5ZzZlSERPNU9iczVQa1NCMDlNYzZCU2swNHBjZWtzNkk4dkd1SkJoVlkyX1E4U3hwSFMwRlRRMVJVclljNGpVLXk4cVlzZDdtWkQxUGJMdWJKbWNLNmJXbVVTMmgwYmZlLVphOUNhMlNSTUtBazZyYjBIMHphVmNFSjJRLTFqd0ZJa19FTkFB?oc=5",
+    "source": "Lelezard",
+    "source_type": "press",
+    "published_date": "2020-11-05",
+    "collected_at": "2026-10-06T16:15:39.715626+00:00",
+    "authors": [],
+    "summary": "Iktos Announces Additional Collaboration With Merck KGaA, Darmstadt, Germany in AI for New Drug Design Lelezard",
+    "doi": null,
+    "company_slug": "iktos",
+    "keywords_matched": [
+      "drug design"
+    ],
+    "extra": {
+      "query": "\"Iktos\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmipgfbvv95cuxnohzsedizltdgctcyqy1cmkv5b3pxngc5zzzlserpnu9iczvqa1ncmdlnyzzcu2swnhbjzwtznkk4dkd1skjovlkyx1e4u3hwsfmwrlrrmvjvclljngpvlxk4cvlzzddtwkqxugjmdwjkbwnlnmjxbvvtmmgwymzllvphounhmlnstutbazzyyjbimhphvmnfsjjrltfqd0zja19ftkfb?oc=5"
   },
   {
     "kind": "news",

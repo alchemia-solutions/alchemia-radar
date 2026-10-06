@@ -1,6 +1,292 @@
 [
   {
     "kind": "news",
+    "title": "RTY-406",
+    "url": "https://drughunter.com/molecule/rty-406",
+    "source": "Drug Hunter",
+    "source_type": "newsletter",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:13.223263+00:00",
+    "authors": [],
+    "summary": "RTY-406 is Rectify Pharmaceuticals’ oral dual ABCB4/BSEP positive functional modulator in clinical development for PSC (primary sclerosing cholangitis). Unveiled during the First Time Disclosures session at the ACS Fall 2026 meeting in Chicago, RTY-406 demonstrated modulation of both transporters in a PSC mouse model and healthy cynomolgus monkeys. Now in Ph. 1 development, RTY-406 could provide the first clinical test of dual ABCB4/BSEP positive functional modulation in PSC.",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [],
+    "extra": {},
+    "dedupe_key": "url:https://drughunter.com/molecule/rty-406"
+  },
+  {
+    "kind": "news",
+    "title": "Compliance concerns hinder rollout of AI in drug manufacturing: Survey - BioSpace",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZjFBMUVsX2k1d1htZm9OeEJwSFdFYy01NXBMakhqWEdlaWZISUNTeVgtNW1HckZXQXhFd3hoY0x5cGd3azUwTlVBRlptOFFIcWNObjdxV3VKamRfSTFJZGpabTB4SXpwaVl5WlpyT0RsR2RWME1uUmctdmZJTktRdTVkTk51N3FBTENIQTJNNXl1ZzNRTVcxM1E4bXE5TGkwOTBIdmhfQTl5cFVH?oc=5",
+    "source": "BioSpace",
+    "source_type": "news",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:25.633123+00:00",
+    "authors": [],
+    "summary": "Compliance concerns hinder rollout of AI in drug manufacturing: Survey BioSpace",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmirafbvv95cuxozjfbmuvsx2k1d1htzm9oeejwsfdfyy01nxbmakhqwedlawzisuntevgtnw1hckzxqxhfd3hoy0x5cgd3azuwtlvbrlptofficwnobjdxv3vkamrfstfjzgpabtb4sxpwavl5wlpyt0rsr2rwme1uumctdmzjtktrdtvktk51n3fbteniqtjnnxl1zznrtvcxm1e4bxe5tgkwotbidmhfqtl5cfvh?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "PacBio Deepens AI Drug-Discovery Push With TychoBio Deal — PACB Stock Takes A Breather After 103% Rally - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3N5bEt1dFlHMlB6YkcxWEo5NHhsbUEzV1dxaE5Xb3Q5b3ZVSVNsVmV5MTVOSVN0RmVhT2ZXSmctcjdFWnlmRGRhRThCMUFRdUVMaFMwVUNod0xsNUdOVlZMMU5BbFFiQl9iNndtYTI5THh5WGQ3SU9xbDJ4TVVHdWFpcXV4ZVBpaGNKN1hmWXF5REl1VFBEcQ?oc=5",
+    "source": "Yahoo Finance",
+    "source_type": "news",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:25.633349+00:00",
+    "authors": [],
+    "summary": "PacBio Deepens AI Drug-Discovery Push With TychoBio Deal — PACB Stock Takes A Breather After 103% Rally Yahoo Finance",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmimafbvv95cuxqm3n5bet1dflhmlb6ykcxweo5nhhsbuezv1dxae5xb3q5b3zvsvnsvmv5mtvosvn0rmvht2zxsmctcjdfwnlmrgrhrthcmufrduvmafmwvunod0xsnudovlzmmu5bbffiql9inndtyti5thh5wgq3su9xbdj4tvvhdwfpcxv4zvbpagnkn1hmwxf5rel1vfbecq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Cathie Wood Dumps $18M Twist, Bets On CRISPR, AI Drug Discovery - ARK Genomic Revolution ETF (BATS:ARKG) - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWXQyMXU5bGwzQ2hIa0p0a1d0alN3eXhiLWZCeXgzMDhNSjNPWnZWa3BoWnpZTGFzdFk1eVpkbF9kZFVpeURUc3R1NWo4Y3ljY2lzTkV1dkZwam5ZWk5vNURlV2VzaENPWjBXWHNra2NJTVJ6M3VYcEViS0RCN2hoVHBpQnI3clR4bHNiQlhkOXhfbzBTYUtjS2ZRS3AySWhkUnY3Q1hMdDdBOS1MYTRBMHNGM3N5SHFlblJBblJUdkUwT2Q0c0F1TE50Zk56Yktsb1RVdzRLN2FOTTRPb1VQeHl4QzZCZVhaWkE?oc=5",
+    "source": "Benzinga",
+    "source_type": "news",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:25.633529+00:00",
+    "authors": [],
+    "summary": "Cathie Wood Dumps $18M Twist, Bets On CRISPR, AI Drug Discovery - ARK Genomic Revolution ETF (BATS:ARKG) Benzinga",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi6gfbvv95cuxpwxqymxu5bgwzq2hia0p0a1d0aln3exhilwzcexgzmdhnsjnpwnzwa3bownpztgfzdfk1evpkbf9kzfvpeuruc3r1nwo4y3ljy2lztkv1dkzwam5zwk5vnurlv2vzaenpwjbxwhnra2njtvj6m3vycevis0rcn2hovhbpqni3clr4bhniqlhkoxhfbzbtyutjs2zrs3ayswhkuny3q1hmdddbos1mytrbmhngm3n5shflbljbbljudkuwt2q0c0f1te50zk56yktsb1rvdzrln2fottrpb1vqehl4qzzczvhawke?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Algorae Pharmaceuticals Ltd (ASX:1AI): Commercial Expansion, AI Drug Discovery and FY26 Developments - Kalkine",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdk52dXVOdjJHOGl3dDg4XzhueHg5bGp3enF4UXRNSDE5V0poR3oxdVpoUWgxZGJNN1R0V3dsS0k4TU94UkhWOVNKMmxKMHozeDlCZDRGWjkxbk1TZkVGZXdYWm55NGZLVnkzSGdLVFR3aHRfd0hFT2tJTndneE1OMlpoV2phVGVNcWZ6MjhkX29YVzY4eTB6V1I0amtGMmxyeG9wUDVaWGhqSDYyQUcxQWlBUl9UZmhSWklrdVVTeEllb2p2SGttbmtQVGJhODg?oc=5",
+    "source": "Kalkine",
+    "source_type": "news",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:25.634788+00:00",
+    "authors": [],
+    "summary": "Algorae Pharmaceuticals Ltd (ASX:1AI): Commercial Expansion, AI Drug Discovery and FY26 Developments Kalkine",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmizwfbvv95cuxodk52dxvodjjhogl3ddg4xzhuehg5bgp3enf4uxrnsde5v0por3oxdvpouwgxzgjnn1r0v3dss0k4tu94ukhwovnkmmxkmhozedlczdrgwjkxbk1tzkvgzxdywm55ngzlvnkzsgdlvfr3ahrfd0hft2tjtndnee1omlpov2phvgvncwz6mjhkx29yvzy4etb6v1i0amtgmmxyeg9wudvawghqsdyyqucxqwlbul9uzmhswklrdvvteellb2p2sgttbmtqvgjhodg?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Pesquisadores do Instituto Butantan realizam primeiro sequenciamento do genoma de uma serpente insular endêmica do Brasil - Instituto Butantan",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVjJJbFJXYXhIWHQ5aUxlS3FFTU40ZWk2X21nUnh3YkdHNFBrck9GZ3BaTXVHT3dtaFkxZ2NFYVQtUFh6WmR2STRjUDVkdThlOTZKYlRMVW9kTUJWSXE5ZkFQMlNFWFF4RVdiczZ2NEltV1BsX2dNQWRhcEJ4MkhQV2UydHE0MG91Q2htZUZtajhuTDlxUV9aTDlQUUJEY1N1aW5zc1JWb08wNWRRUEtXX29xYXY2VFEyYzNyNy10dVo1eVJiMUZBaXZyZkQ0WUFueEJFRDUxU2JMdEpHQkRCSk5GeVAwYWlPOFE?oc=5",
+    "source": "Instituto Butantan",
+    "source_type": "news",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:32.140600+00:00",
+    "authors": [],
+    "summary": "Pesquisadores do Instituto Butantan realizam primeiro sequenciamento do genoma de uma serpente insular endêmica do Brasil Instituto Butantan",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi6gfbvv95cuxovjjjbfjxyxhiwhq5auxls3fftu40zwk2x21nunh3ykdhnfbrck9gz3batxvht3dtafkxz2nfyvqtufh6wmr2strjudvkdthlotzkylrmvw9ktujwsxe5zkfqmlnfwff4rvdiczz2neltv1bsx2dnqwrhcej4mkhqv2uydhe0mg91q2htzuztajhutdlxuv9atdlquujey1n1aw5zc1jwb08wnwrruetxx29xyxy2vfeyyznyny10dvo1evjimuzbaxzyzkq0wufueejfrduxu2jmdephqkrcsk5gevawywlpofe?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Insilico's Zhavoronkov: The Longevity Field Finally Has Clinical Proof, and the Real Competition Is in China - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mWUxfblg3c0ZlRmNtS1FZbUJpWmJ4XzhJNkRpbk5XMTRaRFdpUHY2UW8tSXVFUW45QlNwT3R1dTJtWDRuQ1FZdGltdThUbEVPZ3VmWGZwTzB1TzQ?oc=5",
+    "source": "finance.biggo.com",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:35.253739+00:00",
+    "authors": [],
+    "summary": "Insilico's Zhavoronkov: The Longevity Field Finally Has Clinical Proof, and the Real Competition Is in China finance.biggo.com",
+    "doi": null,
+    "company_slug": "insilico-medicine",
+    "keywords_matched": [
+      "Insilico Medicine"
+    ],
+    "extra": {
+      "query": "\"Insilico Medicine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiw0fvx3lxte5mwuxfblg3c0zlrmnts1fzbujpwmj4xzhjnkrpbk5xmtrarfdpuhy2uw8tsxvfuw45qlnwt3r1dtjtwdruq1fzdgltdthubevpz3vmwgzwtzb1tzq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "DrugSpace 2026 Symposium – The Path to Digital Chemistry",
+    "url": "https://www.biosolveit.de/2026/10/06/drugspace-2026-path-to-digital-chemistry/",
+    "source": "BioSolveIt",
+    "source_type": "company_blog",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:38.316655+00:00",
+    "authors": [],
+    "summary": "Where Medicinal and Computational Chemistry Come Together We are delighted to invite drug hunters, compound enthusiasts, and molecule designers back to the virtual DrugSpace Symposium. The fifth edition takes place on December 9, 2026, under the theme “The Path to Digital Chemistry,” and turns the spotlight on where computational and medicinal chemistry meet. New approaches […]",
+    "doi": null,
+    "company_slug": "biosolveit",
+    "keywords_matched": [
+      "computational chemistry"
+    ],
+    "extra": {},
+    "dedupe_key": "url:https://www.biosolveit.de/2026/10/06/drugspace-2026-path-to-digital-chemistry"
+  },
+  {
+    "kind": "news",
+    "title": "25,000 shares worth $125K are proposed for sale by Recursion (RXRX) director Robert Hershberg. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN2VESzVqSEFiUmFWMEs3RUJ6SWV5UHp1bXdxd0IzaDNyZWRqeTYzYVdxXzVHcFJBQVRBeUVBMEN0NnZ0SndZNWdCbVhaTG1vek1qSmktVWZWblVVRzRHNEwteXRKekFiUjlQUEZUNDkwYnZWZXU3TUs4UnBncUMyRGQzOC1CempkU04xS0JMQVUyVy04MzV6WWhPUEF4NHNHOVVwM0plNE1aUQ?oc=5",
+    "source": "Stock Titan",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:39.340168+00:00",
+    "authors": [],
+    "summary": "25,000 shares worth $125K are proposed for sale by Recursion (RXRX) director Robert Hershberg. Stock Titan",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqgfbvv95cuxnn2veszvqsefiumfwmes3ruj6swv5uhp1bxdxd0izadnyzwrqetyzyvdxxzvhcfjbqvrbeuvbmen0nnz0sndznwdcbvhatg1vek1qsmktvwzwblvvrzrhnewtexrkekfiujlquezundkwynzwzxu3tus4unbncumyrgqzoc1cempku04xs0jmqvuyvy04mzv6wwhpuef4nhnhovvwm0plne1auq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Recursion Pharmaceuticals (Ondo Tokenized Stock) Analytics - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbFpOa0o1ay0wbzZYaTNPM2ljSlN3OFR0LUFUd3I1eWZURE5kSHdiVzNadjVxakltc0gzaURJUlhTRmF3MW11Ul96REpuZ21CTUFsS0dUN0NWbmFWZkQ0ZWdrQUFwNl9JcmlDWWFJOHBObGR5eElEcHZQR0FwdXZJU1FDQy1hYkQ0b09RNQ?oc=5",
+    "source": "CryptoRank",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:39.340439+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals (Ondo Tokenized Stock) Analytics CryptoRank",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijafbvv95cuxnbfpoa0o1ay0wbzzyatnpm2ljsln3ofr0lufud3i1ewzure5kshdivznadjvxakltc0gzaurjulhtrmf3mw11ul96repuz21ctufss0dun0nwbmfwzkq0zwdrqufwnl9jcmldwwfjohbobgr5eelechzqr0fwdxzju1fdqy1hykq0b09rnq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Recursion Pharmaceuticals (Ondo Tokenized Stock) Exchanges RXRXON Markets | Buy & Sell & Trade - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWw0dmtEMlhwSExHdE1sUEYtUTVpNTljeFdTZmZPcFVTTGQ4ZkNHZnNOTHhuRXZjaHJyTTZjbzhRMnFuNmVHaXFyOXl5SEhrX2dXNFpoZURsMzVLTW5pYnpQMThJVExVeUlJaUZzTEZZZ3h5ZUtndk0wbXZBNUdtWV8tTWVEdmo5M3g0RA?oc=5",
+    "source": "CryptoRank",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:39.341132+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals (Ondo Tokenized Stock) Exchanges RXRXON Markets | Buy & Sell & Trade CryptoRank",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijafbvv95cuxobww0dmtemlhwsexhde1sueytutvpntljefdtzmzpcfvttgq4zknhznnothhurxzjahjyttzjbzhrmnfunmvhaxfyoxl5sehrx2dxnfpozursmzvltw5pynpqmthjvexveuljauzztezzz3h5zutndk0wbxzbnudtwv8ttwvedmo5m3g0ra?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Recursion Pharmaceuticals (Ondo Tokenized Stock) - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQl9RZnFEOW5OTm05XzVqeUlqakV3dHVmYmctTjdCSjVicXNUU3ptNUl0WXhWZG5YU241YjBTY3hqejdsUzdoZklrd1lYVnIzRGlqeEZaY05WSUxPVWVQUkFCT0xNdjVmS2pHRWRRZzBQdUQ4Um5iY1lTdW92S1pUandwS28?oc=5",
+    "source": "CryptoRank",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:39.341560+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals (Ondo Tokenized Stock) CryptoRank",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmihafbvv95cuxoql9rznfeow5otm05xzvqeulqakv3dhvmymcttjdcsjvicxnuu3ptnul0wxhwzg5yu241yjbty3hqejdsuzdozklrd1lyvnizrglqeezay05wsuxpvwvqukfct0xndjvms2phrwrrzzbqduq4um5iy1ltdw92s1puandws28?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Why Did Four Biotechs Surge Up to 30.7 Percent: Vaxcyte (NASDAQ:PCVX), Novavax (NASDAQ:NVAX), Recursion (NASDAQ:RXRX), Ginkgo (NYSE:DNA)? - kalkine.ca",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZjlkb3RuOVpiaDFwV3pqWFRDX1R6WHBJdWRpVVRCeVFIcVpRZm5CZXgwODBhZkVTcGtZRXA1VE1heC1zbV9WUmlrUFJsNEZYTmp2YlZEQ051S1VIRmZheVFhQTRCLWQ4Z3U4OVFzbHpzTThWRmhtQUs1TTd5QWlzX0xQdHRJblBkSkJKUDlkMnFkMDdaQmpnX0I2Rnh6MlpPVG1tS0F3ckJOdkhXemY4X1FrMTRHZjFaa0VXMUE5RUI2MnR5cUxWMjhmSXdYWnJvUzk4bkRQMVcwUW9Ja1RwZDI5MkY4d1BzVV83TQ?oc=5",
+    "source": "kalkine.ca",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:39.348136+00:00",
+    "authors": [],
+    "summary": "Why Did Four Biotechs Surge Up to 30.7 Percent: Vaxcyte (NASDAQ:PCVX), Novavax (NASDAQ:NVAX), Recursion (NASDAQ:RXRX), Ginkgo (NYSE:DNA)? kalkine.ca",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi7afbvv95cuxqzjlkb3ruovpiadfwv3pqwfrdx1r6whbjdwrpvvrcevficvprzm5czxgwodbhzkvtcgtzrxa1ve1hec1zbv9wumlrufjsnezytmp2ylzeq051s1virmzhevfhqtrclwq4z3u4ovfzbhpztthwrmhtqus1ttd5qwlzx0xqdhrjblbkskjkudlkmnfkmddaqmpnx0i2rnh6mlppvg1ts0f3ckjodkhxemy4x1frmtrhzjfaa0vxmue5rui2mnr5cuxwmjhmsxdywnjvuzk4bkrqmvcwuw9ja1rwzdi5mky4d1bzvv83tq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "What Anthropic’s AI biology experiment actually showed - IBM",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZmpmeWsyejA2eFFOUWRnb2ZrRVBXX2tDVTJ1ajJ2UlF2Y0FfVTFGeWRoWmR4Vi1DdTU1RDNzQjZWY0VtbnZNdWJmNGNnYmdZQ1JVLXhSSE54Tm02T0U0QXp3RkNWanNtckxPMXB1NDNYbkJMZ3NObV96QWpoeGU2cw?oc=5",
+    "source": "IBM",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T16:15:41.858890+00:00",
+    "authors": [],
+    "summary": "What Anthropic’s AI biology experiment actually showed IBM",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmigafbvv95cuxozmpmewsyeja2effouwrnb2zrrvbxx2tdvtj1ajj2ulf2y0ffvtfgewrowmr4vi1ddtu1rdnzqjzwy0vtbnzndwjmngnnymdzq1jvlxhsse54tm02t0u0qxp3rknwanntckxpmxb1ndnybkjmz3nobv96qwpoegu2cw?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "alcedaplin (MZE829)",
     "url": "https://drughunter.com/molecule/alcedaplin-mze829",
     "source": "Drug Hunter",
@@ -413,6 +699,90 @@
   },
   {
     "kind": "news",
+    "title": "How AI is transforming biopharma manufacturing facilities of the future - BioPharma Dive",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdXRZUE42TFBvb2hnR3pjRWt3Q3JLMEdhUWdOYTFTVkhIOXBaWjc4RjIwR1J5SGk5VEZydWdYOFE5am5ZeXlXVnVGblc5V0VfS3UwOGdyc05CdzNGWDVvYWRhNXFjbjBZd013UjJsdzhCaFkyU2lzY0Q2TGN2MXI0UURGUTVjckZ5X3FaaXdJM1NzbEkwcWg1Y3cwcV9rZTQzUVhRUHNnMml0WjJHMHVLZTdFVnZuZw?oc=5",
+    "source": "BioPharma Dive",
+    "source_type": "news",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-06T16:15:25.633011+00:00",
+    "authors": [],
+    "summary": "How AI is transforming biopharma manufacturing facilities of the future BioPharma Dive",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmitgfbvv95cuxpdxrzue42tfbvb2hnr3pjrwt3q3jlmedhuwdoytftvkhioxbawjc4rjiwr1j5sgk5vezydwdyofe5am5zexlxvnvgblc5v0vfs3uwogdyc05cdzngwdvvywrhnxfjbjbzd013ujjsdzhcafkyu2lzy0q2tgn2mxi0uurgutvjckz5x3faaxdjm1nzbekwcwg1y3cwcv9rztqzuvhruhnnmml0wjjhmhvlztdfvnzuzw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Twist Bioscience Soars on AI Drug Discovery Buzz - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdWhOaGxXM0lKRFBzblJWNFpIZUJoV2kwMktXV2ZJNzhHYzl3c1JlTmtUVWwwQWhRVjlwX1lRMUJGdXZMdXRTcl9ONU5PVGdUV3c2X0lxbVNXLW1MeEIydnRHNUdFQV9hb2wwYmo1b3Y2TlFvN2dteEpyNVBlQmZ1aE04VkppbWxLMkN5M1MwOWE?oc=5",
+    "source": "TipRanks",
+    "source_type": "news",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-06T16:15:25.633173+00:00",
+    "authors": [],
+    "summary": "Twist Bioscience Soars on AI Drug Discovery Buzz TipRanks",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmikafbvv95cuxpdwhoagxxm0lkrfbzbljwnfpizujov2kwmktxv2zjnzhhyzl3c1jltmtuvwwwqwhrvjlwx1lrmujgdxzmdxrtcl9onu5pvgduv3c2x0lxbvnxlw1meeiydnrhnudfqv9hb2wwymo1b3y2tlfvn2dteepynvblqmz1ae04vkppbwxlmkn5m1mwowe?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Replicating the \"Semiconductor Moment\": An AI Drug Discovery Version of the \"Bottleneck Trade\" Is Taking Shape—Who Will Be the Next \"Shovel Seller\"? - 富途牛牛",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQkhRMzZ3bjJ6c2ozeTRod3FaUHlYazdZYk9vUElmZjdUdi1Fcll5VGdZU3ZnTFNfczhFZFllRXQtR0R6VXk3ZWhrbWFOMkdYUTJaOWJnRURxNXVWNHhRcjR6dWhVclRyNC1VOVBlRGh1SUdOcjN6UDJ5aWEzLWhiMnpVZkNIZXJNQWxobWxRbmpyTUdMU0lIN3ZYeVY5c1hDYjNXSlZmRVM2bzhNdVBIXw?oc=5",
+    "source": "富途牛牛",
+    "source_type": "news",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-06T16:15:25.633862+00:00",
+    "authors": [],
+    "summary": "Replicating the \"Semiconductor Moment\": An AI Drug Discovery Version of the \"Bottleneck Trade\" Is Taking Shape—Who Will Be the Next \"Shovel Seller\"? 富途牛牛",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxpqkhrmzz3bjj6c2ozetrod3fauhlyazdzyk9vuelmzjdudi1fcll5vgdzu3zntfnfczhfzfllrxqtr0r6vxk3zwhrbwfomkdyutjaowjnrurxnxvwnhhrcjr6dwhvclrync1vovblrgh1sudocjn6udj5awezlwhimnpvzknizxjnqwxobwxrbmpytudmu0lin3zyevy5c1hdyjnxslzmrvm2bzhndvbixw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "RXRX Rises As Tempus AI Deal Locks In $42M - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFhQM1h0Z3kwaHpEZnNESktfWV9HQVVhUVQ1NC1JLUR6ZFJDdW9nZ0VYSGg4RlhsN3pwUmVFUHFjemtjVlhuM0hzWVFNQWRWaUNCY0Z3OFJMVHZCc2NYeXRYSjEzMFZjX2xsWjNZekt2VktQdmwyenpQcXJVV0w4OTgxV2JpTW1z?oc=5",
+    "source": "Timothy Sykes",
+    "source_type": "press",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-06T16:15:39.340303+00:00",
+    "authors": [],
+    "summary": "RXRX Rises As Tempus AI Deal Locks In $42M Timothy Sykes",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiiafbvv95cuxnzfhqm1h0z3kwahpeznnesktfwv9hqvvhuvq1nc1jlur6zfjddw9nz0vysgg4rlhsn3pwumvfuhfjemtjvlhum0hzwvfnqwrwauncy0z3ofjmvhzcc2nyexrysjezmfzjx2xswjnzekt2vktqdmwyenpqcxjvv0w4otgxv2jptw1z?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Diretor da OMS reconhece avanço da Fiocruz em vacina de mRNA - Tribuna do Agreste",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQai1KTTF2djFjWFdCZFBJTm5YeVN1Q3JWU0NWT0h2Mmd6NC1kLUt2UzhRUEFNLXlrR3M3ek5YU0duRGVFN2NyQWczc0IwZW9rRTZMYXVMc1IzNnV3Z1U0YUZGQkJINmhRSjFYT3MzalM2RGVJQzVHS1RhYzZ3Ym1uQmpvSVFPVUpIeUZkRFRXYW44N1hObDdhallVVHYwV0k4eTAxcjU2ei14dTloenZCb09MQ1VKWVBONFYzNA?oc=5",
     "source": "Tribuna do Agreste",
@@ -515,6 +885,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmixafbvv95cuxpvnfqtdlrbjy4btz0qk55edf2cjlcql82rtloblrtv3pvuxpprvjkuwsybulpckzhag5kb1lzcnf3bxhcaxkznc00sk1qnuz1snb4wg13sjvdvjfxafrjeg4wslnfwgnltktpwnhku0tmn0npeg9erhhbnjjfexrysjjwanfwqs05c2lockqywemyqxvhc1nvqm5lrlniukzstkfwrxmyr3y2agv6nhe0uvnuwvzwvehxzelxrc1pdk5sdmtv?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Redefining drug discovery: AI-driven strategies for efficient cancer therapeutics - Frontiers",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZFJBUW5MQUlEenNsWmlCRlFjVHYzVG9SUlc0ME5yVjlMSl9JSzlWVnZta3BrLThaYmp1VWZvQjJLeUozakZuM0FGY3UxNUV0NTF3eG5mc2VQa1dZbGRWTlp1V2VYdEhFSENiZ1F5dw?oc=5",
+    "source": "Frontiers",
+    "source_type": "news",
+    "published_date": "2026-10-04",
+    "collected_at": "2026-10-06T16:15:25.633382+00:00",
+    "authors": [],
+    "summary": "Redefining drug discovery: AI-driven strategies for efficient cancer therapeutics Frontiers",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmib0fvx3lxte55zfjbuw5mquleennswmlcrlfjvhyzvg9sulc0me5yvjlmsl9jszlwvnzta3brlthaymp1vwzvqjjleuozakzum0fgy3uxnuv0ntf3eg5mc2vqa1dzbgrwtlp1v2vydehfseniz1f5dw?oc=5"
   },
   {
     "kind": "news",
@@ -704,6 +1095,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxpaznwuktzdnj4sm1jclnzmxltynh2rkx3thvpzu41bs1nuwrtunfiwxbrd09vr0jiqwrcnc05owfza3vqwkjecktwef8zr0x5dkrnufbux3y4bddtwmpmwxztuwdjaxqtlvjmquvuzhpysjjtnnvbtnqwtuc0z0qztzi5wnz2ugxjum1gaku3zw16mhmtswhyzenhmkv0ekhpaxewrvfjm19ay2vpsuzhtg?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Could Tempus RNA License Alter The Investment Case For Recursion Pharmaceuticals (RXRX)? - Simply Wall Street",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWDhEZGZ3UEw5UFY2ZkU3YVJOaksxZ1lCYl9MclNLMVNzcldPcnJrQ2t2VXJUYVJ2NDZJSThaYnVVZ3BGTFpwSGJaNmVhc1RQNV9qbnZIV3NOb1lpRy1lNnVxdGJQdWZJbjBFcUc5ckE3NHZScjNNUmVFWlJPa0NlSDNYNkIzdUZCWk0yeXE5QmJXZFF6WlJINEhLU0hNMGlTY2VPQTJiUDYyNkxqVUtwdzhja1ZGQlJHcnk0SENGenBqenc0Z1lIdG1ZRFY5c3U4Wlo3TWlWX1RQbTViVE1IYS1EYWdtaFVWVG5IMmtjOGLSAfYBQVVfeXFMT0lBTDNJcmpaZWsxZHlTYS0tWkJaQmZmR09xOGl4VlZjbDR3cS1PamViN05OQWhqc0FVTnhmM0pzd1N1cXl3bThpX1FrNWxiNUsweXM0Ym1YaUZSVU9LRERSNktwMGJGUkdxTzRpMFpBQ1BCUVZhLUJDOWRWakdXRzBOMDBWVkJDcmZTZ0NROUNiWGhNb1ZvbGlac3owYnhxcFNiZ3RaUklSSGdMZ0xjVVF6TWZHcFV3NjJXWDJBVGdzUU0xZVoxQjN5anotb2wwTEk2ZXdXR25hRnluQmRlODVkNXVpSm5HZW9reE9jZ1FHSk9rT0h3?oc=5",
+    "source": "Simply Wall Street",
+    "source_type": "press",
+    "published_date": "2026-10-03",
+    "collected_at": "2026-10-06T16:15:39.340728+00:00",
+    "authors": [],
+    "summary": "Could Tempus RNA License Alter The Investment Case For Recursion Pharmaceuticals (RXRX)? Simply Wall Street",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi8afbvv95cuxpwdhezgz3uew5ufy2zku3yvjoaksxz1lcyl9mclnlmvnzcldpcnjrq2t2vxjuyvj2ndzjsthaynvvz3bgtfpwsgjanmvhc1rqnv9qbnziv3nob1lpry1lnnvxdgjqdwzjbjbfcuc5cke3nhzscjnnumvfwljpa0nlsdnynkizduzcwk0yexe5qmjxzff6wljinehlu0hnmglty2vpqtjiudyynkxqvutwdzhja1zgqljhcnk0sengenbqenc0z1lidg1zrfy5c3u4wlo3twlwx1rqbtvive1iys1eywdtafvwvg5immtjoglsafybqvvfexfmt0lbtdnjcmpazwsxzhltys0twkjaqmzmr09xogl4vlzjbdr3cs1pamvin05oqwhqc0fvtnhmm0pzd1n1cxl3bthpx1frnwxinuswexm0ym1yauzsvu9lrersnktwmgjgukdxtzrpmfpbq1bcuvzhlujdowrwakdxrzbomdbwvkjdcmztz0nrouniwghnb1zvbglac3owynhxcfniz3rauklssgdmz0xjvvf6twzhcfv3njjxwdjbvgdzuu0xzvoxqjn5anotb2wwtek2zxdxr25hrnluqmrlodvknxvpsm5hzw9ree9jz1fhsk9rt0h3?oc=5"
   },
   {
     "kind": "news",
@@ -38228,6 +38640,27 @@
   },
   {
     "kind": "news",
+    "title": "Estudo clínico da vacina adjuvada contra gripe para idosos do Instituto Butantan avança e recruta novos voluntários; saiba como participar - Instituto Butantan",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVnhxZ0t4eURhTmJMZEt6VDRWRWdGNmVGc1JNeDRPTzFQaUFwd2J1cF93REtlME4ybFExTlN6R3dRQUVZUlotbjJvV1E5NjBnSHhaSE5ua180NlctYVZiUUtoZWgycHE0aDFZRjlQRGVZQ2RmekxRaXlCdUplN0xZMmtmZ0MzSXdOWDQwNmJqeE9rM1VFLWxtUFE3TUg1NXczVTlCcUlpWFZWZTNxdkhib2pRZTIyRkw4QWZFUkVURVJYWG1GRUo1b3hIZmhWbEYzTGZiY0pLLVE5M1RjRjZlWFhUWjdEaVJ0eGtrVUEzdUtsTERpVXctUkV0ck9zTWNG?oc=5",
+    "source": "Instituto Butantan",
+    "source_type": "news",
+    "published_date": "2026-06-25",
+    "collected_at": "2026-10-06T16:15:32.141004+00:00",
+    "authors": [],
+    "summary": "Estudo clínico da vacina adjuvada contra gripe para idosos do Instituto Butantan avança e recruta novos voluntários; saiba como participar Instituto Butantan",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmigajbvv95cuxovnhxz0t4eurhtmjmzet6vdrwrwdgnmvgc1jnedrptzfqaufwd2j1cf93retlme4ybfextln6r3drquvzulotbjjvv1e5njbnshhase5ua180nlctyvziuutozwgyche0adfzrjlqrgvzq2rmekxraxlcdupln0xzmmtmz0mzsxdowdqwnmjqee9rm1vflwxtufe3tug1nxczvtlcculpwfzwztnxdkhib2prztiyrkw4qwzfukvurvjywg1gruo1b3hizmhwbeyztgziy0pllve5m1rjrjzlwfhuwjdeavj0egtrvuezdutsterpvxctukv0ck9ztwng?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "NVIDIA launches BioNeMo Agent Toolkit; Tecan adopts for Lab AI - Manufacturing Chemist",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLVRKMGNVeDNOY1djQzJKNGw3bjlFWWJtLUozajlSeGU4Q3V2TlJHbWd6Ukc1ZWZpaFN2RUdJQ3RlaHo3dm1URFNvZ3N5ZzlMS1MxUDFsdENhTmxxSkhPRnk0THJqdU9FSjJoc2Y5b2dHN09uN0pLUzJlVnNVUVEtRnI4V1JvRG9lR05n?oc=5",
     "source": "Manufacturing Chemist",
@@ -39382,6 +39815,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi3gfbvv95cuxnckh5ynjqruvbuvqttvrwmwfqoepnz2x4zmtrd1jcq1vqm3g1n04tm0rvmglqq3vfcditbzzfuvc1s0dtajvubg8ystntsjbtn3lfdkq4vmdjagfaatb6cgf5zny2btzmexlwehjvnxbidlqtn3hfbupvszjfynjllvnmz3dmmnz3vvrgwvpyzxdonzhrmzkzyzjznzjvy25rsllprfhyv0e3tlhyqnfhajjbys1cduq1wg1gmvo5c3jsrwgym2vxzvflnmx1vm9ny1hcm19otxjqadzrque?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Instituto Butantan avança em ensaio clínico da vacina contra dengue para idosos e mantém seleção de voluntários no Sul do país - Instituto Butantan",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeHpHNXR4TGgwcUpfMUM4RjFRbEQyOGxaOFFDbXRwdXZ5cFh0cDVnMnh5TTlodFFiMjcwUDZJVW44M21vR2h2Y0Z2Qi1waUtTbmRaQWRRQkhRcDFtR1ExcjBQRlRWdHBTM2RaNThERlpoWFQ3OUJlaGNjNzNqb2d4eE11bnVUVWdmY1R1OEtMRVp0LTVoOWRGV2V0SXVHRDlGVzdYeDRndnd4MzNrZ2J5UEVQcWRWZWZEbzZqM2RQeHYtRnE2akMyeGxxb2U1T0g0dE5yeWw5UWZ6VzlIYXkwTFB2RWFvdVh1bDV4cGNMeVA?oc=5",
+    "source": "Instituto Butantan",
+    "source_type": "news",
+    "published_date": "2026-06-19",
+    "collected_at": "2026-10-06T16:15:32.141172+00:00",
+    "authors": [],
+    "summary": "Instituto Butantan avança em ensaio clínico da vacina contra dengue para idosos e mantém seleção de voluntários no Sul do país Instituto Butantan",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi8afbvv95cuxoehphnxr4tggwcupfmum4rjfrbeqyogxaoffdbxrwdxz5cfh0cdvnmnh5ttlodffimjcwudzjvw44m21vr2h2y0z2qi1wauttbmraqwrrqkhrcdftr1excjbqrlrwdhbtm2rantherlpowfq3oujlagnjnznqb2d4ee11bnvuvwdmy1r1oetmrvp0ltvoowrgv2v0sxvhrdlgvzdyedrndnd4mznrz2j5uevqcwrwzwzebzzqm2rqehytrne2akmyegxxb2u1t0g0de5yeww5uwz6vzliyxkwtfb2rwfvdvh1bdv4cgnmeva?oc=5"
   },
   {
     "kind": "news",
@@ -42692,6 +43146,48 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmidkfvx3lxtfb6qlawvtz6wgrcr19iegwybdzpq0o1r3pddlbmteq3otzpswnwsflpewvycxj6nxyyqupwyvfbbloywktdvgvcdkrqukjsv2jtdng1audjuwrdz1rvbjdwsgdvsdbktkh1edzeexjkmdzltl9yegc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Dengue: qual é a diferença da vacina do Butantan que foi suspensa e a fabricada pela farmacêutica Takeda? - O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR0t4bFBiZm5VcWZsMm4yYnR5ZmpZVWJ3V0FfVGprVmtQSU1RTnNObS1ReXJBWnZiVHowZk5xTDh1anFjZ1RWUERtUlJVWVVMRXlBbUpVTWhGOHduUm5oekhFdm1NOEtEWDNpSlp1dWhYNDJ3Zmt2WDgtS1U0S2w0Zm9xd3R5Q1pRWVdZcXZxOW5xcXRPTUhIWnQyVHhMVXdjdFNYUDVacF8wbTE3SDdZUWpsek1OME5Vb2Y2RHhjRC1STExtajh5MTZTQS1wb2g2WVhpVHEwcDVDRlR1d043UmdRNFFkbGMtS01iejVOQQ?oc=5",
+    "source": "O GLOBO",
+    "source_type": "news",
+    "published_date": "2026-06-08",
+    "collected_at": "2026-10-06T16:15:32.141439+00:00",
+    "authors": [],
+    "summary": "Dengue: qual é a diferença da vacina do Butantan que foi suspensa e a fabricada pela farmacêutica Takeda? O GLOBO",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi7wfbvv95cuxnr0t4bfbizm5vcwzsmm4yynr5zmpzvwj3v0ffvgprvmtqsu1rtnnobs1rexjbwnzivhowzk5xtdh1anfjz1rwuertuljvwvvmrxlbbupvtwhgohduum5oekhfdm1noetewdnpslp1dwhyndj3zmt2wdgts1u0s2w0zm9xd3r5q1prwvdzcxzxow5xcxrptuhiwnqyvhhmvxdjdfnyudvacf8wbte3sddzuwpsek1ome5vb2y2rhhjrc1stextajh5mtztqs1wb2g2wvhpvhewcdvdrlr1d043umdrnffkbgmts01iejvoqq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "SUS suspende uso de vacina da dengue do Butantan - 08/06/2026 - Equilíbrio e Saúde - Folha de S.Paulo",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcGZaVnItcnBlT1FJWnl1TmU1NVpNTFNIWng4Tl9ZdFpKNy1DYndSUkdNZUtSNnFMR3E2eGdydFI5S2xIT3lLQnhQWHNYLUdzNlc1MWNTaUJDNjZrVW5EdWRyZTJzSnIzdlRSa1Y3bGpLM09Oakk0dnE2THlkcEVQVjZ4a3BJX1h5WnlYVng3VnBrZm5wS042Tm1KSnpUcTJQb0R3blNkQ29OeWhYZklnMk5vU1lfRTJINFh3Q0VtZE9zaUs4bUs4NzdheGhBZWd2?oc=5",
+    "source": "Folha de S.Paulo",
+    "source_type": "news",
+    "published_date": "2026-06-08",
+    "collected_at": "2026-10-06T16:15:32.143705+00:00",
+    "authors": [],
+    "summary": "SUS suspende uso de vacina da dengue do Butantan - 08/06/2026 - Equilíbrio e Saúde Folha de S.Paulo",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi0afbvv95cuxqcgzavnitcnblt1fjwnl1tmu1nvpntfniwng4tl9zdfpkny1dyndsukdnzutsnnfmr3e2egdydfi5s2xit3llqnhqwhnyludznlc1mwntaujdnjzrvw5edwryztjzsnizdlrsa1y3bgplm09oakk0dne2thlkcevqvjz4a3bjx1h5wnlyvng3vnbrzm5ws042tm1ksnpuctjqb0r3blnkq29oewhyzklnmk5vu1lfrtjinfh3q0vtze9zaus4bus4nzdheghbzwd2?oc=5"
   },
   {
     "kind": "news",
@@ -47118,6 +47614,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmigwfbvv95cuxqr1jtnjjpdhhtugrktnrsu3bocm9ickhtdw9dr2s3yjvxbedzrhvjcjjtvfrmdnrcegzoagt2el9laes4efy1t2lfm0zfsw1pwxo0zk5qrepmeml6wgfwt0hzbek5qjjnv25fsepqqvjxsnn3vzlrofbymgw1wvzuvux1wq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Posso tomar a vacina da dengue do Instituto Butantan mesmo se já tive dengue? - Instituto Butantan",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORHAtRVlUNGlFdHExajQtOWVKMElEbEVWaEE3VW9JWXhVMTFZNFItU0lld1Vobml3ZHR3ZXlZZ1pxeGpNeXJPaFhNeFVDb0FRRDJaQlZZVERGZ2dhTnJHRWM0M1Q2NngzMktBbzhEcFBYaXZHejhDV1B3VjNmQVB3ZkptRW1RM3k0ZmNjOFdfUGQ1LXZUUkZ6MUJnQmdGbGcta3UyYXJHN2JuRU1ZSmlR?oc=5",
+    "source": "Instituto Butantan",
+    "source_type": "news",
+    "published_date": "2026-05-06",
+    "collected_at": "2026-10-06T16:15:32.141238+00:00",
+    "authors": [],
+    "summary": "Posso tomar a vacina da dengue do Instituto Butantan mesmo se já tive dengue? Instituto Butantan",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmirwfbvv95cuxorhatrvlunglfdhexajqtowvkmelebevwaee3vw9jwxhvmtfznfitu0lld1vobml3zhr3zxlzz1pxegpnexjpafhnefvdb0frrdjaqlzzvergz2dhtnjhrwm0m1q2nngzmktbbzhecfbyaxzhejhdv1b3vjnmqvb3zkptrw1rm3k0zmnjofdfugq1lxzuukz6mujnqmdgbgcta3uyyxjhn2juru1zsmlr?oc=5"
   },
   {
     "kind": "news",
@@ -60386,6 +60903,27 @@
   },
   {
     "kind": "news",
+    "title": "Generative AI In Chemical Market Size | Industry Report 2033 - Grand View Research",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGh1c3BQWVZTMW9ranNkT0pvTmp0NEVjdlR5N0NhSGc0Y1NQa0F4QzlJWThDWm9SOU5FUkZja1c2Qkg0ZTZqZjZUaF9UQ1A1YkZsX00zbGw5elBiU3BDR3R4TVpUWExtNmlDTFZKLWVXQXR0YmNSeUR0bjZZYjFOZ3ZtLWVLQTNNOVNvclotOS1uUQ?oc=5",
+    "source": "Grand View Research",
+    "source_type": "news",
+    "published_date": "2025-08-01",
+    "collected_at": "2026-10-06T16:15:26.533867+00:00",
+    "authors": [],
+    "summary": "Generative AI In Chemical Market Size | Industry Report 2033 Grand View Research",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "generative chemistry\" AI"
+    ],
+    "extra": {
+      "query": "\"generative chemistry\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmikgfbvv95cuxpwgh1c3bqwvztmw9rannkt0pvtmp0nevjdlr5n0nhsgc0y1nqa0f4qzljwthdwm9sou5fukzja1c2qkg0ztzqzjzuaf9uq1a1ykzsx00zbgw5elbiu3bdr3r4tvpuwextnmldtfzklwvxqxr0ymnseur0bjzzyjfoz3ztlwvlqtnnovnvclotos1uuq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "On-demand recording and key takeaway available: Insilico introduces generative AI platform enhancements across drug discovery stages in Pharma.ai summer updates webinar - Insilico Medicine",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMzBvUGxyU213RFhBRlJZTS1yVXh2TndMU1NoVkRHRVl6RGg5bzBYZ1h3Z2ktYU5XeGUtV2pzUUM5WVBRaW0zOHJlT0VqczJvQXREYnVtVTZNUTFUYXJVUWxVc3BhR2ROVmpiOTlOeVhzaGQ0eGJSNXNjbExwTl9WSV9xZw?oc=5",
     "source": "Insilico Medicine",
@@ -66248,6 +66786,27 @@
   },
   {
     "kind": "news",
+    "title": "Train Generative AI Models for Drug Discovery with NVIDIA BioNeMo Framework - NVIDIA Developer",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcFpiemRjcXY5UG4tWWJKUFg4c0dTVGt4MjhjakZqTmpBZVB1Sks4a0R1SHZsMVlvQThrbF9rQ2ZuTVI0YnY3YUxtMmpLczhvaWZudlhmVkZYSmpwUUVrODdLOVRPU3pMZ20zSnRwYVZSSnl5cERNWUJha1BaalFRTnJXSzNyTG1fa0oxbEFPS3NXZXJJa3g2YUlxcWVncUFSVnB5cWFR?oc=5",
+    "source": "NVIDIA Developer",
+    "source_type": "news",
+    "published_date": "2023-11-29",
+    "collected_at": "2026-10-06T16:15:26.534338+00:00",
+    "authors": [],
+    "summary": "Train Generative AI Models for Drug Discovery with NVIDIA BioNeMo Framework NVIDIA Developer",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "generative chemistry\" AI"
+    ],
+    "extra": {
+      "query": "\"generative chemistry\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmipgfbvv95cuxncfpiemrjcxy5ug4twwjkufg4c0dtvgt4mjhjakzqtmpbzvb1sks4a0r1shzsmvlvqthrbf9rq2zutvi0yny3yuxtmmplczhvawzudlhmvkzysmpwuuvroddlovrpu3pmz20zsnrwyvzssnl5cernwujha1baalfrtnjxsznytg1fa0oxbefps3nxzxjja3g2yulxcwvncufsvnb5cwfr?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "NVIDIA and Genentech join forces on AI in drug discovery - drugdiscoverytrends.com",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN0VvaWJLcVE5cjd2bTdMVWltbm5obUxmRzFFcnJsRFRZaVhmeERaYlNIZ3JuR1dCQkVJX0l1VlhpWVlYSUhHb21qblFQMlk1RVNwUURsVlUzY0JkeXdjemYyc0pzTjN6TDNTSXhEUDVlQi1NbEtvZndvWW5LWVlLMlpTbUljMzNKclhmMFduY2xPMHpFMjFYWC1qS0lTS3NwQlhwWUVCR2NBMHlBS1lFbDRGWVhLNE1GRGFUTnZRMmljeUIt?oc=5",
     "source": "drugdiscoverytrends.com",
@@ -67107,6 +67666,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmibkfvx3lxtfbize54buv3zlb3zfvrnxfzoetjmjdrtxzhte1vqxm0awdodkntaxn2uu1fbfi5oddqyljpq2tkc3bflvzgtwj5dmn2uzhhb0g5neftumnmoxqxavlfakozueprlvhlbg1fekxjetdn?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Vacina contra esquistossomose estará disponível no SUS em 2025 - Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOak4taFpDMkFpai11LUJLd1hfLURrcWhuNHRPOVBGWEdnNzQwei1QXzlIM3ZSZ2NiR1NCSUJ4cUM0YUZVUGhQc1kyWWhheWk1VzVlczdFYURWdHloeHdDQ2QzS21Sd2FDSXNxVHF5ZHQweTNIZGVudE9GVGhKNU9oNHVDVjJGQTc3N3Z4MmdiRllWVUMzd1RBS3lRTmlEc0JzRjB6VVVoQUN2REVJNGdzZlU0S1VtRDRO?oc=5",
+    "source": "Agência Brasil",
+    "source_type": "news",
+    "published_date": "2023-06-12",
+    "collected_at": "2026-10-06T16:15:32.894932+00:00",
+    "authors": [],
+    "summary": "Vacina contra esquistossomose estará disponível no SUS em 2025 Agência Brasil",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiuafbvv95cuxoak4tafpdmkfpai11lujld1hflurrcwhunhrpovbgwednnzqwei1qxzlim3zsz2nir1ncsuj4cum0yuzvughqc1kywwhhewk1vzvlczdfyurwdhloehddq2qzs21sd2fdsxnxvhf5zhqwetnizgvude9gvghknu9onhvdvjjgqtc3n3z4mmdirllwvumzd1rbs3lrtmlec0jzrjb6vvvoqun2revjngdzzlu0s1vtrdro?oc=5"
   },
   {
     "kind": "news",
@@ -69191,6 +69771,27 @@
   },
   {
     "kind": "news",
+    "title": "Boletim da Fiocruz mostra sucesso da vacinação contra a covid-19 - Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNlNfdTU3S1Zfb3VtRG5NdjZWeFN4eHpxU2t0R2RYeE9BdWdDY04xbFlDVjlhX1R4a1l1UmVUMWU5RVZWbUhkUTFsNmRlbkdNaUlOUDZ6dVJLb0dWY0plVF8xeGlyZFZlbFVwaUJVaEJEQkNRQi1Md2VYZFpfVFlTUDd4aGQyZ0pkVWZCUkhSTGgtVGdBNmdURHFwcDNkanlpSnI2MWZvdDJoMGxZbmFWTHdmcDVKaEVO?oc=5",
+    "source": "Agência Brasil",
+    "source_type": "news",
+    "published_date": "2021-10-07",
+    "collected_at": "2026-10-06T16:15:32.894635+00:00",
+    "authors": [],
+    "summary": "Boletim da Fiocruz mostra sucesso da vacinação contra a covid-19 Agência Brasil",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiuafbvv95cuxpnlnfdtu3s1zfb3vtrg5ndjzwefn4ehpxu2t0r2ryee9bdwddy04xbfldvjlhx1r4a1l1umvumwu5rvzwbuhkutfsnmrlbkdnauloudz6dvjlb0dwy0plvf8xeglyzfzlbfvwaujvaejeqknrqi1md2vyzfpfvfltudd4agqyz0pkvwzcukhstggtvgdbnmdurhfwcdnkanlpsni2mwzvddjomgxzbmfwthdmcdvkaevo?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Fiocruz recebe lote de IFA para produzir 5,1 milhões de doses de vacina contra covid-19 - Valor Econômico",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcFpUMTd1WnUxaEh0U2laN2taZnd5VjUzdFdrUk9HVUpQdmdqRDJkTEl5MTZ0WTRQY25NaXRWNm1FcU0yVjdtTGx2ajJUb3FCdWoyWEo5UW1RY2dHQmc5b1lXY2JGOTZqTXdGVWl1eHpQZS1KZFVDLThVUkVaQ3M3R2NoaFpGUTljeklGS0tkMEpLWnhDaFcxeHpPOHRfX1pKUGVIdUxTU0ZKM3pzTDZMOXZKTVhiMWpCb0dORVlqUko1aFF3Sko5dDhWWFhpSlVpT3hua3NfOW7SAecBQVVfeXFMT2JlNHlsamdaVVJobnM2VlBjSkpRM29uWXZzYklPMXlxQUdPTFZHRUlKeWtkUWNwcDliVHZVX1luMnBxWWVWcVU4TE5KUWZDSVdQTThwODBESlhzR3R5cHBxLTAtQU1yTEgzM2ppSE1iajVkY2Q0dGs3U25qMGhvT3JaanMzRjZCNDFyTm1sZHowbjVaNW4wdklwVUFWVmEyOXk0M0Z4MHpTMDNpLU9nVF9xeFF0VkI4MUx2ZFdWMEpKRjJ4MXMtNzN2OFIxZ1BrUHNfTU42NHFlU2xkd3UyUE4zajJvMlIw?oc=5",
     "source": "Valor Econômico",
@@ -70112,6 +70713,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmilwfbvv95cuxqrmrln1dwbgjxofffazrwu18tunhfrgxnndznvmh0yw4tyndnu0o3q1v5owjyrxy5b1hrtdjlqzvuazg2muzdemhyt2k1nnhyrf9jntltbnz3cwtjakvqq2zwczy5x2jxdld6sghsew9wdnvdywzxyuhxcgyzq3nwu3rysgnxcxjmqtatv3h3bml0u2zhawmw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Iktos Announces Additional Collaboration With Merck KGaA, Darmstadt, Germany in AI for New Drug Design - Lelezard",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHZseDIzLTdGcTcyQy1CMkV5b3pXNGc5ZzZlSERPNU9iczVQa1NCMDlNYzZCU2swNHBjZWtzNkk4dkd1SkJoVlkyX1E4U3hwSFMwRlRRMVJVclljNGpVLXk4cVlzZDdtWkQxUGJMdWJKbWNLNmJXbVVTMmgwYmZlLVphOUNhMlNSTUtBazZyYjBIMHphVmNFSjJRLTFqd0ZJa19FTkFB?oc=5",
+    "source": "Lelezard",
+    "source_type": "press",
+    "published_date": "2020-11-05",
+    "collected_at": "2026-10-06T16:15:39.715626+00:00",
+    "authors": [],
+    "summary": "Iktos Announces Additional Collaboration With Merck KGaA, Darmstadt, Germany in AI for New Drug Design Lelezard",
+    "doi": null,
+    "company_slug": "iktos",
+    "keywords_matched": [
+      "drug design"
+    ],
+    "extra": {
+      "query": "\"Iktos\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmipgfbvv95cuxnohzsedizltdgctcyqy1cmkv5b3pxngc5zzzlserpnu9iczvqa1ncmdlnyzzcu2swnhbjzwtznkk4dkd1skjovlkyx1e4u3hwsfmwrlrrmvjvclljngpvlxk4cvlzzddtwkqxugjmdwjkbwnlnmjxbvvtmmgwymzllvphounhmlnstutbazzyyjbimhphvmnfsjjrltfqd0zja19ftkfb?oc=5"
   },
   {
     "kind": "news",
