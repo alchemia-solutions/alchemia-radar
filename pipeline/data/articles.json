@@ -712,6 +712,56 @@
   },
   {
     "kind": "article",
+    "title": "Hippocampal granule cells balance energy and function along the Pareto optimal front",
+    "url": "https://doi.org/10.64898/2026.09.29.755037",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-06T01:52:29.808272+00:00",
+    "authors": [
+      "Mittag, M.",
+      "Bird, A. D.",
+      "Mongiat, L. A.",
+      "Roth, A.",
+      "Cuntz, H.",
+      "Jedlicka, P."
+    ],
+    "summary": "The dentate gyrus' principal neuron, the granule cell (GC), plays a key role in pattern separation, transforming similar inputs into dissimilar outputs. We used a new measure based on information theory to evaluate this transformation in an experimentally derived in silico GC model with realistic ion channel distributions across its dendrites. We found that model performance aligned well with current-clamp recordings from mouse brain slices. However, it was also possible to find artificial parameter combinations in the model that functionally outperformed the recorded cells while matching their action potential shapes. Rather than maximising computational power, the biologically realistic GC model balanced energy efficiency against increased functionality in a Pareto optimal way: No possible parameter combination was found to improve one of the objectives without impairing the other. Interestingly, immature GCs adopted a different weighted trade-off with a stronger emphasis on energy efficiency than pattern separation, but they remained Pareto optimal over their putative developmental trajectory. Our results support the idea that evolution favours neurons that can satisfy functiona",
+    "doi": "10.64898/2026.09.29.755037",
+    "company_slug": null,
+    "keywords_matched": [
+      "in silico"
+    ],
+    "extra": {
+      "category": "neuroscience"
+    },
+    "dedupe_key": "doi:10.64898/2026.09.29.755037"
+  },
+  {
+    "kind": "article",
+    "title": "Extending Hertzian Contact Area Theory to Plastic Deformation of Glassy Polymer Particles",
+    "url": "https://doi.org/10.26434/chemrxiv.15009933/v1",
+    "source": "ChemRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-06T01:52:38.028269+00:00",
+    "authors": [
+      "Ikki Takahashi",
+      "Yusuke Yasuda",
+      "Minoru Kato",
+      "Kazushi Fujimoto"
+    ],
+    "summary": "Quantifying the mechanical response of polymer particles under compression is fundamentally hindered by a deceptively simple problem: the contact area between the particle and compression plate can rarely be directly measured during deformation. Since Hertz formulated his contact theory in 1881, widely used Hertzian and adhesive contact models have remained largely confined to the elastic regime, leaving the plastic deformation behavior of polymer particles fundamentally out of reach. Here, we extend the original Hertzian contact area relation from elastic deformation to plastic deformation by combining it with the Boyce–Parks–Argon constitutive model. The contact area predicted by the model agree well with those obtained directly from all-atom molecular dynamics simulations of poly(methyl methacrylate) and poly(methyl acrylate) particles. When the framework is applied to experimental compression data of polystyrene and acrylic particles, it identifies clear yield points and shows that crosslinking density and particle-size effects can be understood within the established framework of bulk polymer mechanics. The framework provides a route to the intrinsic mechanical properties of p",
+    "doi": "10.26434/chemrxiv.15009933/v1",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {},
+    "dedupe_key": "doi:10.26434/chemrxiv.15009933/v1"
+  },
+  {
+    "kind": "article",
     "title": "Gag proteolysis drives HIV-1 envelope conformational closure through the gp41 cytoplasmic tail",
     "url": "https://doi.org/10.64898/2026.10.02.756164",
     "source": "bioRxiv",

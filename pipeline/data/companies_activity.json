@@ -106,6 +106,27 @@
   },
   {
     "kind": "news",
+    "title": "DeepMind unveils AI system that designs enzymes no living cell ever made - Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVG9LQ2FGZEVpQk53V3I1b0ZWT0tzVDdmLVNWbW0wMHhoYWp3YXFyQlRjalItYldXQXdUaUtkTXFDYlJpaHJNMHJkWl9TaEhOVzh4cnIxdWdKWDFmdHlWeFhwNUZtNTdVR0lLenU3eGFOYTJMemtnMEN0Y1dfTHEyR1htbTdnekh3VzNvWlZPaC1VLWJpWmh5REp4cHNfZVpyamc?oc=5",
+    "source": "Startup Fortune",
+    "source_type": "press",
+    "published_date": "2026-10-05",
+    "collected_at": "2026-10-06T01:53:12.577835+00:00",
+    "authors": [],
+    "summary": "DeepMind unveils AI system that designs enzymes no living cell ever made Startup Fortune",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiogfbvv95cuxqvg9lq2fgzevpqk53v3i1b0zwt0tzvddmlvnwbw0wmhhoywp3yxfyqlrjalityldxqxduautktxfdyljpahjnmhjkwl9taehovzh4cnixdwdkwdfmdhlwefhwnuztntdvr0llenu3egfoytjmemtnmen0y1dftheyr1htbtdnekh3vznvwlzpac1vlwjpwmh5rep4chnfzvpyamc?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "UAE scientists harness AI to discover potential blood cancer drug - thenationalnews.com",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb2lfNlViMjFRekdaRkpWamJRcUNHTEFDTDBjYWVHdm9UNkRGbnJnX0FwcWx2S0hNTUVOLUdnU1hMQWxORUNyM1o2X3F1aGZVOHRMbElKZVZ5Uk50Z3FaYXBzQlRUWF9mallhZThpX2t2bl82MHI2VFFfZ1VOTjhQeUh0SFdocTF1QXhoSlM0WHpvakFIOE1NczV1TnN1cEdoOHpTM2tlQlR1a0o2bklQVGF4RWhSc1RlTXc?oc=5",
     "source": "thenationalnews.com",
