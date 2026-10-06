@@ -166,6 +166,111 @@
   },
   {
     "kind": "news",
+    "title": "EU invests €65m to bolster key biotech data amid funding vulnerabilities - The Brussels Times",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeWRuQmRydFYwNWxwb3lLcHh6LWdNY3pSOHo4VjhlalZNdmlKQUU5S1lCQ2N3VHpxZmdTNzBRMzVicUQ3dnhTazdXc2pjeXo5THpCM3NST1hhODNkS1Vwbk5MSkV0ZDl2cUMyR0lnQ29IRXhXY3llYzNtd3UtSFg4UHhuRk5MM0V2eFJKVDFRS1pxRDNSeWh2dFJoNjUwOE5NR0txZXlVYk9jbU5tbVM1bWRkVDBkQUUwLXJtVzZLNFZwYU9NVkhNQ0J3N3otNDJzbHU1bjNtVUFrUHlRblBxVm9PZVdLYXNUSVdxUTdtSGh3Yi1RNkZOaDB1VThWaExXOFF2OWZya3c?oc=5",
+    "source": "The Brussels Times",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T20:33:02.149743+00:00",
+    "authors": [],
+    "summary": "EU invests €65m to bolster key biotech data amid funding vulnerabilities The Brussels Times",
+    "doi": null,
+    "company_slug": "expasy",
+    "keywords_matched": [
+      "ExPASy (SIB)"
+    ],
+    "extra": {
+      "query": "\"ExPASy\" OR \"SIB Swiss Institute of Bioinformatics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiiajbvv95cuxoewruqmrydfywnwxwb3llchh6lwdny3psoho4vjhlalzndmlkquu5s1lcq2n3vhpxzmdtnzbrmzvicuq3dnhtazdxc2pjexo5thpcm3nst1hhodnks1vwbk5mskv0zdl2cumyr0lnq29irxhxy3llyzntd3utsfg4uhhurk5mm0v2efjkvdfrs1pxrdnsewh2dfjonjuwoe5nr0txzxlvyk9jbu5tbvm1bwrkvdbkquuwlxjtvzzlnfzwyu9nvkhnq0j3n3otndjzbhu1bjntvufruhlrblbxvm9pzvdlyxnusvdxutdtsgh3yi1rnkzoadb1vthwaexxoff2owzya3c?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "A 50,000-share sale is proposed by director Blake C. Borgeson at Recursion (RXRX). - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQl9jaHRyUTJqSTdjY3VuVlI0ZUp5X21Pc2V3b2RySW1jYVBKRVA5UWlHWTNkUDAyVGNRVkdWV0NtSzdiQXdWVmx3MllmbERVLWRVSHAwRjRnbldRWTZpTlVZTVJmT2NBN0dJcWR0bDlMUTNSQ1dkcDNHSlNTaG1EX1h4aHJtMXdGZUtJM0lFMTNSRi1NVnlxRFQ2VVlSLTI4M3ZyNUY5V21Fdw?oc=5",
+    "source": "Stock Titan",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T20:33:03.749430+00:00",
+    "authors": [],
+    "summary": "A 50,000-share sale is proposed by director Blake C. Borgeson at Recursion (RXRX). Stock Titan",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqgfbvv95cuxpql9jahryutjqstdjy3vuvli0zup5x21pc2v3b2rysw1jyvbkrva5uwlhwtnkudayvgnrvkdwv0ntszdiqxdwvmx3mllmbervlwrvshawrjrnbldrwtzptlvztvjmt2nbn0djcwr0bdlmutnsq1dkcdnhslntag1ex1h4ahjtmxdgzutjm0lfmtnsri1nvnlxrfq2vvlslti4m3zynuy5v21fdw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "RXRX Stock Grinds Higher As Traders Focus On Runway And Range - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTRERFJsa0RxOXBoSUJTSnpJd2o3ckUwWEItMXV3QkN4RE9rMDBiNUFyTTUwYWFvREZaUDR1c2paX21POUh5MXNaTnNGeEtpcjdTaVZvc19WaWthbEtBTENGM2VXT29iTVF1ODhNZGhoaC1Na01KLThSa1lybzkzajVLSXlMalNEOWc?oc=5",
+    "source": "StocksToTrade",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T20:33:03.749565+00:00",
+    "authors": [],
+    "summary": "RXRX Stock Grinds Higher As Traders Focus On Runway And Range StocksToTrade",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiigfbvv95cuxnctrerfjsa0rxoxbosujtsnpjd2o3ckuwweitmxv3qkn4re9rmdbinufyttuwywfvrezaudr1c2pax21pouh5mxnatnngeetpcjdtavzvc19wawthbetbtengm2vxt29itvf1odhnzghoac1na01klthsa1lybzkzajvlsxlmalneowc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Recursion Pharmaceuticals Director Hershberg to Sell 25,000 Shares via Option Exercise - Kalkine Media",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaG80Y0xxUVhJYVZOSm9xeFJzR0FkNm51R0dwQ1VHaDV1TzBScVNGYk5EWEJfUVBxbTRlUFhCSkJOUC1TbTlDVU14bFpuNlE2dFNWY09pdWJWMWhrQklXWHNCNDlYdDEyT1NoRzI5d0kyRE1ydXI4czR4YXhZZ0txNkRQcmgweHYwVHhnaE55ZDJaQnliQU5IMVZ5b3I1dnZWZHdPMkhNclZWUzRoeGxidU0zWFBuOWoyR01pbTh6SGowTy1Xb1JJd3piclY?oc=5",
+    "source": "Kalkine Media",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T20:33:03.749831+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals Director Hershberg to Sell 25,000 Shares via Option Exercise Kalkine Media",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmizafbvv95cuxoag80y0xxuvhjyvzosm9xefjzr0fknm51r0dwq1vhadv1tzbscvngyk5ewejfuvbxbtrlufhcskjouc1tbtldvu14bfpunle2dfnwy09pdwjwmwhrqklxwhncndlyddeyt1norzi5d0kyre1ydxi4czr4yxhzz0txnkrqcmgwehywvhhnae55zdjaqnliqu5imvz5b3i1dnzwzhdpmkhnclzwuzroegxidu0zwfbuowoyr01pbth6sgowty1xb1jjd3picly?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google DeepMind chair and Alphabet chief scientist Demis Hassabis on the human brain: “a biological approximation to a Turing machine” - Martin Cid Magazine",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWV90Y1hxbGhXU0pHd29qc0F4RmYtaUZIdVFsY2RIMFRoWkRPSVI1LWQ3NkxYNHJwQ0p4Qmd0RThHSWZHRWk4VHRJc1pGZzlxTDVtQklsei1xclpwOTYtTTYyM2VzcXRtV2ZkNi1aV0pFY0pJMTh4Uk9aUlFZVHNmLTJXcXNWdFdIdUxMczBycURBYzhidTRXOE5RVlpZUW9NbGtJbmJGRDAtTFhvcEE?oc=5",
+    "source": "Martin Cid Magazine",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T20:33:05.239445+00:00",
+    "authors": [],
+    "summary": "Google DeepMind chair and Alphabet chief scientist Demis Hassabis on the human brain: “a biological approximation to a Turing machine” Martin Cid Magazine",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmirgfbvv95cuxpwv90y1hxbghxu0phd29qc0f4rmytauzidvfsy2rimfrowkrpsvi1lwq3nkxynhjwq0p4qmd0rthhswzhrwk4vhrjc1pgzzlxtdvtqklsei1xclpwotytttyym2vzcxrtv2zkni1av0pfy0pjmth4uk9aulfzvhnmltjxcxnwdfdiduxmczbycurbyzhidtrxoe5rvlpzuw9nbgtjbmjgrdattfhvcee?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Recursion Pharmaceuticals Shares Jump as AI Partnership Momentum and Short-Covering Appear to Lift Sentiment - Quiver Quantitative",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY1RSWWdKYVRhQV9aa1ZsTEN4ZU1mQ2dJMDlrRENwR0xtMEdQaENEZk1sTmRJaXQ1NkI1VndHSzJGU0xQTF9kSzFsY2VFYUZXVncyWGJRVS1FdWVCTVI3dHVaUEhmcUV6LVdtX2NMbTNmRTJBSmdGTVVTN3hJcUItM1BJLUR6MVZQcEhxQzkwSVNTakhnLWtQc0kxVHRzRENmYjZrcWZobnJmUXpnNTRpRUs0T0ZOcVhoMGhETEdwWUFFM1B0ODJXcGR4Zk1iNzk5RS1yMWlNay0?oc=5",
     "source": "Quiver Quantitative",

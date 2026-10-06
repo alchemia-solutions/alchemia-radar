@@ -668,6 +668,81 @@
   },
   {
     "kind": "article",
+    "title": "HIV-1 Ribonucleoprotein Complex Organization Facilitates Assembly of the Mature HIV-1 Capsid",
+    "url": "https://doi.org/10.64898/2026.10.05.756791",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T20:32:23.286830+00:00",
+    "authors": [
+      "Waltmann, C.",
+      "Gupta, M.",
+      "Engelman, A. N.",
+      "Lyumkis, D.",
+      "Voth, G. A."
+    ],
+    "summary": "The encapsulation of the viral RNA condensate inside the capsid is a crucial step in the late stages of the HIV-1 replication cycle. While it is agreed that RNA encapsulation depends on RNA-bound integrase (IN), that capsid-bound IN-RNA filaments are present within the capsid, and that the ribonucleoprotein (RNP) complex takes up only a fraction of the capsid volume, the timing of filament formation and ribonucleoprotein (RNP) encapsulation are unclear. Here, we ran virion-scale, coarse grained molecular dynamics simulations to identify how the organization of the RNP and IN in particular affects mature capsid assembly and genome encapsulation. These virion-scale simulations allow for direct comparison between experimental capsid morphologies and those self-assembled in the simulations. It was found, when relatively few tetramers are on the RNP surface, that IN tetramers could facilitate RNA encapsulation without filling a significant fraction of the capsid volume, but do not form a capsid-templated filament. When octameric IN-RNA filaments are modeled, it was found that WT-like capsid morphologies form only when the IN is organized as a single long filament, in agreement with rece",
+    "doi": "10.64898/2026.10.05.756791",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {
+      "category": "molecular biology"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.05.756791"
+  },
+  {
+    "kind": "article",
+    "title": "Validated Semantic Scoring Improves Filtering Generic Concepts from Knowledge-Graphs for Drug Repurposing Queries",
+    "url": "https://doi.org/10.64898/2026.09.29.755063",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T20:32:24.069625+00:00",
+    "authors": [
+      "Hodges, F.",
+      "Ramsey, S. A.",
+      "Koslicki, D.",
+      "Bazarkulov, A.",
+      "Roach, J."
+    ],
+    "summary": "When an ontology-based knowledge graph (a KG, containing information about genes, pathways, phenotypes, and molecular interactions) is analyzed using a biomedical computational reasoning system, the system can return unwanted generic concepts. Such generic concepts, in the context of a query about potential drug treatments for a disease, might include \"pharmaceutical preparations\" or \"antibiotics\". Filtering answers based on hand-curated block-lists or ontology Information Content (IC) is a remedy, but to our knowledge, (1) neither method has been validated against expert judgments of generality, and (2) IC is not available for the majority of nodes in the representative KG used in this work. In this study, three blinded domain experts rated representative lists of KG concepts for generality. We built a semantic precision score (SPS) from a concept's name and description alone, using a biomedical language model (BioLORD). For the purpose of filtering out generic answers from the results returned from biomedical queries, we compared, using queries of 200 diseases, a hand-curated concept block-list and two IC thresholds. IC agreed moderately with the experts (Spearman {rho} = 0.59) w",
+    "doi": "10.64898/2026.09.29.755063",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug repurposing"
+    ],
+    "extra": {
+      "category": "bioinformatics"
+    },
+    "dedupe_key": "doi:10.64898/2026.09.29.755063"
+  },
+  {
+    "kind": "article",
+    "title": "Multiscale Insights into CO2 Chemisorption and Proton Transfer in Choline-Imidazolate based Deep Eutectic solvents: Exploring the Effect of Primary, Secondary and Tertiary Alkanolamine on Reaction Pathways and Product Distribution",
+    "url": "https://doi.org/10.26434/chemrxiv.15009039/v3",
+    "source": "ChemRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-06T20:32:31.817419+00:00",
+    "authors": [
+      "Osasumwen J. Ikponmwosa",
+      "S.M Gulam Rabbani",
+      "Stephen P. Vicchio",
+      "Rachel B. Getman"
+    ],
+    "summary": "Understanding how solvent composition governs competitive CO 2 chemisorption within solvents is essential for the rational design of solvents for CO 2 capture. In this work, we combine density functional theory (DFT), classical molecular dynamics (cMD), and microkinetic modeling to investigate CO 2 chemisorption in choline-imidazolate based systems containing different alkanolamine hydrogen bond donors (HBDs): monoethanolamine (MEA), diethanolamine (DEA), and methyldiethanolamine (MDEA). By systematically characterizing the thermodynamics, kinetics and liquid structure influence, our results show that within these systems, choline is the preferred CO 2 -binding site unless a HBD is present. Accordingly, the MEA system shifts almost entirely to amine-centered carbamate formation, the DEA system retains carbamate dominance but with stronger competition from choline-centered capture, and the MDEA system which additionally includes water shifts back toward choline-centered carbonate together with a competitive water-assisted bicarbonate pathway. The findings illustrate how CO 2 chemisorption in multicomponent liquids is controlled by a combination of intrinsic reaction thermodynamics, ",
+    "doi": "10.26434/chemrxiv.15009039/v3",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {},
+    "dedupe_key": "doi:10.26434/chemrxiv.15009039/v3"
+  },
+  {
+    "kind": "article",
     "title": "Analysis of Phycodnaviridae Tetrapyrrole Enzymes: Subcellular Localization and Functional Divergence from Host Homologs",
     "url": "https://doi.org/10.64898/2026.08.07.743453",
     "source": "bioRxiv",
