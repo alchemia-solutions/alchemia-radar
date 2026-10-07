@@ -743,6 +743,77 @@
   },
   {
     "kind": "article",
+    "title": "From Benchmark to Bench: Can Agents Survive Real-World Drug Discovery?",
+    "url": "https://doi.org/10.64898/2026.09.30.755603",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-07T01:01:47.193949+00:00",
+    "authors": [
+      "Llompart, P.",
+      "Guner, L.",
+      "Lai, H.",
+      "Tibo, A.",
+      "Xu, Y."
+    ],
+    "summary": "Agentic systems increasingly coordinate molecular-design tools, but it is unclear which layer of the stack limits outcomes on real projects. We developed MAGI, an open modular agent that authors objectives, launches and monitors optimization, interprets structure activity relationships, and revises its strategy accordingly. MAGI generates molecules either directly through the LLM or by delegating to REINVENT4, with scoring services interchangeable behind a common contract. We tested it across nine retrospective lead-optimization campaigns from three pharmaceutical companies, replayed under fixed temporal cutoffs. Both routes produced valid structures: LLM proposals stayed closer to local chemistry and reached comparable or higher primary activity in fewer operations, whereas REINVENT explored broader chemical space. Whether a campaign met its objective depended on the predictive models, not on the generation route: attainment followed model accuracy on the chemistry proposed, dropping once that chemistry moved outside the model applicability domain. Separately, a blinded evaluation asked whether the MAGI output could pass as expert work: chemists were not able to discriminate agent",
+    "doi": "10.64898/2026.09.30.755603",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery",
+      "computational chemistry"
+    ],
+    "extra": {
+      "category": "bioinformatics"
+    },
+    "dedupe_key": "doi:10.64898/2026.09.30.755603"
+  },
+  {
+    "kind": "article",
+    "title": "Danuglipron and orforglipron engage GLP-1R through materially different interfaces: an unbiased molecular dynamics study",
+    "url": "https://doi.org/10.64898/2026.09.30.754652",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-07T01:01:49.783518+00:00",
+    "authors": [
+      "Oztekin, A.",
+      "Turker, S."
+    ],
+    "summary": "GLP-1R is among the most heavily pursued targets in metabolic disease, but its natural agonist is a 30-residue peptide that must be injected. Two oral non-peptide agonists have reached late-stage trials. Cryo-EM studies have already shown that danuglipron and CHU-128, a close analogue of orforglipron, occupy the receptor differently, but not how either interface behaves over time. We ran 500 ns of unbiased all-atom molecular dynamics on GLP-1R bound to GLP-1, danuglipron (PF-06882961) and orforglipron (LY3502970), one trajectory each, in a POPC bilayer with the G protein removed. Although CHU-128 has been simulated before, its analogue, orforglipron, has not. Scored against contacts computed from the deposited structures, under a force field that shares no parameters with previous oral agonist studies, we recovered 80%, 86% and 79% above 50% occupancy. Indexing contact by chemical group, rather than by receptor residue, and normalising by molecular size, separates the two oral compounds: orforglipron carries ring systems dedicated almost entirely to one receptor domain, one of them directing 99.7% of its contact to the extracellular domain, whereas every group of danuglipron engage",
+    "doi": "10.64898/2026.09.30.754652",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {
+      "category": "biophysics"
+    },
+    "dedupe_key": "doi:10.64898/2026.09.30.754652"
+  },
+  {
+    "kind": "article",
+    "title": "Machine Learning-Powered Simulations of Confinement-Driven 129 Xe Nuclear Spin Relaxation",
+    "url": "https://doi.org/10.26434/chemrxiv.15009993/v1",
+    "source": "ChemRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-07T01:01:57.535421+00:00",
+    "authors": [
+      "Ouail Zakary",
+      "Perttu Lantto"
+    ],
+    "summary": "The rate at which a nuclear spin returns to equilibrium encodes the dynamics of its surroundings, information the chemical shift, a time-averaged quantity, cannot provide. Building on a previous dual-model machine learning framework, combining a fine-tuned atomistic foundation model (FT-AFM) for molecular dynamics (MD) with an NMR-ML model predicting the 129 Xe magnetic shielding tensor, we compute the chemical shift anisotropy-driven 129 Xe spin-lattice ( T 1 ) and spin-spin ( T 2 ) relaxation times of xenon confined in carbon nanotubes by extending the Redfield theory treatment to arbitrary nanotube orientations relative to the external magnetic field. Across various temperatures, nanotube diameters, and Xe loadings, both relaxation times evolve non-monotonically in several cases, and for systems whose Xe densities match those of experimental free xenon gas, confinement shortens T 1 by up to fivefold. We also show that T 1 provides an indirect NMR probe of single-file Xe diffusion. This work establishes FT-AFMs and NMR-ML models as a fast, accurate, and general route to the nuclear spin relaxation of confined Xe across a broad range of porous materials.",
+    "doi": "10.26434/chemrxiv.15009993/v1",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {},
+    "dedupe_key": "doi:10.26434/chemrxiv.15009993/v1"
+  },
+  {
+    "kind": "article",
     "title": "Analysis of Phycodnaviridae Tetrapyrrole Enzymes: Subcellular Localization and Functional Divergence from Host Homologs",
     "url": "https://doi.org/10.64898/2026.08.07.743453",
     "source": "bioRxiv",
@@ -67445,5 +67516,188 @@
       "journal": "International immunopharmacology"
     },
     "dedupe_key": "doi:10.1016/j.intimp.2026.117512"
+  },
+  {
+    "kind": "article",
+    "title": "Shenling Qige Granules inhibit esophageal squamous cell carcinoma progression in TE-1 xenograft and cell-based models by modulating the DCN-TGF-β/Smad signaling axis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42837419/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-07T01:00:02.164339+00:00",
+    "authors": [
+      "Zihui Liu",
+      "Yiting Gu",
+      "Huanfang Fan",
+      "Mao Huang",
+      "Dehui Li",
+      "Wen Guo",
+      "Yun He",
+      "Shuang Zhang",
+      "Zhihua Du"
+    ],
+    "summary": "Shenling Qige Granules (SLQG), derived from the Qing Dynasty formula Qige San recorded in Yi Xue Xin Wu, has been used in clinical practice in China as an adjuvant traditional Chinese medicine preparation for esophageal squamous cell carcinoma (ESCC), but its molecular basis remains unclear. This study investigated the antitumor effects and mechanisms of SLQG using TE-1 xenograft mice and SLQG-containing serum-treated TE-1 cells. Transcriptome sequencing, network pharmacology, molecular docking, molecular dynamics simulation, and public-database analysis were integrated to prioritize candidate mechanisms. Histological, molecular, cellular, and siRNA-mediated decorin (DCN) knockdown assays were performed for validation. SLQG, especially at the medium dose, inhibited xenograft tumor growth and increased DCN expression. Transcriptomic analysis highlighted the transforming growth factor-β (TGF-β)/Smad pathway. In silico analyses suggested that several SLQG-derived compounds, particularly ursolic acid, may be associated with DCN-related regulation. Public-database analysis indicated lower DCN expression in esophageal carcinoma tumor samples than in normal samples and an association with pathological stage. In vivo and in vitro, SLQG increased DCN expression, reduced Smad2/3 phosphorylation, promoted pro-apoptotic signaling, and induced G0/G1 arrest; these effects were attenuated by DCN knockdown. These findings suggest that SLQG inhibited ESCC progression in TE-1 xenograft and cell-based models, potentially through modulation of the DCN-associated TGF-β/Smad signaling axis.",
+    "doi": "10.1371/journal.pone.0359405",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics",
+      "in silico",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42837419",
+      "journal": "PloS one"
+    },
+    "dedupe_key": "doi:10.1371/journal.pone.0359405"
+  },
+  {
+    "kind": "article",
+    "title": "Repurposing ritonavir to induce proteasomal degradation of IE1 for inhibition of human cytomegalovirus replication.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42837399/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-07T01:00:02.165057+00:00",
+    "authors": [
+      "Wanfeng Liu",
+      "Yu Shi",
+      "Xudong Guo",
+      "Chenyu Lou",
+      "Zhangyi Xie",
+      "Yitian Shen",
+      "Liang Zhang",
+      "Sunzhong Mao",
+      "Xiangyang Xue",
+      "Shiyu Feng"
+    ],
+    "summary": "Human cytomegalovirus (HCMV) is a major pathogen affecting immunocompromised individuals. Current antiviral drugs target the mid-to-late stages of viral replication but are limited by toxicity and drug resistance. The IE1 protein serves as a key early regulator of HCMV replication; however, it has long been considered undruggable due to the lack of conventional drug-binding sites. In this study, by integrating molecular docking-based virtual screening with in-vitro surface plasmon resonance (SPR) validation, we discovered for the first time that the HIV protease inhibitor ritonavir may bind to the IE1 protein. Further experiments demonstrated that ritonavir significantly reduces IE1 protein levels in a time- and dose-dependent manner without affecting its mRNA expression. Mechanistic investigations revealed that ritonavir promotes selective degradation of IE1 through activation of the ubiquitin-proteasome pathway. Functional assays confirmed that ritonavir effectively inhibits HCMV replication, markedly reducing viral DNA loads and the production of infectious viral particles. Notably, ritonavir exhibited synergistic antiviral effects when combined with the first-line drug ganciclovir (GCV). In summary, this study successfully repurposes the approved drug ritonavir as a regulator of IE1 protein expression, demonstrating not only its anti-HCMV activity and synergistic effects with GCV but also providing a new therapeutic strategy for HCMV infection.",
+    "doi": "10.1371/journal.pcbi.1014867",
+    "company_slug": null,
+    "keywords_matched": [
+      "virtual screening",
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42837399",
+      "journal": "PLoS computational biology"
+    },
+    "dedupe_key": "doi:10.1371/journal.pcbi.1014867"
+  },
+  {
+    "kind": "article",
+    "title": "Defect-Engineered Core-Shell MOF Nanointerface Functionalized with Hemagglutinin for Target-Guided Anti-influenza Ligand Discovery.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42837299/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-07T01:00:02.165754+00:00",
+    "authors": [
+      "Hui Wang",
+      "Wei Zhao",
+      "Xiaoyun Liu",
+      "Xiaojing Liang",
+      "Rong Rong",
+      "Tiantian Si"
+    ],
+    "summary": "Preserving the biological function of conformationally dynamic proteins after immobilization remains a major challenge in biointerface engineering. Here, a defect-engineered hierarchical MOF nanointerface (D-MOF-808-HET@MOF-808@SiO2) was constructed through evaporation-induced interfacial coordination assembly for hemagglutinin (HA) immobilization and target-guided ligand screening. XPS analysis supported coordination-mediated interactions between HA and accessible Zr sites of the defect-engineered interface, as indicated by altered Zr 3d and O 1s binding energies. The immobilized HA retained a hemagglutination titer above 5.0 log2, indicating preservation of its biological activity. The HA-functionalized interface interfered with viral attachment to host cells during the early stage of H1N1 PR8 infection and was subsequently used as an affinity matrix to enrich HA-associated constituents from Mahuang-Xixin-Fuzi Decoction. Twelve candidate ligands were identified, of which hypaconitine, naringenin, ethyl caffeate, and vitexin were further evaluated by surface plasmon resonance and cellular antiviral assays. Hypaconitine exhibited the strongest HA-binding affinity (KD = 1.72 μM) but showed relatively weak antiviral activity (EC50 = 50.03 μM), whereas ethyl caffeate and vitexin displayed superior antiviral activities (EC50 = 1.54 and 2.56 μM) despite moderate HA affinities (KD = 11.06 and 12.20 μM, respectively), revealing an affinity-activity mismatch. Molecular docking predicted different ligand interaction patterns, with ethyl caffeate and vitexin showing interactions near the HA1-HA2 interdomain region, whereas hypaconitine and naringenin exhibited alternative predicted interaction regions. These differences in predicted binding modes may contribute to the observed functional disparity. These findings suggest that equilibrium affinity alone does not fully account for antiviral activity and support HA-functionalized MOF nanointerfaces as a platform for target-guided screening of bioactive constituents from complex natural-product mixtures.",
+    "doi": "10.1021/acsami.6c17733",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42837299",
+      "journal": "ACS applied materials & interfaces"
+    },
+    "dedupe_key": "doi:10.1021/acsami.6c17733"
+  },
+  {
+    "kind": "article",
+    "title": "Atorvastatin-loaded HPMC/Eudragit composite hydrogel film dressings: physicomechanical properties, sustained release, and wound-repair performance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42837267/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-07T01:00:02.166377+00:00",
+    "authors": [
+      "Muhammad Ali",
+      "Muhammad Kamran",
+      "Muhammad Rehan Malik",
+      "Niamat Ullah",
+      "Touseef Nawaz",
+      "Adnan Amin"
+    ],
+    "summary": "Hydroxypropyl methylcellulose (HPMC)/Eudragit L100 composite hydrogel film dressings were developed for the localized and sustained delivery of atorvastatin to excisional wounds. Solvent-cast formulations containing different HPMC/Eudragit ratios were screened for swelling, mass loss, and tensile strength, and the optimized polymer composition was loaded with 2% (w/w) atorvastatin. Surface morphology and drug-polymer compatibility were examined by scanning electron microscopy and attenuated total reflectance Fourier-transform infrared spectroscopy, respectively. The optimized blank matrix (F3) exhibited a swelling ratio of 79 ± 5.4%, mass loss of 30 ± 2.9%, and tensile strength of 21.71 ± 3.2 MPa. Its atorvastatin-loaded counterpart (F4) showed an interconnected porous morphology and retained the characteristic functional groups of the constituent polymers and drug. Approximately 82% of atorvastatin was released over 24 h. Release data were best described by the Korsmeyer-Peppas model (R2 = 0.994; n = 0.665), indicating anomalous transport. In a full-thickness excisional wound model in Sprague-Dawley rats (n = 6 rats/group), the atorvastatin-loaded hydrogel dressing shows significantly (p < 0.05) faster wound closure and re-epithelialization on day 14 as compared to blank hydrogel film (F3) and standard gauze treated group. Histological analysis showed improved epidermal organization and collagen deposition in ATV loaded hydrogel film treated group. Exploratory molecular docking predicted atorvastatin accommodation within PPARγ and S1PR1 binding pockets, although with weaker scores than the native ligands. These findings support HPMC/Eudragit L100 films as sustained-release wound dressings, with the atorvastatin-loaded formulation showing superior wound-repair performance to the blank matrix and standard gauze, although further mechanistic studies are needed.",
+    "doi": "10.1080/09205063.2026.2741661",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42837267",
+      "journal": "Journal of biomaterials science. Polymer edition"
+    },
+    "dedupe_key": "doi:10.1080/09205063.2026.2741661"
+  },
+  {
+    "kind": "article",
+    "title": "AntiLipo: A Comprehensive Database, Deep Learning-Based Prediction Model, and Computational Study of Anti-Hyperlipidemic Peptides.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42837063/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-07T01:00:02.166910+00:00",
+    "authors": [
+      "Xueyan Duan",
+      "Yi He",
+      "Hanwen Liu",
+      "Hongyan Yan",
+      "Weiwei Han"
+    ],
+    "summary": "Anti-hyperlipidemic peptides (ALPs) play important roles in regulating lipid metabolism and preventing atherosclerosis, yet conventional experimental identification methods remain time-consuming. In this study, we curated 201 experimentally validated ALPs with their sequences, sources, activity data, and metabolic pathways. Network pharmacology analysis revealed that ALPs primarily participate in canonical lipid-regulatory pathways, including AMPK and PPAR signaling, fatty acid metabolism, and cholesterol metabolism, as well as adipocytokine signaling and insulin resistance-related pathways. Based on this dataset, we developed five classification models (CNN, ESM-transformer, MLP, PhyChem-transformer, and Transformer). The transformer model achieved the best overall performance (Accuracy = 0.70, MCC = 0.40), while the MLP model attained the highest AUROC (0.76). For peptide-protein bioactivity prediction, five regression models were evaluated, with the self-attention model achieving the best performance (R2 = 0.61, Pearson = 0.79). Furthermore, 500 ns molecular dynamics simulations were performed for 141 peptides against seven key lipid metabolism-related protein targets, yielding 161 active peptide-target trajectories freely available for download. Finally, we constructed AntiLipo web server ( https://hwwlab.com/webserver/antilipo ), the first specialized online database for ALPs, integrating modules for peptide structure, source, activity, mechanism, and predictive model deployment.",
+    "doi": "10.1007/s12539-026-00876-x",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42837063",
+      "journal": "Interdisciplinary sciences, computational life sciences"
+    },
+    "dedupe_key": "doi:10.1007/s12539-026-00876-x"
+  },
+  {
+    "kind": "article",
+    "title": "Deep learning-guided high-throughput screening and molecular dynamics simulations facilitate the discovery of potential FXIIa inhibitors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836876/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-07T01:00:02.167541+00:00",
+    "authors": [
+      "Fengze Cai",
+      "Wanjun Chen",
+      "Song Xie",
+      "Juhong Wu",
+      "Yongqi Zhang",
+      "Ping Gao",
+      "Han Zhang",
+      "Jinyu Li"
+    ],
+    "summary": "Pathological thrombosis is a major cause of cardiovascular and cerebrovascular diseases. Current anticoagulants increase bleeding risk by impairing physiological hemostasis. Because coagulation factor XIIa (FXIIa) drives pathological thrombosis but is dispensable for normal hemostasis, inhibiting FXIIa may offer antithrombotic efficacy with reduced bleeding risk. However, the marked flexibility of its active site hampers the discovery of small-molecule inhibitors. Here, we developed an integrated computational workflow to address this challenge and screened a library of approximately 21 million compounds. Four structurally distinct hits (DR1-DR4) were identified. Microsecond-scale molecular dynamics simulations suggested stable binding of all four compounds to FXIIa, and binding free energy calculations suggested that DR1 and DR3 exhibited more favorable binding free energies than the reference inhibitor 1303. These compounds also showed favorable predicted pharmacokinetic properties, providing structurally distinct hits for FXIIa-targeted anticoagulant discovery. The crystal structure of the FXIIa catalytic domain (PDB ID: 6B74) was prepared in PyMOL 3.1, and missing regions were modeled with MODELLER. To capture active-site flexibility, apo-FXIIa was subjected to three independent 1-µs molecular dynamics simulations, and a representative conformation selected by clustering was used for virtual screening. A hierarchical screening workflow was carried out in DrugFlow using KarmaDock for primary screening, CarsiDock for redocking, and RTMScore for rescoring. Drug-likeness and pharmacokinetic properties were predicted with SwissADME. Selected complexes were simulated in Amber18 using ff19SB for the protein, GAFF2 for ligands, OPC water, and AM1-BCC ligand charges, and trajectories were analyzed with CPPTRAJ in AmberTools. Binding free energies were estimated with MMPBSA.py using the MM/GBSA method, with entropy contributions evaluated by normal mode analysis. Structural visualization was performed with PyMOL and Discovery Studio Visualizer 2016.",
+    "doi": "10.1007/s00894-026-06981-4",
+    "company_slug": null,
+    "keywords_matched": [
+      "virtual screening",
+      "molecular dynamics",
+      "drug-likeness"
+    ],
+    "extra": {
+      "pmid": "42836876",
+      "journal": "Journal of molecular modeling"
+    },
+    "dedupe_key": "doi:10.1007/s00894-026-06981-4"
   }
 ]
