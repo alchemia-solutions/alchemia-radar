@@ -151,8 +151,11 @@ class CargaReal(unittest.TestCase):
     def test_5_depois_da_primeira_coleta_da_vm_nenhum_snapshot_entra(self):
         # a carga final da virada (R6) não pode pôr um snapshot do Actions à frente da última coleta real em radar.meta:
         # a view escolhe pelo maior id, e até um snapshot mais antigo ganharia id maior
+        # agora, não uma data fixa: o acervo real do git cresce a cada coleta do Actions, e uma coleta "da VM" datada de 2026-10-05
+        # ficava ATRÁS dos snapshots importados de 06 e 07/10, que ganhavam a view `radar.meta` (por terminada_em) e quebravam
+        # também a ordem de id por carimbo do teste seguinte (corrigido em 2026-10-07)
         self.banco.como_super("insert into radar.execucao (origem, iniciada_em, terminada_em, estado) "
-                              "values ('agendada', '2026-10-05T10:00Z', '2026-10-05T10:03Z', 'ok')")
+                              "values ('agendada', now() - interval '3 minutes', now(), 'ok')")
         exe = [{"iniciada_em": t, "terminada_em": t, "estado": "ok", "duracao_s": 1, "coletores": {}, "totais": {}}
                for t in ("2026-10-04T09:40:00+00:00", "2026-10-05T15:40:00+00:00")]
         sintetica = mig.Carga("teste", "0" * 40, [], exe, [], self.carga.catalogos, {})

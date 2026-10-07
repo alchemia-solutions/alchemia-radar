@@ -1882,3 +1882,83 @@ reais do System; sem o banco, 36 passam e 20 são pulados. A carga do `origin/ma
 itens, `6800a38` tem 3.310 que não existem em nenhum JSON de hoje; 154 só perderam a empresa (seguem em `news.json`).
 O histórico trouxe ainda 183 itens de `9bdfbd8`, a coleta local do mesmo dia, o outro lado do merge `d5eb59a` que não
 parseia: a mesma perda, que nenhuma contagem anterior via.
+
+## Addendum — 2026-10-07: `pipeline/data/discord/README.md` declara o diretório histórico
+
+Correção pontual de documento vivo, pedida pelo fundador. O README citava a rotina `alchemia-news-anuncio-discord` (o Axel) como se ainda publicasse. Os bots saíram em 2026-09-28; a rotina não está em `~/.claude/scheduled-tasks` e as 26 publicações vão de 2026-08-18 a 2026-09-04. O README agora diz que o diretório é histórico e mantém o nome da rotina, entre crases, como nome legado. O caminho da spec de integração foi atualizado para `alchemia-radar/`. Os arquivos de publicação não foram tocados, e `research_export.py` segue lendo o diretório.
+
+## Addendum — 2026-10-07: preparação da janela do Radar no banco da VM (06:00, 12:00 e 18:00 de Brasília)
+
+Decisão do fundador, `decisions-log` (gi): a VM coleta, com o agendador dentro do contêiner, às 06:00, 12:00 e 18:00 de
+Brasília; o fuso ("horário de Brasília", America/Sao_Paulo) ele confirmou no mesmo dia. Cumpre a V7-6 da v7 e a spec
+`alchemia-tech/docs/specs/2026-10-02-bancos-radar-e-vault-na-vm.md` (Portão (ee)). Nada rodou na VM; sem git de escrita.
+
+**Mudado:**
+- `pipeline/agendador.py`: o padrão passou de `09:40,15:40,21:40` UTC para `09:00,15:00,21:00` UTC. Os horários moram num
+  lugar só, `HORARIOS_LOCAIS` (`06:00,12:00,18:00`) com `FUSO_LOCAL` (`America/Sao_Paulo`) e `FUSO_LOCAL_UTC_H` (-3, fixo: sem
+  horário de verão desde 2019); `PADRAO_UTC` é derivado por `para_utc()`. O agendador segue só em UTC, sem `tzdata` na imagem.
+  `RADAR_HORARIOS_UTC` no ambiente ainda vence o padrão (variável vazia cai no padrão).
+- `pipeline/tests/test_agendador.py`: o padrão é 09:00, 15:00 e 21:00 UTC; um teste confere, com o tzdata, que cada disparo
+  visto em America/Sao_Paulo cai em 06:00, 12:00 e 18:00 e que o deslocamento do fuso é -3; outro, a volta de dia de `para_utc`;
+  outro, que a variável vazia (como o compose a passará) usa o padrão e a preenchida vence.
+- `pipeline/tests/test_migrar_para_postgres.py` (defeito do teste, achado ao rodar a suíte): `test_5_...` inseria uma coleta
+  "da VM" com data fixa de 2026-10-05, e o acervo real do git já tem snapshots de 06 e 07/10; eles ganhavam a view `radar.meta`
+  (por `terminada_em`) e o teste seguinte, que confere o id na ordem do carimbo, também quebrava. A coleta do teste passou a ser
+  datada com `now()` do banco.
+- `deploy/README.md`: `--no-deps` em todo comando `docker compose` do serviço `radar` (sem ele sobe `papeis -> migrar ->
+  papeis-final`, e o `migrar` falha sem `APP_RELEASE`); o build pela cópia que o `radar-pull` mantém, no lugar do `git pull`; a
+  linha sobre a view `radar.meta` (é a última execução **terminada**, `terminada_em desc, id desc`, e não o maior `id`); os
+  horários novos e a sombra reescrita (a VM 40 minutos antes do Actions, não 20 depois). Arquivo novo
+  `deploy/2026-10-07-janela-radar-banco.md`: a sequência da janela na VM (J1 a J9), com L/M, comando, conferência e rollback.
+
+**Medido (2026-10-07, estação):** a suíte do Radar dá 60 testes, todos OK, contra um Postgres 18.3 descartável (porta 55431,
+removido ao fim); sem o banco, 40 passam e 20 são pulados. `python -m pipeline.agendador --proximos 3` imprime 21:00 UTC de hoje
+e 09:00 e 15:00 UTC de amanhã.
+
+**O pacote do acervo** (`migrar_para_postgres --salvar-pacote`, de `origin/main` = `b1236f6d7d7e`, 147 commits lidos, clone
+completo; fora do Drive): `C:\Users\AryelBezerra\alchemia-workdata\radar\radar-carga.json.gz`, 6.567.614 bytes, sha256
+`4b16978411ef980f27837a990cbb4d118a5cf7cedce6c830642b572cf7f64255`. Contagens: 9.247 itens (o JSON do ref tem 5.783 e o histórico do git
+acrescenta 3.464), 182 execuções, 13 newsletters, catálogos 20 + 9 + 28 + 24, sem export do Supabase. Três versões do
+`d5eb59a` (2026-09-07) não parseiam, como esperado. As duas conferências de 2026-09-07 voltam inteiras (`6800a38` e `9bdfbd8`,
+0 ausentes na carga). O `--dry-run` sem banco só conta; a carga no banco da VM está nos passos J5 da janela.
+
+**Para a Hipátia** (`alchemia-system/compose.yaml`, serviço `radar`; este nó não o edita): (1) a linha `RADAR_HORARIOS_UTC:
+${RADAR_HORARIOS_UTC:-09:40,15:40,21:40}` e o comentário acima dela passam a `${RADAR_HORARIOS_UTC:-}`, para o agendador usar o
+padrão do código (a variável vazia cai nele, testado); sem isso, o compose sobrepõe os horários novos, e a janela usa o
+paliativo de uma linha no `producao.env`; (2) nos comentários das linhas 249 e 250, `--no-deps` em `up -d --no-build radar` e em
+`run --rm radar ...`, e o perfil `--profile radar` no `run`; (3) opcional: o serviço `radar` no `compose-build.yaml`.
+
+**Observação, não investigada:** o último commit `coleta automática` em `origin/main` é de 2026-10-07T01:02Z, e às 18h20 UTC
+o `git fetch` não trazia outro, quando a cadência diria 09:40 e 15:40 UTC. O workflow só comita se o dado muda, então pode não ser
+falha; sem alarme, não se distingue de coleta parada. O fundador pode olhar a aba Actions do repositório.
+
+## Addendum — 2026-10-07 (depois da revisão da Ada): correções do roteiro da janela e do agendador
+
+Revisão: `docs/qc/2026-10-07-radar-banco-revisao.md` (código pode ir a commit; o roteiro precisava de cinco correções de texto).
+Nada rodou na VM; sem git de escrita. Em `deploy/2026-10-07-janela-radar-banco.md`:
+
+- **A1 (J2 e "Voltar tudo"):** sem `sudo`. O backup e o restaurador rodam como `ubuntu`, como o timer e as janelas anteriores. Sob
+  `sudo` o `HOME` seria `/root`, o rclone não acharia a configuração, o envio falharia calado (saída 0) e o dump nasceria
+  `root:root`. O J2 confere o `envio` no `estado` e o dono do dump.
+- **A2 (J7 e J8):** todo acréscimo ao `producao.env` garante a quebra de linha antes (`[ -z "$(tail -c1 "$f")" ] || echo >> "$f"`),
+  sem imprimir o arquivo. O J2 guarda uma cópia (modo 600, fora do repositório e do vault) em
+  `/home/ubuntu/backups/system-prod/producao.env.pre-radar`, e o rollback do J7 e do J8 é restaurá-la, não um `sed` que podia não casar.
+- **A3 ("Voltar tudo"):** aviso em destaque de que restaurar o `pre-radar` perde as escritas do System desde o J2 (banco inteiro,
+  não só o esquema `radar`); `ssh -t` (`vmt`) porque o restaurador lê `/dev/tty`; `--dry-run` primeiro; o `producao.env` volta antes
+  da restauração; e `rc stop radar` depois, porque o restaurador religa o `radar` quando o banco restaurado tem o esquema.
+- **A4 (J3):** o `.sha256` é gerado na estação (feito em 2026-10-07 ao lado do pacote, `sha256sum -c` OK), copiado junto e conferido na
+  VM com `sha256sum -c` (saída diferente de 0 = parar).
+- **A5 (J1):** três leituras de antes de tudo, sem imprimir valor: o `compose.yaml` do checkout da VM tem o serviço `radar` e o que
+  passa de `RADAR_HORARIOS_UTC` e `RADAR_FONTE`; `grep -c` do nome `PG_SENHA_RADAR` no `producao.env`; `grep -c` de `RADAR_FONTE=` e o
+  último byte do arquivo. A frase "o app ainda lê `local`" foi corrigida: o padrão do compose é `banco`, então sem a variável no
+  `producao.env` o app já lê o banco vazio ("carga pendente") e o J8 deixa de ser uma troca. J5, J6, J8 e "Fora desta janela" ajustados.
+- Sugestões baratas aplicadas: "a linha `dump ok`" (não a última); o aviso de que a sessão `ssh` do J6 dura uns 3 minutos; a lista de
+  arquivos a commitar inclui `pipeline/data/discord/README.md` e o relatório da Ada; o texto sobre o `compose.yaml` do System diz que a
+  mudança já está na árvore, falta commit e release.
+- `pipeline/agendador.py`: `RADAR_HORARIOS_UTC` só com espaço cai no padrão (`.strip()`), em vez de levantar e pôr o contêiner em laço
+  de reinício; a docstring cita as três constantes. `pipeline/tests/test_agendador.py`: um caso novo para isso e o teste
+  `test_sombra_deslocada_vinte_minutos` renomeado para `test_horarios_fora_de_ordem_saem_ordenados`. Suíte: 61 testes, OK (20 pulados
+  sem Postgres; com o banco descartável foram 60 antes deste caso, todos OK; não reroda com banco nesta rodada).
+
+**Não aplicadas:** `tzdata` em dev-requirements (não há arquivo de dev-requirements no Radar); medir F6 em dev antes de produção
+(é do Hopper). **Não verificado:** tudo o que depende do estado da VM, que o J1 passou a conferir.

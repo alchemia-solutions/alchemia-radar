@@ -4,8 +4,10 @@
 Dorme até o próximo horário de RADAR_HORARIOS_UTC, roda uma coleta num processo filho
 (`python -m pipeline.run_all --destino postgres --origem agendada`) e volta a dormir. Sem cron do host e sem
 dependência nova. Os horários ficam em UTC para a imagem slim não depender de `tzdata` (o Brasil não tem horário
-de verão desde 2019): o padrão 09:40, 15:40 e 21:40 UTC são os 06:40, 12:40 e 18:40 de Brasília, os mesmos do
-`coleta.yml`.
+de verão desde 2019). O padrão são os 06:00, 12:00 e 18:00 de Brasília (decisão do fundador, 2026-10-07,
+decisions-log (gi); fuso confirmado por ele: "horário de Brasília"), declarados UMA vez em HORARIOS_LOCAIS e FUSO_LOCAL(_UTC_H) e convertidos
+para os 09:00, 15:00 e 21:00 UTC que o agendador usa. Trocar horário ou fuso é mexer nessas constantes (HORARIOS_LOCAIS, FUSO_LOCAL e FUSO_LOCAL_UTC_H, que o teste confere entre si); trocar só
+numa implantação é RADAR_HORARIOS_UTC no ambiente (o compose do System não deve fixar um valor próprio).
 
 A coleta roda num processo filho para que memória e estado de módulo de uma execução nunca passem para a
 seguinte, e para que uma exceção dela não derrube o agendador. Horário perdido (contêiner fora do ar na hora)
@@ -26,8 +28,6 @@ import sys
 import threading
 from datetime import datetime, timedelta, timezone
 
-PADRAO_UTC = "09:40,15:40,21:40"
-
 
 def ler_horarios(texto: str) -> list[tuple[int, int]]:
     """`HH:MM` separados por vírgula, em UTC. Inválido levanta ValueError com o trecho ruim (o contêiner não sobe)."""
@@ -47,6 +47,20 @@ def ler_horarios(texto: str) -> list[tuple[int, int]]:
     if not out:
         raise ValueError("RADAR_HORARIOS_UTC vazio")
     return sorted(out)
+
+
+# O único ponto dos horários da coleta (decisions-log (gi), 2026-10-07; fuso confirmado pelo fundador no mesmo dia: horário de Brasília).
+HORARIOS_LOCAIS = "06:00,12:00,18:00"  # hora de parede em FUSO_LOCAL
+FUSO_LOCAL = "America/Sao_Paulo"
+FUSO_LOCAL_UTC_H = -3  # America/Sao_Paulo, UTC-3 fixo: sem horário de verão desde 2019 (o teste confere com o tzdata)
+
+
+def para_utc(locais: str, fuso_utc_h: int) -> str:
+    """`HH:MM,...` na hora de parede de um fuso fixo para o texto `HH:MM,...` em UTC (volta o dia, se precisar)."""
+    return ",".join(sorted(f"{(hh - fuso_utc_h) % 24:02d}:{mm:02d}" for hh, mm in ler_horarios(locais)))
+
+
+PADRAO_UTC = para_utc(HORARIOS_LOCAIS, FUSO_LOCAL_UTC_H)
 
 
 def proximo_horario(agora: datetime, horarios: list[tuple[int, int]]) -> datetime:
@@ -71,7 +85,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--proximos", type=int, default=0, help="Só imprime os N próximos disparos e sai")
     args = ap.parse_args(argv)
 
-    horarios = ler_horarios(os.environ.get("RADAR_HORARIOS_UTC") or PADRAO_UTC)
+    horarios = ler_horarios((os.environ.get("RADAR_HORARIOS_UTC") or "").strip() or PADRAO_UTC)
     if args.proximos:
         t = datetime.now(timezone.utc)
         for _ in range(args.proximos):

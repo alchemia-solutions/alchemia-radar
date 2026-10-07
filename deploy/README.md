@@ -5,12 +5,20 @@ Para o Gabriel Furniel (Tech) e o fundador. Spec: [`docs/specs/2026-10-02-radar-
 Postgres descartável; **nada disto rodou na VM**, e o GitHub Actions segue como escritor único de `pipeline/data/`
 até a virada (R6).
 
+> **Addendum 2026-10-07 (decisions-log (gi)).** A VM coleta, com o agendador dentro do contêiner, às **06:00, 12:00 e
+> 18:00 de Brasília** (America/Sao_Paulo; fuso confirmado pelo fundador no mesmo dia) = 09:00, 15:00 e 21:00 UTC. A
+> sequência da janela, passo a passo para colar, está em
+> [`2026-10-07-janela-radar-banco.md`](2026-10-07-janela-radar-banco.md); este arquivo segue como o porquê. Três
+> correções abaixo vêm desse addendum: `--no-deps` em todo comando do serviço `radar` (sem ele, o Compose sobe
+> `papeis -> migrar -> papeis-final`, e o `migrar` falha sem `APP_RELEASE` exportado), a imagem construída pelo clone
+> que o `radar-pull` já mantém, e a view `radar.meta` escolhida por `terminada_em`, não por `id`.
+
 ## O que é
 
 O contêiner `radar` roda no Compose do System (`alchemia-system/compose.yaml`, serviço `radar`, atrás do perfil
 `radar`). A imagem sai do [`Dockerfile`](../Dockerfile) deste repositório (`python:3.12-slim`, usuário 10001, sem
 `pipeline/data/`). O processo é `python -m pipeline.agendador`: dorme até o próximo horário de `RADAR_HORARIOS_UTC`
-(padrão `09:40,15:40,21:40`, em UTC) e roda `python -m pipeline.run_all --destino postgres --origem agendada` num
+(padrão `09:00,15:00,21:00`, em UTC = 06:00, 12:00 e 18:00 de Brasília desde 2026-10-07; até então `09:40,15:40,21:40`) e roda `python -m pipeline.run_all --destino postgres --origem agendada` num
 processo filho, que grava no esquema `radar` do banco do System com o papel `alchemia_radar`.
 
 Cada coleta:
@@ -39,7 +47,10 @@ tem as senhas de todos os papéis.
 
 ## Roteiro
 
-Todos os comandos da VM rodam em `/home/ubuntu/alchemia-system`, com `--env-file deploy/producao.env`.
+Todos os comandos da VM rodam em `/home/ubuntu/alchemia-system`, com `--env-file deploy/producao.env`. Todo `docker compose`
+do serviço `radar` leva **`--no-deps`** e o perfil `--profile radar`: o `radar` depende de `papeis-final`, que depende do
+`migrar`, que usa a imagem `alchemia-system:${APP_RELEASE:-sem-release}` com `pull_policy: never` e falha sem
+`APP_RELEASE`. O esquema e os papéis já estão no banco (o deploy os aplica); o Radar não precisa reaplicá-los.
 
 ### R0. Preparo (fundador e Tech)
 
@@ -63,7 +74,8 @@ Todos os comandos da VM rodam em `/home/ubuntu/alchemia-system`, com `--env-file
 ### R2. A imagem
 
 ```bash
-cd /home/ubuntu/alchemia-radar && git pull --ff-only
+# o clone que o radar-pull.timer já mantém (raso, espelho do remoto: nunca se edita nem se faz `git pull` à mão nele);
+# para forçar a atualização agora:  sudo systemctl start radar-pull.service
 export RADAR_RELEASE=$(git -C /home/ubuntu/alchemia-radar rev-parse --short=12 HEAD)
 docker build -t alchemia-radar:$RADAR_RELEASE --build-arg RADAR_VERSAO=$RADAR_RELEASE /home/ubuntu/alchemia-radar
 docker run --rm alchemia-radar:$RADAR_RELEASE python -m pipeline.agendador --proximos 3   # os próximos três disparos, em UTC
@@ -93,10 +105,10 @@ A carga tem duas metades, porque o histórico do git mora na estação e o banco
 3. **Na VM**, com a imagem do R2:
 
    ```bash
-   docker compose --env-file deploy/producao.env --profile radar run --rm \
+   docker compose --env-file deploy/producao.env --profile radar run --rm --no-deps \
      -v /home/ubuntu/radar-carga:/carga:ro radar \
      python -m pipeline.migrar_para_postgres --pacote /carga/radar-carga.json.gz --dry-run
-   docker compose --env-file deploy/producao.env --profile radar run --rm \
+   docker compose --env-file deploy/producao.env --profile radar run --rm --no-deps \
      -v /home/ubuntu/radar-carga:/carga:ro radar \
      python -m pipeline.migrar_para_postgres --pacote /carga/radar-carga.json.gz
    ```
@@ -107,12 +119,15 @@ A carga tem duas metades, porque o histórico do git mora na estação e o banco
 
 ### R4. A sombra (7 dias, critério 8)
 
-O Actions continua gravando o git; a VM grava o banco, 20 minutos depois, para não somar as rajadas nas fontes:
+O Actions continua gravando o git; a VM grava o banco nos horários do addendum de 2026-10-07 (06:00, 12:00 e 18:00 de
+Brasília, 40 minutos antes dos do Actions, 06:40, 12:40 e 18:40). Antes do addendum a sombra era 20 minutos depois dos do
+Actions, com `RADAR_HORARIOS_UTC=10:00,16:00,22:00`, que não vale mais. Os horários moram num lugar só, `HORARIOS_LOCAIS` e
+`FUSO_LOCAL` em `pipeline/agendador.py`; o `producao.env` não precisa de `RADAR_HORARIOS_UTC` (serve só para trocar numa
+implantação):
 
 ```bash
-# deploy/producao.env:  RADAR_HORARIOS_UTC=10:00,16:00,22:00
-docker compose --env-file deploy/producao.env --profile radar run --rm radar python -m pipeline.run_all   # um ciclo à mão
-docker compose --env-file deploy/producao.env --profile radar up -d --no-build radar
+docker compose --env-file deploy/producao.env --profile radar run --rm --no-deps radar python -m pipeline.run_all --destino postgres --origem manual   # um ciclo à mão
+docker compose --env-file deploy/producao.env --profile radar up -d --no-build --no-deps radar
 docker compose --env-file deploy/producao.env logs -f radar
 ```
 
@@ -127,7 +142,7 @@ A primeira coleta depois da carga conta como `atualizados` os itens que ela reen
 1.774 atualizados, de 1.966 itens colhidos antes da fusão por chave). Da
 segunda em diante, `atualizados` volta a ser só mudança de campo.
 
-Rollback da imagem: `RADAR_RELEASE=<sha anterior> docker compose --env-file deploy/producao.env --profile radar up -d --no-build radar`.
+Rollback da imagem: `RADAR_RELEASE=<sha anterior> docker compose --env-file deploy/producao.env --profile radar up -d --no-build --no-deps radar`.
 
 ### R6. A virada (fundador, Tech e Radar)
 
@@ -136,7 +151,7 @@ Só depois do backup testado e da sombra aprovada. Nada disto foi feito; está p
 | O que sai | Quem | Como |
 |---|---|---|
 | `.github/workflows/coleta.yml` e `research-export.yml` | fundador (push) | apagar os dois arquivos, ou trocar o `on:` por só `workflow_dispatch: {}`. Renomear um exige renomear o outro (o gatilho `workflow_run` casa pelo `name:`) |
-| A carga final | Radar | depois do último commit `coleta automática`, gerar e carregar um pacote novo do `origin/main` (R3): idempotente, só entra o item que o Actions colheu e a VM não. Os snapshots de execução do Actions não entram mais (`execucoes_puladas_por_haver_coleta_da_vm`): a view `radar.meta` escolhe pelo maior id, e um snapshot importado depois tomaria o lugar da última coleta real |
+| A carga final | Radar | depois do último commit `coleta automática`, gerar e carregar um pacote novo do `origin/main` (R3): idempotente, só entra o item que o Actions colheu e a VM não. Os snapshots de execução do Actions não entram mais (`execucoes_puladas_por_haver_coleta_da_vm`): a view `radar.meta` escolhe a última execução **terminada** (`terminada_em desc, id desc`, migração `0024_radar`), e um snapshot importado com `terminada_em` mais novo que o da última coleta real tomaria o lugar dela |
 | `pipeline/data/` no repositório público (D5) | fundador | congelar com um `README.md` datado, por exemplo: "Parou em AAAA-MM-DD. O dado do Radar vive no banco do System (`system-prod`, esquema `radar`); estes arquivos são o arquivo histórico até aquela data." |
 | `pipeline/sync_supabase.py`, `supabase/`, o MCP `supabase` do `.mcp.json` | fundador decide (D5) | Lixeira (`harness/lixeira.py`) ou ficam como registro |
 | O projeto Supabase e o segredo `SUPABASE_SERVICE_ROLE_KEY` do Actions; `dashboard/.env.local` (risk-log 15) | fundador | depois do export do R0 e da contagem registrada |
