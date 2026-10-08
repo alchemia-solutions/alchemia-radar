@@ -64,6 +64,610 @@
   },
   {
     "kind": "news",
+    "title": "Targeting ARID1B by Converting Weak Binders Into Potent Degraders",
+    "url": "https://drughunter.com/articles/targeting-arid1b-by-converting-weak-binders-into-potent-degraders",
+    "source": "Drug Hunter",
+    "source_type": "newsletter",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:56:37.722554+00:00",
+    "authors": [],
+    "summary": "ARID1B is a DNA-binding protein and a subunit of the chromatin remodeling SWI/SNF complex. ARID1A mutations create a potential synthetic lethal vulnerability that may be exploited by targeting ARID1B. At the AACR D3 2026 meeting, Foghorn Therapeutics presented its approach for identifying ARID1B binders and converting them into heterobifunctional degraders. The cellular proof-of-concept work presented at this meeting provides lessons for tackling this emerging, challenging target.",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [],
+    "extra": {},
+    "dedupe_key": "url:https://drughunter.com/articles/targeting-arid1b-by-converting-weak-binders-into-potent-degraders"
+  },
+  {
+    "kind": "news",
+    "title": "Twist Bioscience: Valuation Stretched As AI Drug Discovery Hype Outpaces Reality (TWST) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTXBnRFRfTWpMRnJvcXJqX1RIM0IxNEhLZ2NMcS1Ha25VUWRCNDdjdVBBZFJZUjlpX0I2Yi05bnNGVHJMOHZGZFNvaHV0blFpaDBQejI5QUJTcjFIZGdQYm14NHRNNzFlSW5jbHNZbVFDaTE2dUpYZkp1WWI2SWdQdENnYkJ0MGhvYTluX0dHQ3BDWXhWbzdXV0dVaTdHZEZuWXJLekVGN2FrZmRpWEdXX3lESTVVWW8wc0lDMEtMbm4?oc=5",
+    "source": "Seeking Alpha",
+    "source_type": "news",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:56:58.483746+00:00",
+    "authors": [],
+    "summary": "Twist Bioscience: Valuation Stretched As AI Drug Discovery Hype Outpaces Reality (TWST) Seeking Alpha",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwafbvv95cuxqtxbnrfrftwpmrnjvcxjqx1rim0ixnehlz2nmcs1ha25vuwrcnddjdvbbzfjzujlpx0i2yi05bnngvhjmohzgzfnvahv0blfpadbqeji5qujtcjfizgdqym14nhrnnzflsw5jbhnzbvfdate2dupyzkp1wwi2swdqdennykj0mghvytlux0dhq3bdwxhwbzdxv0dvatdhzezuwxjlekvgn2frzmrpwedxx3lestvvww8wc0ldmetmbm4?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "U.S. Government and Silicon Valley Giants Pour $1.8 Billion into Closing the AI Drug Discovery Data Gap - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52SXIzUHVkSDJMNFltODdNcGZjeG9yY2FRTFZJOTNZbkk1bVRRT2RwWF9kRVhfWTk1ZER5dmlPczByNWJVajVHeWFSa0tLd3BRWDV4dm5JY3p0aWhaZjVrYW4tM2RUVDNFSWljUjVHN29LZmFuZ0E?oc=5",
+    "source": "BigGo Finance",
+    "source_type": "news",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:56:58.483991+00:00",
+    "authors": [],
+    "summary": "U.S. Government and Silicon Valley Giants Pour $1.8 Billion into Closing the AI Drug Discovery Data Gap BigGo Finance",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmidkfvx3lxte52sxizuhvksdjmnfltoddncgzjeg9yy2frtfzjotnzbkk1bvrrt2rwwf9krvhfwtk1zer5dmlpczbynwjvajvhewfsa0tld3brwdv4dm5jy3p0awhazjvryw4tm2ruvdnfswljujvhn29lzmfuz0e?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Carterra and AstraZeneca team up to advance lab-in-the-loop AI drug discovery - Dealroom",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmc2bmFYQVA1TEEzRDBRZko5QkVjUk1teUtkaHpKeTZ3b3lGdENCaEdTOHFHcnpkaTUyaGRqNEg0S3VrRDdNX2x1ZXQ2b2liOVJDem5NMC1lM01kRWZuaVAtZ3hsbzJKNXZ1OEFTS0JVX3B5N1BGV1lpRXp4SnJYMHd1MEttMWhIRWVyZGpLTVlRem1FZTlaWjAyMmhsa1N1OGtLZFBZVFNGVVFHTWpOOA?oc=5",
+    "source": "Dealroom",
+    "source_type": "news",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:56:58.484029+00:00",
+    "authors": [],
+    "summary": "Carterra and AstraZeneca team up to advance lab-in-the-loop AI drug discovery Dealroom",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxoumc2bmfyqva1teezrdbrzko5qkvjuk1teutkahpketz3b3lgdencaedtohfhcnpkatuyagrqneg0s3vrrddnx2x1zxq2b2liovjdem5nmc1lm01krwzuavatz3hsbzjknxz1oefts0jvx3b5n1bgv1lprxp4snjymhd1mettmwhirwvyzgpltvlrem1fztlawjaymmhsa1n1ogtlzfbzvfngvvfhtwpooa?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Alphabet's AI Drug Discovery Unit Isomorphic Labs Reportedly Seeking Funding at $40 Billion Valuation - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12MHBXbTA1Ry1Lb05pUkgtNzlkWVJ4WjVnRXl2MGdzaV9HN1ZkOC1WaWVlM3dkQ1N3WERPcGZkLWRTUkgxcmlqczBjOHlQdWRWVVdUOFlFZXkzRFAxN015and0Z2ZfTENtVkNadXFGVXotSUR1dHc?oc=5",
+    "source": "BigGo Finance",
+    "source_type": "news",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:56:58.484285+00:00",
+    "authors": [],
+    "summary": "Alphabet's AI Drug Discovery Unit Isomorphic Labs Reportedly Seeking Funding at $40 Billion Valuation BigGo Finance",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmidkfvx3lxte12mhbxbta1ry1lb05pukgtnzlkwvj4wjvnrxl2mgdzav9hn1zkoc1wawvlm3dkq1n3werpcgzklwrtukgxcmlqczbjohlqdwrwvvduoflfzxkzrfaxn015and0z2zftentvknadxfgvxotsur1dhc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google DeepMind’s London AI drug spinout eyes $50bn valuation - City AM",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTkRtN1ljbldFdVRRZGhCdDNtOHVfbFlKQkhXYW5JMDBsazZLN3M3UEZNR2VwU0htcll5cHoxZDEyTzZIb0J6eEY1TEJyX0VxeUp6SmFNQUttVU9OVUl1UUlJalhBRUVObXNrNGYtQnFFUXUxSUZ1Q0FVeTJVTTdSUmcyQXRTV3VmblJz?oc=5",
+    "source": "City AM",
+    "source_type": "news",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:56:58.484323+00:00",
+    "authors": [],
+    "summary": "Google DeepMind’s London AI drug spinout eyes $50bn valuation City AM",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiiwfbvv95cuxptkrtn1ljbldfdvrrzghcddntohvfbflkqkhxyw5jmdbsazzln3m3ueznr2vwu0htcll5choxzdeytzzib0j6eey1tejyx0vxeup6smfnquttvu9ovul1uuljalhbruvobxnrngytqnffuxuxsuz1q0fvetjvttdsumcyqxrtv3vmbljz?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Isomorphic Labs aims for $40B+ valuation in new funding, boosting AI drug discovery race. - Pluang",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQXpLTFdZcVBXZF9MNG81Rk5uNUxWczM2SGZrSm5KSzR6b3pGU0EtdmttNzctTlFOTXRTWUs5eUdVbWxDQkJlZE5jb0o3YXNCbXZtMUVKRzhqWDhOLWFDTTBoWk9ZUTM3b19GZGM3VERUNlAwY2pzNDViYWg0RG5jQ3BvT3lONWlRVWpzR2JqZEJWcW10YUpyVjZyeXYySWdwWkd1NmFkOEF1amkzU2pEWQ?oc=5",
+    "source": "Pluang",
+    "source_type": "news",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:56:58.484472+00:00",
+    "authors": [],
+    "summary": "Isomorphic Labs aims for $40B+ valuation in new funding, boosting AI drug discovery race. Pluang",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxoqxpltfdzcvbxzf9mng81rk5unuxwczm2sgzrsm5kszr6b3pgu0etdmttnzcttlfotxrtwus5eudvbwxdqkjlze5jb0o3yxncbxztmuvkrzhqwdholwfdttbowk9zutm3b19gzgm3verunlawy2pzndviywg0rg5jq3bvt3lonwlrvwpzr2jqzejwcw10yupyvjzyexyyswdwwkd1nmfkoef1amkzu2pewq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Institute for Protein Design receives AI computing power - UW Medicine | Newsroom",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZW9UeTh0SmhJbEdlRllnNWtfeUFidm9SYnFGV1hfNDM4UHhaLVFkSWFFcFJqN1YzM21WLWJraklPMHQtZ2FqNHRYcUg4bjRxaTNoWTVLd1FhelMxVXBfU2FNLUZJREI5X1hCaXJfQVdCOThkR01SSm15SHBwR1RqMVVkekRTYlcwTXFFSnItQTQtcWlkVWRnX3d3?oc=5",
+    "source": "UW Medicine | Newsroom",
+    "source_type": "news",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:56:59.717162+00:00",
+    "authors": [],
+    "summary": "Institute for Protein Design receives AI computing power UW Medicine | Newsroom",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "protein design\" AI"
+    ],
+    "extra": {
+      "query": "\"protein design\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmimgfbvv95cuxpzw9ueth0smhjbedlrllnnwtfeufidm9synfgv1hfndm4uhhalvfkswffcfjqn1yzm21wlwjraklpmhqtz2fqnhrycug4bjrxatnowtvld1fhelmxvxbfu2fnluzjrei5x1hcaxjfqvdcothkr01ssm15shbwr1rqmvvkekrtylcwtxffsnitqtqtcwlkvwrnx3d3?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Alphabet’s Isomorphic Labs in Funding Talks for at Least $40 Billion Value - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNek1hZ0tORjJNVDJFUmZYNXJ6aVhoWEJpMnZVQzJaS3NoTXRMcGJwQ2VzbXpadkJpZlFKejRKSWZSSkZaYkg0WEtYS3RyZGFvVXcxSHduS0tGUDNFSWkzMFREVDhJcmpGMnBQQlQyTHRJTGlPNTh1RFE1OGxNZmZlR3pSVHdscVlHZXJYTmR0cS1LSVB0TDNvUVIxVVFCeEp0QjVNUnM4V01Kb19CaFhrRUdHc3hOLXYyVXBPTFdnMm92UQ?oc=5",
+    "source": "Bloomberg.com",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:05.114006+00:00",
+    "authors": [],
+    "summary": "Alphabet’s Isomorphic Labs in Funding Talks for at Least $40 Billion Value Bloomberg.com",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwgfbvv95cuxnek1hz0torjjnvdjfumzynxj6avhowejpmnzvqzjas3notxrmcgjwq2vzbxpadkjpzlfkejrkswzsskzaykg0wetys3ryzgfvvxcxshdus0tgudnfswkzmfrevdhjcmpgmnbqqlqythrjtglpnth1rfe1ogxnzmzlr3psvhdscvlhzxjytmr0cs1lsvb0tdnvuvixvvfceep0qjvnunm4v01kb19cafhrrudhc3holxyyvxbptfdnmm92uq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Alphabet’s Isomorphic Labs in Funding Talks for at Least $40 Billion Value - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1NqS0VGMjkwQkRWUjdFd1Vac2dvU19EZVNZMXpZdk8zdjJwRHdsUmg0NmZicGk3czV6Vzd5LWJZUUVHXzlaa2xUNkhKLW00RXdoV0Jaek9jc3RyLXhiX3d5NHVGcnoxdXpiVTJkZG16SkdnOFFkYVhBZWJvdGkzbzBqMGxONHlOV21LdEUtN1Utd0hXZzZTajBqcHozMVl0?oc=5",
+    "source": "Yahoo Finance",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:05.114168+00:00",
+    "authors": [],
+    "summary": "Alphabet’s Isomorphic Labs in Funding Talks for at Least $40 Billion Value Yahoo Finance",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmioafbvv95cuxpa1nqs0vgmjkwqkrwujdfd1vac2dvu19ezvnzmxpzdk8zdjjwrhdsumg0nmzicgk3czv6vzd5lwjzuuvhxzlaa2xunkhklw00rxdov0jaek9jc3rylxhix3d5nhvgcnoxdxpivtjkzg16skdnoffkyvhbzwjvdgkzbzbqmgxonhlov21ldeutn1utd0hxzzztajbqchozmvl0?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Isomorphic Labs seeks funding at a valuation of at least $40 billion - Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNENWWFllV1hqNFhrSEppLXNvQ2NheVlhWmhaUFJpc29LS0s4MnE0N29ldU1XSXlOSks5T0owVHpHLVJQYklLNk1HeFJIeGVfWWxKci1sWEFpS2FxV2lxTGxldDQzakZETUdRQk51M0gwR2owTkVkSHF4Wll2dElBV2wweUVpLXU2M1JtUGV6X3g1eVB0TjlzbE9pOA?oc=5",
+    "source": "Startup Fortune",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:05.114280+00:00",
+    "authors": [],
+    "summary": "Isomorphic Labs seeks funding at a valuation of at least $40 billion Startup Fortune",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmimwfbvv95cuxnnenwwfllv1hqnfhrsepplxnvq2nhevlhwmhaufjpc29ls0s4mne0n29ldu1xsxlosks5t0owvhphlvjqykllnk1hefjiegvfwwxkci1swefps2fxv2lxtgxlddqzakzetudrqk51m0gwr2owtkvkshf4wll2delbv2wweuvplxu2m1jtugv6x3g1evb0tjlzbe9poa?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Biohub Nabs $300M From Google, Meta, Isomorphic Labs for Virtual Biology Initiative - Genome Web",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUWVuY0ZtaXJzX1R1VjBmV0VmUEE4cGxRN09rS2FQcG9NaWNBMzAzeEFsX2hsWnRLV3BPY1pyMnh2S3FhdmpiMjRsUFdiLUZ5b05aQWQ0UC1raVdqTEdXQ04zd1pYNWJfSTdGS29tNjRZTHdUUHRHbFowMVllTmN1bWhJN1k?oc=5",
+    "source": "Genome Web",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:05.114385+00:00",
+    "authors": [],
+    "summary": "Biohub Nabs $300M From Google, Meta, Isomorphic Labs for Virtual Biology Initiative Genome Web",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmihafbvv95cuxpuwvuy0ztaxjzx1r1vjbmv0vmuee4cgxrn09rs2fqcg9nawnbmzazeefsx2hswnrlv3bpy1pymnh2s3fhdmpimjrsufdiluz5b05aqwq0uc1ravdqtedxq04zd1pynwjfstdgs29tnjrzthduuhrhbfowmvlltmn1bwhjn1k?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Alphabet's Isomorphic Labs seeks valuation of at least $40 billion in new funding round - Proactive financial news",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdElRbE9NdkQtQno3d2J5WVY0TjJqNzR2b09rVmVEWUgtNVh2UUxNX0dIS1NLcXR3SlVsUG8zVGtZTzl0X0ZYSUJfeTZLcVlwSGhVMVBtemVMcDhCbk9vT0FxNkRHeDhoVzJmTzY1TVdvWDVsNEprb1lEY203YmpQME9ma25NYndBZzE1RHdBeXJhOEtqQkt6Vk1LSnhuRF9BN1NKVE5MQ3NfT2MtZ1p4UnhUUV9UQTJvYlVVaUgzclRZRTlHajhlZ0pBdG1xNVlKcEM2V2RjRWFIWUluZzBIb19ad1NrTHlDZGhXOHZR?oc=5",
+    "source": "Proactive financial news",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:05.114699+00:00",
+    "authors": [],
+    "summary": "Alphabet's Isomorphic Labs seeks valuation of at least $40 billion in new funding round Proactive financial news",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi7gfbvv95cuxndelrbe9ndkqtqno3d2j5wvy0tjjqnzr2b09rvmvewugtnvh2uuxnx0dis1nlcxr3slvsug8zvgtztzl0x0zysujfetzlcvlwsghvmvbtemvmcdhcbk9vt0fxnkrhedhovzjmtzy1tvdvwdvsneprb1ley203ympqme9ma25nyndbzze1rhdbexjhoetqqkt6vk1lsnhurf9bn1nkve5mq3nft2mtz1p4unhuuv9uqtjvylvvaugzclrzrtlhajhlz0pbdg1xnvlkcem2v2rjrwfiwuluzzbib19ad1nrthldzghxohzr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Alphabet’s Isomorphic Labs In Funding Talks For At Least $40 Billion Value - Bloomberg News - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUHBSVU1JY09icVpDYVZBRDl6NGxuY2NweDhuOUZCOXJLX0YyRy1sS0JSbU1NNEp5TUI0VGJqRUMtMTVIRFRuV2pxRzZkU2M1TGppMmhFTExjUUtrbllOczhVdnRfUVhCZE9ZMHdaRTVKei1tM1NmeXNCX1RwWlBjVDlCQmxjaTV4S2d5bmhCVzNQYnZzaE5HQnl2dmtRcE8wQVIwTllqOWZHWGNrNjFWeUFyakdLUjlwSkJDSXR4Qm9yS2E0YlpxRnNDME0yMGQtNjVOZ0J3QUowNlpmWWY0aVpKdGtYck9HZUZ2dGhzWQ?oc=5",
+    "source": "TradingView",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:05.114804+00:00",
+    "authors": [],
+    "summary": "Alphabet’s Isomorphic Labs In Funding Talks For At Least $40 Billion Value - Bloomberg News TradingView",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi7wfbvv95cuxquhbsvu1jy09icvpdyvzbrdl6ngxuy2nwedhuouzcoxjlx0yyry1ss0jsbu1nnep5tui0vgjqrumtmtvirfruv2pxrzzku2m1tgppmmhftexjuutrblloczhvdnrfuvhcze9zmhdartvkei1tm1nmexncx1rwwlbjvdlcqmxjatv4s2d5bmhcvznqynzzae5hqnl2dmtrce8wqviwtllqowzhwgnrnjfweufyakdlujlwskjdsxr4qm9ys2e0ylpxrnndme0ymgqtnjvoz0j3quownlpmwwy0avpkdgtyck9hzuz2dghzwq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Watch Google DeepMind's AI Drug Spinoff, Isomorphic Labs, Seeks Funding at Valuation of $40 Billion - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNEJuX1pGT2FSdjBBY1RFOXp0Z21qSm1pRXRDTnQ0anh1UGRpMkR2dUR6OHNkNWRGaWZUNGdIdndfWnNzMjJodHdmQXVNMHJXeWJISURFVmJfS0pEdmxmMFRuZUNEaEhaa3QxUGRSRE9MMFVBcC1BRUVOYThlMFNURm1mM3JGcVBaRVhJR1NESXlIQTlJYldUWHUzSFhENGc5ZTVPTUdhTU9CMU0?oc=5",
+    "source": "Bloomberg.com",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:05.115103+00:00",
+    "authors": [],
+    "summary": "Watch Google DeepMind's AI Drug Spinoff, Isomorphic Labs, Seeks Funding at Valuation of $40 Billion Bloomberg.com",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqwfbvv95cuxnnejux1pgt2fsdjbby1rfoxp0z21qsm1prxrdtnq0anh1ugrpmkr2dur6ohnknwrgawzungdidndfwnnzmjjodhdmqxvnmhjxewjisurfvmjfs0pedmxmmfruzuneaehaa3qxugrsre9mmfvbcc1bruvoythlmfnurm1mm3jgcvbarvhjr1nesxliqtljylduwhuzsfhengc5ztvptudhtu9cmu0?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Market Chatter: Alphabet's Isomorphic Labs Seeks to Raise up to $50 Billion in Funding Round - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlJjVTdNcndlWnEzVWxNSk5lQVprM2ZZMGFSOVc0RVEzOHpsVFdvVThSNFVHbE9mRndfNWZuaXNxQlI3UXZjMFhOZEJaUldIZWtCVVFfN2VDNzdPMWY0c1dDazhpM3dNNWwxSVNDZUQ4VVV6d3pIS0V6NFNpVU1iTm92cFRSX3BGQk4weHRISW92RUVURkhTNkZHZmh4NlJwVFE?oc=5",
+    "source": "Yahoo Finance",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:05.115403+00:00",
+    "authors": [],
+    "summary": "Market Chatter: Alphabet's Isomorphic Labs Seeks to Raise up to $50 Billion in Funding Round Yahoo Finance",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiogfbvv95cuxndljjvtdncndlwnezvwxnsk5lqvprm2zzmgfsovc0rvezohpsvfdvvthsnfvhbe9mrndfnwzuaxnxqli3uxzjmfhozejauldizwtcvvffn2vdnzdpmwy0c1ddazhpm3dnnwwxsvndzuq4vvv6d3pis0v6nfnpvu1itm92cfrsx3bgqk4wehrisw92ruvurkhtnkzhzmh4nljwvfe?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Alphabet’s biolab in funding talks at $40B valuation - Semafor",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTFlhbjg2cE0zWGxMbjRGekZOVWlpOEREN1dxZzdjTU1qUklXRkx1T2pXTk5oN3NxbVNLUm1jLTg1UWRWd056RUhVMWlvNi1CdE1UUEVXejlRU2ZWbGNKbVd1QzhjOGZRSWc3NUFwaUZSUlpRVmxkLWVFdGd4YlFLM2o3RHVrc3Rudk1ETG5sU242ZEpoaHUybw?oc=5",
+    "source": "Semafor",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:05.115498+00:00",
+    "authors": [],
+    "summary": "Alphabet’s biolab in funding talks at $40B valuation Semafor",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmimafbvv95cuxptflhbjg2ce0zwgxmbjrgekzovwlpoeren1dxzzdjtu1quklxrkx1t2pxtk5on3nxbvnlum1jltg1uwrwd056ruhvmwlvni1cde1uuevxejlru2zwbgnkbvd1qzhjogzrswc3nufwauzsulprvmxklwvfdgd4ylflm2o3rhvrc3rudk1etg5su242zepoahuybw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "DeepMind spinout Isomorphic Labs in talks to raise funds at $40B–$50B valuation: report - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeXlTekhiNHFHWHRMN0c5NWFxa3JvazFTeUJJNGpGQkFTal9zem40a1RwYVBRM2pGQkZ3UXUtWFdpSUk2NWNhTzBaa0F3bkhiVmtjQnAxbTBDSlB1YklkWmdERGxyeWx4NkZDRkFBYjNic3VybTdKR3FaenVGcUJOU1pJakphV2VHSDM3UVR5SkJUUjdEd1ZFMWFwcW4tcXQ2UkF0M2otRmNreWdvbkp0a0twdmJveUh0eGRaa1VGV2xUdkZ4U09sMHVST0M4Y1ZsRVpIWDN1VFc5U3dKbkVnYQ?oc=5",
+    "source": "TradingView",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:05.115609+00:00",
+    "authors": [],
+    "summary": "DeepMind spinout Isomorphic Labs in talks to raise funds at $40B–$50B valuation: report TradingView",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi4afbvv95cuxpexltekhinhfhwhrmn0c5nwfxa3jvazfteujjngpgqkftal9zem40a1rwyvbrm2pgqkz3uxutwfdpsuk2nwnhtzbaa0f3bkhivmtjqnaxbtbdslb1yklkwmdergxyewx4nkzdrkfbyjnic3vybtdkr3faenvgcujou1pjakphv2vhsdm3uvr5skjuujded1zfmwfwcw4tcxq2ukf0m2otrmnrewdvbkp0a0twdmjveuh0egraa1vgv2xudkz4u09smhvst0m4y1zsrvpiwdn1vfc5u3dkbkvnyq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Watch Isomorphic Labs' $40B Valuation; WHO Urges Russia Plague Transparency - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZXpER0M1alZRR1RDalBJNzZCSUVvRTVVTkZzRkQ4eTQxR2JBTFFyOFNtamczRjRZRmFFMEstVHRkb0QxMWxKR3l0Z0x1ZjFpQURBc0tCSmlzX25DT3BWSnIyVlRVTlNDQXgxOFRjYW5XVFZEVGY2Tkdwc0pRcDh0ZXhrb3dYTjA?oc=5",
+    "source": "Bloomberg.com",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:05.115800+00:00",
+    "authors": [],
+    "summary": "Watch Isomorphic Labs' $40B Valuation; WHO Urges Russia Plague Transparency Bloomberg.com",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmihwfbvv95cuxpzxper0m1alzrr1rdalbjnzzcsuvvrtvvtkzzrkq4etqxr2jbtffyofntamczrjrzrmffmestvhrkb0qxmwxkr3l0z0x1zjfpqurbc0tcsmlzx25dt3bwsniyvlrvtlndqxgxofrjyw5xvfzevgy2tkdwc0prcdh0zxhrb3dytja?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Zuckerberg-backed Biohub’s AI biology effort hits $1.8b - Tech in Asia",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa19OQ1lNakxnTEREVGxWQ0Z3OURvdHZsRmlyay1ra2Q1VndXcmZKNW1ncEJPaWZ2dlF0ZUUwQXNxY2M2UnFPOWRUWDFNbU1qSENWY1pfZGhDRmdNalB2d3MtOWYzU2t2Y3o4WHdBdklIZzJucmVfVWJHTlN2LUhzZ2d6SVVOdFhoSXhUZ3NpQzJ4MThO?oc=5",
+    "source": "Tech in Asia",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:05.117116+00:00",
+    "authors": [],
+    "summary": "Zuckerberg-backed Biohub’s AI biology effort hits $1.8b Tech in Asia",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmilafbvv95cuxqa19oq1lnakxnterevgxwq0z3ourvdhzsrmlyay1ra2q1vndxcmzknw1ncejpawz2dlf0zuuwqxnxy2m2unfpowruwdfnbu1qsenwy1pfzghdrmdnalb2d3mtowyzu2t2y3o4whdbdklizzjucmvfvwjhtln2luhzz2d6svvodfhosxhuz3npqzj4mtho?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Smaller AI models challenge ‘bigger is better’ thinking in longevity research - Arab News",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZjNVZnlCYW5qanpYUGxldHpsblU5OHdId1pzblF5N2I0YjdyMUV3YzVGTk96NjRTV1pQYmZOVUVvQVBmVUNhVEtOQ1VmVjJWZlVGckd0WTlRTXRtaW5jYWdzT0trRGZ3YUJCZXp3NWJYRjhfN1hEYWlzblJTTzlmd2RkaG5wTUc0bk1xbE5HdmU3Qlc4QVdKMHhMXzdKUUhFUlFyVHVFT0s5eDdkdEMtQjVnY25Md3lBdnc?oc=5",
+    "source": "Arab News",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:06.090564+00:00",
+    "authors": [],
+    "summary": "Smaller AI models challenge ‘bigger is better’ thinking in longevity research Arab News",
+    "doi": null,
+    "company_slug": "insilico-medicine",
+    "keywords_matched": [
+      "Insilico Medicine"
+    ],
+    "extra": {
+      "query": "\"Insilico Medicine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiugfbvv95cuxpzjnvznlcyw5qanpyugxldhpsblu5ohdid1pzblf5n2i0yjdymuv3yzvgtk96njrtv1pqymzovuvvqvbmvunhvetoq1vmvjjwzlvgckd0wtlrtxrtaw5jywdzt0trrgz3yujczxp3nwjyrjhfn1heywlzbljttzlmd2rkag5wtuc0bk1xbe5hdmu3qlc4qvdkmhhmxzdkuuhfulfyvhvft0s5eddkdemtqjvny25md3lbdnc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "What to know about Anthropic’s ‘Claude-led’ biological discovery — and why scientists aren’t convinced - CNN",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzUzRFekFCZGVRTWVpRExUVWJkYTVGeFYxekkxMkpmYnRJSF9sNXdOd3BGd0NZVnhzakp0eWwxR3hTX2tqdUdOZXd3WjVZRlhZaDFkOHpoVElnanRZZXhwaEdweDRCTlVPVHEzRmxUWUpPVTU5Y0NTRHpJam5zZw?oc=5",
+    "source": "CNN",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:06.956336+00:00",
+    "authors": [],
+    "summary": "What to know about Anthropic’s ‘Claude-led’ biological discovery — and why scientists aren’t convinced CNN",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmifkfvx3lxtfbzuzrfekfczgvrtwvprexuvwjkytvgefyxekkxmkpmynrjsf9snxdod3bgd0nzvnhzakp0ewwxr3htx2tqdudozxd3wjvzrlhzadfkohpovelnanrzzxhwaedwedrctlvpvhezrmxuwuppvtu5y0ntrhpjam5zzw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic Commits Three-Year Claude Support to the DOE Genesis Mission - Unite.AI",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMzdlTk9YcnhRQUpGNnl0SkhvXzRTLV9FdkJTMDBaUzhlNTB1LXZ2Q1pVZ1kzZ2tRbWo0aUtGNkxxalRWX3pVZDJXYkZLTk5hYkFjTUV0aFNTRkxmREZoRHlLLVg0S2pUY01VSjJRazBwY2pUc21jNy1ZVW96VG82T2NKVW80SjJVak5iZWJneWpLbFRwc1dv?oc=5",
+    "source": "Unite.AI",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:06.957366+00:00",
+    "authors": [],
+    "summary": "Anthropic Commits Three-Year Claude Support to the DOE Genesis Mission Unite.AI",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmilwfbvv95cuxomzdltk9ycnhrqupgnnl0skhvxzrtlv9fdkjtmdbauzhlntb1lxz2q1pvz1kzz2trbwo0autgnkxxalrwx3pvzdjxykzltk5hykfjtuv0afntrkxmrezorhlllvg0s2puy01vsjjrazbwy2puc21jny1zvw96vg82t2nkvw80sjjvak5izwjnewplbfrwc1dv?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Recursion Pharmaceuticals director Blake Borgeson sells $242,000 in stock - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb3dMeDZHa29Tc2tJMGpkXzJ1TGNUQ0FCbTlQZk1nQm9LS1lGT2VkSkNHTTYwZG56aEJ1ZUhHemxxQldxS3NqWWhrWmk3dXFTS3VDYUpNa2tIOHRQdlZZekVDS3BrNkxUZWp6bmlVQTdTVUNKTkNDdlByTjdteUdlcFBfSEdDc245LXcyZTBJQzNYWmI1cTJacDFqVlQ0WFBPMHl6bVM2ZGtmOHdQc3JDVnRtMFFld0tuY2tjamxIN0FsaWhDOEVSUWNWaWdtZ09WUWc?oc=5",
+    "source": "Investing.com",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:09.426680+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals director Blake Borgeson sells $242,000 in stock Investing.com",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi0gfbvv95cuxnb3dmedzha29tc2tjmgpkxzj1tgnuq0fcbtlqzk1nqm9ls1lgt2vksknhttywzg56aej1zuhhemxxqldxs3nqwwhrwmk3dxfts3vdyupna2tiohrqdlzzekvds3brnkxuzwp6bmlvqtdtvunktknddlbytjdteudlcfbfseddc245lxcyztbjqznywmi1ctjacdfqvlq0wfbpmhl6bvm2zgtmohdqc3jdvnrtmffld0tuy2tjamxin0fsawhdoevsuwnwawdtz09wuwc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "RXRX Stock Dips As Traders Weigh Cash Runway And Heavy Losses - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONlljNmhxaXk4TWlhdk1kX3oyNkJtU0VlSkxQcHl3ZEd4Vm1QcUhic2wwdHd0dFpwNVYwYml5SU9pT3plN04zNXZGdXBXQUk3SVN3UkZhU19Na09PQWxkTHFUVmdqTHRXNmN6ZF9rSWw2ZHFwQ1J0WFVNRUo4YVFJUGtVS2dmeW1MbXVMYTV3?oc=5",
+    "source": "Timothy Sykes",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:09.426775+00:00",
+    "authors": [],
+    "summary": "RXRX Stock Dips As Traders Weigh Cash Runway And Heavy Losses Timothy Sykes",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijgfbvv95cuxonlljnmhxaxk4twlhdk1kx3oynkjtu0vlskxqchl3zed4vm1qcuhic2wwdhd0dfpwnvywyml5su9pt3pln04znxzgdxbxquk3svn3ukzhu19na09pqwxkthfuvmdqthrxnmn6zf9rsww2zhfwq1j0wfvnruo4yvfjugtvs2dmew1mbxvmytv3?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Biohub, Google, Meta and US government launch $1.8B AI biology data project - Türkiye Today",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM2ZMT0ZSdW5zdjUyNFdYWk5nMnhBV2hpRngwSk1ZR012Qnd2OW1yeWh1N1lmWmN3ZkxWaUJpUlJVeUFORHFhR0Q5aVpUS3AyT2dQZ2c3c1NkQjdiVnpWZFFvQ2JudXEyZGQxTFJxTmN4UEYzWUs0eWtYNDEybWFya3hoN3hkQVRHd2RXYzRFT0FobjBrOFB2UVlBWk5pbjFkdzJEc1djM3JkX3JzMThIX01RMlVfdWpC?oc=5",
+    "source": "Türkiye Today",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:10.831417+00:00",
+    "authors": [],
+    "summary": "Biohub, Google, Meta and US government launch $1.8B AI biology data project Türkiye Today",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiuafbvv95cuxom2zmt0zsdw5zdjuynfdywk5nmnhbv2hprngwsk1zr012qnd2ow1yewh1n1lmwmn3zkxwaujpuljveuforhfhr0q5avpus3ayt2dqz2c3c1nkqjdivnpwzffvq2judxeyzgqxtfjxtmn4ueyzwus0ewtyndeybwfya3hon3hkqvrhd2rxyzrft0fobjbrofb2uvlbwk5pbjfkdzjec1djm3jkx3jzmthix01rmlvfdwpc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Biohub Expands $1.8 Billion AI Biology Initiative With Google, Meta and U.S. Government - Konsulteer",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcUlzbTdod240dF9QSHNtdTBERHdBOUZwRlNITGJ1bGZ0Z083QUZIZVNVb0lZNEJxQmxOMVg1dE1sM3JjUEE5MEVxQnFhNGc2M1pTa0M0SDFzaDBjM05fcmtERWFvc3MwcGZwbVh0ZmpXc3pNNXZaRWlIQ3pHbnVMa1hVbGdwVGlpbHFXUEU1RGR4c3IxbDF3VlE3TXVydDJJbm81VDVYdC00YlM1Z0ptclN6U3Q5Q0ViYmo0?oc=5",
+    "source": "Konsulteer",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:10.831731+00:00",
+    "authors": [],
+    "summary": "Biohub Expands $1.8 Billion AI Biology Initiative With Google, Meta and U.S. Government Konsulteer",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiuwfbvv95cuxoculzbtdod240df9qshntdtberhdbouzwrlnitgj1bgz0z083quzizvnvb0lznejxqmxomvg1de1sm3jjuee5mevxqnfhngc2m1pta0m0sdfzadbjm05fcmterwfvc3mwcgzwbvh0zmpxc3pnnxzarwliq3phbnvma1hvbgdwvglpbhfxueu1rgr4c3ixbdf3vle3txvyddjjbm81vdvydc00ylm1z0ptcln6u3q5q0viymo0?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Meta, Google, US Government Back $1.8B AI Biology Initiative: What It Means For Drug Discovery - Health and Me",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVDYwamFTZm9kMjRIZlFLVTJmMi1PdGFNVjNDVkNVUjF6UXhZV0Z4RktCNVNRbnF3TzBtOUJ5d0lYeU9UT3RmRUxjNm52UUVxRW9ldWMxUXplSGhwUDlVQUc0amxPWkZLaDRfc0FYcEdRVldKTFpsWGc5bW1MY1pDOVRxUEhVazJXRFAydE1PMjlQWDQ4Nk1WMkpVWTZmSDdmZnF5N1NzZXlTWktyZ2RFOEsyZVBMRVBkWXpWMjRPWnBod0JmdEprSlIwN0ZRSERpdUJzZVB6U1NHLVpjRU9pUkdn?oc=5",
+    "source": "Health and Me",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:10.833511+00:00",
+    "authors": [],
+    "summary": "Meta, Google, US Government Back $1.8B AI Biology Initiative: What It Means For Drug Discovery Health and Me",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi4gfbvv95cuxovdywamftzm9kmjrizlflvtjmmi1pdgfnvjndvknvujf6uxhzv0z4rktcnvnrbnf3tzbtouj5d0lyeu9ut3rmruxjnm52uuvxrw9ldwmxuxplsghwudlvquc0amxpwkzladrfc0fycedrvldktfpswgc5bw1my1pdovrxuehvazjxrfayde1pmjlqwdq4nk1wmkpvwtzmsddmznf5n1nzzxltwktyz2rfoesyzvbmrvbkwxpwmjrpwnbod0jmdeprsliwn0zrserpdujzzvb6u1nhlvpjru9pukdn?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic commits $150M to U.S. AI science initiative - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHdZVGd2blAwdlJ6dHdjeDhaYWVqSW96a0F0d3lCMGJYWjlpTHhfU2hnNzBWaWltZGQ4aTNiTWgxaEpkQUhwcG1UcTFxZXpBRHVzbDVzNjJyUENBblNrclBXaHhweW5xaTZrUjhDMHhrYnVCN2l1Y2JncDZUQjA3UVJ2RlRMR1VpM3k3UUQxRjRlNDJRQVBLRkN3ZlRJSl82WFI3VUt6bjR1MFZDbmlLX3lDbDI?oc=5",
+    "source": "TradingView",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T16:57:11.323459+00:00",
+    "authors": [],
+    "summary": "Anthropic commits $150M to U.S. AI science initiative TradingView",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmitafbvv95cuxqdhdzvgd2blawdlj6dhdjedhaywvqsw96a0f0d3lcmgjywjlpthhfu2hnnzbwawltzgq4atnitwgxaepkquhwcg1uctfxzxpbrhvzbdvznjjyuenbblnrclbxahhwew5xatzrujhdmhhrynvcn2l1y2jncdzuqja3uvj2rlrmr1vpm3k3uuqxrjrlndjrqvblrkn3zlrjsl82wfi3vut6bjr1mfzdbmllx3ldbdi?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "DA-003",
     "url": "https://drughunter.com/molecule/da-003",
     "source": "Drug Hunter",
@@ -704,6 +1308,87 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmimwjbvv95cuxnam94dkllsupovlvrvvpnd3hblwtwajvkwujpcdnmdhvwwwm2ztfyymytcee3ve50azdgzfr3wlrkcfhfdgnvvlb2yke5mulxcg9neux1bhrfs3fvd2lsdfngm2f6avrsn0tommzjeevyduftulzwqzrvwtfutulpdluxdvvxvlozanfqam1dzvqzekswbdddnzdmm3rjtwrfmedcnlmzme03ttbmwvd4shzvz2y0yjjptfz6rudjx2pqqkrouxjhnfqxbm1qtjvmyk1quhlnyxblmdncmtg5cjhweno2ujvuou1sa2rbwwjvam91eejamxfzvhjmmkzmvtnpdefobdvuunb4lwy0bzfjog5msmu0ew9j?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AI companies run virtual drug trials, aim to improve success of human studies - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzNEYVFhV3haR0RGX2RWa0FjcmxRQlFTLTYwRFc1SlowRDNpUWlwdUd6NVFJVnZha25pZV9jZDlvX21ERllna0tsT01zRE9wUjZSbzg4Zk9XZmwwUEZ3dXkwZ01TWFlKU21lVV80RkdfU0d0d2NIVjV2LTk3NExQUFpzX3JqNENQY1FnOE1sR0xQOW1SWGdRdGVmenlieWlVbnlFY3BKczVnTlBuczUzQTVHZkx0Tkx1bEh5ZVZVbGs?oc=5",
+    "source": "Reuters",
+    "source_type": "news",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T16:56:58.484065+00:00",
+    "authors": [],
+    "summary": "AI companies run virtual drug trials, aim to improve success of human studies Reuters",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwafbvv95cuxnrzneyvfhv3har0rgx2rwa0fjcmxrqlftltywrfc1slowrdnpuwlwdud6nvfjvnzha25pzv9jzdlvx21erllna0tst01zre9wujzsbzg4zk9xzmwwuez3dxkwz01twflku21lvv80rkdfu0d0d2nivjv2ltk3nexqufpzx3jqnenqy1fnoe1sr0xqow1swgdrdgvmenliewlvbnlfy3bkczvntlbuczuzqtvhzkx0tkx1beh5zvzvbgs?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google and US Authorities Back Biohub’s AI Project - ForkLog",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KV1k5MHM5TEZHcmZwN2dPcExNc3RxY1Bsb3VwNHhSTFctbHQxaW9NUzlYRVJGWU85RUFUdnUxSUlsUFdxbjdBOWZWc2FYNFVELXRvVENHajNjOGNla1VuUWFFeHZvV05NZ19uSXFWbXJsVVNkaEtIWUFqYWFfQQ?oc=5",
+    "source": "ForkLog",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T16:57:05.118720+00:00",
+    "authors": [],
+    "summary": "Google and US Authorities Back Biohub’s AI Project ForkLog",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmifkfvx3lxte1kv1k5mhm5tezhcmzwn2dpcexnc3rxy1bsb3vwnhhstfctbhqxaw9nuzlyrvjgwu85rufudnuxsulsufdxbjdbowzwc2fynfvelxrvvenhajnjognla1vuuwffehzvv05nz19usxfwbxjsvvnkaetiwufqywffqq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Entering The Trillion Era: AMBrosia Update",
+    "url": "https://www.biosolveit.de/2026/10/07/entering-the-trillion-era-ambrosia-update/",
+    "source": "BioSolveIt",
+    "source_type": "company_blog",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T16:57:09.010294+00:00",
+    "authors": [],
+    "summary": "More chemistry. Trillions of possibilities. AMBrosia enters its third version with more than 2.4 trillion virtual product molecules. Developed in close collaboration with Ambinter (a brand of Greenpharma), the expanded Chemical Space combines 313,777 building blocks through 54 chemical reactions, implemented as 131 technical reactions, opening up a wealth of chemistry for your drug discovery […]",
+    "doi": null,
+    "company_slug": "biosolveit",
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {},
+    "dedupe_key": "url:https://www.biosolveit.de/2026/10/07/entering-the-trillion-era-ambrosia-update"
+  },
+  {
+    "kind": "news",
+    "title": "RXRX Stock Grinds Higher As Traders Study Biotech Runway - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZEFzWU1TQk1QcWJQYWd5ZEsxcFZHbEpZYkFlVW1BbmdLYWM4V2s4UjVRWFpZYWhvWV9xWmVBZUJWc1lrd2U1dTc0UVM3VDRxN28taTNPRS1mZ3B3VHFDVzRoanExdEhzS2FRX01YVFd0MDJoRW5JUXZzNUM4c2stXzcxZkh2SVcw?oc=5",
+    "source": "Timothy Sykes",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T16:57:09.427327+00:00",
+    "authors": [],
+    "summary": "RXRX Stock Grinds Higher As Traders Study Biotech Runway Timothy Sykes",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiiafbvv95cuxpzefzwu1tqk1qcwjqywd5zesxcfzhbepzykflvw1bbmdlywm4v2s4ujvrwfpzywhvwv9xwmvbzujwc1lrd2u1dtc0uvm3vdrxn28tatnprs1mz3b3vhfdvzroanexdehzs2frx01yvfd0mdjorw5juxzznum4c2stxzcxzkh2svcw?oc=5"
   },
   {
     "kind": "news",
@@ -27030,6 +27715,27 @@
   },
   {
     "kind": "news",
+    "title": "Adaptyv Raises €34.35M for AI-Native Protein Design Lab. - Konsulteer",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnRTUzZza2tHMlBlUW0wWXpmTzVsRU5xUzRBQzdOUXNCX3hGcGVKUjJMWFJJTm1fSlBxdEhrTnhFLXNQWDNQNnRlUXJsMFB1THBsNUNjZ2RKS2hNbGs5ZTFRMGwwV3VGaVZXbm84eW5qbm5JQVZGZEd1aHl5X3JZc185MFkxa2RyQ3Itd29JQ2hyYmYtTGQ3ZzNQOFZlUlYwOWFMNmgzLXhtVEVLbmZWT3RQMFFyWUZN?oc=5",
+    "source": "Konsulteer",
+    "source_type": "press",
+    "published_date": "2026-08-28",
+    "collected_at": "2026-10-08T16:57:05.421155+00:00",
+    "authors": [],
+    "summary": "Adaptyv Raises €34.35M for AI-Native Protein Design Lab. Konsulteer",
+    "doi": null,
+    "company_slug": "adaptyv-bio",
+    "keywords_matched": [
+      "protein design"
+    ],
+    "extra": {
+      "query": "\"Adaptyv Bio\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiuafbvv95cuxovnrtuzzza2thmlbluw0wwxpmtzvsru5xuzrbqzdouxncx3hgcgvkujjmwfjjtm1fslbxdehrtnhflxnqwdnqnnrluxjsmfb1thbsnunjz2rks2hnbgs5ztfrmgwwv3vgavzxbm84ew5qbm5jqvzgzed1ahl5x3jzc185mfkxa2ryq3itd29jq2hyymyttgq3zznqofzlulywowfmnmgzlxhtvevlbmzwt3rqmffywuzn?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "daraxonrasib (RMC-6236)",
     "url": "https://drughunter.com/molecule/daraxonrasib-rmc-6236",
     "source": "Drug Hunter",
@@ -46563,6 +47269,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi2gfbvv95cuxpuzvarwfjv1lmajfscvbuc05avk9zvje5q1vkzdj6amlpugrmqjjbcdzynvgzr2hvtzdyrzftmvdtlwnlm0dtwxrhdu0xcjdyb2dmueresxnnltluaznus2jfmi1yuzvfsuvhz2hbswvqq0oxulvwcvpuumxsb2uyemtlrm1wuwqtdgvoujdvr0c5z1rju1lclujgrzbhehdnymtsdhprrdfjbmpjcgzvetvjyxjer2rbc0zer0zougp0ae9fbs02tnjhzwlwu3rhd281v0z2oxrodw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Co-Scientist: Driving creative collaboration to accelerate ALS research - Google DeepMind",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMk5Hd09DVHFQNUZzcFN6X3ZKN3gzQzVtRHF1cl9NWko2OGJ5bS1Pd0h3a0QwYno5NEZPWktNWS1DZFlPVXN3VUdRUWVvWDhqNjdVcTEyNE1HT3k0MU8wZTdBZWdyU0Y3enc4Y0hrQnBDbGFMUWNYYXlEeV85a1IxRGlJXzBqTGhEd1Iw?oc=5",
+    "source": "Google DeepMind",
+    "source_type": "press",
+    "published_date": "2026-05-19",
+    "collected_at": "2026-10-08T16:57:10.834385+00:00",
+    "authors": [],
+    "summary": "Co-Scientist: Driving creative collaboration to accelerate ALS research Google DeepMind",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiiwfbvv95cuxqmk5hd09dvhfqnuzzcfn6x3zkn3gzqzvtrhf1cl9nwko2ogj5bs1pd0h3a0qwyno5nezpwktnws1dzflpvxn3vudruwvvwdhqnjdvcteyne1ht3k0mu8wztdbzwdyu0y3enc4y0hrqnbdbgfmuwnyyxleev85a1ixrgljxzbqtghed1iw?oc=5"
   },
   {
     "kind": "news",
@@ -71044,6 +71771,27 @@
   },
   {
     "kind": "news",
+    "title": "Fiocruz entrega 2,8 milhões de doses da vacina contra covid-19 - Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjZFbVhrTXhMeXdDQ0lyay1sMkNXWmNacW1ZMUZEMUxfVnZrSGJnLVJSRWZRdXlvRXRqMUFORTBsS0xJTHM3ZG9yRVZxcEx6WHRGNDNPNUVsU29GQ2RjLTVRNGFvRWFlb2VrZk02cTlld2JZMlRFZFloeEtqcEJ3eTVUSnZTZUpUYmhPbmUxZmVmNmp6Y3owbERCd3g2MEdXWk9fLWhaRTFKa2FjZnpOLVp1NTlZeVU?oc=5",
+    "source": "Agência Brasil",
+    "source_type": "news",
+    "published_date": "2021-11-26",
+    "collected_at": "2026-10-08T16:57:04.260326+00:00",
+    "authors": [],
+    "summary": "Fiocruz entrega 2,8 milhões de doses da vacina contra covid-19 Agência Brasil",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmitwfbvv95cuxpqjzfbvhrtxhmexddq0lyay1smknxwmnacw1zmuzemuxfvnzrsgjnlvjsrwzrdxlvrxrqmufortbss0xjthm3zg9yrvzxcex6whrgndnpnuvsu29gq2rjltvrngfvrwflb2vrzk02ctlld2jzmlrfzfloeetqcej3etvusnztzupuymhpbmuxzmvmnmp6y3owbercd3g2medxwk9flwhartfka2fjznpolvp1ntlzevu?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Schrodinger Inc - Reuters",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11NzBVSVlUUHBFZjhoUDVVNmFLU1RUS3ZPeWt1YjJ5MmJRMGRsUlYySldQUmFzazQyeFFTOTRvam1zbkhwcHo0X0hjMWh2SV8xSGZaNENZTnMwb2ZR?oc=5",
     "source": "Reuters",
@@ -71545,6 +72293,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqgfbvv95cuxncecwtzzfz1plajgwa3v0mvdwmdfjdk85vf9luzqzx2r5v0dxn0l6r29xsefuvxpjav9zewzwdnhfx0lnvwexde1iunrlwe0ynlprq0jjdkhrejz4ykznu3hxenhfn0ryn2n0m045euhfde1qmxnys3fuef8ttjhmafi4ukr0utnssg90ouoybelwb0zbaeyzu0hzafrxcvhuexnucmxmm3mxuq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Highly accurate protein structure prediction with AlphaFold - Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJUXpldjZwRzJwYTJocFRyaGtQY2JTM2hONklvUDFHSlJ5ZF9TSXgyTndiTHFGbEpkSHBTRlV2cnk3bktGc1dRWnZ2ZXU0cFhCdzNwWmtobEFJNzRrS09J?oc=5",
+    "source": "Nature",
+    "source_type": "news",
+    "published_date": "2021-07-15",
+    "collected_at": "2026-10-08T16:57:01.179424+00:00",
+    "authors": [],
+    "summary": "Highly accurate protein structure prediction with AlphaFold Nature",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AlphaFold\" drug discovery"
+    ],
+    "extra": {
+      "query": "\"AlphaFold\" drug discovery",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmix0fvx3lxtfbjuxpldjzwrzjwytjocfryagtqy2jtm2honklvudfhslj5zf9tsxgytndithfgbepkshbtrlv2cnk3bktgc1drwnz2zxu0cfhcdznwwmtobefjnzrrs09j?oc=5"
   },
   {
     "kind": "news",
