@@ -1,6 +1,712 @@
 [
   {
     "kind": "news",
+    "title": "Director Hershberg sells $125k in Recursion Pharmaceuticals stock - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1VzbWM1QmVsSXEweEJiM051TTRzaFFRSC1KYkZTNk5fc3lxV3hYNmdrcTRQWW1hb204bzUzaXpWaUVlNmtmMzF3Zkl3cDItdWs0cUxCZzBKc2dtTW1jOFB3ZG1MSUxmTEpRTTRVZXFCQm4yMVdmRVJfMTNBV0d3bWJJN1FZaG9ZQkxibHR3SWd2NE91SU1tTUJiWVFSaGllOV9RTU9SenlZekxiUFZhOWtJZ3ZtWVZ6b1ZTZU9TdG0zeVZ2a252cA?oc=5",
+    "source": "Investing.com",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T01:18:13.505907+00:00",
+    "authors": [],
+    "summary": "Director Hershberg sells $125k in Recursion Pharmaceuticals stock Investing.com",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiyafbvv95cuxox1vzbwm1qmvssxeweejim051ttrzaffrsc1kykztnk5fc3lxv3hynmdrctrqww1hb204bzuzaxpwauvlnmtmmzf3zkl3cditdws0cuxczzbkc2dttw1jofb3zg1msuxmteprttrvzxfcqm4ymvdmrvjfmtnbv0d3bwjjn1fzag9zqkxibhr3swd2ne91su1ttujiwvfsagllov9rtu9senlzekxiufzhowtjz3ztwvz6b1ztzu9tdg0zevz2a252ca?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Recursion Pharmaceuticals director Blake Borgeson sells $242,000 in stock By Investing.com - Investing.com Canada",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUVhHLUFVUmcwcG5PYURLOFYxeW9oMFo0bVhSLVlCOFI5NFhfVVBLczB6TmUxRExsckZVY3I5UzhUbVVUODNZMVkwejJoOWxtaXk2a0RGNnRmLWlYbXRpVlprVWhWY0I5Z21WOE51TjUtSm1hTHMwTGtFb01fZ3ZvUUhSOHBwYVY1V1FwOHc1MVl6akJqdk1xWjhFVE5zS3J6VzVtUTQ5cTJjTlJKaExVUk44NTJHQkp6ZjJCZWR4QWh3ZWFuYmNOVHBXdEE?oc=5",
+    "source": "Investing.com Canada",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T01:18:13.506725+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals director Blake Borgeson sells $242,000 in stock By Investing.com Investing.com Canada",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmizafbvv95cuxpuvhhlufvumcwcg5pyurlofyxew9omfo0bvhslvlcofi5nfhfvvblczb6tmuxrexsckzvy3i5uzhubvvuodnzmvkwejjoowxtaxk2a0rgnnrmlwlybxrpvlprvwhwy0i5z21woe51tjutsm1hthmwtgtfb01fz3zvuuhsohbwyvy1v1fwohc1mvl6akjqdk1xwjhfve5zs3j6vzvtutq5ctjjtljkaexvuk44ntjhqkp6zjjczwr4qwh3zwfuymnovhbxdee?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Form 4 Recursion Pharmaceuticals Inc For: 7 October By Investing.com - Investing.com India",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV055ZHlFVTBiaGc0eWNvYXZjT2VDQVlrd2xhMzZPaElYQ1lrUjllSnUwdERsT2ctal9TR3YtdE5UNzFkS1pNOGtrVFlhV0MzT3BYSmRJbGlMY0x4a054ZTZRUlVlRElIUEhvUHZNVWE3UW1fZHlCWG4tMjdDQXBqTGxIY2NIUENzeXN0MHFXRERnYnBxZ1RsaWJ3SmFtOEdMdnJ2V0VQTXBpOVFkYnJkSw?oc=5",
+    "source": "Investing.com India",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T01:18:13.506935+00:00",
+    "authors": [],
+    "summary": "Form 4 Recursion Pharmaceuticals Inc For: 7 October By Investing.com Investing.com India",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxov055zhlfvtbiagc0ewnvyxzjt2vdqvlrd2xhmzzpaelyq1lrujllsnuwderst2ctal9tr3ytde5unzfks1pnogtrvflhv0mzt3bysmrjbglmy0x4a054ztzrulvlreliuehvuhznvwe3uw1fzhlcwg4tmjddqxbqtgxiy2niuenzexn0mhfxrernynbxz1rsawj3smftoedmdnj2v0vqtxbpovfkynjksw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "DA-003",
+    "url": "https://drughunter.com/molecule/da-003",
+    "source": "Drug Hunter",
+    "source_type": "newsletter",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:17:40.999749+00:00",
+    "authors": [],
+    "summary": "DA-003 is a preclinical orthosteric MRGPRX2 antagonist developed by Deep Apple Therapeutics as a treatment for mast cell-driven immunological disorders. The molecule’s discovery story was presented at the ACS Fall 2026 First Time Disclosures session and is progressing toward clinical trials. Originating from an ultra-large-scale virtual screen and guided by computational modeling, the Deep Apple team delivered DA-003 as a potent MRGPRX2 antagonist with a favorable PK profile, dose-dependent in vivo inhibition of mast cell degranulation, and good tolerability in GLP toxicology studies.",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [],
+    "extra": {},
+    "dedupe_key": "url:https://drughunter.com/molecule/da-003"
+  },
+  {
+    "kind": "news",
+    "title": "TCGX launches $600M fund to bankroll Asian biotechs",
+    "url": "https://www.fiercebiotech.com/biotech/tcgx-launches-600m-fund-bankroll-asian-biotechs",
+    "source": "Fierce Biotech",
+    "source_type": "newsletter",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:17:57.373424+00:00",
+    "authors": [],
+    "summary": "Investment firm TCGX is expanding in Asia, raising $600 million to funnel into biotechs emerging from a burgeoning drug discovery hotspot.",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {},
+    "dedupe_key": "url:https://www.fiercebiotech.com/biotech/tcgx-launches-600m-fund-bankroll-asian-biotechs"
+  },
+  {
+    "kind": "news",
+    "title": "XtalPi Details Kodexia AI Platform for siRNA Drug Discovery - TechRepublic",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXI3UmJLeGVkNDc1ck5MbkJoU3ExYlRxM3dRUkpNLUV5QWNqNmM2eUVxS056aWJYaTBTY1NMUmhxZzVWWVVad0dkOEV2NExGODVMNjF3Y2NPNElxTFFWODZqOXlQSHF6dG8yUkdMWm5rYzY3S1k3RDdJeTI2RXNQSExJQWJEMDdD?oc=5",
+    "source": "TechRepublic",
+    "source_type": "news",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:01.392863+00:00",
+    "authors": [],
+    "summary": "XtalPi Details Kodexia AI Platform for siRNA Drug Discovery TechRepublic",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiiafbvv95cuxouxi3umjlegvkndc1ck5mbkjou3exylrxm3drukpnluv5qwnqnmm2euvxs056awjyatbty1nmumhxzzvwwvvad0dkoev2nexgodvmnjf3y2npnelxtffwodzqoxlqshf6dg8yukdmwm5ryzy3s1k3rddjeti2rxnqsexjqwjemddd?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "What Does Eli Lilly (LLY) Gain From This $870 Million Drug Discovery Deal? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUhrRkNZa3pCQjBmS2NUQzZ5eHZXNzZxaW1sRVlVdGNIazc1T0RyR0paaldXZW0yNVY2dm9ldDZ1QUxXMDA3QWpKaER1bGpESGczQURLaTdJcUdQX2oycXYtSnVEeENkbDJvZE5DdmVFUUZwSE5yZ2dSS3lqTGVwUlpONUhpUTU3Z1FqTg?oc=5",
+    "source": "Yahoo Finance",
+    "source_type": "news",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:01.392994+00:00",
+    "authors": [],
+    "summary": "What Does Eli Lilly (LLY) Gain From This $870 Million Drug Discovery Deal? Yahoo Finance",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijafbvv95cuxqauhrrknza3pcqjbms2nuqzz5ehzxnzzxaw1srvlvdgniazc1t0ryr0paaldxzw0ynvy2dm9lddz1quxxmda3qwpkaer1bgpesgczqurlatdjcudqx2oycxytsnveeenkbdjvze5ddmvfuuzwse5yz2dss3lqtgvwulponuhputu3z1fqtg?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Protecting The AI Drug Discovery Ecosystem: Building An IP Stack Around Targets, Molecules And Medicines - Mondaq",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbThKei1ZZWJkU0Q3TWpqQ19aQVEwZmo2MnR2RF83U1BsOWYzclBfRnF6R1pzd0JyUXJtUnJ2TDZIejJWOThVWDFNdlBjMHlhWERfMmNBbUNtSTBCTTNkWU5BN1M5M29HSGpGSVNuX1h3c1UwZS00OGpxbkUxRzBwbkhURGJDSjBiLVR5aEtTTDB4VF9hWThwaGE0NWtUV2RPTm5jX3MxR2FBWFZKbzh5cm5vT0JFb2FtMHdvWDljRldnMVdsYmtvWjZPMUkySXIzOEpkRGF1bDRia1BOMTlaOFpKRlM?oc=5",
+    "source": "Mondaq",
+    "source_type": "news",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:01.393008+00:00",
+    "authors": [],
+    "summary": "Protecting The AI Drug Discovery Ecosystem: Building An IP Stack Around Targets, Molecules And Medicines Mondaq",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi5afbvv95cuxnbthkei1zzwjku0q3twpqq19aqvewzmo2mnr2rf83u1bsowyzclbfrnf6r1pzd0jyuxjtunj2tdziejjwothvwdfndlbjmhlhwerfmmnbbuntstbcttnkwu5bn1m5m29hsgpgsvnux1h3c1uwzs00ogpxbkuxrzbwbkhurgjdsjbilvr5aetttdb4vf9hwthwage0nwtuv2rptm5jx3mxr2fbwfzkbzh5cm5vt0jfb2ftmhdvwdljrldnmvdsymtvwjzpmukysxizoepkrgf1bdria1bomtlaofpkrlm?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Carterra Advances Lab-In-The-Loop Drug Discovery Through New Scientific Collaboration - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSDRxdjhGM1BYRlM3VFM1UFBYODV1S0E1aVhPNlV3eUIweE16QVdfRk1FZkw1eldrWmVfOHkxbFJpdzZYdWtqdkxJaWJBTEhreWlZSm9WLWxDcmxJVzcwNzU2dWVoTlZ0c0R2ajhYeHNnTGkxUWtlaWZkaWhNRDJndk45N3NERzdJdTU2RGdfVDNFZ2x3YXNUY3BPYlpIcHBoMFZ0SF9SX3hzbnc3ekhuZEVqQ0hTcnZQa1NvOWNQaGxSbk8ya3FEVE4waGtsM09zQ1BVM0dsaXZZZw?oc=5",
+    "source": "Business Wire",
+    "source_type": "news",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:01.393023+00:00",
+    "authors": [],
+    "summary": "Carterra Advances Lab-In-The-Loop Drug Discovery Through New Scientific Collaboration Business Wire",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi2gfbvv95cuxnsdrxdjhgm1byrlm3vfm1ufbyodv1s0e1avhpnlv3euiwee16qvdfrk1fzkw1eldrwmvfohkxbfjpdzzydwtqdkxjawjbtehrewlzsm9wlwxdcmxjvzcwnzu2dwvotlz0c0r2ajhyehnntgkxuwtlawzkawhnrdjndk45n3nerzdjdtu2rgdfvdnfz2x3yxnuy3bpylpichbomfz0sf9sx3hzbnc3ekhuzevqq0htcnzqa1nvownqagxsbk8ya3feve4wagtsm09zq1bvm0dsaxzzzw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "France's Rivercell emerges from stealth with €22 million for AI-powered drug discovery infrastructure - EU-Startups",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUDVtd2wwYWNlTndqWEhjVGF5cW11MFpPejZfOHFBVG1iSWN0R3ZaSkJpWWlfWnhnR0lFS0wwdnlodjFsazdCVU1sclBXYUpxcHhhSTgwTzhHOHMxM1dNSG51eTduUGgtTS0wbUpEMlllX2NSZ1R3UEtuT25FdlZKX0M4TmtjcEN0MzU2R1E2d2cxNU1CZk1IcTlsWFV2OGR3YzZxalpGYmpvLTJsOTlXUnVabHdscDRYRldNdk1ZMkdfNUROa3pQeFpLS3Riejk5Ulpr?oc=5",
+    "source": "EU-Startups",
+    "source_type": "news",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:01.393068+00:00",
+    "authors": [],
+    "summary": "France's Rivercell emerges from stealth with €22 million for AI-powered drug discovery infrastructure EU-Startups",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi0wfbvv95cuxpudvtd2wwywnltndqwehjvgf5cw11mfppejzfohfbvg1iswn0r3zaskjpwwlfwnhnr0lfs0wwdnlodjfsazdcvu1sclbxyupxchhhstgwtzhhohmxm1dnsg51etduuggtts0wbupemlllx2nsz1r3uetut25fdlzkx0m4tmtjcen0mzu2r1e2d2cxnu1czk1ictlswfv2ogr3yzzxalpgympvltjsotlxunvabhdscdryrldndk1zmkdfnuroa3pqefpls3riejk5ulpr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Enamine and Ewha Partner to Close the Loop Between AI Design and Real-World Chemistry - EIN News",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSTRYeGtKM1VTYm9JaGlTV3NGSm1oZlhHcXhuRndXRjlIdk5MZ093RkFlRFM4VzdZYTkzeEk0N0RQNmFaZWpMNlJST1dGWml1U1RPZnJta3IyRUpXTEZDTi1VNzM5ajhIVzNPdlFhaXp6OXd0T2VoMGVGWmRnd19LZlJOLWllbzZCbFBFVUx6X0dONF9FeHcwMU80dVE5YWI1WVJyM3M4ay1HTFFHZWpRaDlweFUyX01pYUZvc0poX1UzM1V2eFE?oc=5",
+    "source": "EIN News",
+    "source_type": "news",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:01.393097+00:00",
+    "authors": [],
+    "summary": "Enamine and Ewha Partner to Close the Loop Between AI Design and Real-World Chemistry EIN News",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmixgfbvv95cuxostryegtkm1vtym9jagltv3ngsm1ozlhhcxhurndxrjlidk5mz093rkflrfm4vzdzytkzeek0n0rqnmfazwpmnljst1dgwml1u1rpznjta3iyrupxtezdti1vnzm5ajhivznpdlfhaxp6oxd0t2vomgvgwmrnd19lzljolwllbzzcbfbfvux6x0donf9fehcwmu80dve5ywi1wvjym3m4ay1htffhzwpradlwefuyx01pyuzvc0pox1uzm1v2efe?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AI companies run virtual drug trials, aim to improve success of human studies - The Mighty 790 KFGO",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTVlMXoxdDY3Wk1zSDZ0bGNYWmJJMTVJY2k5dEpDemNiN1g4SENlUms4QmhtMUdESWlFNUZTVXNENlQyTm1aNmdxbFhLNlZLc1FZRGhjRDZ2ZW11UGV6czdBT1FzVzFBVEhHY1hINkpDRnMwMmRJUzNTaGotTjhtWERrbkRYQUs2bWpnYWQ5b3hBRGd2Yk5ZN2FZMUFiT0hoQVdHaU85b1A?oc=5",
+    "source": "The Mighty 790 KFGO",
+    "source_type": "news",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:01.393110+00:00",
+    "authors": [],
+    "summary": "AI companies run virtual drug trials, aim to improve success of human studies The Mighty 790 KFGO",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqafbvv95cuxnztvlmxoxddy3wk1zsdz0bgnywmjjmtvjy2k5depdemnin1g4senlums4qmhtmudeswlfnuztvxnenlqytm1anmdxbfhlnlzlc1fzrghjrdz2zw11ugv6czdbt1fzvzfbvehhy1hinkpdrnmwmmrjuzntagottjhtwerrbkryqus2bwpnywq5b3hbrgd2yk5zn2fzmufit0hoqvdhau85b1a?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "insitro's AI drug-prediction models go live for biotechs on Lilly's TuneLab platform - Dealroom",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS2Nfem41ZFdwZkE5VmV5UXlWU1A0eDBMSVVYQ2FTQ09FZ2YyZVpGOHl0cTlQVnhzaGxhWjd2TkU1TWVaeEVlNnk3RFg4Y2F2QjRiWjh0MU9wU3JXLW91bUJvR19oZjJXT3lyd0Fva25URWxiaVFMS0VpOFRpOHR6c1FYSXNkandWbEdIdXMtZ29WRnp6U1NoajM5SlRjNWUtYlNPaEdpVmhyc1lDQnY0VDExNC00TFV3Q1E?oc=5",
+    "source": "Dealroom",
+    "source_type": "news",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:01.393123+00:00",
+    "authors": [],
+    "summary": "insitro's AI drug-prediction models go live for biotechs on Lilly's TuneLab platform Dealroom",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiugfbvv95cuxns2nfem41zfdwzke5vmv5uxlwu1a0edbmsvvyq2ftq09fz2yyzvpgohl0ctlqvnhzagxhwjd2tku1twvaeevlnnk3rfg4y2f2qjriwjh0mu9wu3jxlw91bujvr19ozjjxt3lyd0fva25urwxiavfms0vpofrpohr6c1fysxnkandwbedidxmtz29wrnp6u1noajm5slrjnwutylnpaedpvmhyc1ldqny0vdexnc00tfv3q1e?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Zuckerberg-backed Biohub joins $1.8B AI effort to model cells - Latest news from Azerbaijan",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORkFyNE55dmZOS0VuYXN6OG9ibUZsd201RTZwRFdYYzVweUhiLVNRMDcxWHR0MnJCaktzT0l5djZxWUsyeklsVXoyWG51NWpMOVdCS25YZnhMU3hmWldsZDhWTVFVNEljem5wZGM0NFgyNjAxWHlfWGVHNENtNmVVQ1hWbUd5dzQ?oc=5",
+    "source": "Latest news from Azerbaijan",
+    "source_type": "news",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:01.393515+00:00",
+    "authors": [],
+    "summary": "Zuckerberg-backed Biohub joins $1.8B AI effort to model cells Latest news from Azerbaijan",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmihwfbvv95cuxorkfyne55dmzos0vuyxn6og9ibuzsd201rtzwrfdyyzvweuhilvnrmdcxwhr0mnjcaktzt0l5djzxwusyeklsvxoywg51nwpmovdcs25yznhmu3hmwldszdhwtvfvneljem5wzgm0nfgynjaxwhlfwgvhnentnmvvq1hwbud5dzq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Subsidiária da Nexentis implanta plataforma de descoberta de fármacos no Google Cloud - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb1ZYam5TVXlxV2NQYVBIM1ptNmdOeEljRU1OLVpqRHNiY3V3OWM4S1pSbUJBN3VxYkFTM0Zna1NqbmVzZjdVZngwZVUzZHVVYjU3cWlyRjFmWTI5ZmhZSUd3QnljUWJ0WHV3MEZqU1V0TE52UUw5bTBuQ1kxQXZJMVNSUHFjTGVkYldmZmxvN3JJZ0o1Q1p6Y3pZUElxS0k4dDU2UjY4N19ZbU83UDF5MHdZOWNDeTVkdndlQ3hsT1I0SE03OW5nZm02V2JKekhwRy13TFhWdE8?oc=5",
+    "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "source_type": "news",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:06.831177+00:00",
+    "authors": [],
+    "summary": "Subsidiária da Nexentis implanta plataforma de descoberta de fármacos no Google Cloud Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "biologia computacional (fármacos OR medicamentos)"
+    ],
+    "extra": {
+      "query": "biologia computacional (fármacos OR medicamentos)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi2afbvv95cuxpb1zyam5tvxlxv2nqyvbim1ptnmdoeeljru1olvpqrhniy3v3owm4s1psbujbn3vxykftm0zna1nqbmvzzjdvzngwzvuzzhvvyju3cwlyrjfmwti5zmhzsud3qnljuwj0whv3mezqu1v0te52uuw5btbuq1kxqxzjmvnsuhfjtgvkyldmzmxvn3jjz0o1q1p6y3pzuelxs0k4ddu2ujy4n19zbu83udf5mhdzowndetvkdndlq3hst1i0se03ow5nzm02v2jkekhwry13tfhwde8?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Instituto Butantan avança na produção nacional da vacina contra VSR - Afya | Home",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHBCZWtmYl94d0M3SlVXdW9DOG9WajQ4SE9ZQThSNG40Yk9VSks3d29pZTlaenVsWVNvSm1mMTJ4RlhGSjM2U3BqdWluZ25iN1dFYzFLbUNsTmpxYVkzVlR2ZDhaMDU2ZEcxNEcxelFBMlpwcDRLeU5Ddm9qYTZoOTNzNmFSZkRqa0dLTElWN2g2NWY2VWdldEZINEdzdk9aeXc?oc=5",
+    "source": "Afya | Home",
+    "source_type": "news",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:07.527021+00:00",
+    "authors": [],
+    "summary": "Instituto Butantan avança na produção nacional da vacina contra VSR Afya | Home",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiogfbvv95cuxqrhbczwtmyl94d0m3slvxdw9dog9wajq4se9zqthsng40yk9vsks3d29pztlaenvswvnvsm1mmtj4rlhgsjm2u3bqdwluz25in1dfyzflbunstmpxyvkzvlr2zdhamdu2zecxnecxelfbmlpwcdrleu5ddm9qytzootnznmfszkrqa0dltelwn2g2nwy2vwdldezinedzdk9aexc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "US government, Google join Zuckerberg-backed Biohub in $1.8 billion push for AI biology data - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWTdsWTdFWVdPWUFDRjN1RGd6el9PR3NQNFN5blFINGVqVUNRcXMtaW5JcDQ0OV9IejBJa0stOHFnaG9Kd0Q3N3BObTEtQWFXYW9ad2JCS09oQV9iWlB6dU1RSktCSnExdWVUdnRXQmE3aTNCdm5LV01TTW9vbG9sRkctZFhoNm1wdGlqcGtRd3RhRFlzUWt1dElpV0NocGtvYlgyenBlUG5ZV0N6eHUzTXVYSDhzWWROWUhDNlJRYnhwc3Q0SVZzUjUxQUp0OFNkbmFrZEpiNDZweEdRbG9nLUgtZw?oc=5",
+    "source": "Reuters",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:09.198185+00:00",
+    "authors": [],
+    "summary": "US government, Google join Zuckerberg-backed Biohub in $1.8 billion push for AI biology data Reuters",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi4wfbvv95cuxowtdswtdfwvdpwufdrjn1rgd6el9pr3nqnfn5blfingvqvunrcxmtaw5jcdq0ov9iejbja0stohfnag9kd0q3n3bobtetqwfxyw9ad2jcs09oqv9iwlb6du1rsktcsnexdwvudnrxqme3atncdm5lv01ttw9vbg9srkctzfhonm1wdglqcgtrd3rhrflzuwt1delpv0nocgtvylgyenblug5zv0n6ehuztxvysdhzwwrowuhdnljrynhwc3q0svzzujuxqup0ofnkbmfrzepindzweedrbg9nlugtzw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google DeepMind, Meta, Isomorphic Labs Invest $300 Million in Biohub's Initiative to Build AI Data to Treat Disease - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSng4dVBsSnhLR0tjV29nTHd3Zk04bWVNaUFGVFBTRWM0Rk9FWVE1T3c4SUJNSVR2SG16dlp3ZTEwT01wTHVXajd6Wmg0ZlJzal9yY0ltdjAyMmJfdzByRGlBMkRqOWxxbEFUVkc0YzVBMTB6ci1CNFlZRjNQM0Z3X0cyRmhUUHlVV25YdDdnRlNvSVp5cUNOd2FoVklxVkFHM1E?oc=5",
+    "source": "Yahoo Finance",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:09.198344+00:00",
+    "authors": [],
+    "summary": "Google DeepMind, Meta, Isomorphic Labs Invest $300 Million in Biohub's Initiative to Build AI Data to Treat Disease Yahoo Finance",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiogfbvv95cuxnsng4dvbssnhlr0tjv29nthd3zk04bwvnaufgvfbtrwm0rk9fwve1t3c4sujnsvr2sg16dlp3ztewt01wthvxajd6wmg0zljzal9yy0ltdjaymmjfdzbyrglbmkrqowxxbefuvkc0yzvbmtb6ci1cnflzrjnqm0z3x0cyrmhuuhlvv25ydddnrlnvsvp5cunod2fovklxvkfhm1e?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "DeepMind, Meta, and Isomorphic Labs Back Biohub’s $1.8B Virtual Cell Push - Gadget Review",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdmxLUWtNZzBfZkh6Tmh1UlA5bnhjUnQ3cTQ4RzZ5TEZkRWZyMVpXWTZjOEtzdTd4WGZicEtQbnFLWVIzZ2d6VmloZDJIVTI1MmI4RlNfVDBqU0FqZHNMWnFMeVpyWDFRUExlYmVqNG5lQkpEbUxuUldsQ0RNU1I2d1BQOFdsQ185bHpCQ19kdXcxakpQOXVjOFp3Y3JkVmc?oc=5",
+    "source": "Gadget Review",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:09.198526+00:00",
+    "authors": [],
+    "summary": "DeepMind, Meta, and Isomorphic Labs Back Biohub’s $1.8B Virtual Cell Push Gadget Review",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbminwfbvv95cuxndmxluwtnzzbfzkh6tmh1ula5bnhjunq3ctq4rzz5tezkrwzymvpxwtzjoetzdtd4wgzicetqbnflwvizz2d6vmlozdjivti1mmi4rlnfvdbqu0fqzhnmwnfmevpywdfruexlymvqng5lqkpebuxuuldsq0rnu1i2d1bqofdsq185bhpcq19kdxcxakpqoxvjofp3y3jkvmc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google, Meta and the US government put $1.8 billion behind a virtual human cell - Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYTNNSWMyamlRSmw2c1dTVWNJaE1zUTlqTHBPZ1ZsSkxDcVYzY2g2c25DMzFZcHJuMUw1dXhRTXFwLUV1VE05Mml2VWxyRGs3STdDRzRGVnRKenpwSGRqblZldjdnblQ1ckxPdm56b0F0NGlpaHk3ZXE2aFVORXRkbW1jVmNhQl9hVld6ekxaejdhTlFHWHdvX1B6SjREU1JWajZRazMyYw?oc=5",
+    "source": "Startup Fortune",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:09.198605+00:00",
+    "authors": [],
+    "summary": "Google, Meta and the US government put $1.8 billion behind a virtual human cell Startup Fortune",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmipwfbvv95cuxnytnnswmyamlrsmw2c1dtvwnjae1zutlqthbpz1zsskxdcvyzy2g2c25dmzfzchjumuw1dxhrtxfwluv1ve05mml2vwxyrgs3stddrzrgvnrkenpwsgrqblzldjdnblq1ckxpdm56b0f0nglpahk3zxe2afvorxrkbw1jvmnhql9hvld6ekxaejdhtlfhwhdvx1b6sjreu1jwajzrazmyyw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google DeepMind and Meta Join Biohub’s $1.8 Billion AI Biology Push - TIKR.com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWNfWXdwX3YxZlBrS29fTDJpdXlSTGIyaWxLQzlHYjdheGdxVTBIYUtRbUw1emh2THA4MTJXR2ZNeHpCZHRJNU5IWElidWMtcTBoYXEwVGk2TENZc0dpajI0WHgyYi1MZ0dWUENrNzlGNXdMdlJVbGg2WXFoWjZjYTVidy1WV2YtUEJmVTNFZGN1QXBqU2c?oc=5",
+    "source": "TIKR.com",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:09.198685+00:00",
+    "authors": [],
+    "summary": "Google DeepMind and Meta Join Biohub’s $1.8 Billion AI Biology Push TIKR.com",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmilgfbvv95cuxotwnfwxdwx3yxzlbrs29ftdjpdxlstgiyawxlqzlhyjdhegdxvtbiyutrbuw1emh2tha4mtjxr2znehpczhrjnu5iwelidwmtctboyxewvgk2tenzc0dpaji0whgyyi1mz0dwuenrnzlgnxdmdljvbgg2wxfowjzjytvidy1wv2ytuejmvtnfzgn1qxbqu2c?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Big Tech Backed A $300 Million AI Health Data Push - Finimize",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXZzaTBJVk1xZ1llOUxkd2xDcDV2N05rc0FLWVMwZTItYXlTSzRlQTFrNXVQZjh3N2tsWGFxdU1FOHRiUFYzME84R1lmaENlV1NIb2oyTHlSTjR5OVJoSjNlV2J1SDZudmUtUm1pYzc4TUMxU01CbGs2Y25ybkNadE5tQ3Y?oc=5",
+    "source": "Finimize",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:09.198906+00:00",
+    "authors": [],
+    "summary": "Big Tech Backed A $300 Million AI Health Data Push Finimize",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmihafbvv95cuxpwxzzatbjvk1xz1llouxkd2xdcdv2n05rc0flwvmwztityxltszrlqtfrnxvqzjh3n2tswgfxdu1fohriufyzme84r1lmaenlv1nib2oythlstjr5ovjosjnlv2j1sdzudmutum1pyzc4tumxu01cbgs2y25ybknade5tq3y?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "EU invests €65m to bolster key biotech data amid funding vulnerabilities - The Brussels Times",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2dPSjA1SjNvQ3JSaFBpOGc3TkVWTUhLNE5DTy1WN3JUNExLMWxYOGFzZHY4RjZWTkJvWm12c1liendvaDdoek1KMFFEbGhXWENaUEY2aFFud3dlZGJPVWlvdV9EMDgwLVdXaEhCc3FSZ2tOSGNKV1FVZXhXeVpfMktianNHSXVOVkRBRUhCVkQzNVlobExOdE52bFNoUnBfbkI4UXdpSHlLZkxYekVR?oc=5",
+    "source": "The Brussels Times",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:11.722012+00:00",
+    "authors": [],
+    "summary": "EU invests €65m to bolster key biotech data amid funding vulnerabilities The Brussels Times",
+    "doi": null,
+    "company_slug": "expasy",
+    "keywords_matched": [
+      "ExPASy (SIB)"
+    ],
+    "extra": {
+      "query": "\"ExPASy\" OR \"SIB Swiss Institute of Bioinformatics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmirwfbvv95cuxnv2dpsja1sjnvq3jsafbpogc3tkvwtuhlne5dty1wn3junexlmwxyogfzzhy4rjzwtkjvwm12c1liendvaddoek1kmffebghxwenauey2affud3dlzgjpvwlvdv9emdgwlvdxaehcc3fsz2tosgnkv1fvzxhxevpfmktiannhsxvovkrbruhcvkqznvlobexode52bfnounbfbki4uxdpshllzkxyekvr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Recursion Pharmaceuticals, Inc. (RXRX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PSmVZY09FdlZuVHBjQzgzSDVJNzNnVnFMYUhHbXdWeERCMC00R2dvY05aNHJrWEo5c0tzaTVaU1l4YkFKNlFGeXRDTC1UclQ1emc?oc=5",
+    "source": "Yahoo! Finance Canada",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:13.505759+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals, Inc. (RXRX) Stock Price, News, Quote & History Yahoo! Finance Canada",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiukfvx3lxte9psmvzy09fdlzuvhbjqzgzsdvjnznnvnfmyuhhbxdweercmc00r2dvy05anhjrweo5c0tzatvau1l4ykfknlfgexrdtc1uclq1emc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Recursion Pharmaceuticals Stock Short Interest Falls to 34.95% - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObjdDWldqUHZvVmYxOWluN0ZnTC14YnVGNjFkOGxEZERubG02YklLb1V5eXczTWpGVy01RXZESmhKN3c4SkJzNVpmX2VTQ3dsV1dEU3FNV3c4TnZSVHltdnRFWnRPU2NaTVhrdHA5V3FxR2RiZVozOHpVeF83VzFNcWNSUEN5U2wxbHNlMmZaaFVwRTZpYmpSc3BxNEdldw?oc=5",
+    "source": "Quiver Quantitative",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:13.505990+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals Stock Short Interest Falls to 34.95% Quiver Quantitative",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmingfbvv95cuxobjddwldquhzvvmyxowlun0zntc14ynvgnjfkogxezerubg02ykllb1v5excztwpgvy01rxzesmhkn3c4skjznvpmx2vtq3dsv1deu3fnv3c4tnzsvhltdnrfwnrpu2natvhrdha5v3fxr2rizvozohpvef83vzfncwnsuen5u2wxbhnlmmzaafvwrtzpympsc3bxnedldw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Under a trading plan, Recursion (RXRX) director sells 50,000 shares averaging $4.84 each. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY2VDRThCWV85dkhyU0JFWW9uRGYtalpnY2Z3aUEyRFlXQ2k0QTBhdHdxQmxTalczU1U4ZmJkdEFOaGdCUUV1bWg3amVCckJfQUozaFVLaF9ET0FKanEycHM2bkZzRDZDaGZORlU2cHNGa05CcEVIOThaclVBLXM4RlpmbWdJZElkb21iT3JQN2NIT1NNQ3pjc05SeEZHeDUzM1lrc0VJZHU2cUpRQUlqTXhDTEdDaVBwQW9QQ0JDUTM?oc=5",
+    "source": "Stock Titan",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:13.506067+00:00",
+    "authors": [],
+    "summary": "Under a trading plan, Recursion (RXRX) director sells 50,000 shares averaging $4.84 each. Stock Titan",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwafbvv95cuxoy2vdrthcwv85dkhyu0jfww9urgytalpny2z3aueyrflxq2k0qtbhdhdxqmxtalczu1u4zmjkdefoagdcuuv1bwg3amvcckjfquozafvlaf9et0fkaneychm2bkzzrdzdagzorlu2chnga05cceviothaclvblxm4rlpmbwdjzelkb21it3jqn2nit1nnq3pjc05seezheduzm1lrc0vjzhu2cuprqulqtxhdteddavbwqw9qq0jdutm?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "A director sells 25,000 shares at $5 after exercising options at $2.22 at Recursion (RXRX). - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTmxZbmFhX2swQlpqNXZySXNUTGl6NjZUcDRUUHVIVzExWFBJcmNvNzFxOGlscDJaT0RIUS1aU0tJbEhQX081Zjl2TnhWZFZtRjJEOVFwbXV0UDhnQ3d0aEhWSlV4b2twSHlyb2hNTWN3SlVWdnMwMW4yM0lzVG1TNVdPQlp1dzBnQk10aWFpY1doV1hPVFA4bGk5NkhGUnpOWEZodGZmblVEbUI1dHhMMElPT0NNSXJmbXhVT0Q4LUw?oc=5",
+    "source": "Stock Titan",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:13.506511+00:00",
+    "authors": [],
+    "summary": "A director sells 25,000 shares at $5 after exercising options at $2.22 at Recursion (RXRX). Stock Titan",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwafbvv95cuxqtmxzbmfhx2swqlpqnxzysxnutgl6njzucdruuhvivzexwfbjcmnvnzfxoglscdjat0rius1au0tjbehqx081zjl2tnhwzfztrjjeovfwbxv0udhnq3d0aehwslv4b2twshlyb2hntwn3slvwdnmwmw4ym0lzvg1tnvdpqlp1dzbnqk10awfpy1dov1hpvfa4bgk5nkhgunpowezodgzmblvebui1dhhmmelpt0nnsxjmbxhvt0q4luw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "RXRX Stock Grinds Higher As Traders Study Biotech Runway - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3QybEp5enhxejFRSlBjRUF0WElkR1kxc2FEcm1ZdHNsUDVBTzNTWEZET1pVR28wZjNSbmVPUnUwV1daMHZFOW5xMTN4eVA0MThIQ2tIajRjZE5HODRPZ3JkaGw3WjhvenpDeFBhU2FkVGFmb25uMmxmNUNrVXpmeThBVExVTlpmNlllVTZn?oc=5",
+    "source": "Timothy Sykes",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:13.506652+00:00",
+    "authors": [],
+    "summary": "RXRX Stock Grinds Higher As Traders Study Biotech Runway Timothy Sykes",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijgfbvv95cuxnr3qybep5enhxejfrslbjruf0welkr1kxc2fecm1zdhnsudvbtzntwezet1pvr28wzjnsbmvpunuwv1damhzfow5xmtn4eva0mthiq2tiajrjze5hodrpz3jkagw3wjhvenpdefbhu2fkvgfmb25ummxmnunrvxpmethbvexvtlpmnlllvtzn?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google DeepMind and Meta Join Biohub’s $1.8 Billion AI Biology Push - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNazRJeTVMSS1jcHhBMWZZTmt1SGVTcXN5UHBCQjY3OEt4SDRNLUVvOVZkUVlRVEZKUDJ5aWpkX2tqeEJLSGhYTUd1V0w3LTlfaEFJNWhBdWVvZ2pRQ1pSMG5qaGI1OFdqMjFNZHFlQjZLWWdCbG55WVBmVm5aLUpsRWpROWVTMFRVcjgxOGNIX0Q1X0ZCdGFLeDd6RmQ?oc=5",
+    "source": "Yahoo Finance",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:15.170072+00:00",
+    "authors": [],
+    "summary": "Google DeepMind and Meta Join Biohub’s $1.8 Billion AI Biology Push Yahoo Finance",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbminafbvv95cuxnazrjetvmss1jchhbmwzztmt1sgvtcxn5uhbcqjy3oet4sdrnluvvovzkuvlrvezkudj5awpkx2tqeejlsghytud1v0w3ltlfaefjnwhbdwvvz2prq1psmg5qagi1ofdqmjfnzhflqjzlwwdcbg55wvbmvm5alupsrwprowvtmfrvcjgxognix0q1x0zcdgfledd6rmq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google DeepMind Develops Watermarking Tech for AI-Designed Proteins - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0s2TWdBaENrbUhWSU03NV9uUXgtdHBVQXhqMFBUUWtfRkEzVEdQQmdUZWstcmw3RjA0bkFTck5jWFFhVkhZRkhzSXZNWEdxTzhwMm5iRWFJRnp6bnJ6TTZaQ09GNVdjcHAzSFRzREZDMXdRdGo4OVpWVnRNNlRYVTNaUjFBenNB?oc=5",
+    "source": "조선일보",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:15.170239+00:00",
+    "authors": [],
+    "summary": "Google DeepMind Develops Watermarking Tech for AI-Designed Proteins 조선일보",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiiafbvv95cuxqv0s2twdbaenrbuhwsu03nv9uuxgtdhbvqxhqmfbuuwtfrkezvedqqmduzwstcmw3rja0bkftck5jwffhvkhzrkhzsxznwedxtzhwmm5irwfjrnp6bnj6ttzaq09gnvdjchazsfrzrezdmxdrdgo4ovpwvnrnnlryvtnaujfbennb?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "US, Google, Meta join forces to build ‘virtual cells’ for digital biology experiments - Interesting Engineering",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUk1XN3R3M1BqQnpkUTJtV0ZydmxjQnlwNVFVYTVhOGJUaHRvcGd4WWViTGFncC0zRVRwRFdwZjdmRGpFNVh4TE5DVnIzVk91R2lBSS0wU1lyR0o4WU5DOWhWVmQ3dW56SUdsSWRVTTkyZWd5bXZHMWs3MGtUSTZiNmw5T1FTNFhXb3hpMnpYY2pSdw?oc=5",
+    "source": "Interesting Engineering",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:15.170799+00:00",
+    "authors": [],
+    "summary": "US, Google, Meta join forces to build ‘virtual cells’ for digital biology experiments Interesting Engineering",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmikgfbvv95cuxnuk1xn3r3m1bqqnpkutjtv0zydmxjqnlwnvfvytvhogjuahrvcgd4wwvitgfncc0zrvrwrfdwzjdmrgpfnvh4te5dvnizvk91r2lbss0wu1lyr0o4wu5dowhwvmq3dw56sudsswrvttkyzwd5bxzhmws3mgtustzinmw5t1ftnfhxb3hpmnpyy2psdw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Zuckerberg teams with Google on $300 million push to map cells and generate data to predict their behavior - Firstpost",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTVNheWtFUFBmZkhqZU1hNFJPZG91YzFBWUpmcHhvTkRkZU1RRGRmTnRRdjZVNnZveEZsN2tIeXkzVlZqQWZna21RenRNZHQ3eEhSRUZtdDBNZzZXZ1JSWlh3azJBc2w4d01EcnhGODYxVVFaTlZYdm4ydTVfeUx3XzJZM014ZmRITExFTDYzVDVlZVhUQWhQZm9BUDVtYS1zTWRSTmctYzBZUdIBrwFBVV95cUxNRTg1cW5kX0VFUFRCbU5zOFRFb3cwbjAtOW83WTFiTGQzVU5sWHp0ME9jcFZlejQ1MDlES0xrRjVIOVZtdU9qajdBY0ktamIyazJhRTFBdjBKei1qXzRIdnFXTUdiWWZmRWQ2VTAxdWV5anVJOTVuREh2WFoycWc3MFdRSGYwdmJjVG4wZFcwOE9JRW9UakUyVGNDOEhVejRrZ1VVbnZ4RG40WmZRRUxF?oc=5",
+    "source": "Firstpost",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:15.171387+00:00",
+    "authors": [],
+    "summary": "Zuckerberg teams with Google on $300 million push to map cells and generate data to predict their behavior Firstpost",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqgfbvv95cuxntvnhewtfufbmzkhqzu1hnfjpzg91yzfbwupmchhvtkrkzu1rrgrmtnrrdjzvnnzveezsn2tiexkzvlzqqwzna21renrnzhq3eehsruztddbnzzzxz1jswlh3azjbc2w4d01ecnhgodyxvvfatlzydm4ydtvfeux3xzjzm014zmritexftdyzvdvlzvhuqwhqzm9budvtys1ztwrstmctyzbzudibrwfbvv95cuxnrtg1cw5kx0vfufrcbu5zofrfb3cwbjatow83wtfitgqzvu5swhp0me9jcfzlejq1mdles0xrrjviovztdu9qajdby0ktamiyazjhrtfbdjbkei1qxzridnfxtudiwwzmrwq2vtaxdwv5anvjotvureh2wfoycwc3mfdrsgywdmjjvg4wzfcwoe9jrw9uakuyvgndoehvejrrz1vvbnz4rg40wmzrruxf?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "US Government, Google and Meta Join $1.8 Billion Biohub Push to Train AI on Biology - The420.in",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DSFZIanFkLTFyMjloU3RIWXY5Qm1iQmtvdWliODhRNnc4T3c0eUhZME1rbTBtQjJEU2N1ZlFGYVdLLWxuZXZRSV9MWkpHN2lGdFRsVk95NmpXQzVJMHN1RlZMaHFnbEQzNGF6Rkl3a2lfWjZUdE5WSjVpaS1CRzA?oc=5",
+    "source": "The420.in",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:15.172867+00:00",
+    "authors": [],
+    "summary": "US Government, Google and Meta Join $1.8 Billion Biohub Push to Train AI on Biology The420.in",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmif0fvx3lxte5dsfzianfkltfymjlou3riwxy5qm1iqmtvdwliodhrnnc4t3c0euhzme1rbtbtqjjeu2n1zlfgyvdllwxuzxzrsv9mwkphn2lgdfrsvk95nmpxqzvjmhn1rlzmahfnbeqzngf6rkl3a2lfwjzude5wsjvpas1crza?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Meta, OpenAI and Anthropic Could Become Biotech Companies, Says Stanford Neuroscientist Andrew Huberman: 'Sounds Kind of Science Fiction' - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNam94dklLSUpoVlVrVVpNd3hBLWtwajVKWUJpcDNMdHVWWWM2ZTFyYmYtcEE3VE50azdGZFR3WlRKcFhFdGNvVlB2YkE5MUlXcG9NeUx1bHRFS3FVd2lsdFNGM2F6aVRsN0toMmZJeEVYdUFtUlZwQzRVWTFuTUlPdlUxdVVXVlozanFQam1DZVQzekswbDdDNzdMM3RjTWRFMEdCNlMzME03TTBMWVd4SHZVZ2Y0YjJPTFZ6RUdJX2pQQkROUXJHNFQxbm1qTjVMYk1QUHlNYXBLMDNCMTg5cjhWeno2UjVUOU1Sa2RBWWJvam91eEJaMXFZVHJMMkZmVTNPdEFObDVUUnB4LWY0bzFjOG5MSmU0eW9J?oc=5",
+    "source": "TradingView",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-08T01:18:15.771682+00:00",
+    "authors": [],
+    "summary": "Meta, OpenAI and Anthropic Could Become Biotech Companies, Says Stanford Neuroscientist Andrew Huberman: 'Sounds Kind of Science Fiction' TradingView",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmimwjbvv95cuxnam94dkllsupovlvrvvpnd3hblwtwajvkwujpcdnmdhvwwwm2ztfyymytcee3ve50azdgzfr3wlrkcfhfdgnvvlb2yke5mulxcg9neux1bhrfs3fvd2lsdfngm2f6avrsn0tommzjeevyduftulzwqzrvwtfutulpdluxdvvxvlozanfqam1dzvqzekswbdddnzdmm3rjtwrfmedcnlmzme03ttbmwvd4shzvz2y0yjjptfz6rudjx2pqqkrouxjhnfqxbm1qtjvmyk1quhlnyxblmdncmtg5cjhweno2ujvuou1sa2rbwwjvam91eejamxfzvhjmmkzmvtnpdefobdvuunb4lwy0bzfjog5msmu0ew9j?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "RTY-406",
     "url": "https://drughunter.com/molecule/rty-406",
     "source": "Drug Hunter",
@@ -620,6 +1326,90 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmihafbvv95cuxnuvptrepomhftmvfbzhrbthnyn0mxvxm5dwrfzghvc1hfnfnzselfc1lfyklnbklnynddcfnrsuj1ow1yodk3eedmr1lqvdcxregzbnv4zfnfd1j1a081c1vtdnhjcmtubvh3sm40a3nvz0mttgtzqxy1bvfqeuxiyzfrbee?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "PacBio Deepens AI Drug-Discovery Push With TychoBio Deal — PACB Stock Takes A Breather After 103% Rally - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSGd4Q0hVVGlfMm9uTHJ3cngwTnJzWDJELXdSVDhSclk2TDh4M0VQeTNaRXVaTk9FQmlYam5YY2xWaDdzdGxva29vVVRVZkFpcllvcVZpeTVkbGt2U3JjbW4yLW1HbEZHSEVfYTd4bmhYT3ZlOTVpazZwR1BRNC1MX05WMkI4MG5hcm1HRGlEVUlqOG5wc1hfZHN5aG1YR3VqRFJEZTNHS29RY2I1WlhoNkVBQzF5eERnbjB5T0liejVVbXVQZThVZ3d0MjNuY2d5WDB3blAtdFJ1Mkp1TmtxSGFKT2R3cUQ1NWZfRHNsR3E1dUVCMHE2STdn?oc=5",
+    "source": "Stocktwits",
+    "source_type": "news",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-08T01:18:01.393053+00:00",
+    "authors": [],
+    "summary": "PacBio Deepens AI Drug-Discovery Push With TychoBio Deal — PACB Stock Takes A Breather After 103% Rally Stocktwits",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi-gfbvv95cuxpsgd4q0hvvglfmm9uthj3cngwtnjzwdjelxdsvdhsclk2tdh4m0vqetnarxvatk9fqmlyam5yy2xwaddzdgxva29vvvrvzkfpcllvcvzpetvkbgt2u3jjbw4ylw1hbezhsevfytd4bmhyt3zlotvpazzwr1brnc1mx05wmki4mg5hcm1hrglevulqog5wc1hfzhn5ag1yr3vqrfjeztnhs29ry2i1wlhonkvbqzf5eernbjb5t0liejvvbxvqzthvz3d0mjnuy2d5wdb3blatdfj1mkp1tmtxsgfkt2r3cuq1nwzfrhnsr3e1duvcmhe2stdn?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Can AI Find the Right Cancer Drug for the Right Patient? This Collaboration Is Putting It to Work - Streetwise Reports",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOV3htWklQeVkyMlZVWnRNTUtBVUFzdHB6aTJxTDRlNm9MMnFyWXo5N3dwMlRBZ0JXdTE0Ml8xYTdVNUlBaVdPaGsyUnZ2MFVsTEY2eEt5NDdUUkJNS2RKdzQ5WGh1Q0Y0VU9xaGp5QjZFQTJ3TzU4ajhyMzkwU0M4QkQ4SW5tMVZreEtqS3h5UFBrM3oxUzZXMVBncWV4cWJ4cXhKXzl0VHFnVmtIcUJCMkFZOVQybS15WnZNWVRRZlVMNUdnOFZ6R3J0ak1jb2szZk0yOVdfazRndTdhbXZCc251YkdSUWRmTnc?oc=5",
+    "source": "Streetwise Reports",
+    "source_type": "news",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-08T01:18:01.393315+00:00",
+    "authors": [],
+    "summary": "Can AI Find the Right Cancer Drug for the Right Patient? This Collaboration Is Putting It to Work Streetwise Reports",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi6gfbvv95cuxov3htwklqevkymlzvwnrntutbvufzdhb6atjxtdrlnm9mmnfywxo5n3dwmlrbz0jxdte0ml8xytdvnulbavdpagsyunz2mfvstey2eet5ndduukjns2rkdzq5wgh1q0y0vu9xagp5qjzfqtj3tzu4ajhymzkwu0m4qkq4sw5tmvzreetqs3h5ufbrm3oxuzzxmvbncwv4cwj4cxhkxzl0vhfnvmticujcmkfzovqybs15wnznwvrrzlvmnudnofz6r3j0ak1jb2szzk0yovdfazrndtdhbxzcc251ykdsuwrmtnc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Recursion Pharmaceuticals (Ondo Tokenized Stock) - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTdOVktWeVUwcklLRG5KOXdFbE9mbDN3STFSMTFCVUxwcW84ZW13UFVwYnJpWm1xVmxLLWJSajBLRDNEUWVFUElFSmdMejlDR3UtM1lSM1h4NGFyVWM1MkowZ21maUJYaGJqVDQ3S0FHN2ZLWTR3X0RnNndLZnhoZ2dhVUQ?oc=5",
+    "source": "CryptoRank",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-08T01:18:13.507207+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals (Ondo Tokenized Stock) CryptoRank",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmihafbvv95cuxqltdovktwevuwckllrg5koxdfbe9mbdn3stfsmtfcvuxwcw84zw13ufvwynjpwm1xvmxllwjsajblrdneuwvfuelfsmdmejldr3utm1lsm1h4ngfyvwm1mkowz21maujyagjqvdq3s0fhn2zlwtr3x0rnnndlznhoz2dhvuq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "$Recursion Pharmaceuticals (RXRX.US)$ run it back bulls! - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTmYxVEIzSHVldnp6UktJYWZrR205RGx5TUhqLXoyV1MzaVRqMDE2dG5CQ1BEbVdyVms5UHNiWmZ0Y3llcWV0UldrY0lBN2U3N1pqSzEza0tzZ2NVSVpwbXBKQlhqdVh6c2xMOEtQSkJHS09OVkpmbUpBM0J3emNPT3hoeC0xSWFaOHh3TlB1cXNoX1Q2TG9kQW9LXzExcnpNbXp6M3hNejc?oc=5",
+    "source": "Moomoo",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-08T01:18:13.509069+00:00",
+    "authors": [],
+    "summary": "$Recursion Pharmaceuticals (RXRX.US)$ run it back bulls! Moomoo",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqafbvv95cuxqtmyxveizshvldnp6uktjywzrr205rgx5tuhqlxoyv1mzavrqmde2dg5cq1bebvdyvms5uhniwmz0y3llcwv0uldry0lbn2u3n1pqszeza0tzz2nvsvpwbxbkqlhqdvh6c2xmoetqskjhs09ovkpmbupbm0j3emnpt3hoec0xswfaohh3tlb1cxnox1q2tg9kqw9lxzexcnpnbxp6m3hnejc?oc=5"
   },
   {
     "kind": "news",
@@ -3342,6 +4132,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmilwfbvv95cuxntvi1bwh3vwldzehknfjncv93nv9mttv4rdfnvndvc0flduittgzzovriqu9imlkzddetyjdwdtbqvzzhohpcc1noqujnvevsbl9lres4ekp1bhbnqmjkuem2wxffznhkehznx1brv1bfq3kxmxrhagveudj3whrxmdi0dgzwq2nybmnrwdi4deiyr29vnzbb?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Breaking the safety barrier: Insilico Medicine nominates ISM1354, the next-generation small molecule GIPR antagonist - EurekAlert! Science News Releases",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jdEo2MXFkREw4bE5OaEp6WVV5YVVHWjBWaEFQVHJvcEhqbC0tMkp6TVhEc0RadXlnOUpkZUhaSHdMZU1hQlF5eGo4eFB2b2szQlE0TFhfcVd2a0VU?oc=5",
+    "source": "EurekAlert! Science News Releases",
+    "source_type": "press",
+    "published_date": "2026-09-30",
+    "collected_at": "2026-10-08T01:18:10.320970+00:00",
+    "authors": [],
+    "summary": "Breaking the safety barrier: Insilico Medicine nominates ISM1354, the next-generation small molecule GIPR antagonist EurekAlert! Science News Releases",
+    "doi": null,
+    "company_slug": "insilico-medicine",
+    "keywords_matched": [
+      "Insilico Medicine"
+    ],
+    "extra": {
+      "query": "\"Insilico Medicine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmixefvx3lxte9jdeo2mxfkrew4be5oaep6wvv5yvvhwjbwaefqvhjvcehqbc0tmkp6tvhec0radxlnoupkzuhashdmzu1hqlf5ego4efb2b2szqle0tfhfcvd2a0vu?oc=5"
   },
   {
     "kind": "news",
@@ -24184,6 +24995,48 @@
   },
   {
     "kind": "news",
+    "title": "Fiocruz vai iniciar testes da primeira vacina RNAm contra a covid-19 - Região News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOczFMWmVpUGNUUzhSOEw2dlcwR0tja3NnQW9wZ19FSGtIckpNc29TdzJRVkhZM3lfallJMmI1MG5FdENnSExjcjdiLW1NYVVPNGc5V3NEcVpoY2xqVGN3WGd2V2pDZXJaSXNNdHFKNGx4NkVzR251NHRfTTlvWHVGc3lDY01GOFFTQm5oVEZ3NWdoQXh6LXRIUDMwZGZoN01KM2oweWI5UQ?oc=5",
+    "source": "Região News",
+    "source_type": "news",
+    "published_date": "2026-09-03",
+    "collected_at": "2026-10-08T01:18:08.205414+00:00",
+    "authors": [],
+    "summary": "Fiocruz vai iniciar testes da primeira vacina RNAm contra a covid-19 Região News",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmipwfbvv95cuxoczfmwmvpugnuuzhsoew2dlcwr0tja3nnqw9wz19fsgtickpnc29tdzjrvkhzm3lfalljmmi1mg5fdennsexjcjdilw1nyvvpngc5v3necvpoy2xqvgn3wgd2v2pdzxjasxnndhfkngx4nkvzr251nhrfttlvwhvgc3ldy01gofftqm5ovez3nwdoqxh6lxriudmwzgzon01km2owewi5uq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Fiocruz vai iniciar testes da primeira vacina RNAm contra a covid-19 - Na Hora Online",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeEdhZWlLN2ZOSGdrUld5a05reTV1ZFlCZ3JQSXZLVjNKOGtWVGhNc1o4cXlmNGxEaTUtX2thb0JkTlA1TUoxaGhQYlB3cEplTXdtdl9GRDljbHZPX0d4bGVSajhTMFFfOGIwV3ZFTU5mVmM2T1BQUFFhTjBCejh3bnVReDFoS2tWdTg1cEJGUkd3aEZZczRKdzUwM3hQT3dOcEdHZTIza0kxU1RzdnlCRGhyQWkxM3U2N2NKemZkVGzSAcYBQVVfeXFMUGtZODh4eHlqWG9yQVljUDRjZ2Q0V25Jd0JkaXcyU0l3cWtjckxBdFJjMjZrdGV2R2NnRENEQ2Y4dzRBNEIwa3R3NU1jcVpwRjJ2dHhiRWRKM1VUaWJQalZxNzFDZGNhMGR1Mk10N3hvc0taNDhXTEVuQnBCOF9lak43aEFSVVRiM3NWS3VQbHR6R211aFJFOVVYLUJ1UUNlazhodlJoOVVVbW9YX3FHVE1KSXQ2TFJud1h4ckZ3em1vcVZndU5n?oc=5",
+    "source": "Na Hora Online",
+    "source_type": "news",
+    "published_date": "2026-09-03",
+    "collected_at": "2026-10-08T01:18:08.205705+00:00",
+    "authors": [],
+    "summary": "Fiocruz vai iniciar testes da primeira vacina RNAm contra a covid-19 Na Hora Online",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwafbvv95cuxqeedhzwlln2zosgdruld5a05retv1zflcz3jqsxzlvjnkogtwvghnc1o4cxlmngxeatutx2thb0jktla1tuoxaghqylb3cepltxdtdl9grdljbhzpx0d4bgvsajhtmfffogiwv3zftu5mvmm2t1bquffhtjbcejh3bnvredfos2twdtg1cejgukd3aezzczrkdzuwm3hqt3docedhztiza0kxu1rzdnlcrghyqwkxm3u2n2nkemzkvgzsacybqvvfexfmugtzodh4ehlqwg9yqvljudrjz2q0v25jd0jkaxcyu0l3cwtjckxbdfjjmjzrdgv2r2nnreneq2y4dzrbneiwa3r3nu1jcvpwrjj2dhhirwrkm1vuawjqalzxnzfdzgnhmgr1mk10n3hvc0tandhxtevuqnbcof9lak43aefsvvrim3nws3vqbhr6r211afjfovvyluj1uunlazhodljoovvvbw9yx3fhve1ksxq2tfjud1h4ckz3em1vcvzndu5n?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "golidocitinib (AZD4205 / DZD4205)",
     "url": "https://drughunter.com/molecule/azd4205",
     "source": "Drug Hunter",
@@ -25352,6 +26205,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmirafbvv95cuxqd2ztzkgzehhcm0ttbln6t3blnupfefj0vmlldwlcb2qwrhvga3rbdw5hr2p3x2xqu2rsmfzmuva5axbfquratnpqdlnieww4c2xjnxnqafzqwvr3bklvnmtartm3vwqxujdqundna3bacnnbsuvsb1pvbk9mnvznau1irg91vmz6c3y4tfltq1qxoullc1a5x1y5otz4suy2wjhttwh3b1hvtdhy?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Brasil testa primeira vacina de mRNA em humanos e amplia pesquisas contra câncer e outras doenças - Portal 98 FM Natal",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVzNuVDFkdmw3Y0ctdzRTYm1fZmdmc2VJWmFpNnZpbENTdzIwdHU1WDREbW8wLWVBZi11cGNJb24wN182VzJ2ZGJvTnowWVZZRVBNb1RSc3hqMkd5em5vdk9hNzlkd25BV3p5Y2h1SG5tUVQxaXhpRUdLQWFvZXFmY29DYi1iNnUyd0pmcDh4V1hDd3NBYU1ZOGNHOA?oc=5",
+    "source": "Portal 98 FM Natal",
+    "source_type": "news",
+    "published_date": "2026-09-02",
+    "collected_at": "2026-10-08T01:18:08.205323+00:00",
+    "authors": [],
+    "summary": "Brasil testa primeira vacina de mRNA em humanos e amplia pesquisas contra câncer e outras doenças Portal 98 FM Natal",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmimwfbvv95cuxnvznuvdfkdmw3y0ctdzrtym1fzmdmc2vjwmfpnnzpbentdziwdhu1wdrebw8wlwvbzi11cgnjb24wn182vzj2zgjvtnowwvzzrvbnb1rsc3hqmkd5em5vdk9hnzlkd25bv3p5y2h1sg5tuvqxaxhprudlqwfvzxfmy29dyi1innuyd0pmcdh4v1hdd3nbyu1zognhoa?oc=5"
   },
   {
     "kind": "news",
@@ -26857,6 +27731,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmickfvx3lxte5crjkzden0me9dvfa2chqzwke1x1ffredhadf0ulhvy2xkbhbib3biulfyyzftae9hsvj1mxnfmnr0uvjjseprtetcqutmtvpmtng1ednfy1lobdmwml9kvvhcm3yyenvkdlnhtvlhlvzadw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Insilico Medicine Posts First Profit, $106.3M Revenue in First Half of 2026 - Unite.AI",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaG8xM2htVm9PUDVTTlNMY1lfOFdINnJLODhVS1dPa3Vqanh1TG1NMXAzVXpnR3FWSFlEc2dFcjh4SXFCeDZDOVlGU3JCRGZ2SG5jWjBFeTlqaVhKYTBwRFE4Ny1vdktrWnhOcThlME5ZOTNfVmJNazI0M0VBQUhCWTBWNGxZYWdKVUFQTjVyMHM4b0JMM0NEZF93cw?oc=5",
+    "source": "Unite.AI",
+    "source_type": "press",
+    "published_date": "2026-08-26",
+    "collected_at": "2026-10-08T01:18:10.324301+00:00",
+    "authors": [],
+    "summary": "Insilico Medicine Posts First Profit, $106.3M Revenue in First Half of 2026 Unite.AI",
+    "doi": null,
+    "company_slug": "insilico-medicine",
+    "keywords_matched": [
+      "Insilico Medicine"
+    ],
+    "extra": {
+      "query": "\"Insilico Medicine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmimwfbvv95cuxqag8xm2htvm9pudvttlnmy1lfofdinnjlodhvs1dpa3vqanh1tg1nmxazvxpnr3fwsflec2dfcjh4sxfcedzdovlgu3jcrgz2sg5jwjbfetlqavhkytbwrfe4ny1vdktrwnhocthlme5zotnfvmjnazi0m0vbquhcwtbwngxzywdkvufqtjvymhm4b0jmm0nezf93cw?oc=5"
   },
   {
     "kind": "news",
@@ -36010,6 +36905,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi8gfbvv95cuxqaejvstztudlnqvbsqljvbdhss3jatvq2ogxzuzrolwffauh2zudxamvjcjnneum3qvflqu1ca3dgunpmumzmandudhqtt2fnttfwuf9ownpkczrsuxjvemv2t2nmu0jswmzydfpfr3fuehrgbgh4cevvvvziu1gxcy1ps084bxy0d2l2culurvldt20zugdrm1jdrvruewthevc3mfjhwjzbwkfxrlr6tlrps0hhnm9jvurjvwvsyzrurvjauuven3zgr2ewbmxjcjizqwq3a2djnetpzdzsc1pzmgvnsjnaml8zdfr0yjrbqq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines - MarkTechPost",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjJabGZzM01VQTY3MndSdTZSZEF0d0poLXFXUGwtZlF5NnB1dTY0SEhjTGZBTGNKWUQ4SEI5alZiaDFHczNpdVg2NDdRNlFZcFJZcjh1dTJlT0VaVlpvdDVJajRsekFsaVdGcG5oRDZkR25mNmZkd012amRVamZnNHI3MmNTQdIBhgFBVV95cUxPYjJabGZzM01VQTY3MndSdTZSZEF0d0poLXFXUGwtZlF5NnB1dTY0SEhjTGZBTGNKWUQ4SEI5alZiaDFHczNpdVg2NDdRNlFZcFJZcjh1dTJlT0VaVlpvdDVJajRsekFsaVdGcG5oRDZkR25mNmZkd012amRVamZnNHI3MmNTQQ?oc=5",
+    "source": "MarkTechPost",
+    "source_type": "press",
+    "published_date": "2026-07-04",
+    "collected_at": "2026-10-08T01:18:11.281950+00:00",
+    "authors": [],
+    "summary": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines MarkTechPost",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "cheminformatics"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmihgfbvv95cuxpyjjabgzzm01vqty3mndsdtzszef0d0polxfxugwtzlf5nnb1dty0sehjtgzbtgnkwuq4sei5alziadfhcznpdvg2nddrnlfzcfjzcjh1dtjlt0vavlpvddvjajrsekfsavdgcg5ordzkr25mnmzkd012amrvamznnhi3mmntqdibhgfbvv95cuxpyjjabgzzm01vqty3mndsdtzszef0d0polxfxugwtzlf5nnb1dty0sehjtgzbtgnkwuq4sei5alziadfhcznpdvg2nddrnlfzcfjzcjh1dtjlt0vavlpvddvjajrsekfsavdgcg5ordzkr25mnmzkd012amrvamznnhi3mmntqq?oc=5"
   },
   {
     "kind": "news",
@@ -49946,6 +50862,27 @@
   },
   {
     "kind": "news",
+    "title": "Insilico Medicine expands MMAI Gym with benchmark leaderboard portals for scientific research and drug discovery - EurekAlert! Science News Releases",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhNEctSXAzaGExbXRlbVN0OWt5OTZ0U21Da3JNM2tocEptRzBWWnB2UklWZ1FXS2FRWm5sV2JpLUZoajRnZkVEWFhXSTdubkVObVpoM1VmSXJvZlpD?oc=5",
+    "source": "EurekAlert! Science News Releases",
+    "source_type": "press",
+    "published_date": "2026-04-14",
+    "collected_at": "2026-10-08T01:18:10.324447+00:00",
+    "authors": [],
+    "summary": "Insilico Medicine expands MMAI Gym with benchmark leaderboard portals for scientific research and drug discovery EurekAlert! Science News Releases",
+    "doi": null,
+    "company_slug": "insilico-medicine",
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "query": "\"Insilico Medicine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmixefvx3lxtfbhnectsxazagexbxrlbvn0owt5otz0u21da3jnm2toceptrzbwwnb2uklwz1fxs2frwm5sv2jpluzoajrnzkvewfhxstdubkvobvpom1vmsxjvzlpd?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Rafael Dhalia: Fiocruz Pernambuco e a vacina da dengue - JC",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeS1Ua09UdHFPT2xkZFFvVlBMeWs2VXFRclhDbG4wbklYVlZpQkFMd2tyaGJpeG8wbTQ1eDlUNDcyZ0dlRnZ4VmZPYlVHcnpQQ1NHdmpDQk9DSWJxMzNmeHZPdkhHWS0wQWxTWW5MWDZBTUxzbEZhdm9rUDNYLWJfLTZ6WS04S3pTdFZZSldpbVhTUDJ6TlJiYlRMSW9OYTcyY2t4X1JkU1dJZw?oc=5",
     "source": "JC",
@@ -62583,6 +63520,27 @@
   },
   {
     "kind": "news",
+    "title": "Flagship Pioneering Launches Lila Sciences to Advance Scientific Superintelligence - The Healthcare Technology Report.",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXR4OVNzOTE5Qkszb3J2YjBZSVEwOFA0WFFoazBJVnh3eE1PcmpkX2xCX0t4SkNFcW1FSVhqTkdoSkxoUENvNi14Nm9lZmlhdHJfOUE2eTQyUjRQcVdxdzJDVFRJb1h5NnJFY2VWT3MwU2JENWo2ZjhYckg4WDR2S0ZfVW13cmhsTkU0ZVZ0UVJhV2d0c3haem1mVkNNQnJjaVhFZVVJcFFKMFlXamttTHAxSkFWcmtaYmRRRmZkTTdDZk0?oc=5",
+    "source": "The Healthcare Technology Report.",
+    "source_type": "press",
+    "published_date": "2025-04-02",
+    "collected_at": "2026-10-08T01:18:14.319711+00:00",
+    "authors": [],
+    "summary": "Flagship Pioneering Launches Lila Sciences to Advance Scientific Superintelligence The Healthcare Technology Report.",
+    "doi": null,
+    "company_slug": "lila-sciences",
+    "keywords_matched": [
+      "Lila Sciences"
+    ],
+    "extra": {
+      "query": "\"Lila Sciences\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwwfbvv95cuxnqxr4ovnzote5qkszb3j2yjbzsvewofa0wffoazbjvnh3ee1pcmpkx2xcx0t4sknfcw1fsvhqtkdoskxouenvni14nm9lzmlhdhjfoue2etqyujrqcvdxdzjdvfrjb1h5nnjfy2vwt3mwu2jenwo2zjhyckg4wdr2s0zfvw13cmhstku0zvz0uvjhv2d0c3haem1mvknnqnjjavhfzvvjcffkmflxamttthaxskfwcmtaymrrrmzkttddzk0?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Google-backed Isomorphic Labs raises $600m to advance AI drug discovery - Pharmaceutical Technology",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGdnakhrcXcyUTE0QkxjMGVyVDJGU2ppUlZnZmIzeUpTWmlYWm9HYlcwczhvODVNZkIzVFBoZ3Z6SzVrSWNoLUp4dDU0WnVhTjJuZDlYWGRWQlNwckc2NklFOWRDRTM2VFZCUk1kSUFxZWV1MnJqdjliVFNxZndwaDk3Sl9rcXo0UmJrSzV2cm13SVQwOVBJeE1VN19MeXZmUV9KNDJLcTRzMTJ6TnlhVkowa3pnVFY5cEE?oc=5",
     "source": "Pharmaceutical Technology",
@@ -65064,6 +66022,27 @@
   },
   {
     "kind": "news",
+    "title": "Deep reinforcement learning for de novo drug design - Science | AAAS",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPUlpBUkQyUUZ3TTBpbG5oX3F3YWJkRmRQQmJkck9RWDNqOEhZdWdtbS1Sc05wLVBFMUhNeXI2T0JMZ0NBaHIzQW1qRFlKTllzT1plY1BaSG1laHZDNnc3RHhIZ09oZWRJanJoZDFhZVdMY1pCQ0trbGM1OU9xQTYxUjNXOE1oaFQ1bUFZazdGS1MyTUxLVDhqRnU0ZVdrQmpLZnFvbFBPazVFQkkyTmRDaVMwOW9sV29WMDlxNDl4N1V0TEZQVEszbk93NjB5a3hLUEh4TUVmZHhwX291VUN1TnpyRWVUTFNGaHRockdUWTBCX0VGdXZITXJCYVVueWlXTGZlN2pvWFlKRWlBVnljZ0lONUZvUQ?oc=5",
+    "source": "Science | AAAS",
+    "source_type": "news",
+    "published_date": "2024-08-17",
+    "collected_at": "2026-10-08T01:18:03.117171+00:00",
+    "authors": [],
+    "summary": "Deep reinforcement learning for de novo drug design Science | AAAS",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "de novo drug design"
+    ],
+    "extra": {
+      "query": "\"de novo drug design\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmilgjbvv95cuxpulpbukqyuuz3ttbpbg5ox3f3ywjkrmrqqmjkck9rwdnqoehzdwdtbs1sc05wlvbfmuhnexi2t0jmz0nbahizqw1qrflktllzt1ply1basg1lahzdnnc3rhhiz09ozwrjanjozdfhzvdmy1pcq0trbgm1ou9xqtyxujnxoe1oafq1bufzazdgs1mytuxlvdhqrnu0zvdrqmplznfvbfbpazvfqkkytmrdavmwow9sv29wmdlxndl4n1v0tezqveszbk93njb5a3hlueh4tuvmzhhwx291vun1tnpyrwvutfngahrockduwtbcx0vgdxzitxjcyvvuewlxtgzln2pvwflkrwlbvnljz0lonuzvuq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "AI in Drug Development: Breast Cancer Research | BCRF - Breast Cancer Research Foundation | BCRF",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90dlNYMm1DQVgzbnFwSkVfZzhFQ2h4eWZySW40ZnFoUktRbVRWWWc5V1d5R3g4M1JzV1RPU1diRjR2NnM2dzZNaF9nSTRmZXNKZm5MWkdUUFFPSVV1RDlLUzZTaGh5TE9KcFZDWA?oc=5",
     "source": "Breast Cancer Research Foundation | BCRF",
@@ -66639,6 +67618,27 @@
   },
   {
     "kind": "news",
+    "title": "Patentability and predictability in AI-assisted drug discovery - pharmaphorum",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMTc3UWhmdkdCYmIteWtSUGtzRlIzbWpucnVrdUh3eG5TMkJJdHFnWWFsT1M0QzNZREotUDBROWlnY3ZySkZmX1lGZFR1TjEybkRJX2VRMnZ5emljandvT1B5aHVQS1pRRE96OTZEZ25iRjl2VE1ZVnVEYjFVYzNIXzlEWHZiVklTWVE2YUllZHU?oc=5",
+    "source": "pharmaphorum",
+    "source_type": "news",
+    "published_date": "2024-02-20",
+    "collected_at": "2026-10-08T01:18:04.050141+00:00",
+    "authors": [],
+    "summary": "Patentability and predictability in AI-assisted drug discovery pharmaphorum",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "virtual screening\" AI pharma"
+    ],
+    "extra": {
+      "query": "\"virtual screening\" AI pharma",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmikafbvv95cuxnmtc3uwhmdkdcymitewtsugtzrlizbwpucnvrduh3eg5tmkjjdhfnwwfst1m0qznzreotudbrowlny3zyskzmx1lgzfr1tjeybkrjx2vrmnz5emljandvt1b5ahvqs1prre96otzez25irjl2ve1zvnveyjfvyznixzlewhzivkltwve2yullzhu?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Daewoong Pharmaceutical digitizes DB of 800 mn chemical compounds - KED Global",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsc25Lc0ZWd3dTekR3eVptd1pCSFdXQjFBblJoaC1DaDd6ZzFqSW1hNC1Ca2phQ2E5QzBHblJpQy1XR1M4cUtNS0Ftc2FPN1dXd0h1UDVRd2hWaTBhRExBSXd1ZUM3bU1QYWJFU2dB?oc=5",
     "source": "KED Global",
@@ -67035,6 +68035,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi0wfbvv95cuxqalf1zdnwefhkcu44u3zgclhtynfgvlrfrjdgctn2denln0p4awqzbvhnyldnt3v1azz6yxq3ludyuhzwr0fwq3broepvrdnzefr3cwxbceprlu5jsw5ps3r6rhhza1lwnvbbq3y1swfloujfcvntoxf2tvfpr0dkunfsmw4ttfbmsek4sfdbv0fkwex4n29ymwz1chvklwhnogvaqlvkn3rob0m3dzz1vllom0wyywdsc0v4rkvvlxuydty2rm9um01icml0nghhwvbn?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "UFG usa inteligência artificial para buscar novos fármacos contra malária - Jornal Opção",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV3ZVRmVzb1RMSVNPSFZLalRaU2xrYkJLN2JKek1wako5akE0dk1OSmxLLTNfSF9jb3N6MlViVFRPcmpCdUNWZ1VrYkI5M1NKLWZEYTVheVA4MlZBMkx0UDRWOGxHTnZxTDc1R2k2TnBfdUlEdExySkRCN3BWakgyYW5uZWU2RGQtUW9oUGN3WEJLTml6T1FjMFh2RHVhdV9sLV8wdGZLU0VUUjNqUDEtREVKUXlqaDYyOUY3NWR3QUhydHBOeWthMEVzVTd4c1dFdWc?oc=5",
+    "source": "Jornal Opção",
+    "source_type": "news",
+    "published_date": "2024-01-03",
+    "collected_at": "2026-10-08T01:18:05.832994+00:00",
+    "authors": [],
+    "summary": "UFG usa inteligência artificial para buscar novos fármacos contra malária Jornal Opção",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "inteligência artificial\" \"descoberta de fármacos"
+    ],
+    "extra": {
+      "query": "\"inteligência artificial\" \"descoberta de fármacos\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi0gfbvv95cuxqv3zvrmvzb1rmsvnpsfzlalrau2xrykjln2jkek1wako5ake0dk1osmxlltnfsf9jb3n6mlvivfrpcmpcdunwz1vryki5m1nklwzeytvheva4mlzbmkx0udrwogxhtnzxtdc1r2k2tnbfduledexyskrcn3bwakgyyw5uzwu2rgqtuw9ougn3wejltml6t1fjmfh2rhvhdv9slv8wdgzlu0vuujnqudetrevkuxlqadyyouy3nwr3quhydhboewthmevzvtd4c1dfdwc?oc=5"
   },
   {
     "kind": "news",
@@ -71178,6 +72199,27 @@
   },
   {
     "kind": "news",
+    "title": "Merck KGaA, Darmstadt, Germany to deploy Insilico Medicine's Chemistry42 AI platform for generative chemistry - Lelezard",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY0sxYkhVUklHNzgzck9sTTZ4Yzl2bHhNNHZrdy1UTmFsSktQR2RjTWZEblJvTTNxcmZsamhJaVBXMkhrX0FTTUlxbEhsTHhYUlB1LTBGWWFMa0FNS2xCTG5NeFRPQ1lIZ1RFbTRWNlV4cU42alVQczdnXy1vYmRfTjREY294MWFBSFQtblZVVWFQZzVQdnZIX1V2eE9nVGw3TWdzdzRkTXRuWTlscnRWZEc5bU93VDk4WXNCVEptUWtFTFdXRzFCTzBQT2g0bmpTbGFZYXFQZThscTV1?oc=5",
+    "source": "Lelezard",
+    "source_type": "news",
+    "published_date": "2020-11-17",
+    "collected_at": "2026-10-08T01:18:02.167864+00:00",
+    "authors": [],
+    "summary": "Merck KGaA, Darmstadt, Germany to deploy Insilico Medicine's Chemistry42 AI platform for generative chemistry Lelezard",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "generative chemistry\" AI"
+    ],
+    "extra": {
+      "query": "\"generative chemistry\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi3afbvv95cuxpy0sxykhvuklhnzgzck9sttz4yzl2bhhnnhzrdy1utmfssktqr2rjtwzebljvttnxcmzsamhjavbxmkhrx0fttulxbehsthhyulb1ltbgwwfma0fns2xctg5nefrpq1liz1rfbtrwnlv4cu42alvqczdnxy1vymrftjrey294mwfbsfqtblzvvwfqzzvqdnzix1v2ee9nvgw3twdzdzrktxruwtlscnrwzec5bu93vdk4wxncveptuwtftfdxrzfctzbqt2g0bmptbgfzyxfqzthsctv1?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "AZ drug hunter Garry Pairaudeau joins AI specialist Exscientia - pharmaphorum",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmRlN1dwbGJXOFFfazRwU18tUnhFRGxNNDZnVmh0YW4tYndNU0o3Q1V5OWJyRXY5b1hRTDJLQzVuazg2MUZDemhYT2k1NnhYRF9JNTlTbnZ3cWtJakVqQ2ZwczY5X2Jxdld6SGhseW9wdnVDYWZxYUhXcGYzQ3NwU3RYSGNxcXJMQTAtV3h3bml0U2ZHaWMw?oc=5",
     "source": "pharmaphorum",
@@ -71595,6 +72637,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmifkfvx3lxte5mwgjib1rnz0vjymdfu0gwowlmwjjiagfumnz3q2j3dlbjdvbhy21oeme0rgtvvdjfr2rwalfoufnioejtwlo0dezwm21qqlbyeehpoerjrxmym3bprzy0m1fzenp3czdmsxnvd29etnvlbjrlagx6quu0q1rfuq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Pesquisadores brasileiros buscam moléculas para combater a Covid-19 - Diario de Pernambuco",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWEJfeDlXS3FnZG9wS0VrY2U5SHZid1pOQnVNQWdpYWlDZEJhUEpINHpGY2txU0pWMkVDZjZqYUNZX1RlWmZIWTU0dldtdWZHNEZKZWtxOU5UM1pwU2JTVjliWHlxQlhqYmpYbmZnN0FfT09mQW5YaFQ1OEpHbTZLeWV0UnFSSk9BbHI0M2tteW8ycnJzUlFiczZ2MV9GVEI2NHVjQ2ZrbnlqRmJtLUZzTU9jcEV4X0xJZkc3SGpEZFZfVkV0aVctUmFEaV9UUdIB0wFBVV95cUxPdzYzcHhfNnY3WWxKWWp1bm9SYUM5STJvWWcxbC05RnRlR0NSR3Rha05hbWtJR3J4ZGNSZGs4UGN0dURqOWJkVzB6MFEwaDRCYnJqZ1picFkxSXJlVGtqQUpXTWJvMTlYX3d2Q0hfT2pGVWg0SVBZOXoyVjZfajRWSDhRX1NDMjNZZ0hTdjVnTnR6ajB4Qi13SkRBc2VoN3Etc1JfdHVnVjlyMUFtcG9zblYxMDJRSzc4V1BFbDI1R3JXWk84U1FGMlgzblBndmFDaEZJ?oc=5",
+    "source": "Diario de Pernambuco",
+    "source_type": "news",
+    "published_date": "2020-03-31",
+    "collected_at": "2026-10-08T01:18:06.831262+00:00",
+    "authors": [],
+    "summary": "Pesquisadores brasileiros buscam moléculas para combater a Covid-19 Diario de Pernambuco",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "biologia computacional (fármacos OR medicamentos)"
+    ],
+    "extra": {
+      "query": "biologia computacional (fármacos OR medicamentos)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmizgfbvv95cuxnwejfedlxs3fnzg9ws0vry2u5shzid1poqnvnqwdpywldzejhuepinhpgy2txu0pwmkvdzjzqyunzx1rlwmziwtu0dldtdwzhnezkzwtxou5um1pwu2jtvjliwhlxqlhqympybmznn0fft09mqw5yafq1oephbtzlewv0unfssk9bbhi0m2ttew8ycnjzulficzz2mv9gvei2nhvjq2zrbnlqrmjtluzztu9jcev4x0xjzkc3sgpezfzfvkv0avctumfeav9uudib0wfbvv95cuxpdzyzchhfnny3wwxkwwp1bm9syum5stjvwwcxbc05rnrlr0nsr3rha05hbwtjr3j4zgnszgs4ugn0durqowjkvzb6mfewadrcynjqz1picfkxsxjlvgtqqupxtwjvmtlyx3d2q0hft2pgvwg0svbzoxoyvjzfajrwsdhrx1ndmjnzz0htdjvntnr6ajb4qi13skrbc2von3etc1jfdhvnvjlymuftcg9zblyxmdjrszc4v1bfbdi1r3jxwk84u1fgmlgzblbndmfdaezj?oc=5"
   },
   {
     "kind": "news",
