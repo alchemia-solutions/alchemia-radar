@@ -570,6 +570,69 @@
   },
   {
     "kind": "news",
+    "title": "Building on our commitment to American scientific discovery - Anthropic",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VHU4UENXNWlFZ2RsUElpRkhvVGdzdTdydk9kT2ZlN3RCNXdLV2VtQ0ZQU01adTI5Mkw4Y3JrcGpIZ1ZxWUtDOUxqbG1JVXNTNWJvSU5NMF9KY2o5Tlp5QVJpNElQeFdv?oc=5",
+    "source": "Anthropic",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T20:49:03.663708+00:00",
+    "authors": [],
+    "summary": "Building on our commitment to American scientific discovery Anthropic",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiaefvx3lxtfa1vhu4uenxnwlfz2rsuelprkhvvgdzdtdydk9kt2zln3rcnxdlv2vtq0zqu01adti5mkw4y3jrcgpiz1zxwutdouxqbg1jvxntnwjvsu5nmf9ky2o5tlp5qvjpnelqefdv?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic Commits $150 Million To White House-Backed AI Science Mission - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS0tzbDFZTUlZQmdodTdqbXlMY3N4aXl3bWE4bHdmSWdHQjROUjQ1eXpWOEFfUlVtZnpJMHdoYXg0QW0zRUd2RGdGTHlkN1dXZ1Qtb2pHenFkbmh6c1RLektuZE9ua1h6WkFmZUY5M1E5V2FhdkZ4U3MwU0c2Vm8yVmdqek5EVll0SmN1RXlyaGQ2ZV9fRWxhUGtuZm01TGNJRFJYSXRsMVFMWmVoNWh3aEU3cFIyOFhETWdfdTF5bUYyOTdObVpvTXVQeGQ5T0k?oc=5",
+    "source": "Benzinga",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T20:49:03.664738+00:00",
+    "authors": [],
+    "summary": "Anthropic Commits $150 Million To White House-Backed AI Science Mission Benzinga",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmizwfbvv95cuxqs0tzbdfztulzqmdodtdqbxlmy3n4axl3bwe4bhdmswdhqjroujq1expwoeffulvtznpjmhdoyxg0qw0zrud2rgdgthlkn1dxz1qtb2phenfkbmh6c1rlektuze9ua1h6wkfmzuy5m1e5v2fhdkz4u3mwu0c2vm8yvmdqek5evll0smn1rxlyagq2zv9frwxhugtuzm01tgnjrfjysxrsmvfmwmvonwh3aeu3cfiyofhetwdfdtf5buyyotdobvpvtxvqegq5t0k?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "The US government has invested $500 million to build open biological datasets for AI training, with Meta, Google DeepMind, and Isomorphic Labs each investing $300 million. - GIGAZINE",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mT3FoYjFuSGI0RHZ1RnhLOW1jT3dQdXZSOFJTZUhlYnBGZXQ2MlI2bDgxcVZJMmd0R213djdqNG1jRDR1WG9Kang2S1BhTGEzY1VId0RtMXBaQzk1eE5QRjVGOE1CX2Z6b3FoVGdWN19PREE0RUd3bA?oc=5",
+    "source": "GIGAZINE",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T20:49:07.090245+00:00",
+    "authors": [],
+    "summary": "The US government has invested $500 million to build open biological datasets for AI training, with Meta, Google DeepMind, and Isomorphic Labs each investing $300 million. GIGAZINE",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmieefvx3lxte5mt3foyjfusgi0rhz1rnhlow1jt3dqdxzsofjtzuhlynbgzxq2mli2bdgxcvzjmmd0r213djdqng1jrdr1wg9kang2s1bhtgezy1vid0rtmxbaqzk1ee5qrjvgoe1cx2z6b3fovgdwn19pree0rud3ba?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "US government, Google join Zuckerberg-backed Biohub in $1.8 billion push for AI biology data - Reuters",
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWTdsWTdFWVdPWUFDRjN1RGd6el9PR3NQNFN5blFINGVqVUNRcXMtaW5JcDQ0OV9IejBJa0stOHFnaG9Kd0Q3N3BObTEtQWFXYW9ad2JCS09oQV9iWlB6dU1RSktCSnExdWVUdnRXQmE3aTNCdm5LV01TTW9vbG9sRkctZFhoNm1wdGlqcGtRd3RhRFlzUWt1dElpV0NocGtvYlgyenBlUG5ZV0N6eHUzTXVYSDhzWWROWUhDNlJRYnhwc3Q0SVZzUjUxQUp0OFNkbmFrZEpiNDZweEdRbG9nLUgtZw?oc=5",
     "source": "Reuters",

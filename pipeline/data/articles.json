@@ -389,6 +389,113 @@
   },
   {
     "kind": "article",
+    "title": "Genetically distinct neurodegenerative proteinopathies engage overlapping proteostasis components",
+    "url": "https://doi.org/10.64898/2026.09.28.753000",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T20:48:27.459243+00:00",
+    "authors": [
+      "Yarlagadda, B.",
+      "Kumar, V."
+    ],
+    "summary": "Neurodegenerative proteinopathies are defined by distinct proteins whose folding, trafficking and clearance depend on shared proteostasis machinery. Whether these disorders engage common components or only common processes has been unresolved. We mapped 16 disease proteins from 12 disorders onto a fixed 990-protein proteostasis network. Across the 12 disorders, the neighborhoods of these proteins shared specific proteins beyond expectations from process composition and connectivity. The same held for the two disorders defined by more than one protein. Nine proteins contributed disproportionately, and only autophagys removal significantly reduced similarity. Removing PRKN, HSPA8 or UBQLN2 in silico reduced path efficiency, marking them candidate shared network vulnerabilities. In human brain proteomes, Alzheimers disease-zone proteins showed greater abundance remodeling in the insoluble fraction; recurrence across disorders showed no such association. The result is a component-level architecture prioritizing network-derived candidates for cross-disease functional testing.",
+    "doi": "10.64898/2026.09.28.753000",
+    "company_slug": null,
+    "keywords_matched": [
+      "in silico"
+    ],
+    "extra": {
+      "category": "neuroscience"
+    },
+    "dedupe_key": "doi:10.64898/2026.09.28.753000"
+  },
+  {
+    "kind": "article",
+    "title": "Programming N-linked glycan composition through de novo protein design",
+    "url": "https://doi.org/10.64898/2026.10.07.757460",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T20:48:28.047074+00:00",
+    "authors": [
+      "Lunn-Halbert, M. C.",
+      "Allen, J. D.",
+      "Krishna, R.",
+      "Manchenko, A.",
+      "Li, X.",
+      "Lopatto, E. D.",
+      "Pinkner, J.",
+      "Moller, C.",
+      "Ahern, W.",
+      "Mendoza, J.",
+      "Kang, A.",
+      "Nguyen, H.",
+      "Joyce, E.",
+      "Bera, A.",
+      "Hultgren, S. J.",
+      "Sokurenko, E.",
+      "Crispin, M.",
+      "Baker, D.",
+      "King, N. P."
+    ],
+    "summary": "N-linked glycans are ubiquitous post-translational modifications that mediate diverse biological processes, including cell signaling and adhesion, molecular recognition, and host-pathogen interactions. Despite their importance, N-linked glycans have largely remained beyond the reach of biomolecular design due to a lack of methods capable of jointly modeling glycans and protein structure. Here, we develop a general all-atom computational pipeline for creating de novo glycoproteins in which the amino acid sequence encodes both the location and composition of N-linked glycans. The method uses three-dimensional protein structure to tune glycan accessibility to processing enzymes in the eukaryotic secretory pathway. Systematic increases in steric restriction progressively reduced processing, shifting glycans from heterogeneous complex-type structures toward increasingly underprocessed oligomannose-type species resembling those found on many viral glycoproteins. Despite this programmed restriction, the resulting oligomannose glycans remained accessible for biological recognition, inhibiting uropathogenic Escherichia coli adhesion to human bladder cells and binding mannose-binding lectin.",
+    "doi": "10.64898/2026.10.07.757460",
+    "company_slug": null,
+    "keywords_matched": [
+      "protein design"
+    ],
+    "extra": {
+      "category": "biochemistry"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.07.757460"
+  },
+  {
+    "kind": "article",
+    "title": "Cross-species convergence of surface polysaccharides shapes the virulence of an atypical carbapenem resistant uropathogenic Escherichia coli clone",
+    "url": "https://doi.org/10.64898/2026.10.05.755231",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-08T20:48:28.049299+00:00",
+    "authors": [
+      "Walker, L. L.",
+      "Lian, Z. J.",
+      "Phan, M.-D.",
+      "Nhu, N. T. K.",
+      "Ong, Y. Y. T.",
+      "Brix, V.",
+      "Marin, A. N.",
+      "Learman, B. S.",
+      "Permana, B.",
+      "Martinez-Roman, I.",
+      "Morris, S. A. S.",
+      "Peters, K. M.",
+      "Stewart, C.",
+      "Ramsay, K. A.",
+      "De Oliveira, D. M. P.",
+      "Pfennigwerth, N.",
+      "Harris, P. N. A.",
+      "Paterson, D. L.",
+      "Sweet, M. J.",
+      "Featherstone, L. A.",
+      "Armbruster, C. E.",
+      "Forde, B. M.",
+      "Schembri, M. A."
+    ],
+    "summary": "Carbapenem-resistant Escherichia coli (CREC) is an emerging global health threat associated with limited treatment options and increased mortality. Here, analysis of 20,331 E. coli genomes from urinary tract infection (UTI) and urine samples identifies phylogroup A sequence type 361 (ST361) as an emerging CREC clone associated with UTI. Phylogenetic and phylodynamic analyses reveal two dominant ST361 clades that emerged in Asia around 2006 and subsequently disseminated intercontinentally. ST361 exhibits near pan-drug resistance, with blaNDM-5 conferring carbapenem resistance. In silico capsule and O-antigen typing reveals a highly conserved Klebsiella-like surface polysaccharide serotype in 95.9% of ST361 genomes, which we show contributes to virulence in UTI and catheter-associated UTI mouse models. Analysis of the mobile genetic elements harbouring blaNDM-5 in ST361 and other CREC further reveals a dynamic interplay between plasmid transfer and insertion elements that contributes to blaNDM-5 dissemination. Together, these findings identify ST361 as an emerging UTI-associated CREC clone and reveal the convergence of clonal expansion, virulence-associated surface architecture and m",
+    "doi": "10.64898/2026.10.05.755231",
+    "company_slug": null,
+    "keywords_matched": [
+      "in silico"
+    ],
+    "extra": {
+      "category": "microbiology"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.05.755231"
+  },
+  {
+    "kind": "article",
     "title": "Machine learning-assisted directed evolution yields dramatic improvement on novel AAV engineering task",
     "url": "https://doi.org/10.64898/2026.10.06.757046",
     "source": "bioRxiv",
