@@ -18,7 +18,7 @@ name: Etapa 1b -- Radar e biblioteca (research_export)
 # que tem `alchemia-science/` dentro (`achar_raiz_da_empresa`), e escreve em
 # `<raiz>/alchemia-science/{research,alchemia-library}`. Com o checkout duplo abaixo, a raiz é o
 # workspace:
-#     <workspace>/alchemia-ai/softwares/internos/alchemia-radar   <- este repositório
+#     <workspace>/alchemia-ai/softwares/alchemia-radar   <- este repositório
 #     <workspace>/alchemia-science                                <- o repositório de destino
 # A profundidade do primeiro `path:` deixou de importar: a árvore antiga
 # (`alchemia-ai/alchemia-news`) e a nova resolvem para o mesmo workspace. Sem `alchemia-science/`
@@ -128,11 +128,11 @@ jobs:
 
       # ---- Checkout duplo: reproduz a árvore real da empresa dentro do runner ----
 
-      - name: "Checkout alchemia-news (o Radar) -> alchemia-ai/softwares/internos/alchemia-radar"
+      - name: "Checkout alchemia-news (o Radar) -> alchemia-ai/softwares/alchemia-radar"
         if: steps.preflight.outputs.ok == 'true'
         uses: actions/checkout@v4
         with:
-          path: alchemia-ai/softwares/internos/alchemia-radar
+          path: alchemia-ai/softwares/alchemia-radar
           # `main` e não o head_sha do evento: a coleta commita e empurra ANTES de terminar, então
           # o que interessa é o topo do branch, que já contém o `pipeline/data` recém-escrito.
           ref: main
@@ -153,8 +153,8 @@ jobs:
           set -euo pipefail
           echo "Workspace: ${GITHUB_WORKSPACE}"
           for p in \
-            "alchemia-ai/softwares/internos/alchemia-radar/pipeline/research_export.py" \
-            "alchemia-ai/softwares/internos/alchemia-radar/pipeline/data" \
+            "alchemia-ai/softwares/alchemia-radar/pipeline/research_export.py" \
+            "alchemia-ai/softwares/alchemia-radar/pipeline/data" \
             "alchemia-science/research" \
             "alchemia-science/alchemia-library"; do
             if [ ! -e "${GITHUB_WORKSPACE}/${p}" ]; then
@@ -170,18 +170,18 @@ jobs:
         with:
           python-version: "3.12"
           cache: "pip"
-          cache-dependency-path: alchemia-ai/softwares/internos/alchemia-radar/pipeline/requirements.txt
+          cache-dependency-path: alchemia-ai/softwares/alchemia-radar/pipeline/requirements.txt
 
       - name: Instalar dependências
         if: steps.preflight.outputs.ok == 'true'
-        working-directory: alchemia-ai/softwares/internos/alchemia-radar
+        working-directory: alchemia-ai/softwares/alchemia-radar
         run: pip install -r pipeline/requirements.txt
 
       # ---- Etapa 1b propriamente dita ----
 
       - name: "Etapa 1b -- radar do dia (sem colheita de PDF, ver cabeçalho)"
         if: steps.preflight.outputs.ok == 'true'
-        working-directory: alchemia-ai/softwares/internos/alchemia-radar
+        working-directory: alchemia-ai/softwares/alchemia-radar
         env:
           PYTHONIOENCODING: utf-8
         run: |

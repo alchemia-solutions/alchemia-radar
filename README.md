@@ -72,7 +72,7 @@ Quanto foi coletado: `pipeline/data/meta.json` **do remoto** (o checkout local a
 Faça `git pull` antes: o bot do Actions é o dono de `pipeline/data/`.
 
 ```bash
-cd alchemia-ai/softwares/internos/alchemia-radar
+cd alchemia-ai/softwares/alchemia-radar
 pipeline/.venv/Scripts/python.exe -m pipeline.collectors.arxiv_collector            # um coletor isolado; não grava nada
 pipeline/.venv/Scripts/python.exe -m pipeline.research_export --no-pdf --dry-run    # mostra o destino; não grava
 pipeline/.venv/Scripts/python.exe -m unittest pipeline.tests.test_raiz_da_empresa -v

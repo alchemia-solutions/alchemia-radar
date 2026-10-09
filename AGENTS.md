@@ -35,7 +35,7 @@ repositório no `alchemia-gitstore` e a URL do `origin` local.
 
 | | |
 |---|---|
-| Nó | `alchemia-radar` (**Kepler**), dono de `alchemia-ai/softwares/internos/alchemia-radar/**` |
+| Nó | `alchemia-radar` (**Kepler**), dono de `alchemia-ai/softwares/alchemia-radar/**` |
 | Setor | Alchemia AI (dono humano Aryel Bezerra); "Radar" também é escopo declarado de Alchemia Science (Andrei Felix): `harness/company-tree.json` |
 | Skills | `news-intelligence-pipeline`, `obsidian-sync`, `agent-self-improvement` |
 | Consumidores | **Alchemia System** (nó `alchemia-system`): em produção lê o banco (`RADAR_FONTE=banco`, desde 2026-10-07); `local` e `remoto` leem `pipeline/data/` e `pipeline/config/` · **`alchemia-science`**: o radar datado em `research/` e a `alchemia-library` |
@@ -54,7 +54,7 @@ repositório no `alchemia-gitstore` e a URL do `origin` local.
 | Empresas, termos, fontes, fomento, programas | `pipeline/config/*.yaml` | live |
 | Quanto foi coletado | `pipeline/data/meta.json` e `pipeline/data/runs/` **do remoto**: o checkout local atrasa | derivado |
 | Cadência real | `.github/workflows/coleta.yml` e `.github/workflows/research-export.yml` | live |
-| O que o System lê (o contrato) | `alchemia-ai/softwares/internos/alchemia-system/packages/core/src/connectors/radar.ts` e `radar-remoto.ts` · `alchemia-system/docs/architecture/fontes-de-dado.md` | live |
+| O que o System lê (o contrato) | `alchemia-ai/softwares/alchemia-system/packages/core/src/connectors/radar.ts` e `radar-remoto.ts` · `alchemia-system/docs/architecture/fontes-de-dado.md` | live |
 | Estado operacional no vault | `alchemia-brain/03-Softwares/internos/radar/alchemia-radar-state.md` | live |
 | A coleta na VM gravando no Postgres do System (**no ar desde 2026-10-07**, sombra de 7 dias em curso; spec `docs/specs/2026-10-02-radar-na-vm-postgres.md`) | [`deploy/README.md`](deploy/README.md) + [`deploy/2026-10-07-janela-radar-banco.md`](deploy/2026-10-07-janela-radar-banco.md) + `Dockerfile` + `pipeline/armazenamento_pg.py` | live |
 

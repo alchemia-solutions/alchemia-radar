@@ -144,7 +144,7 @@ def main() -> int:
             parts.append(f"\n{label} ({len(fresh)} novos)")
             parts.extend(block)
             if extra > 0:
-                parts.append(f"  _…mais {extra}. Dashboard: `npm run dev` em alchemia-ai/softwares/internos/alchemia-radar/dashboard_")
+                parts.append(f"  _…mais {extra}. Dashboard: `npm run dev` em alchemia-ai/softwares/alchemia-radar/dashboard_")
 
     out = "\n".join(parts)
     if len(out) > MAX_CHARS:

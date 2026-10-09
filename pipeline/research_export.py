@@ -59,7 +59,7 @@ A licença encontrada é gravada no `manifest.csv` de cada PDF, para nunca se pe
 Idempotente: reexecutar o mesmo dia regenera o markdown e **não** rebaixa PDF já registrado
 (dedupe por DOI e por SHA-256 do conteúdo).
 
-Ver `alchemia-ai/softwares/internos/alchemia-radar/docs/specs/2026-08-18-research-library-integration.md`.
+Ver `alchemia-ai/softwares/alchemia-radar/docs/specs/2026-08-18-research-library-integration.md`.
 """
 from __future__ import annotations
 
@@ -89,7 +89,7 @@ def achar_raiz_da_empresa(radar_root: Path, marcador: str = MARCADOR_DA_RAIZ) ->
 
     Substitui `NEWS_ROOT.parent.parent`, aritmética de profundidade que quebrou em 2026-09-28:
     o repositório desceu de `alchemia-ai/alchemia-news` para
-    `alchemia-ai/softwares/internos/alchemia-radar`, e dois `.parent` passaram a cair em
+    `alchemia-ai/softwares/alchemia-radar`, e dois `.parent` passaram a cair em
     `alchemia-ai/softwares/`. Por marcador, o mesmo código acha a raiz da empresa na estação e o
     workspace do runner no Actions (checkout duplo, `research-export.yml`), em qualquer
     profundidade.
@@ -736,7 +736,7 @@ def montar_markdown(dia: str, buckets: dict, meta: dict, pdfs: dict, avisos: lis
     L.append("---")
     L.append(f"data: {dia}")
     L.append("tags: [setor/science, tipo/radar, fonte/alchemia-news]")
-    L.append("origem: alchemia-ai/softwares/internos/alchemia-radar (pipeline determinístico, sem LLM)")
+    L.append("origem: alchemia-ai/softwares/alchemia-radar (pipeline determinístico, sem LLM)")
     L.append(f"gerado_em: {datetime.now(timezone.utc).isoformat()}")
     L.append("---")
     L.append("")
@@ -904,7 +904,7 @@ def montar_markdown(dia: str, buckets: dict, meta: dict, pdfs: dict, avisos: lis
     L.append("---")
     L.append("")
     L.append(
-        "Gerado por `alchemia-ai/softwares/internos/alchemia-radar/pipeline/research_export.py`. Regenerar este dia: "
+        "Gerado por `alchemia-ai/softwares/alchemia-radar/pipeline/research_export.py`. Regenerar este dia: "
         f"`python -m pipeline.research_export --date {dia}`. O arquivo é reescrito na íntegra a "
         "cada execução (é derivado, não append-only) — a fonte de verdade continua sendo os JSONs "
         "do `alchemia-radar` e a própria `alchemia-library`."

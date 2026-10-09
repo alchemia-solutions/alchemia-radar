@@ -47,7 +47,7 @@ class AcharRaizDaEmpresa(unittest.TestCase):
         return repo
 
     def test_arvore_nova(self) -> None:
-        repo = self._repo("empresa", "alchemia-ai", "softwares", "internos", "alchemia-radar")
+        repo = self._repo("empresa", "alchemia-ai", "softwares", "alchemia-radar")
         (self.base / "empresa" / self.marcador).mkdir()
         self.assertEqual(rx.achar_raiz_da_empresa(repo, self.marcador), self.base / "empresa")
 
@@ -58,27 +58,27 @@ class AcharRaizDaEmpresa(unittest.TestCase):
 
     def test_contraprova_da_aritmetica_antiga(self) -> None:
         # O defeito de 2026-09-28: na árvore nova, dois `.parent` caem em `alchemia-ai/softwares`.
-        repo = self._repo("empresa", "alchemia-ai", "softwares", "internos", "alchemia-radar")
+        repo = self._repo("empresa", "alchemia-ai", "softwares", "alchemia-radar")
         (self.base / "empresa" / self.marcador).mkdir()
         self.assertFalse((repo.parent.parent / self.marcador).is_dir())
         self.assertEqual(rx.achar_raiz_da_empresa(repo, self.marcador), self.base / "empresa")
 
     def test_sem_marcador_devolve_none(self) -> None:
-        repo = self._repo("empresa", "alchemia-ai", "softwares", "internos", "alchemia-radar")
+        repo = self._repo("empresa", "alchemia-ai", "softwares", "alchemia-radar")
         self.assertIsNone(rx.achar_raiz_da_empresa(repo, self.marcador))
 
     def test_marcador_dentro_do_repositorio_nao_conta(self) -> None:
-        repo = self._repo("empresa", "alchemia-ai", "softwares", "internos", "alchemia-radar")
+        repo = self._repo("empresa", "alchemia-ai", "softwares", "alchemia-radar")
         (repo / self.marcador).mkdir()
         self.assertIsNone(rx.achar_raiz_da_empresa(repo, self.marcador))
 
     def test_arquivo_com_o_nome_do_marcador_nao_conta(self) -> None:
-        repo = self._repo("empresa", "alchemia-ai", "softwares", "internos", "alchemia-radar")
+        repo = self._repo("empresa", "alchemia-ai", "softwares", "alchemia-radar")
         (self.base / "empresa" / self.marcador).write_text("arquivo, nao pasta", encoding="utf-8")
         self.assertIsNone(rx.achar_raiz_da_empresa(repo, self.marcador))
 
     def test_para_no_ancestral_mais_proximo(self) -> None:
-        repo = self._repo("fora", "empresa", "alchemia-ai", "softwares", "internos", "alchemia-radar")
+        repo = self._repo("fora", "empresa", "alchemia-ai", "softwares", "alchemia-radar")
         (self.base / "fora" / self.marcador).mkdir()
         (self.base / "fora" / "empresa" / self.marcador).mkdir()
         self.assertEqual(

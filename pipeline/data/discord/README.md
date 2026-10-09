@@ -25,4 +25,4 @@ Quem escrevia: só o Passo 5 da rotina do Axel, e só depois de a publicação t
 Quem lê: `pipeline/research_export.py`.
 
 Criado em 2026-08-18, junto da integração do Radar (então `alchemia-news`) → `alchemia-science`/`alchemia-library`.
-Ver `alchemia-ai/softwares/internos/alchemia-radar/docs/specs/2026-08-18-research-library-integration.md`.
+Ver `alchemia-ai/softwares/alchemia-radar/docs/specs/2026-08-18-research-library-integration.md`.

@@ -1,7 +1,7 @@
 # dashboard/ — congelado, sem deploy desde 2026-09-28
 
 > **Sem deploy desde 2026-09-28.** A visualização do Radar é do **Alchemia System**, na rota
-> `/science/radar` (`alchemia-ai/softwares/internos/alchemia-system/apps/web/app/(app)/science/radar/`).
+> `/science/radar` (`alchemia-ai/softwares/alchemia-system/apps/web/app/(app)/science/radar/`).
 > Este painel Next.js fica no disco como referência e não recebe manutenção.
 
 Decisão do fundador em 2026-09-28, com o Radar ainda pelo nome antigo: *"não vamos ter mais deploy na
@@ -26,7 +26,7 @@ vercel para o alchemia-news"*. O Radar passou a ser o back-end da visualização
 Para comparar com o System ou recuperar algum comportamento:
 
 ```bash
-cd alchemia-ai/softwares/internos/alchemia-radar/dashboard
+cd alchemia-ai/softwares/alchemia-radar/dashboard
 npm run dev    # http://localhost:3000, sem gate de acesso
 ```
 
