@@ -1,6 +1,232 @@
 [
   {
     "kind": "news",
+    "title": "brepocitinib",
+    "url": "https://drughunter.com/molecule/brepocitinib",
+    "source": "Drug Hunter",
+    "source_type": "newsletter",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-09T16:32:38.423899+00:00",
+    "authors": [],
+    "summary": "Brepocitinib (PF-06700841) is a dual JAK1/TYK2 inhibitor discovered by Pfizer and further developed by Priovant Therapeutics. After initial development for several common immune-mediated diseases, Priovant shifted the program toward rare autoimmune disorders, including dermatomyositis. In the Ph. 3 VALOR trial, 30 mg QD brepocitinib significantly improved disease activity versus placebo. The results supported FDA approval of brepocitinib in August 2026 for adults with dermatomyositis, making it the first FDA-approved oral treatment specifically indicated for the disease.",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [],
+    "extra": {},
+    "dedupe_key": "url:https://drughunter.com/molecule/brepocitinib"
+  },
+  {
+    "kind": "news",
+    "title": "TechBio 3.0 closes the drug discovery loop with multimodal AI and generative chemistry - Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HdzNZWlh2bU1BS3lrVHdvLV9ZZTdZT0ljZExidjd2RFBwbUpJVmJmZDVFVUVWTEtUbTdFUjlTV01UVnRLTlpVVV9QckdjcHNDeGpyQkkwc0xIZGdMTkFB?oc=5",
+    "source": "Nature",
+    "source_type": "news",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-09T16:32:50.983497+00:00",
+    "authors": [],
+    "summary": "TechBio 3.0 closes the drug discovery loop with multimodal AI and generative chemistry Nature",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmix0fvx3lxte9hdznzwlh2bu1bs3lrvhdvlv9zztdzt0ljzexidjd2rfbwbupjvmjmzdvfvuvwtetubtdfujltv01uvnrltlpvvv9qckdjchndegpyqkkwc0xizgdmtkfb?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Isomorphic Labs Seeks Funding at $40 Billion Valuation as AI Drug Discovery Advances - Konsulteer",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm5yM0lwNmR2RHF5UXRqTDRNand1NVRGeG9BSE5JUVJuWmdjNDd5c2NpaGF6dXFPZmxTMU5vN3dBenAwTFhVZGR5d0tTNXIzeGdhbm1Wd2liaWZkYnUyeVRYLTIxUmp6SlY5OG9qOGNWSDZSY3lYSGgxbGU3YjFVRnFKbnNUSG9pQkNCa0F4cVhzblRrM3Vnc08yZW0wOG8zWkcyT1k1MGRRN2hfdDlrUER1OWUxSUhJU1E?oc=5",
+    "source": "Konsulteer",
+    "source_type": "news",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-09T16:32:50.983791+00:00",
+    "authors": [],
+    "summary": "Isomorphic Labs Seeks Funding at $40 Billion Valuation as AI Drug Discovery Advances Konsulteer",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiugfbvv95cuxqwm5ym0lwnmr2rhf5uxrqtdrnand1nvrgeg9bse5juvjuwmdjndd5c2npagf6dxfpzmxtmu5vn3dbenawtfhvzgr5d0ttnxizegdhbm1wd2liawzkynuyevryltixump6sly5og9qognwsdzsy3lysggxbgu3yjfvrnfkbnnusg9pqknca0f4cvhzblrrm3vnc08yzw0wog8zwkcyt1k1mgrrn2hfddlruer1owuxsuhju1e?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google e Meta juntas num investimento de 300 milhões para criar uma célula virtual - AndroidGeek",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55Y3ltOUxWM2Z5Q3QtZlBLdDQzMzBuVV9aeEk5ZjlXVlVSZnpkQm9PenhPTEswOVZkQzl4aUpCYXFwRXE1N1BMeVdmdXI5WkNFSmstRUVFSmVadk9QdEtLeGk3WUNEQkJ1aDF4SkR3?oc=5",
+    "source": "AndroidGeek",
+    "source_type": "news",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-09T16:32:55.801453+00:00",
+    "authors": [],
+    "summary": "Google e Meta juntas num investimento de 300 milhões para criar uma célula virtual AndroidGeek",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "biologia computacional (fármacos OR medicamentos)"
+    ],
+    "extra": {
+      "query": "biologia computacional (fármacos OR medicamentos)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmibkfvx3lxte55y3ltouxwm2z5q3qtzlblddqzmzbuvv9aeek5zjlxvlvsznpkqm9penhpteswovzkqzl4aupcyxfwrxe1n1bmevdmdxi5wknfsmstruvfsmvadk9qdetlegk3wuneqkj1adf4skr3?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Pesquisa da Fiocruz abre caminho para vacina universal contra Malária - Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55SGVaaVhtdU1pU0t2X2Y4ZlJZdUF4ZHFnOVJYZkhseHhZaUtRcUNiblRVTzRLVGN1SGNuenBPMjQxYUVuMlk0RDE0WHFleUpvRHJoaW5VOThTMXdC?oc=5",
+    "source": "Agência Brasil",
+    "source_type": "news",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-09T16:33:04.907804+00:00",
+    "authors": [],
+    "summary": "Pesquisa da Fiocruz abre caminho para vacina universal contra Malária Agência Brasil",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmixefvx3lxte55sgvaavhtdu1pu0t2x2y4zljzduf4zhfnovjyzkhsehhzautrcuniblrvtzrlvgn1sgnuenbpmjqxyuvumlk0rde0whfleupvrhjoaw5vothtmxdc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "DeepMind spinout Isomorphic Labs eyes $40B valuation, up from $2.1B round in May - Dealroom",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUEtQM3NpejExeWQ3SkpWbEpKQkJGRDhTS0F1RVRaRE43dnh4dUk0bl9aUXNCNWM2RWRZcnZ1UnUzcEdsSERKSGhBdWQwVzRMaldqazEteTU4Z2dHZkFzZFNCc0RrVnJHQjI5LTIxaHktNG9palNRdEdidmpyVW9TQ0tsTURVT3lUY1FhdHlsQ3BOcHYxMjdHRUlVVmxfSkVFaGI5elBzbUUyQnRyUktmYQ?oc=5",
+    "source": "Dealroom",
+    "source_type": "press",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-09T16:33:05.963344+00:00",
+    "authors": [],
+    "summary": "DeepMind spinout Isomorphic Labs eyes $40B valuation, up from $2.1B round in May Dealroom",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxquetqm3npejexewq3skpwbepkqkjgrdhts0f1rvrare43dnh4duk0bl9auxncnwm2rwrzcnz1unuzcedsserksghbdwqwvzrmaldqazetetu4z2dhzkfzzfncc0rrvnjhqji5ltixahktng9palnrdedidmpyvw9tq0tsturvt3luy1fhdhlsq3bochyxmjdhrulvvmxfskvfagi5elbzbuuyqnryuktmyq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "DeepMind spinout Isomorphic Labs eyes $40B valuation less than five months after $2.1B round: Report - Tech Funding News",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdll5cmFaNXVQa3RQZHVuZUNERlpFV0gzZW5KWmR6M2gxYXZGNk9fbHVlUDFpd0ZZMlBjN0JPai1YM0lfOFdRZWtYeTRObDB0UGhPczRuWWRpRXBKT016ZUpUcU9BLTdzMlZhYWI0LTBoVTB3ejhtN04zOVVPVEhnNkZWeXg5M3QzaHZJdDBFUGloLUw5MExSWHdhWGdQdjBiVGxRZnF0ZDlpQTFDaWlVc0w1NEQxRUt0VWdkV1dvY2xlVThq?oc=5",
+    "source": "Tech Funding News",
+    "source_type": "press",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-09T16:33:05.963907+00:00",
+    "authors": [],
+    "summary": "DeepMind spinout Isomorphic Labs eyes $40B valuation less than five months after $2.1B round: Report Tech Funding News",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmixafbvv95cuxqdll5cmfanxvqa3rqzhvuzunerlpfv0gzzw5kwmr6m2gxyxzgnk9fbhvludfpd0zzmlbjn0jpai1ym0lfofdrzwtyetrobdb0ughpczruwwrprxbkt016zupucu9bltdzmlzhywi0ltbovtb3ejhtn04zovvpvehnnkzwexg5m3qzahzjddbfugloluw5mexswhdhwgdqdjbivgxrznf0zdlpqtfdawlvc0w1neqxrut0vwdkv1dvy2xlvthq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Isomorphic Labs Reportedly Eyes $40B Valuation - Konsulteer",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYjZCa0trRjd3VHRCcXY0MWVUWllsbnJjSWstb0JXcmdOSjhPNGRDYUUzX1lmUDFSamJfU0FsTkUzbGxPcHRhWEw3UTZlZVZ1a3hROGYwSVdQazJ3bG5YeGYtaEsyLUt1T0N4Nk1DNnhXLUxMY0cyNUNuSlhERlozd2d5eWtqTmE1dGRXRzRreURoa0hkNlBpaFFlcVE5d3VmaUZ6RVBOVGlqWHZPTHptQg?oc=5",
+    "source": "Konsulteer",
+    "source_type": "press",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-09T16:33:05.964035+00:00",
+    "authors": [],
+    "summary": "Isomorphic Labs Reportedly Eyes $40B Valuation Konsulteer",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxoyjzca0trrjd3vhrccxy0mwvuwllsbnjjswstb0jxcmdosjhpngrdyuuzx1lmudfsamjfu0fstkuzbgxpchrhwew3utzlzvz1a3hrogywsvdqazj3bg5yegytaesylut1t0n4nk1dnnhxluxmy0cynunuslherlozd2d5ewtqtme1dgrxrzrreuroa0hknlbpafflcve5d3vmauz6rvbovglqwhzpthptqg?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky - The Decoder",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnpKWlNzRXhtTktjWEIwMFN4b3FscktiYVhIc1ZzempaWW0xUGFsc2ZxaDZrNTJ0YjA5cHlCRGFRUGxGckNmT2JyS0JQUjVoRmZiSEZYRDRIa3NCaURzSVdNMTNPMnNNNVlrdG5GZmVwTjY0aE5faFZUNnAtNktLd3FVZmtIZEh3TzNkUEd6dFJIU0hZLWUtSU5QanVQby11N1BNTmdOWQ?oc=5",
+    "source": "The Decoder",
+    "source_type": "press",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-09T16:33:07.938923+00:00",
+    "authors": [],
+    "summary": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky The Decoder",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmipwfbvv95cuxoqnpkwlnzrxhttktjweiwmfn4b3fscktiyvhic1zzempaww0xugfsc2zxadzrntj0yja5chlcrgfrugxgcknmt2jys0jqujvormzisezyrdria3ncaurzsvdnmtnpmnnnnvlrdg5gzmvwtjy0ae5fafzunnatnktld3fvzmtizeh3tznkued6dfjiu0hzlwutsu5qanvqby11n1bntmdowq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Nobel-winning AI scientist John Jumper said he was leaving Google DeepMind for Anthropic, drawing praise from Google AI chief Demis Hassabis | Hindustan Times - Hindustan Times",
+    "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNc3FwNm9aOTJ6d3VaT2xYYlBkR3phNW53Q19uVVo4TUZtOGRaNUVqQk5najBZalN2MTRRV3MzSHMzcGNzUlVubzVzSDhGQmhVVHRnR3lrYm5GX1J5Si1kWXBQZ01fYmlUT3RNaW0tTTJIOG1CVlZNcEl3c1E1Z09hSE9Ibk5NRjgtT2E3aUctLWRFWGZ1bjg4ZTh6anp2aDB4YVRrckJ1QndpRkIwOVo0blRFWjB4bGJydEZ3QzJ4T1JDbG90MGVLM3BqbS1yRlVUcmE2Zm1DT2U4Qk1uajR4aGhocENSeHZaN3czOHBvZ3NzY2k5ekVmYlo5U3o5bE1rVzZrZjVsZm5adEplb2RNcm9MVkw0cWhWOWJOd3VidmU1dTBpWFVrbkhvSF9jUEJqLS1KRDJCSnXSAbgCQVVfeXFMTXNxcDZvWjkyend1Wk9sWGJQZEd6YTVud0NfblVaOE1GbThkWjVFakJOZ2owWWpTdjE0UVdzM0hzM3Bjc1JVbm81c0g4RkJoVVR0Z0d5a2JuRl9SeUotZFlwUGdNX2JpVE90TWltLU0ySDhtQlZWTXBJd3NRNWdPYUhPSG5OTUY4LU9hN2lHLS1kRVhmdW44OGU4emp6dmgweGFUa3JCdUJ3aUZCMDlaNG5URVoweGxicnRGd0MyeE9SQ2xvdDBlSzNwam0tckZVVHJhNmZtQ09lOEJNbmo0eGhoaHBDUnh2Wjd3Mzhwb2dzc2NpOXpFZmJaOVN6OWxNa1c2a2Y1bGZuWnRKZW9kTXJvTFZMNHFoVjliTnd1YnZlNXUwaVhVa25Ib0hfY1BCai0tSkQyQkp1?oc=5",
+    "source": "Hindustan Times",
+    "source_type": "press",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-09T16:33:11.385400+00:00",
+    "authors": [],
+    "summary": "Nobel-winning AI scientist John Jumper said he was leaving Google DeepMind for Anthropic, drawing praise from Google AI chief Demis Hassabis | Hindustan Times Hindustan Times",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiuajbvv95cuxnc3fwnm9aotj6d3vat2xyylbkr3phnw53q19uvvo4tuztogranuvqqk5najbzaln2mtrrv3mzshmzcgnzulvubzvzsdhgqmhvvhrnr3lrym5gx1j5si1kwxbqz01fymlut3rnaw0tttjiog1cvlzncel3c1e1z09hse9ibk5nrjgtt2e3auctlwrfwgz1bjg4zth6anp2adb4yvrrckj1qndprkiwovo0blrfwjb4bgjydez3qzj4t1jdbg90mgvlm3bqbs1yrlvucme2zm1dt2u4qk1uajr4aghocensehzan3czohbvz3nzy2k5ekvmylo5u3o5be1rvzzrzjvszm5adeplb2rncm9mvkw0cwhwowjod3vidmu1dtbpwfvrbkhvsf9juejqls1krdjcsnxsabgcqvvfexfmtxnxcdzvwjkyend1wk9swgjqzed6ytvud0nfblvaoe1gbthkwjvfakjoz2owwwptdje0uvdzm0hzm3bjc1jvbm81c0g4rkjovvr0z0d5a2jurl9seuotzflwugdnx2jpve90twltlu0ysdhtqlzwtxbjd3nrnwdpyuhpsg5otuy4lu9hn2lhls1krvhmdw44ogu4emp6dmgwegfua3jcduj3auzcmdlang5urvowegxicnrgd0myee9sq2xvddblsznwam0tckzvvhjhnmztq09loejnbmo0eghoahbdunh2wjd3mzhwb2dzc2npoxpfzmjaovn6owxna1c2a2y1bgzuwnrkzw9ktxjvtfzmnhfovjlitnd1ynzlnxuwavhva25ib0hfy1bcai0tskqyqkp1?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic bans persistent abuse of its Claude AI models - Anadolu Ajansı",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUnZ4clM4Q1NORWZ4WFZVeml1aGRZLXdWYWQzZWxFYVdWRXNNZ2lkTWlNVW1BVERLN3F2YXRRN1pTUlRDNURZc3JuU0dUZXp3OWNRNk1peEFqTGI0TUFIV2JlRWpFVEpHN0hEcHVOdjM1WURLN01JWFc3RnQxeVFnRjR5NTdsSjMyQjJ1RlZWUmp6RW94bWpDNzZMM0w5VkdLYVRQLW53?oc=5",
+    "source": "Anadolu Ajansı",
+    "source_type": "press",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-09T16:33:11.885424+00:00",
+    "authors": [],
+    "summary": "Anthropic bans persistent abuse of its Claude AI models Anadolu Ajansı",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmipgfbvv95cuxounz4clm4q1norwz4wfzveml1agrzlxdwywqzzwxfyvdwrxnnz2lktwlnvw1bverln3f2yxrrn1ptulrdnurzc3juu0duzxp3ownrnk1peefqtgi0tufiv2jlrwpfvephn0hechvodjm1wurln01jwfc3rnqxevfnrjr5ntdssjmyqjj1rlzwump6rw94bwpdnzzmm0w5vkdlyvrqlw53?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Director Hershberg sells $125k in Recursion Pharmaceuticals stock - Investing.com",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1VzbWM1QmVsSXEweEJiM051TTRzaFFRSC1KYkZTNk5fc3lxV3hYNmdrcTRQWW1hb204bzUzaXpWaUVlNmtmMzF3Zkl3cDItdWs0cUxCZzBKc2dtTW1jOFB3ZG1MSUxmTEpRTTRVZXFCQm4yMVdmRVJfMTNBV0d3bWJJN1FZaG9ZQkxibHR3SWd2NE91SU1tTUJiWVFSaGllOV9RTU9SenlZekxiUFZhOWtJZ3ZtWVZ6b1ZTZU9TdG0zeVZ2a252cA?oc=5",
     "source": "Investing.com",
@@ -980,6 +1206,90 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmigafbvv95cuxqmvjfwhjjyjkytk40nnj2wvytamr5nlzjufnwavlxdvlouwdjqvfqrtljcdq3twhnntrryznisfi4dxdtqmvpdmxqv3frd2j1expuuevutzhla2c3y1kxm3i0tjbwdkutt3hxaed6cy1ywddizjjkulrtbdnpv0lcsg?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AI Drug Discovery's Next Winners: Follow the Lab Spending - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmlmZVY4N01JSGNjLWhWYS1uaTE1V0s3aERveXJjY1VXUGVkQkJ6aUcwVGV4WnItbmpxdHVwV2xVNjIxR3BNMWd6cGpiYWVyVGVueGhVTWVfVFFKZW1KckNFelRNM0hzNWxlb19RajV1R0hGSlk1dnhlMWpKTkNOSENCZld5d1dxWTE3NWxDN2pFTk1Sd2JIQ2IzclNqS3V4UmV0a0VnbldjOXh0OGc?oc=5",
+    "source": "Moomoo",
+    "source_type": "news",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-09T16:32:50.983593+00:00",
+    "authors": [],
+    "summary": "AI Drug Discovery's Next Winners: Follow the Lab Spending Moomoo",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmirgfbvv95cuxoqmlmzvy4n01jsgnjlwhwys1uate1v0s3aervexjjy1vxugvkqkj6aucwvgv4wnitbmpxdhvwv2xvnjixr3bnmwd6cgpiywvyvgvueghvtwvfvffkzw1kcknfelrnm0hznwxlb19rajv1r0hgslk1dnhlmwpktknosenczld5d1dxwte3nwxdn2pftk1sd2jiq2izclnqs3v4umv0a0vnbldjoxh0ogc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Fiocruz alerta para alta de vírus respiratórios e reforça importância da vacinação - Ao Vivo de Brasília",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWS1CWmVORHZNejNDZkUzd25MRjVBUnlWUmtiZWMxU1lXRGY2cWFQeGZJdlQxWHhmQUFfaE5mSHhCbzYzQVNhVUs1d0VRNG5xNjVlVTBUVjR4My1iaHFkLWtqTkpHR3RiNHI5QnBrclRLYlBfZ2NpRVNwX3d1X2p5TFZvVm02RWpGdTFHTDNXd0lUS0xkU0dmS3NUSFR0NTVaNWt2UEdGSndJbjFNT2RpbmplcWxKUnFreHRJ?oc=5",
+    "source": "Ao Vivo de Brasília",
+    "source_type": "news",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-09T16:33:04.907914+00:00",
+    "authors": [],
+    "summary": "Fiocruz alerta para alta de vírus respiratórios e reforça importância da vacinação Ao Vivo de Brasília",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiuwfbvv95cuxqws1cwmvorhznejndzkuzd25mrjvbunlwumtizwmxu1lxrgy2cwfqegzjdlqxwhhmquffae5mshhcbzyzqvnhvus1d0vrng5xnjvlvtbuvjr4my1iahfklwtqtkphr3rinhi5qnbrclrlylbfz2nprvnwx3d1x2p5tfzvvm02rwpgdtfhtdnxd0lus0xku0dms3nusfr0ntvanwt2uedgsndjbjfnt2rpbmplcwxkunfrehrj?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "What to know about Anthropic’s ‘Claude-led’ biological discovery — and why scientists aren’t convinced - CNN",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZTFpeF9BM1lZUkRTc0t6LUJDUXF4NW1idnJjSW42LTBaeWhjU3lmWndqdTNxQzV3LW5LajNjQTMzTUctWF81dmRmNktYcjlfXzZ0ZDQxOW1Xc2s1aTFwOHVlbDQzYzluQV9ucWRUZTlBRW1PaktPVXQzMUJzWmoyeUR6WQ?oc=5",
+    "source": "CNN",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-09T16:33:07.939067+00:00",
+    "authors": [],
+    "summary": "What to know about Anthropic’s ‘Claude-led’ biological discovery — and why scientists aren’t convinced CNN",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmigwfbvv95cuxoztfpef9bm1lzukrtc0t6lujduxf4nw1idnjjsw42ltbaewhju3lmwndqdtnxqzv3lw5lajnjqtmztuctwf81dmrmnktycjlfxzz0zdqxow1xc2s1atfwohvlbdqzyzluqv9ucwruztlbrw1paktpvxqzmujzwmoyeur6wq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Form 4 Recursion Pharmaceuticals Inc For: 7 October By Investing.com - Investing.com UK",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYlZRWVNUUFMzNnNkVEdsUlBaYmZrc3d3cFJyTzk3d3pBblc2aVdWVjBRUUFMV3dYXzBzR2NhQXZNdDVHc2Nyb3E3YTBzNGZGZWFtNDJWSE51SzJDSFlPcjhoeGtOeW1CaUFILTZKcDhKTlJQUzVTZHFITURYLXhjSm1KSmxyMHhURnZRcVZzY2ZYT1o3ZExUd0xjb3hfZWVpaFp5SFJkeVA4R2FmdGdZRg?oc=5",
+    "source": "Investing.com UK",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-09T16:33:09.813194+00:00",
+    "authors": [],
+    "summary": "Form 4 Recursion Pharmaceuticals Inc For: 7 October By Investing.com Investing.com UK",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxoylzrwvnuufmznnnkvedsulbaymzrc3d3cfjytzk3d3pbblc2avdwvjbruufmv3dyxzbzr2nhqxznddvhc2nyb3e3ytbzngzgzwftndjwse51szjdsflpcjhoegtoew1caufiltzkcdhktljquzvtzhfiturylxhjsm1ksmxymhhurnzrcvzzy2zyt1o3zexud0xjb3hfzwvpafp5sfjkeva4r2fmdgdzrg?oc=5"
   },
   {
     "kind": "news",
@@ -2452,6 +2762,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmioafbvv95cuxnuwvnmjmtou4xtmtgvznwy1lfslfxbe9mcmrmsm1iq3buzzffv1netfhbwer3anytnmjwqklozxpmznh0rv92tmfydnfhafldn3q1weuxy3fnv0fwskj4shjpb2xzs05dclzpu1dgavhtdwmylwtmbl8tlwityi10ywtjd1jhv3e1smt5amx6uhpyr3zysenfajjszgfts0dj?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "EU invests €65m to bolster key biotech data amid funding vulnerabilities - The Brussels Times",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFdKRDdvc3g5Q3REQTdDTjNCZmFtWjFEVGdlUUxOdjNRQ1dFZHo2WmR0Wms4d2V3U0dCNWdtU1lHMlhqeGI4ckd0SVdMbGNpelo2TmpNa3RKRVVUczBHbW1nbkJEVmhValRNcWxoRjRKWFl0VjlNSnQybFY5NGFLeVg1VEZHelJCWHQ1THRrWDJ6a2pick1xbGJJSUNMREJISTZGbzA3YU9UVHRGQk9zUS1zOFpBR2tBVDVZdGdn?oc=5",
+    "source": "The Brussels Times",
+    "source_type": "press",
+    "published_date": "2026-10-06",
+    "collected_at": "2026-10-09T16:33:08.271234+00:00",
+    "authors": [],
+    "summary": "EU invests €65m to bolster key biotech data amid funding vulnerabilities The Brussels Times",
+    "doi": null,
+    "company_slug": "expasy",
+    "keywords_matched": [
+      "ExPASy (SIB)"
+    ],
+    "extra": {
+      "query": "\"ExPASy\" OR \"SIB Swiss Institute of Bioinformatics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmivgfbvv95cuxpdfdkrddvc3g5q3reqtddtjnczmftwjfevgdluuxodjnrq1dfzho2wmr0wms4d2v3u0dcnwdtu1lhmlhqegi4ckd0svdmbgnpelo2tmpna3rkrvvuczbhbw1nbkjevmhvalrncwxorjrkwfl0vjlnsnqybfy5ngflevg1vezheljcwhq1thrrwdj6a2pick1xbgjjsunmrejistzgbza3yu9uvhrgqk9zus1zofpbr2tbvdvzdgdn?oc=5"
   },
   {
     "kind": "news",
@@ -20523,6 +20854,27 @@
   },
   {
     "kind": "news",
+    "title": "Redefining drug discovery: AI-driven strategies for efficient cancer therapeutics - Frontiers",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRW5OSG5wYkdvcmRtOElVZ1NjVmhGVjdON1lwSVRpeThfT2VMdW5iRTFLT2xYOENYVzNuRzQ3QVc0emRqenM0SjhPbFJfdUR6VlFxcUZQbnJYeHRYWVdRaWpKREZiOTNtTlZ1ZjVPa1dQWmZaRTZ0MVROSi1wS00yRkRKazFXSktXck1EX3Rn?oc=5",
+    "source": "Frontiers",
+    "source_type": "news",
+    "published_date": "2026-09-10",
+    "collected_at": "2026-10-09T16:32:50.986682+00:00",
+    "authors": [],
+    "summary": "Redefining drug discovery: AI-driven strategies for efficient cancer therapeutics Frontiers",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijgfbvv95cuxprw5osg5wykdvcmrtoelvz1njvmhgvjdon1lwsvrpethft2vmdw5irtflt2xyoenyvznurzq3qvc0emrqenm0sjhpbfjfdur6vlfxcuzqbnjyehrywvdrawpkreziotnttlz1zjvpa1dqwmzartz0mvrosi1ws00yrkrkazfxsktxck1ex3rn?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "As China embraces AI, few US pharmaceutical execs bet on it for innovation - South China Morning Post",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWTgzUnFzVENIZTNIeGxwbC1IMUNLclhnVU1DVWM0a2R4Rk8tNktBamZaLWIwNkk0S0E3MndvMW9yb0Q5WnVnU0pKVkVNR1BYeVZrRFhOVERlS3hTNkNheGdMcHE2SFY5b3VjYS16WjJZQ3lMR1ZUY2V1YjFrcUdSM2lMTFZPT3g4bkNmVFVaOWEtb1JkdzY1eXdwVzRTZ0ZEQk5WWEN1UUdYVGtRRkl2bTFHcFZ0OXVDQ1ZadFhR0gG-AUFVX3lxTE1JQ0VQTHlZaU56SzlZdnRWYzFrRTU1dVVLNXdwdnI1TEdrejJCaEZ5VnluTkctTkZHNm9CanhKNnNybVpwRzB4MTNsQnpyRE54QmFIcGs4ZHgwb1NyZkJYVUpuaVFCZjFnNGpYNmxjeFd0LWlVaVZQS2gtXzRVZDVjbnJFb00zd21qcWtsam5HNXFMQThrVG5qUHpWaEhlWUVScHhPNlF5N3RjOC1Dc3h0amRVdG9GX1pWVGh1WXc?oc=5",
     "source": "South China Morning Post",
@@ -26118,6 +26470,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqafbvv95cuxoluxgb2lrwwpnzlownzh2c0qtqnrzdkr2merzevrgruztszrqczq1bupmctnmzfvbyunjsjhwlthsthzzqu1yb3zxr3zzt05oc3m2v2vccvqtmuu4wfrflwdhd21rbtf4blpzslhot09xc3lxa25ht0fneunlvvl2etlvdefrv29fy0tqakoyzxbtahjocvphmxp3btflmghkazrvd1pcaetsaa4bqvvfexfmtkxmukluau9erf8zzfhot2jomkfruxf3yke1xzzkazbwmenhcepjotfrnjdhs0pwvznqmhjncelwwmv0zjbvynewum9qn2y1oxhzmew0endmbzntu3bebxz5nkr5ek5ibgphmjh0stjacjruvza1tudku3jgx29ub1hobfjitk9lx0htbklfn01lsmmzrmvprwu0uetotxv1ugxtohjzdgpjuutuss1r?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Fiocruz vai iniciar testes da primeira vacina RNAm contra covid - iG Saúde",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSDlZX3lIb2xYbjdCLUVHMTdPYmpRdGZHY2YyZ0V4MmxENkw4TlNqUzVnOXNBcHU1QW1oSGFaR0xSMWp1ZUIyRXNHczFDSWJmbVM3d2RyZVhhTmxFdGdLbHJtZnBlOVFmMmw1akY3ZG83aTVnd1lEdXF5NnE4aGVDQlJfSTIyLXEwZGNLQ185RG9tVVBpRVprU1NXZWU1YXNOSEJKdzZR0gGrAUFVX3lxTE1FVEM4Mmh5OVpzUndTdlFBMWZCODI5OF90eG1aVUxLeHhabUEwcjhheFgyNlE2alVmY0stVVV4X3VhTWVKMTBoRW8wR2tUd3FJcXNYMXBnRm1CRlB0dmY5Y2lveF9ZbE1PVkEyTk8zaE5XUE9MTERBUDZNdTFyWHQ2YzlHSGJZT1JNZlA0OGxleURYeFAtOHBtRzltTmJEajVIenNCTlhjV1RKVQ?oc=5",
+    "source": "iG Saúde",
+    "source_type": "news",
+    "published_date": "2026-09-03",
+    "collected_at": "2026-10-09T16:33:04.909352+00:00",
+    "authors": [],
+    "summary": "Fiocruz vai iniciar testes da primeira vacina RNAm contra covid iG Saúde",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmipgfbvv95cuxnsdlzx3lib2xybjdcluvhmtdpymprdgzhy2yyz0v4mmxenkw4tlnquzvnoxnbchu1qw1osgfar0xsmwp1zuiyrxnhczfdswjmbvm3d2ryzvhhtmxfdgdlbhjtznblovfmmmw1aky3zg83atvnd1ledxf5nne4agvdqljfstiylxewzgnlq185rg9tvvbprvpru1nxzwu1yxnosejkdzzr0ggraufvx3lxte1fvem4mmh5ovpzundtdlfbmwzcodi5of90eg1avuxlehhabuewcjhhefgynle2alvmy0stvvv4x3vhtwvkmtborw8wr2tud3fjcxnymxbnrm1crlb0dmy5y2lvef9zbe1pvkeytk8zae5xue9mterbudzndtfywhq2yzlhsgjzt1jnzla0ogxleuryefatohbtrzlttmjeajviennctlhjv1rkvq?oc=5"
   },
   {
     "kind": "news",
@@ -37403,6 +37776,27 @@
   },
   {
     "kind": "news",
+    "title": "An off switch for dual-use knowledge in AI models - Anthropic",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SRVlydDkxV0drdmxXSE9rZmVBQXVraGdEd3d5S2ZCTFFRMk5VVXBPTml4Y3RId1NSLUpJWHY2RHNOcjF1VU9wUWN5cGZKVFNsWWR0Q3hPWnpDRHQtaTNnYVh3WkQ?oc=5",
+    "source": "Anthropic",
+    "source_type": "press",
+    "published_date": "2026-07-08",
+    "collected_at": "2026-10-09T16:33:07.950767+00:00",
+    "authors": [],
+    "summary": "An off switch for dual-use knowledge in AI models Anthropic",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmizefvx3lxte1srvlyddkxv0drdmxxse9rzmvbqxvragded3d5s2zctffrmk5vvxbptml4y3rid1nslupjwhy2rhnocjf1vu9wuwn5cgzkvfnswwr0q3hpwnpdrhqtatnnyvh3wkq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "$7 Billion Into AI Drug Discovery and Zero Approved Drugs: The Industry Is Funding the Wrong Race - The Clinical Trial Vanguard",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOUJfVkR3WExDM0hvRUxxdG1lcU5lcHdCZlBMcks3U0YzS04yWnpOTkhvdi1hX29nT3U0ZExFd041SmhNVFlBbm9PVVdjRDNmQlJYV3l0N2JLQzdDb1M1cGlLUkJKR1N0S1B5REFzdTdwLVFobGx5ajNKWlVjTXdtTWhiTW9ORUhkMWpBYkRvdURYUlFUcHhsWUJSNVNqU2xlZWM1cnVjekZiemFzQXJXVmk5Ums3anpqU3Jwa2VVR25EcndYR28ySXhoZ1R0RU05bHJFdzVoZ2l2OFp3dlotRWwyVXA5XzdQNXc?oc=5",
     "source": "The Clinical Trial Vanguard",
@@ -46028,6 +46422,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi4gfbvv95cuxprwiwav9hcxz1b0h1t3pbnfrdvmvouzfenhdctm1ubwneyjhragjcnkrjowxvdvvabtvjsghuznldtxlgcethsu9arxy1zkzxww95udvpa25qogzjvuvzwgxrogphd3rizm9kufpwdgeybznkelp2anflsxqwmddcnldnmmixvhdin1fqz2w3mjvyylpjqxhtsdvnv0xkcjzzmfy4dgjqv0tyam9lnufkq0h1r00wemx3wjr3vuz2u3jnngpnlw1svxhtuenpzv8zyxr6tvhhruowmedmz19jdfhr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "National Team Enters AI Virtual Cell Field: 'Baiyao Technology' Completes Tens of Millions of Yuan in New - Round Financing | 36Kr Exclusive - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSRnR2VkZqRHJFLVp6dzRjQWJDWG01SkZwUzE3ZFBGUUM4RjRLNVFWQ1ppdE8tdnhiSnRxajQ5M3g3YnpxbGoyRWZFR3BNZWVSd3pj?oc=5",
+    "source": "36Kr",
+    "source_type": "news",
+    "published_date": "2026-06-04",
+    "collected_at": "2026-10-09T16:32:53.414989+00:00",
+    "authors": [],
+    "summary": "National Team Enters AI Virtual Cell Field: 'Baiyao Technology' Completes Tens of Millions of Yuan in New - Round Financing | 36Kr Exclusive 36Kr",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "virtual screening\" AI pharma"
+    ],
+    "extra": {
+      "query": "\"virtual screening\" AI pharma",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiu0fvx3lxtfbsrnr2vkzqrhjflvp6dzrjqwjdwg01skzwuze3zfbguum4rjrlnvfwq1ppde8tdnhisnrxajq5m3g3ynpxbgoyrwzfr3bnzwvsd3pj?oc=5"
   },
   {
     "kind": "news",
@@ -62477,6 +62892,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi7gfbvv95cuxqcghvzknhtzmxnwdin0ltedlhtnltmdzsd1u1z0ndcg5evjj2ri10ymdjzvj4yjhyx1e5auhobmtmyklsu3rfrxpjynb4szbcble0bwfzchr3vw51rmvxuectvxrymhnhshfzzefnetzsovk0cdblahbvvv9qtwfmqkzrsdu4lwlvww5vsm95muzjcfa3nxhvnkr3rfjpbepqog5yyupdmxjyajuyd1rwazvpz0ttbu5iev9tsfnnzgplr0x4ttjsrwhhb1cwy0dgwtlnz2nlwtdodi1ltuppujrvai10uw52nfj3u013?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Nanyang Biologics to Go Public Through Business Combination with RF Acquisition Corp II Valued at 1.5 Billion USD - BioPharma APAC",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVHNmbFdJdGJzdFVKRXFJazlLUExHaS1Lb2FqMGw5RzNSU3dvbHBVTzIxR05yeXFBMzNrSDRNblRRZXpCVjJLdzlpV1JxX2lhbWN0emVsZHRWWlVpMy1vVWhRVjdPejVSSFBDQ0FiYUxzMVNUX1IxLUZEN0dSeGN6Skk2REdNdmxaQ0Q5a2lhSVZCUUtacmtINmY4ZlAtWWdNdUVEdjZNd3lvYjYwVFY5cURIZ29vbXFXWHd0SEpMWmFubGl0LURvX21VU3B5U1lDa0J0YTFYZDFKc1M4N3lEZk1yeGdMTmFuNDRrc1ln?oc=5",
+    "source": "BioPharma APAC",
+    "source_type": "press",
+    "published_date": "2025-10-03",
+    "collected_at": "2026-10-09T16:33:10.809265+00:00",
+    "authors": [],
+    "summary": "Nanyang Biologics to Go Public Through Business Combination with RF Acquisition Corp II Valued at 1.5 Billion USD BioPharma APAC",
+    "doi": null,
+    "company_slug": "vecura",
+    "keywords_matched": [
+      "Vecura"
+    ],
+    "extra": {
+      "query": "\"Vecura\" (biotech OR bio OR drug OR \"cell therapy\" OR \"gene therapy\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi7gfbvv95cuxovhnmbfdjdgjzdfvkrxfjazlluexhas1lb2fqmgw5rznsu3dvbhbvtzixr05yexfbmznrsdrnblrrzxpcvjjldzlpv1jxx2lhbwn0emvszhrwwlvpmy1vvwhrvjdpejvssfbdq0fiyuxzmvnux1ixluzen0dsegn6skk2redndmxaq0q5a2lhsvzcuutacmtinmy4zlatwwdnduvedjznd3lvyjywvfy5curiz29vbxfxwhd0sepmwmfubgl0lurvx21vu3b5u1lda0j0ytfyzdfkc1m4n3lezk1yegdmtmfundrrc1ln?oc=5"
   },
   {
     "kind": "news",
