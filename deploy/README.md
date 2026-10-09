@@ -1,9 +1,19 @@
 # O Radar na VM: roteiro de deploy
 
 Para o Gabriel Furniel (Tech) e o fundador. Spec: [`docs/specs/2026-10-02-radar-na-vm-postgres.md`](../docs/specs/2026-10-02-radar-na-vm-postgres.md)
-(aprovada, decisions-log (ee)). Estado em 2026-10-02: o código do Radar está pronto e testado na estação contra um
-Postgres descartável; **nada disto rodou na VM**, e o GitHub Actions segue como escritor único de `pipeline/data/`
-até a virada (R6).
+(aprovada, decisions-log (ee)). Estado em 2026-10-02, anterior à janela de 2026-10-07: o código do Radar estava pronto e
+testado na estação contra um Postgres descartável, e nada rodava na VM. **Desde 2026-10-07 ele roda lá** (addendum
+abaixo); o GitHub Actions segue como escritor único de `pipeline/data/` até a virada (R6).
+
+> **Addendum 2026-10-07 (noite): a janela foi executada.** R2 e R3 estão feitos na VM, e o R4 está em curso, pelo fundador: imagem
+> `alchemia-radar:9f5710f42ee2` (aarch64), carga do acervo (9.247 itens, 182 execuções, 13 newsletters, 81 linhas de catálogo;
+> a segunda carga deu 0 novos), uma coleta à mão (execução 183, `parcial`) e o serviço `radar` no ar, com o agendador em
+> `09:00,15:00,21:00` UTC (próximo disparo 2026-10-08T09:00Z). O app em produção lê `banco` (`RADAR_FONTE`). **A sombra de
+> 7 dias começou.** Continua pendente, e nada disto foi feito: a conferência da tela `/science/radar` pelo fundador, a primeira
+> coleta agendada, a investigação do `biorxiv` (correção proposta no `docs/HISTORY.md`, não aplicada), a remoção do paliativo
+> `RADAR_HORARIOS_UTC` no `producao.env` da VM (depois de um release com o `compose.yaml` novo do System) e a virada (R6). O
+> `compose.yaml` novo do System **não** está no checkout da VM, e o app em produção segue em `c602f62111ca`. Resultado
+> passo a passo: addendum de 2026-10-07 (noite) do `docs/HISTORY.md`.
 
 > **Addendum 2026-10-07 (decisions-log (gi)).** A VM coleta, com o agendador dentro do contêiner, às **06:00, 12:00 e
 > 18:00 de Brasília** (America/Sao_Paulo; fuso confirmado pelo fundador no mesmo dia) = 09:00, 15:00 e 21:00 UTC. A

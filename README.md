@@ -12,13 +12,15 @@ agentes: [`AGENTS.md`](AGENTS.md). Histórico datado: [`docs/HISTORY.md`](docs/H
 
 ---
 
-## Estado (conferido em 2026-09-30)
+## Estado (conferido em 2026-10-07)
 
 | Frente | Estado |
 |---|---|
-| Coleta (Etapa 1a) e Supabase (Etapa 3) | `coleta.yml` no GitHub Actions, três vezes ao dia; único escritor de `pipeline/data/` |
+| Coleta na VM (Oracle) | **No ar desde 2026-10-07.** O contêiner `radar` coleta às 06:00, 12:00 e 18:00 de Brasília (09:00, 15:00 e 21:00 UTC) e grava no esquema `radar` do banco do System. Primeira coleta agendada: 2026-10-08 09:00 UTC. A carga do acervo (9.247 itens) e a coleta à mão (execução 183, `parcial`: `newsletters` e `biorxiv` com erro) estão no banco. **Sombra de 7 dias em curso**, com o Actions coletando em paralelo. Resultado da janela: addendum de 2026-10-07 (noite) do `docs/HISTORY.md` |
+| Leitura pelo System | O app em produção está configurado para ler `banco` (`RADAR_FONTE`). A tela `/science/radar` ainda **não foi conferida** pelo fundador, e o tempo dela não foi medido (F6, Hopper) |
+| Coleta (Etapa 1a) e Supabase (Etapa 3) | `coleta.yml` no GitHub Actions, três vezes ao dia; único escritor de `pipeline/data/` até a virada. A coleta de 2026-10-07 16:52 UTC falhou no passo "Persistir estado da coleta (commit pipeline/data)", causa não investigada |
 | Radar datado para Science (Etapa 1b) | `research-export.yml`, disparado ao fim de cada coleta; se desliga sozinho sem o segredo `ALCHEMIA_SCIENCE_TOKEN` (se o segredo existe, não foi medido); sempre `--no-pdf` |
-| Visualização | Alchemia System, `/science/radar`, lendo `pipeline/data/` e `pipeline/config/` pelo disco ou, sem o checkout, pelo GitHub público |
+| Visualização | Alchemia System, `/science/radar`; em produção lê o banco; os modos `local` (disco) e `remoto` (GitHub público) seguem no conector |
 | `dashboard/` (Next.js) | congelado, sem deploy desde 2026-09-28; o código fica no disco |
 | Bots (Axel, Baker, Discord) e newsletter | encerrados; o arquivo da newsletter vai até 2026-09-04 |
 | Camada estocástica ("JEV" e Claude) | futura, por spec própria; hoje tudo é determinístico |
@@ -46,8 +48,10 @@ agentes: [`AGENTS.md`](AGENTS.md). Histórico datado: [`docs/HISTORY.md`](docs/H
 
 ## Como a coleta roda
 
-Três vezes ao dia (horários no `cron` de `coleta.yml`, em UTC, com o equivalente local no
-comentário), o GitHub Actions:
+Duas cadências rodam em paralelo durante a sombra: a da **VM** (contêiner `radar`, destino `postgres`, horários em
+`HORARIOS_LOCAIS` de `pipeline/agendador.py`; roteiro em [`deploy/README.md`](deploy/README.md)) e a do **GitHub Actions**,
+que segue gravando `pipeline/data/` até a virada. Três vezes ao dia (horários no `cron` de `coleta.yml`, em UTC, com o
+equivalente local no comentário), o GitHub Actions:
 
 1. **Etapa 1a:** `python -m pipeline.run_all` roda os coletores, funde com o estado já coletado
    (dedupe por DOI e URL normalizada), grava `pipeline/data/` e um snapshot em `pipeline/data/runs/`.
@@ -78,6 +82,9 @@ pipeline/.venv/Scripts/python.exe -m pipeline.run_all --skip companies,scielo   
 ---
 
 ## Contrato com o Alchemia System
+
+> **Atualização 2026-10-07.** Em produção o System lê o **banco** (`RADAR_FONTE=banco`: `radar.item`, a view `radar.meta`,
+> `radar.catalogo`, `radar.newsletter`); o texto abaixo descreve os modos `local` e `remoto`, que continuam no conector.
 
 O System só lê, pelos conectores `radar.ts` e `radar-remoto.ts` do repositório dele
 (`alchemia-system/packages/core/src/connectors/`; mapa em `alchemia-system/docs/architecture/fontes-de-dado.md`):
@@ -151,7 +158,7 @@ fundador. Detalhe e último estado registrado do deploy: [`dashboard/README.md`]
 
 ---
 
-## Em aberto (conferido em 2026-09-30)
+## Em aberto (atualizado em 2026-10-07; as linhas que esta data não tocou seguem conferidas em 2026-09-30)
 
 | Item | Decide |
 |---|---|
@@ -164,7 +171,11 @@ fundador. Detalhe e último estado registrado do deploy: [`dashboard/README.md`]
 | Restos dos bots, listados no addendum de 2026-09-28 do `docs/HISTORY.md`. Remoção só pela Lixeira. | fundador |
 | arXiv: zero sem erro de 2026-09-23 a 2026-09-27, zero legítimo pela regra do coletor (em 2026-09-28: 3 de 3 feeds responderam, 11 anunciados, 0 relevantes); o `meta.json` do remoto de 2026-09-30T20:18Z traz 1 item. A cobertura caiu com a migração para RSS (lote diário de três categorias pequenas, no lugar da busca por janela). | fundador (decisão de cobertura) |
 | O GitHub já é `alchemia-radar` (medido em 2026-09-30). Falta trocar o nome antigo no repositório do `alchemia-gitstore`, no ponteiro `.git` e na URL do `origin` local; o padrão `RADAR_REMOTO_REPO` do System ainda usa o nome antigo e depende do redirecionamento (nó `alchemia-system`). | fundador |
-| A coleta vai para a VM da Oracle, com cadência própria, e o System lê o dado local da VM (decisions-log (cr), 2026-09-30). Implementação depois do fechamento da v6, por spec; até lá o Actions segue escritor único. | fundador e `alchemia-tech` |
+| A coleta na VM está no ar desde 2026-10-07 (decisions-log (gi)). Pendem: a conferência da tela `/science/radar`; a primeira coleta agendada (2026-10-08 09:00 UTC); a sombra de 7 dias, comparando banco e git; a **virada** (desligar Actions e Supabase, destino do `radar-pull.timer`). | fundador |
+| `biorxiv` com erro na coleta à mão da VM (60 itens, `erro: true` após 50,2 s). Investigado só no código: é colheita parcial por página pulada, e a falha foi rápida, não três tempos-limite. A causa está em `radar.execucao.coletores` da execução 183 (não lida). Correção proposta em `docs/HISTORY.md`, **não aplicada**: mudança de código para outra rodada com a Ada. | Radar e `alchemia-quality-gate` |
+| Coleta do Actions de 2026-10-07 16:52 UTC falhou no passo "Persistir estado da coleta (commit pipeline/data)"; sem alarme de falha, não se distingue de coleta parada. Causa não investigada. | fundador (aba Actions) |
+| Paliativo `RADAR_HORARIOS_UTC=09:00,15:00,21:00` no `producao.env` da VM: sai quando um release com o `compose.yaml` novo do System subir. | `alchemia-system` e `alchemia-tech` |
+| Hopper medir `/science/radar` (F6, no máximo 1,0 s): `lerDoBanco` lê `radar.item` inteiro, sem `LIMIT`, e a tabela tem 9.360 linhas. | `alchemia-frontend-gate` e `alchemia-system` |
 
 ---
 

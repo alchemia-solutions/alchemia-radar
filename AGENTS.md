@@ -38,7 +38,7 @@ repositório no `alchemia-gitstore` e a URL do `origin` local.
 | Nó | `alchemia-radar` (**Kepler**), dono de `alchemia-ai/softwares/internos/alchemia-radar/**` |
 | Setor | Alchemia AI (dono humano Aryel Bezerra); "Radar" também é escopo declarado de Alchemia Science (Andrei Felix): `harness/company-tree.json` |
 | Skills | `news-intelligence-pipeline`, `obsidian-sync`, `agent-self-improvement` |
-| Consumidores | **Alchemia System** (nó `alchemia-system`): lê `pipeline/data/` e `pipeline/config/` pelo disco ou, sem o checkout, pelo GitHub público (`RADAR_FONTE`) · **`alchemia-science`**: o radar datado em `research/` e a `alchemia-library` |
+| Consumidores | **Alchemia System** (nó `alchemia-system`): em produção lê o banco (`RADAR_FONTE=banco`, desde 2026-10-07); `local` e `remoto` leem `pipeline/data/` e `pipeline/config/` · **`alchemia-science`**: o radar datado em `research/` e a `alchemia-library` |
 | Portões | `alchemia-quality-gate` (código) · `alchemia-frontend-gate` (interface) |
 | Hub no vault | `alchemia-brain/03-Softwares/internos/radar/` |
 
@@ -56,9 +56,11 @@ repositório no `alchemia-gitstore` e a URL do `origin` local.
 | Cadência real | `.github/workflows/coleta.yml` e `.github/workflows/research-export.yml` | live |
 | O que o System lê (o contrato) | `alchemia-ai/softwares/internos/alchemia-system/packages/core/src/connectors/radar.ts` e `radar-remoto.ts` · `alchemia-system/docs/architecture/fontes-de-dado.md` | live |
 | Estado operacional no vault | `alchemia-brain/03-Softwares/internos/radar/alchemia-radar-state.md` | live |
-| A coleta na VM gravando no Postgres do System (pronta, **não ligada**; spec `docs/specs/2026-10-02-radar-na-vm-postgres.md`) | [`deploy/README.md`](deploy/README.md) + `Dockerfile` + `pipeline/armazenamento_pg.py` | live |
+| A coleta na VM gravando no Postgres do System (**no ar desde 2026-10-07**, sombra de 7 dias em curso; spec `docs/specs/2026-10-02-radar-na-vm-postgres.md`) | [`deploy/README.md`](deploy/README.md) + [`deploy/2026-10-07-janela-radar-banco.md`](deploy/2026-10-07-janela-radar-banco.md) + `Dockerfile` + `pipeline/armazenamento_pg.py` | live |
 
-⚠️ **Escritor único.** Desde 2026-09-07 o **GitHub Actions** é o único escritor de `pipeline/data/`.
+⚠️ **Escritor único, por destino.** Desde 2026-09-07 o **GitHub Actions** é o único escritor de `pipeline/data/`. Desde
+2026-10-07 a **VM** (contêiner `radar`, 06:00, 12:00 e 18:00 de Brasília) é o único escritor do esquema `radar` do banco do
+System, e o app lê de lá: os dois coletam em paralelo até a virada (R6, do fundador).
 As duas Tarefas Agendadas do Windows, que mantêm o nome antigo ("Alchemia News - Coleta" e "- Pos-Coleta"),
 estão desabilitadas (`schtasks`, 2026-09-30), e o `.cmd` que chamavam saiu com o `alchemia-bots`, aposentado.
 **Não reative uma cadência local sem desligar a outra.**
@@ -92,5 +94,6 @@ System lê. Mudança em `.github/workflows/` só vale no CI depois que o fundado
 O registro vivo é `alchemia-brain/01-Enterprise/registros/risk-log.md`; a lista do Radar, com data e
 medição, está no [`README.md`](README.md), seção "Em aberto". Escalam ao fundador: desligar o
 projeto na Vercel, o destino do Supabase sem o dashboard, o segredo `ALCHEMIA_SCIENCE_TOKEN`, o que
-é "JEV", e o Portão ainda não marcado de `docs/specs/2026-08-18-research-library-integration.md`. A mudança
-da coleta para a VM, com cadência própria (decisions-log (cr), 2026-09-30), vem depois do fechamento da v6, por spec.
+é "JEV", e o Portão ainda não marcado de `docs/specs/2026-08-18-research-library-integration.md`. A coleta na VM está
+no ar desde 2026-10-07 (decisions-log (gi)); falta a sombra de 7 dias, o erro do `biorxiv` (correção proposta em
+`docs/HISTORY.md`, não aplicada) e a virada, que desliga Actions e Supabase por decisão do fundador.

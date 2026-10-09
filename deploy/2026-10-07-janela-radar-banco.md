@@ -1,5 +1,7 @@
 # Janela: o Radar coletando no banco da VM
 
+> **Executada em 2026-10-07, resultado:** J1 a J9 feitos pelo fundador entre 20:51 e 21:05 UTC; a VM carregou o acervo (9.247 itens, 182 execuções) e coletou à mão a execução 183 (113 itens novos, estado `parcial`: `newsletters` e `biorxiv` com erro), o `radar` está no ar com o agendador em 09:00, 15:00 e 21:00 UTC (próximo: 2026-10-08T09:00Z) e o app lê `banco`; a sombra de 7 dias começou. Pendente: tela `/science/radar` conferida pelo fundador, primeira coleta agendada, o `biorxiv`, o paliativo de horário no `producao.env` e a virada (R6). Números e pendências: addendum de 2026-10-07 (noite) do `docs/HISTORY.md`. O texto abaixo é o roteiro como foi escrito.
+
 Roteiro para o fundador colar, passo a passo. Decisão: `decisions-log` (gi), 2026-10-07 (a VM coleta, o agendador mora no
 contêiner, 06:00, 12:00 e 18:00 de Brasília). Cumpre a V7-6 da spec v7 e a spec
 `alchemia-tech/docs/specs/2026-10-02-bancos-radar-e-vault-na-vm.md` (Portão (ee)). O porquê de cada peça está em

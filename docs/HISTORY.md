@@ -1962,3 +1962,84 @@ Nada rodou na VM; sem git de escrita. Em `deploy/2026-10-07-janela-radar-banco.m
 
 **Não aplicadas:** `tzdata` em dev-requirements (não há arquivo de dev-requirements no Radar); medir F6 em dev antes de produção
 (é do Hopper). **Não verificado:** tudo o que depende do estado da VM, que o J1 passou a conferir.
+
+## Addendum — 2026-10-07 (noite): a janela do Radar no banco foi executada (J1 a J9); a VM coleta e grava em `radar.*`, o System lê `banco`
+
+Roteiro: `deploy/2026-10-07-janela-radar-banco.md`. Decisão: `decisions-log` (gi) — a VM coleta, com o agendador no contêiner, às
+06:00, 12:00 e 18:00 de Brasília (09:00, 15:00 e 21:00 UTC), confirmado pelo fundador. **Executada pelo fundador**, pela chave de
+operação, um passo por vez, entre 20:51 e 21:05 UTC, e conferida pela sessão da coordenação; nenhum agente rodou passo de escrita
+na VM. Commits no ar no GitHub: Radar `9f5710f` ("Update 07-10"), System `e8fb4d3` ("Update mds"). O app em produção segue em
+`c602f62111ca`: o `compose.yaml` novo do System **não** está no checkout da VM.
+
+Resultado, passo a passo (tudo medido na VM nesta janela; nada vem de memória):
+
+- **J1 (leitura):** `ready` 200, `c602f62111ca`, 36 de 36 migrações. O compose da VM já tinha o serviço `radar` (linha 255) e
+  `RADAR_FONTE: ${RADAR_FONTE:-banco}`, mas com o padrão velho de `RADAR_HORARIOS_UTC` (`09:40,15:40,21:40`); `PG_SENHA_RADAR`
+  presente; `RADAR_FONTE=local` no `producao.env` (linha 21). Havia na VM o contêiner `alchemia-lp` (imagem `alchemia-lp:0080af63136f`,
+  criada em 2026-10-07 18:15 UTC), subido pelo Gabriel na sessão do fundador, fora do System.
+- **J2 (backup de antes):** `system-prod-20261007T205134Z-pre-radar.dump` (9.109.828 bytes, 72 tabelas, sha256, dono `ubuntu`; envio
+  desligado, O4) e a cópia `producao.env.pre-radar` (modo 600).
+- **J3 (pacote):** `radar-carga.json.gz` (6.567.614 bytes, sha256 `4b16978411ef980f27837a990cbb4d118a5cf7cedce6c830642b572cf7f64255`)
+  em `/home/ubuntu/radar-carga/`, `sha256sum -c` OK.
+- **J4 (imagem):** `alchemia-radar:9f5710f42ee2` (aarch64, `psycopg-binary` 3.3.6). Agendador: próximos disparos 09:00, 15:00 e 21:00 UTC,
+  sem pular. Fica confirmada a wheel de aarch64, que a spec marcava como a lente 3 a conferir.
+- **J5 (carga):** 9.247 itens novos, 182 execuções importadas, 13 newsletters, 81 linhas de catálogo. As perdas de 2026-09-07 foram
+  recuperadas (`6800a38`: 3.438 de 3.438; `9bdfbd8`: 3.391 de 3.391); `empresa_sem_slug` 0. A segunda carga deu 0 novos, 0 atualizados e
+  0 execuções (idempotente).
+- **J6 (coleta à mão):** execução 183, estado `parcial`, 20:56:30 a 20:58:09 UTC; 113 itens novos (68 artigos, 45 notícias);
+  `radar.item` passou a 9.360. Coletores com erro: `newsletters` (já falhava no Actions) e `biorxiv` (60 itens, `erro: true` após 50,2 s;
+  investigação abaixo).
+- **J7 (serviço):** paliativo `RADAR_HORARIOS_UTC=09:00,15:00,21:00` acrescentado ao `producao.env` da VM, porque o compose da VM
+  ainda sobrepõe o padrão do código (remover quando um release com o `compose.yaml` novo subir). `alchemia-system-radar-1` no ar;
+  agendador com `["09:00","15:00","21:00"]`, próximo disparo `2026-10-08T09:00Z`.
+- **J8 (leitura do app):** `RADAR_FONTE` de `local` para `banco` (linha 21 do `producao.env`); app recriado
+  (`up -d --no-build --no-deps --wait app`), healthy, mesma versão `c602f62111ca`.
+- **J9 (leitura, 21:04 UTC):** `ready` 200; `app` healthy, `radar` Up, `db` healthy; releases sem deploy novo; timers sem unidade
+  nova; log do app sem erro de Radar.
+
+**Estado depois da janela.** A VM coleta e grava no esquema `radar` do banco do System; o app em produção está configurado para ler
+`banco`; a **sombra de 7 dias** (critério 8 da spec) começou, com o GitHub Actions seguindo como escritor de `pipeline/data/`. As
+duas cadências gravam destinos diferentes (git e banco), então não há dois escritores no mesmo lugar. Não foi desligado nada: nem
+o Actions, nem o Supabase, nem o `radar-pull.timer`.
+
+**Pendente:** (1) conferência da tela `/science/radar` pelo fundador; (2) a primeira coleta agendada, 2026-10-08 09:00 UTC; (3) a
+sombra de 7 dias, comparando banco e git; a coleta do Actions de 2026-10-07 16:52 UTC **falhou** no passo "Persistir estado da coleta
+(commit pipeline/data)", causa não investigada, e o git é o lado de comparação; (4) a virada (R6): desligar Actions e Supabase e dar
+destino ao `radar-pull.timer`, decisão do fundador; (5) Hopper medir `/science/radar` (F6, no máximo 1,0 s): `lerDoBanco` lê
+`radar.item` inteiro, sem `LIMIT`, e a tabela já tem 9.360 linhas; (6) remover o paliativo de horário depois do release com o
+`compose.yaml` novo (Hipátia); (7) o `biorxiv`, abaixo.
+
+**Rollback (do roteiro).** J8: restaurar `producao.env.pre-radar` e recriar o app (volta a `local`; o `radar-pull.timer` mantém a
+pasta). Serviço: `rc stop radar`. Carga: só restaurando o dump `pre-radar`, o que perde as escritas do System desde 20:51 UTC.
+
+**Investigação do `biorxiv` (só leitura no código e nos `pipeline/data/runs/` do checkout; nada rodou, nem na VM). Não corrigido.**
+
+- *O que marca o erro.* `run_all._run_collector` grava `error` (o traceback sanitizado) para qualquer exceção do coletor. O bioRxiv
+  levanta `ColetaParcial` no fim do laço quando **uma única página** foi pulada (`biorxiv_collector.py`, bloco "Pagina pulada NAO e
+  silenciosa"), e `run_all` preserva os itens das páginas boas (`exc.itens`). Logo, "60 itens e `erro: true`" é **colheita parcial**,
+  não perda total: o estado `parcial` da execução vem de `armazenamento_pg.estado_da_execucao`. No log da VM só aparece `erro: true`
+  (`radar.coletor`); o texto com o cursor e a causa está em `radar.execucao.coletores -> biorxiv -> error` da execução 183, **não lido
+  nesta sessão**.
+- *É tempo-limite?* Não da forma óbvia. Uma página que esgota as 3 tentativas de `http_get` por tempo custa pelo menos
+  20 + 1,5 + 20 + 3,0 + 20 = 64,5 s; a execução inteira durou 50,2 s, páginas boas incluídas. O que cabe em 50,2 s são falhas
+  rápidas: HTTP 4xx/5xx (as 3 tentativas gastam 4,5 s de pausa) ou **corpo que não é JSON** (200 vazio ou HTML), que
+  `http_get_json` não retenta, porque o `json.loads` roda fora do laço de tentativas. A causa exata é hipótese até alguém ler o campo
+  acima. Também é hipótese que o IP da VM (datacenter) pese: é a primeira vez que o coletor roda de lá.
+- *Histórico medido (182 execuções de `pipeline/data/runs/` do checkout, a última de 2026-10-07T01:02Z).* 25 com erro de bioRxiv: 13 por
+  tempo-limite (2026-09-02 a 2026-09-23) e 12 por corpo não-JSON ("Expecting value": 2 em 2026-09-17 e 10 de 2026-09-23 23:56 a
+  2026-09-26 23:51). Nessas 10 o laço gastou as 60 páginas de `max_pages` (0 varridas, 3 a 15 s no total), porque, sem a primeira
+  resposta, `total_api` fica vazio e nada interrompe a paginação. Desde 2026-09-27, 27 execuções sem erro, com 8 a 61 itens e 8,3 a
+  229,2 s.
+- *Correção proposta (não aplicada; mudança de código, para outra rodada com a Ada; coletor mexido mede o delta antes de voltar à
+  cadência):* (a) retentar também o corpo não-JSON, com pausa crescente, em `_fetch_page` (ou como parâmetro opt-in de
+  `common.http_get_json`, decisão da Ada por afetar PubMed e Crossref); (b) uma segunda passada sobre as páginas puladas, depois do
+  laço e de uma pausa, e só o que continuar faltando sobe como `ColetaParcial`, com o log dizendo quantas voltaram; (c) parar depois
+  de N falhas seguidas (3, sugerido) quando `total_api` ainda é desconhecido, em vez de queimar 60 requisições; (d) orçamento de tempo
+  do coletor em `sources.yaml` (`max_seconds`), porque o pior caso hoje são 60 páginas a 64,5 s, quase uma hora com a trava consultiva
+  tomada, contra o máximo observado de 665,6 s; (e) testes nos dois sentidos com dublê de `_fetch_page`: página que falha e volta na
+  segunda passada (sem erro), falha persistente (`ColetaParcial` com os itens), três corpos vazios seguidos (para cedo) e o
+  orçamento. Acrescentar campos ao relatório do coletor (`paginas_puladas`, `varridos`, `declarados`) é aditivo, mas toca o
+  `meta.json` que o System lê: só com aviso ao `alchemia-system` e os testes do conector `news.ts`.
+
+**Não verificado:** a causa do erro do `biorxiv` na VM (campo acima); a tela `/science/radar` renderizada; a falha do passo
+"Persistir estado da coleta" do Actions; CPU e memória do contêiner `radar` na VM (o README do deploy pede `docker stats` na sombra).
