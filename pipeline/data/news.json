@@ -227,6 +227,69 @@
   },
   {
     "kind": "news",
+    "title": "Recursion Pharmaceuticals (Ondo Tokenized Stock) - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWtKQ1Zpanc5c3c5N2piX3o1TXJIdk9jTVlNRWZyeHJZU2YwQTMxWkEwcFlXLTVFekh1cW91Rm4wV2x6ODV0UnBfcVlQbElWdklTOFlKTHVXcGFxS3NSSHdSVGtGUXVLNXR5ckkyWmk1Z0hRcmtybkhKdHBZLXNRS0M4Z2Q?oc=5",
+    "source": "CryptoRank",
+    "source_type": "press",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-09T20:20:00.260196+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals (Ondo Tokenized Stock) CryptoRank",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmihafbvv95cuxoewtkq1zpanc5c3c5n2pix3o1txjidk9jtvlnrwzyehjzu2ywqtmxwkewcflxltvfekh1cw91rm4wv2x6odv0unbfcvlqbelwdkltoflkthvxcgfxs3nsshdsvgtguxvlnxr5ckkywmk1z0hrcmtybkhkdhbzlxnrs0m4z2q?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic bans persistent abuse of its Claude AI models - Anadolu Ajansı",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMl9TNlg4SDJPNE45RUtXSzQtOWxlMkVUQ1VydkxmN0RaRmtydHhBSmNrRkJXTkVMbkZSbTZ1Q1BoSTg5LUF3QUhuR1VkZmNJQll2YXJaZllUNDloQ1FLNW1JQ2tTWUQ5NjlpUkZmR3N6Ylo1QW5waGhKUTVVZkpxV25SeGxSeTZKbXNfWXpkRDdSR0lueHdvbHFnSDVzbmI5cGRDQWE3U1VrRWc?oc=5",
+    "source": "Anadolu Ajansı",
+    "source_type": "press",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-09T20:20:02.624725+00:00",
+    "authors": [],
+    "summary": "Anthropic bans persistent abuse of its Claude AI models Anadolu Ajansı",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqwfbvv95cuxoml9tnlg4sdjpne45rutxszqtowxlmkvuq1vydkxmn0rarmtydhhbsmnrrkjxtkvmbkzsbtz1q1bostg5luf3quhur1vkzmnjqll2yxjazllundloq1flnw1jq2ttwuq5njlpukzmr3n6ylo1qw5waghkutvvzkpxv25segxsetzkbxnfwxpkrddsr0luehdvbhfnsdvzbmi5cgrdqwe3u1vrrwc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "OpenAI and Anthropic are preparing for «the day after» a potential AI catastrophe - UkrMedia News",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NdkUweHdfbUpnTkZ2ejdZSnlpenowcTFPM2xyWUNJcjJZMzZ5U3ZiWEx2VWVLVVRwZ0l6dlg5SjdGc0psRWVqYTI0OW5yYW0yQnhsZUo2VW9FdHBmOG5PWDdvVUx6SnBMQXlRQ1N0NHJjYnlsbF96MEVPbw?oc=5",
+    "source": "UkrMedia News",
+    "source_type": "press",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-09T20:20:02.625249+00:00",
+    "authors": [],
+    "summary": "OpenAI and Anthropic are preparing for «the day after» a potential AI catastrophe UkrMedia News",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmie0fvx3lxte1ndkuwehdfbupntkz2ejdzsnlpenowctfpm2xywunjcjjzmzz5u3ziwex2vwvlvvrwz0l6dlg5sjdgc0psrwvqyti0ow5yyw0yqnhszuo2vw9fdhbmog5pwddvvux6snbmqxlrq1n0nhjjynlsbf96mevpbw?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Director Hershberg sells $125k in Recursion Pharmaceuticals stock - Investing.com",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1VzbWM1QmVsSXEweEJiM051TTRzaFFRSC1KYkZTNk5fc3lxV3hYNmdrcTRQWW1hb204bzUzaXpWaUVlNmtmMzF3Zkl3cDItdWs0cUxCZzBKc2dtTW1jOFB3ZG1MSUxmTEpRTTRVZXFCQm4yMVdmRVJfMTNBV0d3bWJJN1FZaG9ZQkxibHR3SWd2NE91SU1tTUJiWVFSaGllOV9RTU9SenlZekxiUFZhOWtJZ3ZtWVZ6b1ZTZU9TdG0zeVZ2a252cA?oc=5",
     "source": "Investing.com",
@@ -1290,6 +1353,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxoylzrwvnuufmznnnkvedsulbaymzrc3d3cfjytzk3d3pbblc2avdwvjbruufmv3dyxzbzr2nhqxznddvhc2nyb3e3ytbzngzgzwftndjwse51szjdsflpcjhoegtoew1caufiltzkcdhktljquzvtzhfiturylxhjsm1ksmxymhhurnzrcvzzy2zyt1o3zexud0xjb3hfzwvpafp5sfjkeva4r2fmdgdzrg?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "What Could Go Wrong With Recursion Pharmaceuticals Stock? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU2o0b0thb09NVUp0MDJsOFFRWlhmQVoyckxnNkxHbHNSQ3gzRVR5T0FvQm5RZ3BWX2JuN3RsZlVjc2p4ZU5Bc1N6OFZ6V0RqZlh0Q1hCMjdGblA2UWlib0t0Q0I4RUhTLWVzY3B1UHRQRlVfRENiUVlwZFpGX3ZZel9tYmJWcVUySlo2azMxdGpkZ0lRTDJoS1VxQVJJVURvV2E4b0VoNlBQLUZM?oc=5",
+    "source": "Yahoo Finance",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-09T20:20:00.259662+00:00",
+    "authors": [],
+    "summary": "What Could Go Wrong With Recursion Pharmaceuticals Stock? Yahoo Finance",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmirafbvv95cuxpu2o0b0thb09nvup0mdjsoffrwlhmqvoyckxnnkxhbhnsq3gzrvr5t0fvqm5rz3bwx2jun3rszlvjc2p4zu5bc1n6ofz6v0rqzlh0q1hcmjdgbla2uwlib0t0q0i4ruhtlwvzy3b1uhrqrlvfreniuvlwzfpgx3zzel9tymjwcvuyslo2azmxdgpkz0lrtdjos1vxqvjjvurvv2e4b0vonlbqluzm?oc=5"
   },
   {
     "kind": "news",
@@ -36998,6 +37082,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiggfbvv95cuxnamnka00wwvvwr3hkzjdwuthuzdzrbdc4lxzxyve3efzlbjriqy1sbxrtvuqzx1izdmfruktbm3ruehvntwzwt25wd29ivfzgzvi3tgjweevvvjq4cnnna2rey3l4uwzrzkfiy2z5b1bdskhhdvlfx2nzcugtq0ziwut3?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Chai Discovery Announces $400M Series C to Advance AI-Driven Molecular Design - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM3lKcDVzZW01cUVGOG01djhtZ092aWgwTFFqblp2M1lqOThhVmo1eUEtS1JBckdrQWdLUDk4TzNpbmpPWnEzZzNxcE5KZ3h3amRibG1KZkpPR3NzZFZpRTMxcFRoMFNmc0pMdVJPRmd6U1BrLUZWOG8zWXZYOEpjNGRDN1lXUXNIYVdiazJTcWpJcXpYQzJ6blFlNEROUF9nZ3hWZ0VJMzEwTFpaQ0s3bjZ0alFxdG9yZXhSZjczeHRURUgwSVRNcU9BSFRocWhacXc?oc=5",
+    "source": "Business Wire",
+    "source_type": "news",
+    "published_date": "2026-07-14",
+    "collected_at": "2026-10-09T20:19:49.918105+00:00",
+    "authors": [],
+    "summary": "Chai Discovery Announces $400M Series C to Advance AI-Driven Molecular Design Business Wire",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "antibody engineering\" AI"
+    ],
+    "extra": {
+      "query": "\"antibody engineering\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi0gfbvv95cuxnm3lkcdvzzw01cuvgog01djhtz092awgwtffqblp2m1lqothhvmo1euets1jbckdrqwdludk4tznpbmppwnezzznxce5kz3h3amribg1kzkppr3nzzfzprtmxcfromfnmc0pmdvjprmd6u1brluzwog8zwxzyoepjngrdn1lxuxniyvdiazjtcwpjcxpyqzj6blflnerouf9nz3hwz0vjmzewtfpaq0s3bjz0alfxdg9yzxhszjczehrurugwsvrncu9bsfrocwhacxc?oc=5"
   },
   {
     "kind": "news",
@@ -73590,6 +73695,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwwfbvv95cuxqmfdpyxe4z1dlzw1sztjez25yutjvuvprbm5ybmtnuxhzazfwqui2umhcy2x1dw9ldm5qevfzdkn6tgd0r01xrzjsc1fhaenfn3jyotrlbwnzse4welh4nekysu56v1dnwdl4btvsbjfvx21gcvptzhjyx01qvl9hmdrvluniyljjrdrrm19kt3jqvnzkqlm3stg1s2t1y0c2wer2edzvtwxvx3jdsw5ar2xcrmi0stvluy10xzn6dzl6owm?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "How to track the variants of the pandemic faster - Medical Xpress",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JTlVXUjBPNnF3eko4ZktZeHVwc1VBRURjbUUzVnBWdmhYTXczeXVvZ0VkY2pfTjRHZ3gwc3pNck52QkRqTUFFa2lVWXdXa3V3clhpMXhxdDdYc2NZcXBvWGg0ZjJoTTViMVlrRkdBZHYxSXJwRjJtaExqWXhtUlE?oc=5",
+    "source": "Medical Xpress",
+    "source_type": "press",
+    "published_date": "2021-03-03",
+    "collected_at": "2026-10-09T20:19:58.597750+00:00",
+    "authors": [],
+    "summary": "How to track the variants of the pandemic faster Medical Xpress",
+    "doi": null,
+    "company_slug": "expasy",
+    "keywords_matched": [
+      "ExPASy (SIB)"
+    ],
+    "extra": {
+      "query": "\"ExPASy\" OR \"SIB Swiss Institute of Bioinformatics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmif0fvx3lxte5jtlvxujbpnnf3eko4zktzehvwc1vbrurjbuuzvnbwdmhytxczexvvz0vky2pftjrhz3gwc3pnck52qkrqtuffa2lvwxdxa3v3clhpmxhxdddyc2nzcxbvwgg0zjjottvimvlrrkdbzhyxsxjwrjjtaexqwxhtule?oc=5"
   },
   {
     "kind": "news",

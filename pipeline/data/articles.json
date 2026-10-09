@@ -752,6 +752,34 @@
   },
   {
     "kind": "article",
+    "title": "Quantitative 3D imaging of intact engineered heart tissues using inverted selective plane illumination microscopy",
+    "url": "https://doi.org/10.64898/2026.10.08.757603",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-09T20:19:27.458394+00:00",
+    "authors": [
+      "Walls, K.",
+      "Kulmala, L.",
+      "Kreutzer, J.",
+      "Ahola, A.",
+      "Pekkanen-Mattila, M.",
+      "Hyttinen, J.",
+      "Belay, B."
+    ],
+    "summary": "Abstract Background Advanced in vitro models of the human heart have become promising tools for studying cardiac diseases and drug discovery. Three-dimensional (3D) engineered heart tissues (EHTs) provide more adult cardiac tissue-like structural organization compared to traditional two-dimensional (2D) in vitro models with straightforward contractile readouts. However, the assessment of the architecture of EHTs, especially the quantification of cellular and tissue structural components, has remained poorly studied. Here we demonstrate the use of light-sheet microscopy for structural imaging of intact EHTs and provide quantification of the EHT cellular and subcellular structures. Methods We developed an in-house inverted selective plane illumination microscopy (iSPIM) platform and combined it with iterative indirect immunofluorescence (IT-IF) staining for better signal acquisition. We developed an image-processing and analysis pipeline dedicated to volumetric EHT analysis. Results With this integrated platform, we achieved volumetric imaging of intact EHTs and quantification of 3D tissue architecture, revealing aligned cardiomyocytes within the imaged volume and increasing cardiac ",
+    "doi": "10.64898/2026.10.08.757603",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "category": "bioengineering"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.08.757603"
+  },
+  {
+    "kind": "article",
     "title": "Molecular characterization of pathogen-induced SlCBL1-2, a calcium sensor, reveals the structural basis of calcium sensing in tomato",
     "url": "https://doi.org/10.64898/2026.10.07.757223",
     "source": "bioRxiv",
