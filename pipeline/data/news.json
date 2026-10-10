@@ -1,6 +1,153 @@
 [
   {
     "kind": "news",
+    "title": "Anthropic Uses Claude to Assemble First All-Sky Ultraviolet Map, with One-Third of the Sky Inferred by AI - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tbFNjT3N5dmVyRGp2dTNpWlBqZUxZcDdWYS1xd2p5NmU1RjFIdHh1cC00WldvMlJrZHZodEI2MmVpNnNrTG9PNmlLV2NKNFhnamZPa0tpLUN1b1pNVUtRdl93c3RJQnJoWXFYVElNSzBhVXBBWnc?oc=5",
+    "source": "BigGo Finance",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-10T15:34:33.916255+00:00",
+    "authors": [],
+    "summary": "Anthropic Uses Claude to Assemble First All-Sky Ultraviolet Map, with One-Third of the Sky Inferred by AI BigGo Finance",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmidkfvx3lxte1tbfnjt3n5dmvyrgp2dtnpwlbqzuxzcddwys1xd2p5nmu1rjfidhh1cc00wldvmljrzhzodei2mmvpnnnrtg9pnmllv2nknfhnamzpa0tplun1b1pnvutrdl93c3rjqnjowxfyvelnszbhvxbbwnc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AlphaFold Didn't Solve Protein Dynamics, DeepMind's Pushmeet Kohli Says - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95Q3ZGUi0zZDVvR0N4ZVJ1Yl9lY2RNMHl5WmZRWlBkcFJBLVZDS3V3cXFzdXIyQU5CRzQ0T25wX0xCWEk2VjZFU0JYNVdIdXJSQmVIQzFUYUhHUWs?oc=5",
+    "source": "BigGo Finance",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-10T15:34:37.516464+00:00",
+    "authors": [],
+    "summary": "AlphaFold Didn't Solve Protein Dynamics, DeepMind's Pushmeet Kohli Says BigGo Finance",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "AlphaFold"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiw0fvx3lxte95q3zgui0zzdvvr0n4zvj1yl9ly2rnmhl5wmzrwlbkcfjblvzds3v3cxfzdxiyqu5crzq0t25wx0xcwek2vjzfu0jynvdidxjsqmviqzfuyuhhuws?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic AI model submits false homicide tip to Philadelphia police - Anadolu Ajansı",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHVkcU1hUnBjTE1nbkVmYnNIS193VGl0UTJqRzQ2aVhDUmpoazJCSE1uM203dUJrUlhvTHhiSFNnbFFnSzJBTm5XNHk4Z2NvcWlFUXlLOHhfaDExTmIxYXRUZEd3YnlDcnBhR2F2OFJRbHBVSndRQ0M5eFNvNTVZSHQ4N25QX3RXYWJzZkVlMHQ1UFNTWU1sZmtiMVlBSUNWNUlaVGJtSm11cVQ2d3d1cjFxeUR4MnZnZTJGWg?oc=5",
+    "source": "Anadolu Ajansı",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-10T15:34:38.013402+00:00",
+    "authors": [],
+    "summary": "Anthropic AI model submits false homicide tip to Philadelphia police Anadolu Ajansı",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmivafbvv95cuxqohvkcu1hunbjte1nbkvmynnis193vgl0utjqrzq2avhdumpoazjcse1um203dujrulhvthhisfnnbffnszjbtm5xnhk4z2nvcwlfuxllohhfadextmixyxruzed3ynldcnbhr2f2ofjrbhbvsndrq0m5efnvntvzshq4n25qx3rxywjzzkvlmhq1ufntwu1szmtimvlbsunwnulavgjtsm11cvq2d3d1cjfxeur4mnznztjgwg?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic's AI model sent Philadelphia police fake tip about unsolved murder - Sky News",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc1VVYl9WVW1DdUR2RTR3NERVNmhmTGVmY2xWY0dlbWpsblNlUk5OZ1JPQ3pUVXBxTVR4UzNEc2U4VnNNZUtnTW9RTXJzUjFJR1FiakdrZmxPQnlubEtaRFZsaTBVVmhXcm51bDZXcWdRRFJTSDdHUkc1TFJlR2Z1cG1GYWtTWDdLWmNPdmM3bmlqdTFxbkY1aEJWb1BJNkdWcDhpOGRqR0ZZeVhoWjlOdg?oc=5",
+    "source": "Sky News",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-10T15:34:38.013596+00:00",
+    "authors": [],
+    "summary": "Anthropic's AI model sent Philadelphia police fake tip about unsolved murder Sky News",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxoc1vvyl9wvw1ddur2rtr3nervnmhmtgvmy2xwy0dlbwpsblnluk5oz1jpq3puvxbxtvr4uznec2u4vnnnzutntw9rtxjzujfjr1fiakdrzmxpqnlubetarfzsatbvvmhxcm51bdzxcwdrrfjtsddhukc1tfjlr2z1cg1gywttwddlwmnpdmm3bmlqdtfxbky1aejwb1bjnkdwcdhpogrqr0zzevhowjlodg?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Claude submitted genuine applications for US visas without permission - UkrMedia News",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FTmcxSG53MjBoaTRTbGFYR2VmQmUwcFZ1T05WblFDZnpMbUNtZnB2UmI5N21qcUcwSjdrSnpPaVR5X24zcTI2YnQxWlFadk5iZ3pFal9GYWdwWms3Y0FyZllnQ09hZVI0ajd4WEdTSlBjRjI1QmpYOVhB?oc=5",
+    "source": "UkrMedia News",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-10T15:34:38.013691+00:00",
+    "authors": [],
+    "summary": "Claude submitted genuine applications for US visas without permission UkrMedia News",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiekfvx3lxte1ftmcxsg53mjboatrtbgfyr2vmqmuwcfz1t05wblfdznpmbuntznb2umi5n21qcucwsjdrsnppavr5x24zcti2ynqxwlfadk5iz3pfal9gywdwwms3y0fyzllnq09hzvi0ajd4wedtslbjrji1qmpyovhb?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic has reported some undesirable behaviour by Claude - UkrMedia News",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43YWxOci1JV0pHSzZnbHo0cjU5aTBNWlJsOUNaeUE5QmNseWJpRC1hUmtyYmJDZjBlLXFqQklTeDNLeW1jRXNWUUpTUi16azZhaU9ud0hDbjZxcGVyRUszM1lpT2NRZlpvRzBRcE9panEzdTg5YU12WFFR?oc=5",
+    "source": "UkrMedia News",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-10T15:34:38.014304+00:00",
+    "authors": [],
+    "summary": "Anthropic has reported some undesirable behaviour by Claude UkrMedia News",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiekfvx3lxte43ywxoci1jv0phszznbho0cju5atbnwljsounaeue5qmnsewjprc1humtyymjdzjbllxfqqkltednlew1jrxnwuuptui16azzhau9ud0hdbjzxcgvyruszm1lpt2nrzlpvrzbrce9panezdtg5yu12wffr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Science & Tech: Anthropic AI model sent fake murder tip to p - NewVision.co.ug",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLXN0Vl93TFBJbkFpd3A1d2dOdG1lMER4TjVTNkJOYlVydjQ4VXd6TGNjTllQWURseC1PR09EVXhwb1FCT3dhRTB6a040UXQxc0RtVkx1M3JuV3FJd1ZjekdrS0NHYWRfQlJRQTEtT3FRc2ZxeHNfZ1hrQW8wZEljVzI0aDdEaE0yOVh3eGhFYnlscXJsM3RTWkpzeExIWThWdENTdHk0R0hpZU0?oc=5",
+    "source": "NewVision.co.ug",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-10T15:34:38.019284+00:00",
+    "authors": [],
+    "summary": "Science & Tech: Anthropic AI model sent fake murder tip to p NewVision.co.ug",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqwfbvv95cuxqlxn0vl93tfbjbkfpd3a1d2dodg1lmer4tjvtnkjoylvydjq4vxd6tgnjtllqwursec1pr09evxhwb1fct3dhrtb6a040uxqxc0rtvkx1m3juv3fjd1zjekdrs0nhywrfqljrqtett3frc2zxehnfz1hrqw8wzeljvzi0addeae0yovh3eghfynlscxjsm3rtwkpzeexiwthwdentdhk0r0hpzu0?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "brepocitinib",
     "url": "https://drughunter.com/molecule/brepocitinib",
     "source": "Drug Hunter",
@@ -371,6 +518,48 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwgfbvv95cuxnakzhzjzemet2wjnnzxp0ohpsb2lankuyr25iy1nfv2fyzmppeep0zhjebjvnz09aq3ppcw02vnvqedjlowxbedbylxv4y1jcwkfnohfly25fredktxqzsvrhuedsvusyt0u0ztz6wlvwehbjdwxwx2nlykzawmn0yjjqafq3t1nmm2potvvxng5mqkfrs1hot0pyrffvd0o0d2q3ulfqrnnqwkn2shl5ag9wduvou1vlofdjb043mwrvuq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AI Drug Discovery: Is the Next Focus on Experimental Processes? Potential Demand Spillover to DNA Synthesis and Validation Services, and Stocks to Watch - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRGZLdGdMU0tVaUVfWmtaR1dQekc0dmtyRkFqNmZyY3hGVm9JV3Y1eUxZSDJVbF9sXzIwNDk1ZmpXTlJIdnlqNmRfdTZCX0NPbHZlYlhkb2s5SHloV0ZlNElQa3VNWmVTTV9DRkhIeWtiOW91R2dxMEVWbjlrcnI5QzREWW1HcWQzMmU0SU53dTRBOFhvVGlCMGpsNEU2UFJtdkZYbTdSX0cwNlpzaEhQc25nZGhkQQ?oc=5",
+    "source": "Moomoo",
+    "source_type": "news",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-10T15:34:25.787122+00:00",
+    "authors": [],
+    "summary": "AI Drug Discovery: Is the Next Focus on Experimental Processes? Potential Demand Spillover to DNA Synthesis and Validation Services, and Stocks to Watch Moomoo",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmitgfbvv95cuxnrgzldgdmu0tvauvfwmtar1dqekc0dmtyrkfqnmzyy3hgvm9jv3y1euxzsdjvbf9sxziwndk1zmpxtljidnlqnmrfdtzcx0npbhzlylhkb2s5shlov0zlnelqa3vnwmvttv9drkhiewtiow91r2dxmevwbjlrcni5qzreww1hcwqzmmu0su53dtrbofhvvglcmgpsneu2ufjtdkzybtdsx0cwnlpzaehqc25nzghkqq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AI-Designed Protein Drug Recruits Immune Cells to Fight Gastric Cancer—With a Helping Hand from Dendritic Cells - Bioengineer.org",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUWdyNXduLWt2OUItUjZJSjlVWi1VOFRITTE3VUExdjdXaTVNRHhaVUs3Rl84a19JbThPQjYtY2tnT2FZVDU1WVVDYnlHSk1DQUV3U2JUTFZscHcwVlIxdFkxUUo0ZktiZ2Z0Sy1zcVllcDRTNXBlM0wxXzBscm1vRXNmR0owQ3hIdmRsRHkxTlFBc3ZZRHNrYWpGYUlUTTUzVnUtRDdRVzlSSEExZk5SUFdNSUJ5T1ZhZDJNX20walZsX3RXUFltd0JrQnc3aEJiVmc?oc=5",
+    "source": "Bioengineer.org",
+    "source_type": "news",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-10T15:34:26.926636+00:00",
+    "authors": [],
+    "summary": "AI-Designed Protein Drug Recruits Immune Cells to Fight Gastric Cancer—With a Helping Hand from Dendritic Cells Bioengineer.org",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "protein design\" AI"
+    ],
+    "extra": {
+      "query": "\"protein design\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi0gfbvv95cuxouwdynxdulwt2ouitujzjsjlvwi1vofritte3vuexdjdxatvnrhhavus3rl84a19jbthpqjyty2tnt2fzvdu1wvvdynlhsk1dquv3u2jutfzschcwvlixdfkxuuo0zktiz2z0sy1zcvllcdrtnxblm0wxxzbscm1vrxnmr0owq3hidmrsrhkxtlfbc3zzrhnrywpgyuluttuzvnutrddrvzlsseexzk5sufdnsuj5t1zhzdjnx20walzsx3rxufltd0jrqnc3aejivmc?oc=5"
   },
   {
     "kind": "news",
@@ -1461,6 +1650,69 @@
   },
   {
     "kind": "news",
+    "title": "A biologist queries whether AI ‘borrowed’ his work to make major discovery – an expert explains the rules - The Conversation",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVm5VLXVzRXlKSlB0cGl2aUx6UW1uNU1JcklUd2I3UHd5QkI4anhVMkMzeXQzZ3Y2d2N5YVZzVGlrNnRoam1yY2xjTlVBTHZORHA2QVpPejNKbWFiSVpya215cVZKWWVSUUM3eld1cDZnWUF5MjlmT2hEYjFmVWdQVGZUVzhuNXlYN0xJSHNsTWRib0xsY0xWNHdaSGtIbWZMV0JEa1FfaDlpV3VjRVM3dktCU1JDOWxoVzZDcHZtZTZzRnBFNGRFbWxIS1QwR3BvSVE?oc=5",
+    "source": "The Conversation",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-10T15:34:33.916038+00:00",
+    "authors": [],
+    "summary": "A biologist queries whether AI ‘borrowed’ his work to make major discovery – an expert explains the rules The Conversation",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi0gfbvv95cuxpvm5vlxvzrxlkslb0cgl2aux6uw1unu1jcklud2i3uhd5qki4anhvmkmzexqzz3y2d2n5yvzzvglrnnroam1yy2xjtlvbthzorha2qvppejnkbwfisvpya215cvzkwwvsuum3eld1cdznwuf5mjlmt2heyjfmvwdqvgzuvzhunxlyn0xjshnstwrib0xsy0xwnhdasgtibwzmv0jea1ffadlpv3vjrvm3dktcu1jdowxovzzdchztztzzrnbfngrfbwxis1qwr3bvsve?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Form 4 Recursion Pharmaceuticals Inc For: 7 October By Investing.com - Investing.com Nigeria",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUW02NC03VmtMcG5yMEdIWVVsNVBHRFM1NmJSUmM5VE9OWXlvd2dJRFM0TXdneWp6Nm5hRlVBMFpreFV5WG5ZNWdHQVFTZkhIRmpfaW14NGUzM3JBYXdkLWlja0tXd3VvX3pOR0QzMmNQdlRCZmN1c3lqYS12bXh0SGRBOVA5S3VGekoxNDV3TnV5U293a3NYYmtnc2ZXTWdTRnBXM0ZIZEJ6QnRqQXVlMA?oc=5",
+    "source": "Investing.com Nigeria",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-10T15:34:36.088643+00:00",
+    "authors": [],
+    "summary": "Form 4 Recursion Pharmaceuticals Inc For: 7 October By Investing.com Investing.com Nigeria",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxouw02nc03vmtmcg5ymediwvvsnvbhrfm1nmjsumm5ve9owxlvd2djrfm0txdnewp6nm5hrlvbmfprefv5wg5znwdhqvftzkhirmpfaw14nguzm3jbyxdklwlja0txd3vvx3por0qzmmnqdlrczmn1c3lqys12bxh0sgrbova5s3vgekoxndv3tnv5u293a3nyymtnc2zxtwdtrnbxm0zizej6qnrqqxvlma?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSQTA5Q3RjRDZ0aDdlLTlqYzJBeXVaeTI1eUZiV1lXNW05MC05WHQ5OXo0SXV5RVBSS1FjY0hvaVJ4bHVVRjFvd0hFMHR4WWR5QTRmbnlnNkQtUEd6VjFZ?oc=5",
+    "source": "finance.biggo.com",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-10T15:34:37.517417+00:00",
+    "authors": [],
+    "summary": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub finance.biggo.com",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "AlphaFold"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmix0fvx3lxtfbsqta5q3rjrdz0addlltlqyzjbexvaeti1euziv1lxnw05mc05whq5oxo0sxv5rvbss1fjy0hvavj4bhvvrjfvd0hfmhr4wwr5qtrmbnlnnkqtued6vjfz?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "DA-003",
     "url": "https://drughunter.com/molecule/da-003",
     "source": "Drug Hunter",
@@ -2203,6 +2455,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmitgfbvv95cuxqazi0u3ftbe02r2g2wgnhds1hq3dplxbsqnawswv2tgotz2nqr0t6qzfly3nxrfz0effmsktpmvhvbewynxlkbwlvbhixteruogxhz3hfulewwdror2lilux2r0fwdkxjm1byahnswuhvbmhfdfvrtxbvvw1zttrpuvpnsnkzx2mxnjblng9fbfzptjbyzhddchh6q094otbmlvrkmmvkbzfbmedkquxhzmxwzu40qq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’ - The Verge",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSDczb0hDTjNVSUpseFFUZTVjMmZuR09WU2xUNjVTV1JYN1E5cDhMM1hDeUd4Z3FEbkR6V0J5Xzdral9VMFZCYklLN3lXRDAzVENNQjg0bU44N3NTSE5ZRERuTW43T2wyalJyTWdMTXNZWUtyQTRfZ3gyamt4OGF4VlBtdW5JTGM?oc=5",
+    "source": "The Verge",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-10T15:34:37.517981+00:00",
+    "authors": [],
+    "summary": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’ The Verge",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmihwfbvv95cuxpsdczb0hdtjnvsupseffuztvjmmzur09wu2xunjvtv1jyn1e5cdhmm1hdeud4z3febkr6v0j5xzdral9vmfzcyklln3lxrdazvennqjg0bu44n3ntse5zrerutw43t2wyaljytwdmtxnzwutyqtrfz3gyamt4ogf4vlbtdw5jtgm?oc=5"
   },
   {
     "kind": "news",
@@ -46257,6 +46530,27 @@
   },
   {
     "kind": "news",
+    "title": "Brasil paralisou a vacinação contra a dengue com o imunizante do Butantan; entenda o motivo - O GLOBO",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUXBZZm5mSE92OHZjUGNiY2c3dHpwMmtVRVpPSjNBU2JnSGF1MzR5aFVHNjRnREFVUkJTVmp3U01fU0lMOVBsbXQ2VnJQV0U1YlFhdjdTU3J0a1FNZlNLdzlRbWxLQnRxSGR6ai1VSHh2VjdpdWhfX195cWdhb1ljWE96cFhnTDhUb2dsVzFmTVVYWmNycmMxWXNDQnF6UzYycC01aVl1Qjl2MjJsZGVKNzQ5Y05pbHdISnVTWU9hZDhsemRPNDZrRW5mY1gwQQ?oc=5",
+    "source": "O GLOBO",
+    "source_type": "news",
+    "published_date": "2026-06-08",
+    "collected_at": "2026-10-10T15:34:30.823977+00:00",
+    "authors": [],
+    "summary": "Brasil paralisou a vacinação contra a dengue com o imunizante do Butantan; entenda o motivo O GLOBO",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmizgfbvv95cuxouxbzzm5mse92ohzjugniy2c3dhpwmmtvrvppsjnbu2jnsgf1mzr5afvhnjrnrefvukjtvmp3u01fu0lmovbsbxq2vnjqv0u1ylfhdjdtu3j0a1fnzlnldzlrbwxlqnrxsgr6ai1vshh2vjdpdwhfx195cwdhb1ljwe96cfhntdhub2dsvzfmtvvywmnycmmxwxndqnf6uzyycc01avl1qjl2mjjszgvknzq5y05pbhdisnvtwu9hzdhsemrpndzrrw5my1gwqq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "AI brews a caffeine-powered safety switch for future cell therapies - Phys.org",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCdTJ4NUNtNmZWWGhxc0FJMWlhTE0wdmIyNzdzbVlfNTJ6Tnc3NFVMSzRZRnlWX1ZIN0JIXzBJUlRfTmZwVnpYUXZvZTQ2NXVJdzlFZnF2YUd3M2hXdFRvOGxYemlSdHRwZTNPMXRpTnBoRjFuTUE?oc=5",
     "source": "Phys.org",
@@ -47641,6 +47935,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqwfbvv95cuxowmjultbgd2fcvfn1sddzqzhiyjizm21za0hcczm3auxqc2rluznibxffsndcznv4lxhuedv6dklsuwm3uhvsslppulvwmuz5uevkoflizkfnnwn2q0lvwl95wuyxcdddrnj6d1prmzhhaklwrdrfczvymc1mnnbswxfkov9gsxhttvgzqvhudefumetyeuvlbwdnotryaujevxzkexd5verxc2c?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Paraná entra em alerta por aumento de casos respiratórios, aponta Fiocruz - Bem Paraná",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdnN6aWdhVG5mbXBfRnA3UHRLOHd0QUREZ3hfYmZ3R0twYTlqSnp3YmdKYUk2VVFEdW5GeTVqVVh4dERJWXhRNmd2elVLYjFmS1k0dWZkdzNGeHY4SWkzTmNHSUFVU3ZTcW92NWlUd21qaVBYZVpvYVlTY1lwU0p2TFU5Uk44YkNIdUNUNGJ4OFRvcnRha2x5WkZ0S2NGdlVRUFJuSzkwYkEybk9Wd0pVWnRmYUlzcFUxMEHSAb8BQVVfeXFMTVJvcW52b3dCWTROQmV3RVByYkdPNDJHRmVGRmttNE11LW1nSEFobWgtd2c1YmRMdENPUFlkMExvQUNGNDBvQ21pd0U2eERzSTJLZzdYUzJFai12bmk0bWl1NlBuYXpLeWxHcWQ2QlZRQzFVX1p4VjBrWWRGVTBjOVpqeURtN1Nudms5ajNubk1mbGhfbGswdzQxY3dJaHZCQXBxZl9xVkpEdXFQbXVMVzVTNFZ6NDNPbmFYc2hldHM?oc=5",
+    "source": "Bem Paraná",
+    "source_type": "news",
+    "published_date": "2026-05-24",
+    "collected_at": "2026-10-10T15:34:31.341162+00:00",
+    "authors": [],
+    "summary": "Paraná entra em alerta por aumento de casos respiratórios, aponta Fiocruz Bem Paraná",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiugfbvv95cuxqdnn6awdhvg5mbxbfrna3uhrlohd0qurez3hfymz3r0twytlqsnp3ymdkyuk2vvfedw5getvqvvh4derjwxhrnmd2elvlyjfms1k0dwzkdzngehy4swkztmnhsufvu3ztcw92nwlud21qavbyzvpvyvlty1lwu0p2tfu5uk44yknidunungj4ofrvcnrha2x5wkz0s2ngdlvrufjuszkwykeybk9wd0pvwnrmyulzcfuxmehsab8bqvvfexfmtvjvcw52b3dcwtroqmv3rvbyykdpndjhrmvgrmttne11lw1nsefobwgtd2c1ymrmdenpuflkmexvqungndbvq21pd0u2eerzstjlzzdyuzjfai12bmk0bwl1nlbuyxplewxhcwq2qlzrqzfvx1p4vjbrwwrgvtbjovpqeurtn1nudms5ajnubk1mbghfbgswdzqxy3djahzcqxbxzl9xvkpedxfqbxvmvzvtnfz6ndnpbmfyc2hldhm?oc=5"
   },
   {
     "kind": "news",
@@ -51289,6 +51604,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiyafbvv95cuxps0nay0s4s0xyynldnwxsoc13tmjtdwvotfm0a0rbzuwtotfosfjpuk9qmjjfcnb5z012dujcqkz3u1pymzdvm1hpwhluvhu5yk5obefndtlyzfftdgmxn1lrvmy1qwdrvxhivnm1lv93dgy0rmdtudftrklawvrsctbar1o2sxfqqmjaretkcljjbzrvznb2uxy3tuizzdvbzwe4tdjundl2wduwr3bdve5orxdjufc0aw9scenfqxnjc0roadrzug?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "São Paulo amplia vacinação contra a dengue e libera Butantan-DV para a população geral de 59 anos - agenciasp.sp.gov.br",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnNlZWdzQjRHYUdWMUpaTFFQMXRWUmkyVFpteWdXei03bkZhazZGdmNXM2lNdFUxUjlQRkU4ZHJKNzdPcWh4blJrMVBMZkF6SWJIelJzYXk4aFFqcmozcUpuWmt4MEtMNDhkc0hobmlZaTJvTDB5N3U0YlZmeUFVQm9sOFVxQVlYS3VUdDZBZWdVU0x0NkJxMlZtZ2daS0tZQWt6Wks4MnprWG5lQl9jQkl3ZGx6akNBSGV4c0RMSVZKckp1cjJNV1Z3?oc=5",
+    "source": "agenciasp.sp.gov.br",
+    "source_type": "news",
+    "published_date": "2026-04-30",
+    "collected_at": "2026-10-10T15:34:30.823790+00:00",
+    "authors": [],
+    "summary": "São Paulo amplia vacinação contra a dengue e libera Butantan-DV para a população geral de 59 anos agenciasp.sp.gov.br",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiygfbvv95cuxownnlzwdzqjrhyudwmupatffqmxrwumkyvfptewdxei03bkzhazzgdmnxm2lndfuxujlqrku4zhjknzdpcwh4bljrmvbmzkf6swjieljzyxk4affqcmozcupuwmt4metmndhkc0hobmlzatjvtdb5n3u0ylzmeufvqm9sofvxqvlys3vuddzbzwdvu0x0nkjxmlztz2das0tzqwt6wks4mnprwg5lql9jqkl3zgx6aknbsgv4c0rmsvzkckp1cjjnv1z3?oc=5"
   },
   {
     "kind": "news",
@@ -63504,6 +63840,27 @@
   },
   {
     "kind": "news",
+    "title": "Gouveia e Melo visita Guimarães esta sexta-feira no âmbito da campanha presidencial - Mais Guimarães",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2FmUEtRRFpWNGpuVFZ6S0RraHVfbUNMT3l0c3ZnMmR3OVZZblpRaDZ6Sjl1VkhLVGZCTFd4STBBcFV5S2NYblZmWEkyX1YxbUk4ZXN0M2pNVjctRlUtOU9kTVpBN2FaTk5KZTlYTEVrN256cHhmbS1vNTAwWXRCV1JJTWg5dk93Rnp3bXpOQktOT2ZONTY4Y1I0SXB4M05MRWV1a0FQS0JrUmI5UXc?oc=5",
+    "source": "Mais Guimarães",
+    "source_type": "news",
+    "published_date": "2025-09-17",
+    "collected_at": "2026-10-10T15:34:29.815540+00:00",
+    "authors": [],
+    "summary": "Gouveia e Melo visita Guimarães esta sexta-feira no âmbito da campanha presidencial Mais Guimarães",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "inteligência artificial\" \"design de fármacos"
+    ],
+    "extra": {
+      "query": "\"inteligência artificial\" \"design de fármacos\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmirgfbvv95cuxqd2fmuetrrfpwngpuvfz6s0rrahvfbunmt3l0c3znmmr3ovzzblpradz6sjl1vkhlvgzctfd4stbbcfv5s2nyblzmwekyx1yxbuk4zxn0m2pnvjctrlutou9ktvpbn2fatk5kztlytevrn256chhmbs1vntawwxrcv1jjtwg5dk93rnp3bxpoqktot2zonty4y1i0sxb4m05mrwv1a0fqs0jrumi5uxc?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Lila Sciences Garners $235 Million For Superintelligence Platform - HLTH",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMjRnTGJSS1NCbDBOd1MxbVAzR0FRc0tQTlhsZFRHdkR6YlNHcnAwSnBXYWY2ZThwM25UUVlIZFQ0c0pQZGs3VG92ODV1cG5qZVdwZHhNV0xYb2VzcHBPUDh1Q2RIWVdjQnB5ZHRnS2ZlYWlQV3N2VVZoaklhQTB5OG03UFA1eTRTek1DemZ2SjVYVnQ1REpSU3AxYy0waFIzV1B4OFZqSUZIUQ?oc=5",
     "source": "HLTH",
@@ -66508,6 +66865,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiggjbvv95cuxpel9unedwedfxsm9cevn4eklmwwluazhutwjjbekwd0xinfz4b0m3tkrlcdd2whfisxrinm56au9ovnfmbelycufkx2u4vf9pmue2wvdwznbvlwzytwfwm2rdv290ru9uddbrxzlznfjonurgqxr0dy1zbkxlzdyyww9lqzvyy0rzwk40sxfmv3z1u2tuvkdtutbdvejeekl1yutesdnxyw1iludhqs1mnu1jwmlvzfpjnu5ichbqeg5kckz6y0tfbefvmepaedu0v2dosu9uy2pnewlzyudjsvdqnw1kcf9lcuftnlznzhfnekvhclyybdm0bmjqutznm1e?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Vector Laboratories Announces Partnership With British Biotech Innovator Etcembly - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVU16VUxVUFdjcDViQmFGOGlMSWJjazVINWZyOHp2VzN6cE9KTTVYbXlrbTdocjVlT0JBUTJBOHhESzhJNmRjWm5BTXY3bGlzX3hzZFdjbTNvc3dLVTFYc1lCdWF2Z2hfM1V5SlRDcm9FT1lRV0wzbmZSRXNTZ2w1SkxxdmpzSzRieDc5YnpseXdNblVxelBQR1NlZmNRVGF2MUtKX3NiUGUyVjdOSUlMY1ZXaC1fb3RjNUNrRDR6RmJqUGl6MmFCLXRRQ3VmWE1VMkFXeA?oc=5",
+    "source": "Business Wire",
+    "source_type": "news",
+    "published_date": "2025-02-20",
+    "collected_at": "2026-10-10T15:34:27.555831+00:00",
+    "authors": [],
+    "summary": "Vector Laboratories Announces Partnership With British Biotech Innovator Etcembly Business Wire",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "antibody engineering\" AI"
+    ],
+    "extra": {
+      "query": "\"antibody engineering\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi1afbvv95cuxpvu16vuxvufdjcdviqmfgoglmswjjazvinwzyohp2vzn6ce9kttvybxlrbtdocjvlt0jbutjbohheszhjnmrjwm5btxy3bglzx3hzzfdjbtnvc3dlvtfyc1lcdwf2z2hfm1v5slrdcm9ft1lrv0wzbmzsrxntz2w1skxxdmpzszriedc5ynpsexdnblvxelbqr1nlzmnrvgf2mutkx3niuguyvjdosulmy1zxac1fb3rjnunrrdr6rmjqugl6mmfclxrrq3vmwe1vmkfxea?oc=5"
   },
   {
     "kind": "news",
@@ -71152,6 +71530,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiuafbvv95cuxoak4tafpdmkfpai11lujld1hflurrcwhunhrpovbgwednnzqwei1qxzlim3zsz2nir1ncsuj4cum0yuzvughqc1kywwhhewk1vzvlczdfyurwdhloehddq2qzs21sd2fdsxnxvhf5zhqwetnizgvude9gvghknu9onhvdvjjgqtc3n3z4mmdirllwvumzd1rbs3lrtmlec0jzrjb6vvvoqun2revjngdzzlu0s1vtrdro?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Iktos and Curreio Announce Collaboration Agreement in New Drug Discovery - AiThority",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQk02MTE0UDVxX09DZnBTQVhGY25vVjRGMWNHVVdrVzluLW1rUGhZU0l6NC14RjlyYnpFSjhwM3hwTEZiVmI3U0tKd1o5NW9CbnNFV0lkS3dDakpxZkQ2eGMyN3JLeTlHRlJldzZfUXFBYS0zSmVQbGJpUDQ0V0NXcHFKQ0NQRURVQi1janljQ2J2R2I5Sld1aFc2OFYwRjJsZDV3ZkVCR1p3WEpjUkN0dkVn?oc=5",
+    "source": "AiThority",
+    "source_type": "press",
+    "published_date": "2023-06-08",
+    "collected_at": "2026-10-10T15:34:36.333706+00:00",
+    "authors": [],
+    "summary": "Iktos and Curreio Announce Collaboration Agreement in New Drug Discovery AiThority",
+    "doi": null,
+    "company_slug": "iktos",
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "query": "\"Iktos\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisgfbvv95cuxpqk02mte0udvxx09dznbtqvhgy25vvjrgmwnhvvdrvzlulw1rughzu0l6nc14rjlyynpfsjhwm3hwtezivmi3u0tkd1o5nw9cbnnfv0lks3ddakpxzkq2egmyn3jletlhrljldzzfuxfbys0zsmvqbgjpudq0v0nxchfkq0nqrurvqi1janljq2j2r2i5sld1afc2ofywrjjszdv3zkvcr1p3wepjukn0dkvn?oc=5"
   },
   {
     "kind": "news",

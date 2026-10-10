@@ -1,6 +1,153 @@
 [
   {
     "kind": "news",
+    "title": "Anthropic Uses Claude to Assemble First All-Sky Ultraviolet Map, with One-Third of the Sky Inferred by AI - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tbFNjT3N5dmVyRGp2dTNpWlBqZUxZcDdWYS1xd2p5NmU1RjFIdHh1cC00WldvMlJrZHZodEI2MmVpNnNrTG9PNmlLV2NKNFhnamZPa0tpLUN1b1pNVUtRdl93c3RJQnJoWXFYVElNSzBhVXBBWnc?oc=5",
+    "source": "BigGo Finance",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-10T15:34:33.916255+00:00",
+    "authors": [],
+    "summary": "Anthropic Uses Claude to Assemble First All-Sky Ultraviolet Map, with One-Third of the Sky Inferred by AI BigGo Finance",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmidkfvx3lxte1tbfnjt3n5dmvyrgp2dtnpwlbqzuxzcddwys1xd2p5nmu1rjfidhh1cc00wldvmljrzhzodei2mmvpnnnrtg9pnmllv2nknfhnamzpa0tplun1b1pnvutrdl93c3rjqnjowxfyvelnszbhvxbbwnc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AlphaFold Didn't Solve Protein Dynamics, DeepMind's Pushmeet Kohli Says - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95Q3ZGUi0zZDVvR0N4ZVJ1Yl9lY2RNMHl5WmZRWlBkcFJBLVZDS3V3cXFzdXIyQU5CRzQ0T25wX0xCWEk2VjZFU0JYNVdIdXJSQmVIQzFUYUhHUWs?oc=5",
+    "source": "BigGo Finance",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-10T15:34:37.516464+00:00",
+    "authors": [],
+    "summary": "AlphaFold Didn't Solve Protein Dynamics, DeepMind's Pushmeet Kohli Says BigGo Finance",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "AlphaFold"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiw0fvx3lxte95q3zgui0zzdvvr0n4zvj1yl9ly2rnmhl5wmzrwlbkcfjblvzds3v3cxfzdxiyqu5crzq0t25wx0xcwek2vjzfu0jynvdidxjsqmviqzfuyuhhuws?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic AI model submits false homicide tip to Philadelphia police - Anadolu Ajansı",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHVkcU1hUnBjTE1nbkVmYnNIS193VGl0UTJqRzQ2aVhDUmpoazJCSE1uM203dUJrUlhvTHhiSFNnbFFnSzJBTm5XNHk4Z2NvcWlFUXlLOHhfaDExTmIxYXRUZEd3YnlDcnBhR2F2OFJRbHBVSndRQ0M5eFNvNTVZSHQ4N25QX3RXYWJzZkVlMHQ1UFNTWU1sZmtiMVlBSUNWNUlaVGJtSm11cVQ2d3d1cjFxeUR4MnZnZTJGWg?oc=5",
+    "source": "Anadolu Ajansı",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-10T15:34:38.013402+00:00",
+    "authors": [],
+    "summary": "Anthropic AI model submits false homicide tip to Philadelphia police Anadolu Ajansı",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmivafbvv95cuxqohvkcu1hunbjte1nbkvmynnis193vgl0utjqrzq2avhdumpoazjcse1um203dujrulhvthhisfnnbffnszjbtm5xnhk4z2nvcwlfuxllohhfadextmixyxruzed3ynldcnbhr2f2ofjrbhbvsndrq0m5efnvntvzshq4n25qx3rxywjzzkvlmhq1ufntwu1szmtimvlbsunwnulavgjtsm11cvq2d3d1cjfxeur4mnznztjgwg?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic's AI model sent Philadelphia police fake tip about unsolved murder - Sky News",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc1VVYl9WVW1DdUR2RTR3NERVNmhmTGVmY2xWY0dlbWpsblNlUk5OZ1JPQ3pUVXBxTVR4UzNEc2U4VnNNZUtnTW9RTXJzUjFJR1FiakdrZmxPQnlubEtaRFZsaTBVVmhXcm51bDZXcWdRRFJTSDdHUkc1TFJlR2Z1cG1GYWtTWDdLWmNPdmM3bmlqdTFxbkY1aEJWb1BJNkdWcDhpOGRqR0ZZeVhoWjlOdg?oc=5",
+    "source": "Sky News",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-10T15:34:38.013596+00:00",
+    "authors": [],
+    "summary": "Anthropic's AI model sent Philadelphia police fake tip about unsolved murder Sky News",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxoc1vvyl9wvw1ddur2rtr3nervnmhmtgvmy2xwy0dlbwpsblnluk5oz1jpq3puvxbxtvr4uznec2u4vnnnzutntw9rtxjzujfjr1fiakdrzmxpqnlubetarfzsatbvvmhxcm51bdzxcwdrrfjtsddhukc1tfjlr2z1cg1gywttwddlwmnpdmm3bmlqdtfxbky1aejwb1bjnkdwcdhpogrqr0zzevhowjlodg?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Claude submitted genuine applications for US visas without permission - UkrMedia News",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FTmcxSG53MjBoaTRTbGFYR2VmQmUwcFZ1T05WblFDZnpMbUNtZnB2UmI5N21qcUcwSjdrSnpPaVR5X24zcTI2YnQxWlFadk5iZ3pFal9GYWdwWms3Y0FyZllnQ09hZVI0ajd4WEdTSlBjRjI1QmpYOVhB?oc=5",
+    "source": "UkrMedia News",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-10T15:34:38.013691+00:00",
+    "authors": [],
+    "summary": "Claude submitted genuine applications for US visas without permission UkrMedia News",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiekfvx3lxte1ftmcxsg53mjboatrtbgfyr2vmqmuwcfz1t05wblfdznpmbuntznb2umi5n21qcucwsjdrsnppavr5x24zcti2ynqxwlfadk5iz3pfal9gywdwwms3y0fyzllnq09hzvi0ajd4wedtslbjrji1qmpyovhb?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic has reported some undesirable behaviour by Claude - UkrMedia News",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43YWxOci1JV0pHSzZnbHo0cjU5aTBNWlJsOUNaeUE5QmNseWJpRC1hUmtyYmJDZjBlLXFqQklTeDNLeW1jRXNWUUpTUi16azZhaU9ud0hDbjZxcGVyRUszM1lpT2NRZlpvRzBRcE9panEzdTg5YU12WFFR?oc=5",
+    "source": "UkrMedia News",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-10T15:34:38.014304+00:00",
+    "authors": [],
+    "summary": "Anthropic has reported some undesirable behaviour by Claude UkrMedia News",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiekfvx3lxte43ywxoci1jv0phszznbho0cju5atbnwljsounaeue5qmnsewjprc1humtyymjdzjbllxfqqkltednlew1jrxnwuuptui16azzhau9ud0hdbjzxcgvyruszm1lpt2nrzlpvrzbrce9panezdtg5yu12wffr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Science & Tech: Anthropic AI model sent fake murder tip to p - NewVision.co.ug",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLXN0Vl93TFBJbkFpd3A1d2dOdG1lMER4TjVTNkJOYlVydjQ4VXd6TGNjTllQWURseC1PR09EVXhwb1FCT3dhRTB6a040UXQxc0RtVkx1M3JuV3FJd1ZjekdrS0NHYWRfQlJRQTEtT3FRc2ZxeHNfZ1hrQW8wZEljVzI0aDdEaE0yOVh3eGhFYnlscXJsM3RTWkpzeExIWThWdENTdHk0R0hpZU0?oc=5",
+    "source": "NewVision.co.ug",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-10T15:34:38.019284+00:00",
+    "authors": [],
+    "summary": "Science & Tech: Anthropic AI model sent fake murder tip to p NewVision.co.ug",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqwfbvv95cuxqlxn0vl93tfbjbkfpd3a1d2dodg1lmer4tjvtnkjoylvydjq4vxd6tgnjtllqwursec1pr09evxhwb1fct3dhrtb6a040uxqxc0rtvkx1m3juv3fjd1zjekdrs0nhywrfqljrqtett3frc2zxehnfz1hrqw8wzeljvzi0addeae0yovh3eghfynlscxjsm3rtwkpzeexiwthwdentdhk0r0hpzu0?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "DeepMind spinout Isomorphic Labs eyes $40B valuation, up from $2.1B round in May - Dealroom",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUEtQM3NpejExeWQ3SkpWbEpKQkJGRDhTS0F1RVRaRE43dnh4dUk0bl9aUXNCNWM2RWRZcnZ1UnUzcEdsSERKSGhBdWQwVzRMaldqazEteTU4Z2dHZkFzZFNCc0RrVnJHQjI5LTIxaHktNG9palNRdEdidmpyVW9TQ0tsTURVT3lUY1FhdHlsQ3BOcHYxMjdHRUlVVmxfSkVFaGI5elBzbUUyQnRyUktmYQ?oc=5",
     "source": "Dealroom",
@@ -1054,6 +1201,69 @@
   },
   {
     "kind": "news",
+    "title": "A biologist queries whether AI ‘borrowed’ his work to make major discovery – an expert explains the rules - The Conversation",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVm5VLXVzRXlKSlB0cGl2aUx6UW1uNU1JcklUd2I3UHd5QkI4anhVMkMzeXQzZ3Y2d2N5YVZzVGlrNnRoam1yY2xjTlVBTHZORHA2QVpPejNKbWFiSVpya215cVZKWWVSUUM3eld1cDZnWUF5MjlmT2hEYjFmVWdQVGZUVzhuNXlYN0xJSHNsTWRib0xsY0xWNHdaSGtIbWZMV0JEa1FfaDlpV3VjRVM3dktCU1JDOWxoVzZDcHZtZTZzRnBFNGRFbWxIS1QwR3BvSVE?oc=5",
+    "source": "The Conversation",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-10T15:34:33.916038+00:00",
+    "authors": [],
+    "summary": "A biologist queries whether AI ‘borrowed’ his work to make major discovery – an expert explains the rules The Conversation",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi0gfbvv95cuxpvm5vlxvzrxlkslb0cgl2aux6uw1unu1jcklud2i3uhd5qki4anhvmkmzexqzz3y2d2n5yvzzvglrnnroam1yy2xjtlvbthzorha2qvppejnkbwfisvpya215cvzkwwvsuum3eld1cdznwuf5mjlmt2heyjfmvwdqvgzuvzhunxlyn0xjshnstwrib0xsy0xwnhdasgtibwzmv0jea1ffadlpv3vjrvm3dktcu1jdowxovzzdchztztzzrnbfngrfbwxis1qwr3bvsve?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Form 4 Recursion Pharmaceuticals Inc For: 7 October By Investing.com - Investing.com Nigeria",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUW02NC03VmtMcG5yMEdIWVVsNVBHRFM1NmJSUmM5VE9OWXlvd2dJRFM0TXdneWp6Nm5hRlVBMFpreFV5WG5ZNWdHQVFTZkhIRmpfaW14NGUzM3JBYXdkLWlja0tXd3VvX3pOR0QzMmNQdlRCZmN1c3lqYS12bXh0SGRBOVA5S3VGekoxNDV3TnV5U293a3NYYmtnc2ZXTWdTRnBXM0ZIZEJ6QnRqQXVlMA?oc=5",
+    "source": "Investing.com Nigeria",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-10T15:34:36.088643+00:00",
+    "authors": [],
+    "summary": "Form 4 Recursion Pharmaceuticals Inc For: 7 October By Investing.com Investing.com Nigeria",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxouw02nc03vmtmcg5ymediwvvsnvbhrfm1nmjsumm5ve9owxlvd2djrfm0txdnewp6nm5hrlvbmfprefv5wg5znwdhqvftzkhirmpfaw14nguzm3jbyxdklwlja0txd3vvx3por0qzmmnqdlrczmn1c3lqys12bxh0sgrbova5s3vgekoxndv3tnv5u293a3nyymtnc2zxtwdtrnbxm0zizej6qnrqqxvlma?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSQTA5Q3RjRDZ0aDdlLTlqYzJBeXVaeTI1eUZiV1lXNW05MC05WHQ5OXo0SXV5RVBSS1FjY0hvaVJ4bHVVRjFvd0hFMHR4WWR5QTRmbnlnNkQtUEd6VjFZ?oc=5",
+    "source": "finance.biggo.com",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-10T15:34:37.517417+00:00",
+    "authors": [],
+    "summary": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub finance.biggo.com",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "AlphaFold"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmix0fvx3lxtfbsqta5q3rjrdz0addlltlqyzjbexvaeti1euziv1lxnw05mc05whq5oxo0sxv5rvbss1fjy0hvavj4bhvvrjfvd0hfmhr4wwr5qtrmbnlnnkqtued6vjfz?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "US government, Google join Zuckerberg-backed Biohub in $1.8 billion push for AI biology data - Reuters",
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWTdsWTdFWVdPWUFDRjN1RGd6el9PR3NQNFN5blFINGVqVUNRcXMtaW5JcDQ0OV9IejBJa0stOHFnaG9Kd0Q3N3BObTEtQWFXYW9ad2JCS09oQV9iWlB6dU1RSktCSnExdWVUdnRXQmE3aTNCdm5LV01TTW9vbG9sRkctZFhoNm1wdGlqcGtRd3RhRFlzUWt1dElpV0NocGtvYlgyenBlUG5ZV0N6eHUzTXVYSDhzWWROWUhDNlJRYnhwc3Q0SVZzUjUxQUp0OFNkbmFrZEpiNDZweEdRbG9nLUgtZw?oc=5",
     "source": "Reuters",
@@ -1531,6 +1741,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmitgfbvv95cuxqazi0u3ftbe02r2g2wgnhds1hq3dplxbsqnawswv2tgotz2nqr0t6qzfly3nxrfz0effmsktpmvhvbewynxlkbwlvbhixteruogxhz3hfulewwdror2lilux2r0fwdkxjm1byahnswuhvbmhfdfvrtxbvvw1zttrpuvpnsnkzx2mxnjblng9fbfzptjbyzhddchh6q094otbmlvrkmmvkbzfbmedkquxhzmxwzu40qq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’ - The Verge",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSDczb0hDTjNVSUpseFFUZTVjMmZuR09WU2xUNjVTV1JYN1E5cDhMM1hDeUd4Z3FEbkR6V0J5Xzdral9VMFZCYklLN3lXRDAzVENNQjg0bU44N3NTSE5ZRERuTW43T2wyalJyTWdMTXNZWUtyQTRfZ3gyamt4OGF4VlBtdW5JTGM?oc=5",
+    "source": "The Verge",
+    "source_type": "press",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-10T15:34:37.517981+00:00",
+    "authors": [],
+    "summary": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’ The Verge",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmihwfbvv95cuxpsdczb0hdtjnvsupseffuztvjmmzur09wu2xunjvtv1jyn1e5cdhmm1hdeud4z3febkr6v0j5xzdral9vmfzcyklln3lxrdazvennqjg0bu44n3ntse5zrerutw43t2wyaljytwdmtxnzwutyqtrfz3gyamt4ogf4vlbtdw5jtgm?oc=5"
   },
   {
     "kind": "news",
@@ -40083,6 +40314,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmibkfvx3lxtfbize54buv3zlb3zfvrnxfzoetjmjdrtxzhte1vqxm0awdodkntaxn2uu1fbfi5oddqyljpq2tkc3bflvzgtwj5dmn2uzhhb0g5neftumnmoxqxavlfakozueprlvhlbg1fekxjetdn?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Iktos and Curreio Announce Collaboration Agreement in New Drug Discovery - AiThority",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQk02MTE0UDVxX09DZnBTQVhGY25vVjRGMWNHVVdrVzluLW1rUGhZU0l6NC14RjlyYnpFSjhwM3hwTEZiVmI3U0tKd1o5NW9CbnNFV0lkS3dDakpxZkQ2eGMyN3JLeTlHRlJldzZfUXFBYS0zSmVQbGJpUDQ0V0NXcHFKQ0NQRURVQi1janljQ2J2R2I5Sld1aFc2OFYwRjJsZDV3ZkVCR1p3WEpjUkN0dkVn?oc=5",
+    "source": "AiThority",
+    "source_type": "press",
+    "published_date": "2023-06-08",
+    "collected_at": "2026-10-10T15:34:36.333706+00:00",
+    "authors": [],
+    "summary": "Iktos and Curreio Announce Collaboration Agreement in New Drug Discovery AiThority",
+    "doi": null,
+    "company_slug": "iktos",
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "query": "\"Iktos\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisgfbvv95cuxpqk02mte0udvxx09dznbtqvhgy25vvjrgmwnhvvdrvzlulw1rughzu0l6nc14rjlyynpfsjhwm3hwtezivmi3u0tkd1o5nw9cbnnfv0lks3ddakpxzkq2egmyn3jletlhrljldzzfuxfbys0zsmvqbgjpudq0v0nxchfkq0nqrurvqi1janljq2j2r2i5sld1afc2ofywrjjszdv3zkvcr1p3wepjukn0dkvn?oc=5"
   },
   {
     "kind": "news",
