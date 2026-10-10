@@ -18177,6 +18177,27 @@
   },
   {
     "kind": "news",
+    "title": "Automated researchers can reliably mitigate alignment failures - Anthropic",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMm12QTFLek9sVlhENXNNaFlpUHlnbEl5dDRNZTBCbG1iSUtndjBhaUQ3UGl6N2VOWFppR19kbGhHWjlGaWRnby1BcHNlM0lNLUFaZXVrWV9MTFFOcjg0dmpFcWc0cHkyUTd1d2Z3bjNjaU9FeUQzUnpKbFloc1lRVDRPNjBHQ2JRVDh6cg?oc=5",
+    "source": "Anthropic",
+    "source_type": "press",
+    "published_date": "2026-08-28",
+    "collected_at": "2026-10-10T01:14:02.408118+00:00",
+    "authors": [],
+    "summary": "Automated researchers can reliably mitigate alignment failures Anthropic",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijafbvv95cuxqmm12qtflek9svlhenxnnaflpuhlnbel5ddrnztbcbg1isutndjbhauq3ugl6n2vowfppr19kbghhwjlgawrnby1bchnlm0lnlufazxvrwv9mtffocjg0dmpfcwc0chkyutd1d2z3bjnjau9feuqzunpkbfloc1lrvdrpnjbhq2jrvdh6cg?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Lausanne-based Adaptyv raises €34.35 million Series A to build the automated lab for agentic biology - EU-Startups",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYkY4UnNkNGJjZUkzYUZLUmNpSWN1MzVJMUwyMkZlRVNQcUZOVUJBVVJ4U29hUkNFZ01jMkFhVy1tVF9IVDhwOV9WbDJrbHRTb0pqQnhXVjNoX3d5aEJUdl9tRGp4dVZ2d3JWU0VoYlA5UmtEeE9JRk1vNVN0Yk8weUtWSlU2Nm5KdnQzSmdzYnd1bG1zX1dKUWxsaXBRa3g3bG5hdjN0aHU3b0xsWlpVOEVfeGVfOUhidHJzU0dPaEkzWnlLSTBKVE1lVVZ0dVFBMDNB?oc=5",
     "source": "EU-Startups",

@@ -290,6 +290,90 @@
   },
   {
     "kind": "news",
+    "title": "Why AI drug discovery is a tough sell on Wall Street - Axios",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUUxvU0E4SFJMQS10cVZFNzdLbUYxV1dmZ0M3dnVLb3AxMmdVb3BSNmprQkxTZ1g3QTYyc0w0V25YVERzc1lmMUNLZGRSdUNHeG10X0JBYkxpMWVzOVlNMUNaRVNjV084RUt6ODlIdXNocjE2VE9uY2ZaRVZUYkJNNXZtZHpPQnNPMUY1SkVDbmY0dGk5Zzk0U0hmZV8?oc=5",
+    "source": "Axios",
+    "source_type": "news",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-10T01:13:54.042589+00:00",
+    "authors": [],
+    "summary": "Why AI drug discovery is a tough sell on Wall Street Axios",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbminafbvv95cuxquuxvu0e4sfjmqs10cvzfnzdlbuyxv1dmz0m3dnvlb3axmmdvb3bsnmprqkxtz1g3qtyyc0w0v25yverzc1lmmunlzgrsdunheg10x0jbykxpmwvzovlnmunarvnjv084rut6odlidxnocje2ve9uy2zarvzuykjnnxztzhppqnnpmuy1skvdbmy0dgk5zzk0u0hmzv8?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Iambic sets IPO terms, seeking $150 million to advance AI-designed cancer drugs - The Pharma Letter",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZUhnQTRxMFp4SmwxT0dsWE1mb0d1QVR0ZGphQUtUczVRRmNsbl83ekNGV3Y2Y1pqaXl4VHFQZVlfZU9CYnh2UTBnWV9IQzFlMEo0UzFkSlo5WTRraXBpYkhiOVczb1gyWVdDTWtfSHprTUVycVdmQlZMV1pSMTVJYjRqeWRKSDZrUVdZaHg1c241V1lzbUthaUdnOW5JTS1sZXlXS3A3ajRFR1BvZ24ydzF3MzJ1ZDRnU1cxc1dvWQ?oc=5",
+    "source": "The Pharma Letter",
+    "source_type": "news",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-10T01:13:54.042712+00:00",
+    "authors": [],
+    "summary": "Iambic sets IPO terms, seeking $150 million to advance AI-designed cancer drugs The Pharma Letter",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmivwfbvv95cuxnzuhnqtrxmfp4smwxt0dswe1mb0d1qvr0zgphqutuczvrrmnsbl83ekngv3y2y1pqaxl4vhfqzvlfzu9cynh2utbnwv9iqzflmeo0uzfkslo5wtrraxbpykhiovczb1gywvddtwtfshprtuvycvdmqlzmv1psmtvjyjrqewrksdzruvdzahg1c241v1lzbuthaudnow5jts1szxlxs3a3ajrfr1bvz24ydzf3mzj1zdrnu1cxc1dvwq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "How modern synthetic tools are transforming chemistry and drug discovery - News-Medical",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZUxKZVhPLWtleWthOFNDQ250NXo2ZmFCcWNXUEp4UG50YjdTQVo1UjQyVHRiUnhDUFBKdnRaZnVkZm9CNHpoZFh6YWo3V3lxNm1zYjFXRzBqc19xWGtxcTk0VUc5LS1qVlFfa19nb3lJQXliSTZsbFpDU0s5SkVaYmd4R3ExdFdpbDdXODVjYW5SakR2OVNDRm5EdG5OVzFDWEJteXNfclN3QURINFcwOE9sMjZ5MHlnSk1SUXdMaEdPWENS?oc=5",
+    "source": "News-Medical",
+    "source_type": "news",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-10T01:13:54.042747+00:00",
+    "authors": [],
+    "summary": "How modern synthetic tools are transforming chemistry and drug discovery News-Medical",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmixafbvv95cuxnzuxkzvhplwtlewthofndq250nxo2zmfccwnxuep4ug50yjdtqvo1ujqyvhriunhdufbkdnraznvkzm9cnhpozfh6ywo3v3lxnm1zyjfxrzbqc19xwgtxctk0vuc5ls1qvlffa19nb3ljqxlistzsbfpdu0s5skvaymd4r3exdfdpbddxodvjyw5sakr2ovndrm5edg5ovzfdwejtexnfcln3qurinfcwoe9smjz5mhlnsk1suxdmaedpwens?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Speakers announced for Protein Sciences in Drug Discovery 2026 in Stevenage - Drug Target Review",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNakZhZjZEMEt2WjNNZXp0OHpsb2laNkUyR25IY1NfV2FyZmppeEp0ZHJEbjVNZ09aQ3ppcW02VnVQeDJlOWxBeDByLXV4Y1JCWkFNOHFLY25FREdkTXQzSVRHUEdsVUsyT0U0ZTZ6WlVweHBjdWxWX2NLYkZaWmN0YjJQaFQ3T1NmM2poTVVxNG5MQkFRS1hoT0pYRFFVd0o0d2Q3UlFqRnNqWkN2SHl5aG9WdUVoU1VLOFdjb043MWRVUQ?oc=5",
+    "source": "Drug Target Review",
+    "source_type": "news",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-10T01:13:54.042763+00:00",
+    "authors": [],
+    "summary": "Speakers announced for Protein Sciences in Drug Discovery 2026 in Stevenage Drug Target Review",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwgfbvv95cuxnakzhzjzemet2wjnnzxp0ohpsb2lankuyr25iy1nfv2fyzmppeep0zhjebjvnz09aq3ppcw02vnvqedjlowxbedbylxv4y1jcwkfnohfly25fredktxqzsvrhuedsvusyt0u0ztz6wlvwehbjdwxwx2nlykzawmn0yjjqafq3t1nmm2potvvxng5mqkfrs1hot0pyrffvd0o0d2q3ulfqrnnqwkn2shl5ag9wduvou1vlofdjb043mwrvuq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Director Hershberg sells $125k in Recursion Pharmaceuticals stock - Investing.com",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1VzbWM1QmVsSXEweEJiM051TTRzaFFRSC1KYkZTNk5fc3lxV3hYNmdrcTRQWW1hb204bzUzaXpWaUVlNmtmMzF3Zkl3cDItdWs0cUxCZzBKc2dtTW1jOFB3ZG1MSUxmTEpRTTRVZXFCQm4yMVdmRVJfMTNBV0d3bWJJN1FZaG9ZQkxibHR3SWd2NE91SU1tTUJiWVFSaGllOV9RTU9SenlZekxiUFZhOWtJZ3ZtWVZ6b1ZTZU9TdG0zeVZ2a252cA?oc=5",
     "source": "Investing.com",
@@ -28592,6 +28676,27 @@
   },
   {
     "kind": "news",
+    "title": "Automated researchers can reliably mitigate alignment failures - Anthropic",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMm12QTFLek9sVlhENXNNaFlpUHlnbEl5dDRNZTBCbG1iSUtndjBhaUQ3UGl6N2VOWFppR19kbGhHWjlGaWRnby1BcHNlM0lNLUFaZXVrWV9MTFFOcjg0dmpFcWc0cHkyUTd1d2Z3bjNjaU9FeUQzUnpKbFloc1lRVDRPNjBHQ2JRVDh6cg?oc=5",
+    "source": "Anthropic",
+    "source_type": "press",
+    "published_date": "2026-08-28",
+    "collected_at": "2026-10-10T01:14:02.408118+00:00",
+    "authors": [],
+    "summary": "Automated researchers can reliably mitigate alignment failures Anthropic",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijafbvv95cuxqmm12qtflek9svlhenxnnaflpuhlnbel5ddrnztbcbg1isutndjbhauq3ugl6n2vowfppr19kbghhwjlgawrnby1bchnlm0lnlufazxvrwv9mtffocjg0dmpfcwc0chkyutd1d2z3bjnjau9feuqzunpkbfloc1lrvdrpnjbhq2jrvdh6cg?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "daraxonrasib (RMC-6236)",
     "url": "https://drughunter.com/molecule/daraxonrasib-rmc-6236",
     "source": "Drug Hunter",
@@ -45020,6 +45125,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi6gfbvv95cuxqajzfd2vmwkxhm1kzodlormxnmvj6n1y0blrqrnu4oef2x0rozmlqyvppt0lvmwd2n2c2tkjqevppzvllwk5uulhnvwf1ullsbepbsvvqohnkq0fisy15qxdlwtz3tk82v1rxa3n6ogfoau9ynddhttz1c1pjqkdmmfvrzkfiehfkm1noshu5awh3y3ncdux5eelytuvibvixu09cr1rnnkwwzjrxwgdnvxnbz3ptofrsmkxutmnznvrqv2z4ymjit1nuekfpslhowvbbse1ab3y1axbswwjluvn4u09lt0pss2c?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "'Quem tomou a vacina pode ficar descansado', diz diretor do Butantan - G1",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0otaDlSQnNOQi1SSUZGUHVtR2t2dXpTa18wYVVEZER0WmJSdk1tbjdSREJyZWFCQWNZaDlCZG41aUxSU3VjNWxBbXNJblNmaEZ2Y29Tc2U2WlR5Umo2WThISk5OSmxreFlxb0ZDSi1GbDNVNnRlZUMzaFpYQXV6NWFmT0FETW42c254aDR3Snd1YWFLSjkw?oc=5",
+    "source": "G1",
+    "source_type": "news",
+    "published_date": "2026-06-09",
+    "collected_at": "2026-10-10T01:13:59.241937+00:00",
+    "authors": [],
+    "summary": "'Quem tomou a vacina pode ficar descansado', diz diretor do Butantan G1",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmilwfbvv95cuxnu0otadlsqnnoqi1ssuzguhvtr2t2dxpta18wyvvezer0wmjsdk1tbjdsrejyzwfcqwnzadlczg41auxsu3vjnwxbbxnjblnmaez2y29tc2u2wlr5umo2wthisk5osmxreflxb0zdsi1gbdnvnnrlzumzafpyqxv6nwfmt0fetw42c254adr3snd1ywflsjkw?oc=5"
   },
   {
     "kind": "news",
