@@ -689,6 +689,27 @@
   },
   {
     "kind": "news",
+    "title": "Investigating unintended model actions in our evaluations and internal use - Anthropic",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fZEVTbmhab3RBQ25rOVd6cDg2akF0NlUwbVJnM1RjalBjd2ZlYWd5Q25UU2I3TjNUTno3WERteFQyTGtBb1UxTmZtOHpTZFZpbC1LMlFyMXVsbS1kWDUwVHM3aGtSWjA1c3FMU3JVcjZrRDZtQlViT3hEd1ZGQQ?oc=5",
+    "source": "Anthropic",
+    "source_type": "press",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-11T19:42:50.025180+00:00",
+    "authors": [],
+    "summary": "Investigating unintended model actions in our evaluations and internal use Anthropic",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmifkfvx3lxte5fzevtbmhab3rbq25rovd6cdg2akf0nluwbvjnm1rjalbjd2zlywd5q25uu2i3tjnutno3wertefqytgtbb1uxtmztohptzfzpbc1lmlfymxvsbs1kwduwvhm3agtswja1c3fmu3jvcjzrrdztqlvit3hed1zgqq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Director Hershberg sells $125k in Recursion Pharmaceuticals stock - Investing.com",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1VzbWM1QmVsSXEweEJiM051TTRzaFFRSC1KYkZTNk5fc3lxV3hYNmdrcTRQWW1hb204bzUzaXpWaUVlNmtmMzF3Zkl3cDItdWs0cUxCZzBKc2dtTW1jOFB3ZG1MSUxmTEpRTTRVZXFCQm4yMVdmRVJfMTNBV0d3bWJJN1FZaG9ZQkxibHR3SWd2NE91SU1tTUJiWVFSaGllOV9RTU9SenlZekxiUFZhOWtJZ3ZtWVZ6b1ZTZU9TdG0zeVZ2a252cA?oc=5",
     "source": "Investing.com",
@@ -34361,6 +34382,27 @@
   },
   {
     "kind": "news",
+    "title": "Schrodinger Inc. (SDGR) Holds Ground at $15.15 as Shares Consolidate Above Key Support - Hidden Order - www.dars.gov.et",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTU1xVWxJTlp4aDJ3SzFTcUthX1JpRHctS1YtcjhNRVJieENZWkQwc1ozdXNkMWVqZ2NNeTk0eHJUclBLTWljVl9SczB6TUtUdWlBSFRfMnZlcUxVX2E3WXJ6eTZQZG1jbFo0dk9meXA0a1pzdTNPT3NmODI5TmdpeS1scnVRNHlKcTFCb0lDc0txbDcwTS1sbXkwNDlCbXB3d1hPOWpfV3BTbzhmMmVYRFd2NDNudG9pdldhZkhjMTRzbnNoRm9Bd1pRSDVGcUdQc3B5QVpDRTVWZjF6anpwZnN5UzI5a1JtS3B4ZkdOWEdyemF0SUFMUGNTaFZjZw?oc=5",
+    "source": "www.dars.gov.et",
+    "source_type": "press",
+    "published_date": "2026-08-03",
+    "collected_at": "2026-10-11T19:42:47.681934+00:00",
+    "authors": [],
+    "summary": "Schrodinger Inc. (SDGR) Holds Ground at $15.15 as Shares Consolidate Above Key Support - Hidden Order www.dars.gov.et",
+    "doi": null,
+    "company_slug": "schrodinger",
+    "keywords_matched": [
+      "Schrödinger"
+    ],
+    "extra": {
+      "query": "\"Schrodinger\" (drug discovery OR \"molecular design\" OR \"computational chemistry\" OR pharmaceutical)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi_gfbvv95cuxqtu1xvwxjtlp4adj3szftcuthx1jprhcts1ytcjhnrvjieenzwkqwc1ozdxnkmwvqz2nnetk0ehjuclbltwljvl9sczb6tutudwlbsfrfmnzlcuxvx2e3wxj6etzqzg1jbfo0dk9mexa0a1pzdtnpt3nmodi5tmdpes1scnvrnhlkctfcb0ldc0txbdcwts1sbxkwndlcbxb3d1hpowpfv3btbzhmmmvyrfd2ndnudg9pdldhzkhjmtrzbnnorm9bd1prsdvgcudqc3b5qvpdrtvwzjf6anpwznn5uzi5a1jts3b4zkdowedyemf0sufmugntafzjzw?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Nobel Prize winner from Little Rock leaves Google for AI developer Anthropic - The Arkansas Democrat-Gazette",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ3R6S0RBSjdjZHJ1cV81Ni11SFJFZ2FiVWFoSFFyc1FucHRTeklkQ2V6dWRnMm91eTFXWDlFbjNQVjg2NThVRjM1aWRKS1lveFZickhtSzIyLU9WQnlUUVpxVWRVLW5pQjZPV2JxUVJQNmQ0NnM1TTgwUXJnX0FNRHlJcXZDeDJNMTNrcndraXhzU3JsdmUySUx3eUM0Nms?oc=5",
     "source": "The Arkansas Democrat-Gazette",
@@ -50951,6 +50993,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqwfbvv95cuxomg9nwljwdujvbulqagfquvhquhveexp6chu4ddd1b0rlceexyzftx0l5mjfhdejxzwnsmtdqtkdoa3u5ofzfv3zhnhrurw9odhrjywyxa1htwnvpt1ridtz2zfytm0riew9iywfpqu1kwkflmwxqznvblw1zyjhdtxo3yuhucnzhqnpwx1bhmediqvhynlo2ogxjdzbqrlbtm3fxcennuxz0cxm?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Scientists call for explainable AI in protein language models - News-Medical",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjFRTmt3eVBEM1ZYemFMaG14bW9hcDVHTlJJckZDN0dwMXhBTWRaZkpEdGxoODhqOUdlYjhpVm9VbnFZZGlqOHZsSzNxSWx1ZGotVlZzNmc3ZFlzUjRydFVXRURpLW1pdkwxQXdYOV9mLWFNZ21jSmJRcWxVYTRGeVNaRVZrX3B6THc0N01CSkk5RnU4TkRFMG80TG5SRXZJaG5GS2wyajZ0dUhqS0E?oc=5",
+    "source": "News-Medical",
+    "source_type": "news",
+    "published_date": "2026-05-11",
+    "collected_at": "2026-10-11T19:42:42.585394+00:00",
+    "authors": [],
+    "summary": "Scientists call for explainable AI in protein language models News-Medical",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "protein design\" AI"
+    ],
+    "extra": {
+      "query": "\"protein design\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmirgfbvv95cuxqnjfrtmt3evbem1zyemfmag14bw9hcdvhtljjckzdn0dwmxhbtwrazkpedgxoodhqoudlyjhpvm9vbnfzzglqohzssznxswx1zgotvlzznmc3zflzujrydfvxrurplw1pdkwxqxdyov9mlwfnz21jsmjrcwxvytrgevnarvzrx3b6thc0n01cskk5rnu4tkrfmg80tg5srxzjag5gs2wyajz0duhqs0e?oc=5"
   },
   {
     "kind": "news",
