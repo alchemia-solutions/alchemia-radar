@@ -1,6 +1,69 @@
 [
   {
     "kind": "news",
+    "title": "What Is GSK (LSE:GSK) Really Gaining From Its New AI Drug Discovery Deal? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOTl1QVUwMHp0Mkt4NUtfdkh3Y2xuUDlIeVVRM0twSEZIUkcwVnRyelFZd3JONHJyaXRMbjhUSU9FV05iU20xTjNNOUFyQVZqNldyQjhncmdLdHRHUDVod3h6dXZqQjEybjVuMkY4eEtwVXNkUG1lRFRobW92ZFRkdjNCLUIycU92NndvZ0lZemg?oc=5",
+    "source": "Yahoo Finance",
+    "source_type": "news",
+    "published_date": "2026-10-11",
+    "collected_at": "2026-10-11T15:57:36.593848+00:00",
+    "authors": [],
+    "summary": "What Is GSK (LSE:GSK) Really Gaining From Its New AI Drug Discovery Deal? Yahoo Finance",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmikafbvv95cuxqotl1qvuwmhp0mkt4nutfdkh3y2xuudlievvrm0twseziukcwvnryelfzd3jonhjyaxrmbjhusu9fv05iu20xtjnnoufyqvzqnldyqjhncmdldhrhudvod3h6dxzqqjeybjvumky4eetwvxnkug1lrfrobw92zfrkdjncluiycu92nndvz0lzemg?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AstraZeneca (LSE:AZN) AI Drug Discovery Push Keeps The Undervalued Narrative In Play - Simply Wall Street",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTVBEb3RSUXBSSGVWOHhtV1NCMzgwdXNETjI1Z0hqcDZZVUQyNVc1R0RXczY3V19UQVRtdmwzRE9qektHTDRvLVpOOWpaT0hkTTlTSUhvbF9xck5PMlVIWWRONmNjRkdlNUlfY0NpQ1BqSTRxbTNyYXczZXY4elp3VW5EZG80MDczQkJNTHFlZlpzM0p3cV9Na1ZXdlRXWE9HaXh1RmNTYXJNb01La2NUZnY2MjZiQjJMVEd4UGNQZHc1cXQ2NWxCTmVwZ0F0REktb1RIaVQ3SzFlS1dkeU05OThrMGMzQjTSAecBQVVfeXFMTU1QRG90UlFwUkhlVjh4bVdTQjM4MHVzRE4yNWdIanA2WVVEMjVXNUdEV3M2N1dfVEFUbXZsM0RPanpLR0w0by1aTjlqWk9IZE05U0lIb2xfcXJOTzJVSFlkTjZjY0ZHZTVJX2NDaUNQakk0cW0zcmF3M2V2OHpad1VuRGRvNDA3M0JCTUxxZWZaczNKd3FfTWtWV3ZUV1hPR2l4dUZjU2FyTW9NS2tjVGZ2NjI2YkIyTFRHeFBjUGR3NXF0NjVsQk5lcGdBdERJLW9USGlUN0sxZUtXZHlNOTk4azBjM0I0?oc=5",
+    "source": "Simply Wall Street",
+    "source_type": "news",
+    "published_date": "2026-10-11",
+    "collected_at": "2026-10-11T15:57:36.594005+00:00",
+    "authors": [],
+    "summary": "AstraZeneca (LSE:AZN) AI Drug Discovery Push Keeps The Undervalued Narrative In Play Simply Wall Street",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi5wfbvv95cuxntvbeb3rsuxbssgvwohhtv1ncmzgwdxnetji1z0hqcdzzvuqynvc1r0rxczy3v19uqvrtdmwzre9qekthtdrvlvpoowpat0hkttltsuhvbf9xck5pmlviwwronmnjrkdlnulfy0npq1bqstrxbtnyyxczzxy4elp3vw5ezg80mdczqkjnthflzlpzm0p3cv9na1zxdlrxwe9haxh1rmntyxjnb01la2nuzny2mjziqjjmved4ugnqzhc1cxq2nwxctmvwz0f0rektb1riavq3szfls1dkeu05othrmgmzqjtsaecbqvvfexfmtu1qrg90ulfwukhlvjh4bvdtqjm4mhvzre4ynwdiana2wvvemjvxnudev3m2n1dfvefubxzsm0rpanplr0w0by1atjlqwk9ize05u0lib2xfcxjotzjvsflktjzjy0zhztvjx2ndaunqakk0cw0zcmf3m2v2ohpad1vurgrvnda3m0jctuxxzwzacznkd3fftwtwv3zuv1hpr2l4duzju2fytw9ns2tjvgz2nji2ykiytfrhefbjugr3nxf0njvsqk5lcgdbderjlw9usglun0sxzutxzhlnotk4azbjm0i0?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic AI agent files false murder tip with Philadelphia police after two months undetected - DongA Science",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEYUVvQ1QzdjdtQUVvTTVEMVdzbG1EaHRLVmI4Wl85TDBUbUFzd3l3T083M3J0bVRFdjZDVnNLcUYxSW5RYXpsTXROSldiUDJZTUZFZQ?oc=5",
+    "source": "DongA Science",
+    "source_type": "press",
+    "published_date": "2026-10-11",
+    "collected_at": "2026-10-11T15:57:48.559037+00:00",
+    "authors": [],
+    "summary": "Anthropic AI agent files false murder tip with Philadelphia police after two months undetected DongA Science",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmivefvx3lxtfbeyuvvq1qzdjdtquvvttvemvdzbg1eahrlvmi4wl85tdbubufzd3l3t083m3j0bvrfdjzdvnnlcuyxsw5ryxpstxrosldiudjztuzfzq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Anthropic Uses Claude to Assemble First All-Sky Ultraviolet Map, with One-Third of the Sky Inferred by AI - BigGo Finance",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tbFNjT3N5dmVyRGp2dTNpWlBqZUxZcDdWYS1xd2p5NmU1RjFIdHh1cC00WldvMlJrZHZodEI2MmVpNnNrTG9PNmlLV2NKNFhnamZPa0tpLUN1b1pNVUtRdl93c3RJQnJoWXFYVElNSzBhVXBBWnc?oc=5",
     "source": "BigGo Finance",
@@ -145,6 +208,48 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqwfbvv95cuxqlxn0vl93tfbjbkfpd3a1d2dodg1lmer4tjvtnkjoylvydjq4vxd6tgnjtllqwursec1pr09evxhwb1fct3dhrtb6a040uxqxc0rtvkx1m3juv3fjd1zjekdrs0nhywrfqljrqtett3frc2zxehnfz1hrqw8wzeljvzi0addeae0yovh3eghfynlscxjsm3rtwkpzeexiwthwdentdhk0r0hpzu0?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case - The Boston Globe",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOTEzMHh2QXNwSk1Gakpidm9vNl8zc25EVVJ1R1laUFA5NEJFQzJiWEJNaVhtbWd4alZxTVNsZUdJVnpaMkpXMjRqdEc0UWVEZVBlWUJSSlpFWDk5NnJrWDFuUXo2LW1wTVZTeFdGaEtSOXpsOEE5bXd6Y3FvSzc3WXo0TXZ5ZU8wd3pYLTZLQ21sdFloMXRNdjhSbG1vWnZJWFljbWZMdUg2UmhHLUR3QTRtVzh3Q0k1Tk9hMTVR?oc=5",
+    "source": "The Boston Globe",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-11T15:57:44.299039+00:00",
+    "authors": [],
+    "summary": "Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case The Boston Globe",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmivgfbvv95cuxootezmhh2qxnwsk1gakpidm9vnl8zc25evvj1r1laufa5nejfqzjiwejnavhtbwd4alzxtvnszudjvnpamkpxmjrqdec0uwvezvblwujsslpfwdk5nnjrwdfuuxo2lw1wtvztefdgaetsoxpsoee5bxd6y3fvszc3wxo0txz5zu8wd3pyltzlq21sdflomxrndjhsbg1vwnzjwfljbwzmdug2umhhlur3qtrtvzh3q0k1tk9hmtvr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic commits $150 million to federal science. - Buttondown",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0c0M1FDeEZVY3NwUUpPdGIxNWNhTW1sTmJjMG1TRGVNUmc4bDBMdHFXX1FNNHNXVThDSWpBb1R4XzVNaXE5Q1FkZGROWjBjcEdQM0xwMU1SV1RpYlJKaHIxU2hJNTFKSTF4MEM3NXR5OG9FZDB4dG9hSndDdmlpaUMtSExwS1d0MVJObkZGbmdsMzNjc1VIZ3NNU09sVmlZ?oc=5",
+    "source": "Buttondown",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-11T15:57:48.559164+00:00",
+    "authors": [],
+    "summary": "Anthropic commits $150 million to federal science. Buttondown",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmioafbvv95cuxos0c0m1fdeezvy3nwuuppdgixnwnhtw1stmjjmg1trgvnumc4bdbmdhfxx1fnnhnxvthdswpbb1r4xzvnaxe5q1fkzgrowjbjcedqm0xwmu1sv1rpyljkahixu2hjntfkstf4mem3nxr5og9fzdb4dg9hsndddmlpaumtsexws1d0mvjobkzgbmdsmznjc1viz3nnu09svmlz?oc=5"
   },
   {
     "kind": "news",
@@ -1731,6 +1836,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmix0fvx3lxtfbsqta5q3rjrdz0addlltlqyzjbexvaeti1euziv1lxnw05mc05whq5oxo0sxv5rvbss1fjy0hvavj4bhvvrjfvd0hfmhr4wwr5qtrmbnlnnkqtued6vjfz?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Director Hershberg sells $125k in Recursion Pharmaceuticals stock By Investing.com - Investing.com UK",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQnk4ZkRsdmF0Q1NoRjNTLXRPSC13SUJ3WndNWHBSZmJQVUp1eUUwZGtCYU9ST0s4OFZEM2VDLUxOQWRWT0Rmd045LTJraGdHY2xGMmdpTFZGZzlHSEMxWnhOdjhfa1B4WjdPeXQySmE2TlNhQl9mbnlRU0dkV1I2OGdpNzR6ZGdoc2dhb0J5dkRXM2FKYmlaOXJtWThZUlRkY2ozT0FBSHZqM1ZzUk85TGc5U0t0dlhpWVd3dHNsQUhtd1k?oc=5",
+    "source": "Investing.com UK",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-11T15:57:46.568085+00:00",
+    "authors": [],
+    "summary": "Director Hershberg sells $125k in Recursion Pharmaceuticals stock By Investing.com Investing.com UK",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwwfbvv95cuxqqnk4zkrsdmf0q1norjntlxrpsc13suj3wndnwhbszmjqvup1euuwzgtcyu9st0s4ofzem2vdluxoqwrwt0rmd045ltjragdhy2xgmmdptfzgzzlhsemxwnhodjhfa1b4wjdpexqysme2tlnhql9mbnlru0dkv1i2ogdpnzr6zgdoc2dhb0j5dkrxm2fkymlaoxjtwthzulrky2ozt0fbshzqm1zzuk85tgc5u0t0dlhpwvd3dhnsquhtd1k?oc=5"
   },
   {
     "kind": "news",
@@ -10588,6 +10714,27 @@
   },
   {
     "kind": "news",
+    "title": "Antibody discovery moves toward de novo design - Drug Discovery News",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3BlS1NkdXRBbTg5dVIxVkJvQ0dXNDI3S3YzUFFjVTVnUEVyWlFOOXRaMDFJR2IydUtJNDVNUEdsT1BpZUEtd2lwWjdGTDRBWE94Vi1YdDJlbTVJdURfNnhlMk5SVUJEeVVGbE9VT013Zm16U25sSzBsUE5HT1IyY0pqbk55Y0VnUEJ2elBpTQ?oc=5",
+    "source": "Drug Discovery News",
+    "source_type": "news",
+    "published_date": "2026-09-22",
+    "collected_at": "2026-10-11T15:57:38.393171+00:00",
+    "authors": [],
+    "summary": "Antibody discovery moves toward de novo design Drug Discovery News",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "antibody engineering\" AI"
+    ],
+    "extra": {
+      "query": "\"antibody engineering\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijwfbvv95cuxqq3bls1nkdxrbbtg5dvixvkjvq0dxndi3s3yzuffjvtvnuevywlfooxramdfjr2iydutjndvnuedst1bpzuetd2lwwjdgtdrbwe94vi1yddjlbtvjdurfnnhlmk5svujeevvgbe9vt013zm16u25sszbsue5ht1iyy0pqbk55y0vnuej2elbptq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "selgantolimod",
     "url": "https://drughunter.com/molecule/gs-9688-selgantolimod",
     "source": "Drug Hunter",
@@ -11880,6 +12027,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmipgfbvv95cuxoum1fcxrrvnnvvzzlv05wtdrzmjfzwtbhlwwwvtgzrtu1cuowdmzwynlteflvcus1x0vwbvflamfeodq0q1nbodqtmtvptnvvwddbagdxow9kmkjvcvnorjhpymlrr1fhthm4cmj4tmsxcddpmwdptfnrnnnwrvi1rdkwn190cgrwcnrhtgficzi5d1psmejxngzrt1pywg9nu2loymdn?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Are A.I. Models Being Misled to Act Too Human? - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFJXZzhtdnhvdXFTX1FVdWlQYnpvbTlMZ0xScVBCbEQybUNzWDdrd0txeGw5VTNOS1VwT2VrbU5yU0pOWW5sNnFNVGVudktWY3prVERMTWF0VUJTS2RoNFRKVl9DUVFIRUxfSzQtYkk3STlSSFBBR2hoVkQtbUUtbTJzM1pmWWpw?oc=5",
+    "source": "The New York Times",
+    "source_type": "press",
+    "published_date": "2026-09-21",
+    "collected_at": "2026-10-11T15:57:48.570335+00:00",
+    "authors": [],
+    "summary": "Are A.I. Models Being Misled to Act Too Human? The New York Times",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiiafbvv95cuxptfjxzzhtdnhvdxftx1fvdwlqynpvbtlmz0xscvbcbeqybunzwddrd0txegw5vtnos1vwt2vrbu5yu0poww5snnfnvgvudktwy3prvermtwf0vujts2ronfrkvl9duvfiruxfszqtykk3stlssfbbr2hovkqtbuutbtjzm1pmwwpw?oc=5"
   },
   {
     "kind": "news",
@@ -20436,6 +20604,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi9wfbvv95cuxorlrivjlhuvhjb3jkykxfqum5wm8yy0jgngxotlnwev9jrnz0v3jlajfkefhqcmj5qnpxrem2zs12z0k2whoxnvjrwkqznkrzajd6emdir3planbttmrzsgrer1phdmfcndhqelzzmjflvxzntmp4z0fymwrbm0djaevut19fstlclurwcghhwmots2f2qnpxazlyyks1buxsbuplcxljzmvmchlaexhfqnfnytq2bwvrdunpvna4tg1nvve5bs1gzzzmymtpbtfxzu44t0dkluftvketywjwyzbea1nlzky0yudjqtrusfloemdasnm0?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "True Nexus and Pasqal target F&B protein performance with AI and quantum tech - Food Ingredients First",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tdEctT2JTemhUQ2lsQ25renpxcUVCd2l5QlFvTW1rMXZWWHpQbFFEYmViT2txVF9IY0VUUlFBa0FmRHZ2Tmx4WU91d3A1ZTE3TDh2bWRTMVZIczQyWVBnckd4SWJxNV9aNTJiTHhQeWRKQmIxRWlWZlZPZw?oc=5",
+    "source": "Food Ingredients First",
+    "source_type": "news",
+    "published_date": "2026-09-11",
+    "collected_at": "2026-10-11T15:57:37.695573+00:00",
+    "authors": [],
+    "summary": "True Nexus and Pasqal target F&B protein performance with AI and quantum tech Food Ingredients First",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "protein design\" AI"
+    ],
+    "extra": {
+      "query": "\"protein design\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmie0fvx3lxte9tdectt2jtemhuq2lsq25renpxcuvcd2l5qlfvtw1rmxzwwhpqbffeymvit2txvf9iy0vuulfba0fmrhz2tmx4wu91d3a1zte3tdh2bwrtmvziczqywvbnckd4swjxnv9antjithhqewrkqmixrwlwzlzpzw?oc=5"
   },
   {
     "kind": "news",
@@ -47854,6 +48043,27 @@
   },
   {
     "kind": "news",
+    "title": "Hong Kong-Listed Biotech Insilico Is Said to Explore UAE Listing - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmhUZ29CSjEzdm56S2FocmRoVkVSSWxmdkswSG4yWGt4bDZubGpxV2I5SkI2clNsRWJVSGd0V3kwdFJlNkg0dmJEeEZUNS1QZVpHTnVEa25WaUYxUXFfaVphUmpENHBndmZQWkx0S2tPMEhQaWlwaW5wTkhGUDZRanVadl83WG54dW83Rk9HZy1WWGVoelRCSVFibUNaWjVLT0duMFhzSHRXSTdIdHMzeFRiSmduZw?oc=5",
+    "source": "Bloomberg.com",
+    "source_type": "press",
+    "published_date": "2026-05-27",
+    "collected_at": "2026-10-11T15:57:43.479380+00:00",
+    "authors": [],
+    "summary": "Hong Kong-Listed Biotech Insilico Is Said to Explore UAE Listing Bloomberg.com",
+    "doi": null,
+    "company_slug": "insilico-medicine",
+    "keywords_matched": [
+      "Insilico Medicine"
+    ],
+    "extra": {
+      "query": "\"Insilico Medicine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmitgfbvv95cuxoqmhuz29csjezdm56s2focmrovkvsswxmdkswsg4ywgt4bdzubgpxv2i5ski2clnsrwjvsgd0v3kwdfjlnkg0dmjeeezuns1qzvphtnvea25wauyxuxffavphumpenhbndmzqwkx0s2tpmehqawlwaw5wtkhgudzranvadl83wg54dw83rk9hzy1wwgvoelrcsvfibunawjvlt0dumfhzshrxstdidhmzefrismduzw?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Exclusive: Ex-Palantir AI execs raise $12 million seed round for Perceptic, a startup automating drug discovery - Fortune",
     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSXMzdW42QXZBY2xuTEo0RnVvLTZHZ0VKSy14eU5wdWNOM3ltZXc1QjN3MDY3bFBLYVBHUVdjRTVScGlxQk1KRzl0NDlReVB5TTh3U211cWVWbllhNEszRk81bDgtdDZWeVA2bllzN3YyTUYwRzJYdUtGckoyb3J6RXpiT0FNZlRhM25uNU5SNHYxRVBsNDh2Y3AxVmxoZHBMTmpVd2lrbjUtZlQ4VW1LZWNydUROQVh6THIwb25BSU9mTzJERHlJNmd1eXZCaHI3YXQzd2dTQU1QNEhJcFlSOWsyX1JfVkxPdXNocFg2aXNET2RCZWRQRGV3?oc=5",
     "source": "Fortune",
@@ -72729,6 +72939,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmimafbvv95cuxqudzwwxbus01imhbmwdnrzvrnnepnyxa5zu12oelwz1vus1fhs3izbg9xr2hluxbwzek3b3iwtjnobhliyk1senznvm1gruhvb0zjbtm3ofzrwnbhwmdcrkdjtmjozdrsb2thbvfyszrgcfnlszzhmwpuz3zzsvzcvhltvxvrc1m3bgzolvh2q3flotvrefzcng?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Usar a inteligência artificial para acelerar descoberta de fármacos - Público",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLXlKS25QT1pybTg2cVVGMl9FTnhDTUt4MnNCNWt3S3BPNkVSMExQdnJJR19XdW84ZU1YLXFnZUpaLWVnSFVVNXo0dDUwRnRVZEdyTHFYQm9iQlVBdzNDcmREMTRUbWRHVktGTTkzblZWUExKOG9YNmVfNEdmUWpFZ09TT0xfTU1JR191dUR1ZWdQNGhNcXg5TmhsTjdCYU1wVlAyN3RiTFdZR1c5LXJ3UGZsYnRXQQ?oc=5",
+    "source": "Público",
+    "source_type": "news",
+    "published_date": "2022-09-12",
+    "collected_at": "2026-10-11T15:57:40.127455+00:00",
+    "authors": [],
+    "summary": "Usar a inteligência artificial para acelerar descoberta de fármacos Público",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "inteligência artificial\" \"descoberta de fármacos"
+    ],
+    "extra": {
+      "query": "\"inteligência artificial\" \"descoberta de fármacos\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmitgfbvv95cuxnlxlks25qt1pybtg2cvvgml9ftnhdtut4mnncnwt3s3bpnkvsmexqdnjjr19xdw84zu1ylxfnzupalwvnsfvvnxo0dduwrnrvzedythfyqm9iqlvbdzndcmremtrubwrhvktgttkzblzwuexkog9ynmvfnedmuwpfz09tt0xftu1jr191dur1zwdqnghncxg5tmhstjdcyu1wvlayn3ritfdzr1c5lxj3ugzsynrxqq?oc=5"
   },
   {
     "kind": "news",
