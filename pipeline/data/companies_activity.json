@@ -22,6 +22,132 @@
   },
   {
     "kind": "news",
+    "title": "Claude's ART Enzyme Disputed, Copenhagen Team Says It Found It First - Pasquale Pillitteri",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORHRyczdMQXA3WnVnX1pTeXVPbU11eHhSY1E1WG42bWlGeDZVYVpVV3lRMWY5TkNiMXZZdzFHempMSWRHNjRKTUhJVDZjUGoybkFJcVVvQnhBd2dJNWxEZzlrMmpzRE9yOFd1eGliZ2Vvb054VXh3MVBDZGR5VHhVNGY0X19oYjJlNnZrSzNKc2lWNjg?oc=5",
+    "source": "Pasquale Pillitteri",
+    "source_type": "press",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T19:19:17.763124+00:00",
+    "authors": [],
+    "summary": "Claude's ART Enzyme Disputed, Copenhagen Team Says It Found It First Pasquale Pillitteri",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmikwfbvv95cuxorhryczdmqxa3wnvnx1ptexvpbu11ehhsy1e1wg42bwlgedzvyvpvv3lrmwy5tknimxzzdzfhempmswrhnjrktuhjvdzjugoybkfjcvvvqnhbd2djnwxezzlrmmpzre9yofd1egliz2vvb054vxh3mvbdzgr5vhhvngy0x19oyjjlnnzrsznkc2lwnjg?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "RXRX Stock Drifts Lower As Traders Gauge Biotech Runway - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU3p6Z2NlMHREdms5ZG1IaEpzbWVzcmt6dDJIcHZYWkJkNUs3Y0RHeVhFWHQzTUN1X3JCYzlhRmx0Z2UwdS1BMWdIZV94OEQ3b1lPbjhrcUZMeGtjcWFEWVhmSEFURmVtdlRCZ3JwcDRoc1BiZk9ydHRsbmNiNzZmYUlxSGR6VnJqbVE?oc=5",
+    "source": "StocksToTrade",
+    "source_type": "press",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T19:19:20.875463+00:00",
+    "authors": [],
+    "summary": "RXRX Stock Drifts Lower As Traders Gauge Biotech Runway StocksToTrade",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiigfbvv95cuxqu3p6z2nlmhredms5zg1iaepzbwvzcmt6ddjichzywkjknus3y0rhevhfwhqztun1x3jcyzlhrmx0z2uwds1bmwdizv94oeq3b1lpbjhrcuzmegtjcwfewvhmsefurmvtdlrcz3jwcdroc1bizk9ydhrsbmninzzmyulxsgr6vnjqbve?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Why Google DeepMind is watermarking ‘Biology’ - The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVEhLbVltTm1WT0dGeTRRTEZCckc4bEdtemxYOTRXVVdHQ1VDNElCVjFLQmotTGphWVhUSUdVNldHUFM5amdfV0pxZU9PN1JzajNJdnRWYmhFdVVTTzQ3WXNLd0RlV2F1VVpndURnbHJRYXJyRkFyLXM3UVFTc19hNzB4U1hIcWFBTnNNajlRSEd2amEtZFRsUmtWbkV2RXQxaTdYNFBoNmdyWnVXUGtDcDFMTmNvOU5zbndxenFzZ20zMnZI?oc=5",
+    "source": "The Times of India",
+    "source_type": "press",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T19:19:24.182726+00:00",
+    "authors": [],
+    "summary": "Why Google DeepMind is watermarking ‘Biology’ The Times of India",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmixafbvv95cuxpvehlbvlttm1wt0dgetrrtezcckc4bedtemxyotrxvvdhq1vdnelcvjflqmottgphwvhusudvnldhufm5amdfv0pxzu9pn1jzajnjdnrwymhfdvvttzq3wxnld0rlv2f1vvpndurnbhjryxjyrkfylxm3uvftc19hnzb4u1hicwfbtnnnajlrsed2ametzfrsumtwbkv2rxqxatdynfbonmdywnvxugtdcdfmtmnvou5zbndxenfzz20zmnzi?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google DeepMind’s Nature Study on Watermarking AI-Designed Proteins Validated with Carterra HT-SPR - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUnh5TzVpY3ZUdEkzUF9zMHpqdGpZc0Y1eFU0dkdIWGd4OWxuMVppNlBWeXNQbVJZR1RhSnFRM2dWQ1F1OUl5eW8wdmpVQVRmMjB5MGxpOUdnTXdTRWUzSWUySG9mdWdIUjFmYVM1VS02TnlPZFQ1RGsxQTFnbzVwaVJpXzVqMk9QMC11c3Bn?oc=5",
+    "source": "AOL.com",
+    "source_type": "press",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T19:19:24.183004+00:00",
+    "authors": [],
+    "summary": "Google DeepMind’s Nature Study on Watermarking AI-Designed Proteins Validated with Carterra HT-SPR AOL.com",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijgfbvv95cuxpunh5tzvpy3zudekzuf9zmhpqdgpzc0y1efu0dkdiwgd4owxumvppnlbwexnqbvjzr1rhsnfrm2dwq1f1oul5ew8wdmpvqvrmmjb5mgxpoudntxdtrwuzswuysg9mdwdiujfmyvm1vs02tnlpzfq1rgsxqtfnbzvwavjpxzvqmk9qmc11c3bn?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google DeepMind’s Nature Study on Watermarking AI-Designed Proteins Validated with Carterra HT-SPR - The Joplin Globe",
+    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQaFlNLVJJZTQ2VkE3QUpnWWp0aThEZmlORFRHekpsUTRZUVlNcmg0YzYyR2tvbElKblljdkxGamFwQ2xjU1JIOE5xT0ZNX0lXdmEtWWFOa2w3NUtzZWFQYVVJalQ1MUd5OHJUa2l6UnNPZU5EdjV2Rkg5Y0taY242RGQwUHVaSWRaZWR6dmpqTEtBS19nNnppVl9ndndLRVVmV0NlXzR1d3ZmdzB3bmx3Z1JxZHByUXBWNlFsZGFWU0o4QzRmckdrbE1OVjFkb3kxMWNzVzllVzVFeUNVb3Fpb2ZlZnBOUEZwZDJHOG1DN2otenZCaUhwNG1YUWhVUEppdFBEU294MjZZTjdQNElNNVBTMTl5dmRDWnVMLS03S1hHNUJqMlZZTw?oc=5",
+    "source": "The Joplin Globe",
+    "source_type": "press",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T19:19:24.183318+00:00",
+    "authors": [],
+    "summary": "Google DeepMind’s Nature Study on Watermarking AI-Designed Proteins Validated with Carterra HT-SPR The Joplin Globe",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqajbvv95cuxqaflnlvjjztq2vke3qupnwwp0athezmlorfrhekpsutrzuvlncmg0yzyyr2tvbelkblljdkxgamfwq2xju1jioe5xt0znx0lxdmetwwfoa2w3nutzzwfqyvvjalq1mud5ohjua2l6unnpzu5edjv2rkg5y0tay242rgqwuhvaswrazwr6dmpqtetbs19nnnppvl9ndndlrvvmv0nlxzr1d3zmdzb3bmx3z1jxzhbyuxbwnlfszgfwu0o4qzrmckdrbe1ovjfkb3kxmwnzvzllvzvfeunvb3fpb2zlznbouezwzdjhog1dn2otenzcauhwng1yuwhvueppdfbeu294mjzztjdqnelnnvbtmtl5dmrdwnvmls03s1hhnujqmlzztw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "NDTV Exclusive: Google DeepMind's Top Voice On How India Is Shaping Global AI - NDTV",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMGZNOEt0Z1A0NmhyRzZkbGluVjlFNGZ0d3BSY2p5eDhEOUNuV3NlQnJBQktJalVrOFlzc0FsOXN4V2djTHduN0tLOHA2d2xVRE9rdXY5RjV0QjNwN0UxdXE2eXQ2enpTYTU1b2NmRHoxNHAtQnFHUHc2Q213WUtWWnh5ODN1RjVtYUdBZ2x5em5mcVFlTTZrcWUtamd2MnV3M1Z5bjVXckYxMVFCYXRIR2xvcl9RaFc2MHMwLXF2QXZWZ0R1TVI4NFJMUEoyNW9CN2U2OVlQYXpRUdIB4gFBVV95cUxPY3JRSmRKb0owSEl0YkZScEU2VklFcnlodW9sT2VHQVlOWkFrdlR2dHNQOU1zTVphUzFXQ1lEQmVsOUs5eFFKemo5V3o4VVhReXZNS3VRN1JoTXVMakk5eFh5eVJnVzdKMDVZeE5ITFBCQ3gwT3VSZnRTQkZKUURCdTJ3Q3VydS1IMFFWRGd5UEhMdmdGLWtLNWlUYVptSi1ramh5ZnJydjJnMTAxR3REQ2hnVW16U3UwNWlFTWR4V0dsLVdNRjBPYmgxZnkxR2xaT2ZXYnpVcXEtT1ZvaEZ0dW9n?oc=5",
+    "source": "NDTV",
+    "source_type": "press",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T19:19:24.184193+00:00",
+    "authors": [],
+    "summary": "NDTV Exclusive: Google DeepMind's Top Voice On How India Is Shaping Global AI NDTV",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi2gfbvv95cuxqmgznoet0z1a0nmhyrzzkbgluvjlfngz0d3bsy2p5edheounuv3nlqnjbqktjalvroflzc0fsoxn4v2djthdun0tloha2d2xvre9rdxy5rjv0qjnwn0uxdxe2exq2enptytu1b2nmrhoxnhatqnfhuhc2q213wutwwnh5odn1rjvtyudbz2x5em5mcvflttzrcwutamd2mnv3m1z5bjvxckyxmvfcyxrir2xvcl9rafc2mhmwlxf2qxzwz0r1tvi4nfjmueoynw9cn2u2ovlqyxprudib4gfbvv95cuxpy3jrsmrkb0owsel0ykzsceu2vklfcnlodw9st2vhqvlowkfrdlr2dhnqou1ztvphuzfxq1leqmvsous5effkemo5v3o4vvhrexzns3vrn1jotxvmakk5efh5evjnvzdkmdvzee5itfbcq3gwt3vsznrtqkzkuurcdtj3q3vyds1imffwrgd5uehmdmdglwtlnwluyvptsi1ramh5znjydjjnmtaxr3req2hnvw16u3uwnwlftwr4v0dslvdnrjbpymgxznkxr2xat2zxynpvcxett1zvaez0dw9n?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Anthropic AI agent files false murder tip with Philadelphia police after two months undetected - DongA Science",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEYUVvQ1QzdjdtQUVvTTVEMVdzbG1EaHRLVmI4Wl85TDBUbUFzd3l3T083M3J0bVRFdjZDVnNLcUYxSW5RYXpsTXROSldiUDJZTUZFZQ?oc=5",
     "source": "DongA Science",
@@ -103,6 +229,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmirwfbvv95cuxnwjrha09znwdltgnndmqxmvn0y2tuzm9xtjrpt0zgznp4whnfoxptq29jawszrffvqlm1eghqmeyxvg9eztfxaw0tmgtzrjneludhr2lpsglxctn3vwc3aeq0ugtmzzmzclplm1bxow1ks3zonxhjef9vns1pmmzmv2xuuzz0bhbnrwxbnf9knxvdsfi4oghivejmzxl2ww9ytmpsqvnjunnvtu4tevlr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "ARDD 2026 Signals a New Era for Longevity Biotechnology as Frontier AI, Big Pharma, and Scientific Pioneers Converge at Harvard - Insilico Medicine",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeE94Snp1cWIwRF9GaWdvcjU0dlhHVnNiWjNXQV9JMk10N0drZVBiNmxJTm1aSlR4UzRoZ1F2UnJFQkVwMzBMZi1VNzUwNnpNX010Z21mN2N1dTdsUEhud1FsQjRtUXdVVURCb0RHVUlwbXpJbE5zVnhLRmpSaTAwLThWLU9ZRU1mTnVRNlN6Y1JmR0lOZkJMR3d2YkZEbS1NQ0dHeU1QbUxveXlBWkZ1WnJhNjEtc2lmUWZDLUF0V0FzbkN5MDQxVGZ2UzQ4bURJZlhqaWtVb0NibXcyb19ad2FVWQ?oc=5",
+    "source": "Insilico Medicine",
+    "source_type": "press",
+    "published_date": "2026-10-11",
+    "collected_at": "2026-10-12T19:19:16.069624+00:00",
+    "authors": [],
+    "summary": "ARDD 2026 Signals a New Era for Longevity Biotechnology as Frontier AI, Big Pharma, and Scientific Pioneers Converge at Harvard Insilico Medicine",
+    "doi": null,
+    "company_slug": "insilico-medicine",
+    "keywords_matched": [
+      "Insilico Medicine"
+    ],
+    "extra": {
+      "query": "\"Insilico Medicine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi4wfbvv95cuxnee94snp1cwiwrf9gawdvcju0dlhhvnniwjnxqv9jmk10n0drzvbinmxjtm1aslr4uzroz1f2unjfqkvwmzbmzi1vnzuwnnpnx010z21mn2n1dtdsuehud1fsqjrtuxdvvurcb0rhvulwbxpjbe5zvnhlrmpsatawlthwlu9zru1mtnvrnln6y1jmr0lozkjmr3d2ykzebs1nq0dheu1qbuxvexlbwkz1wnjhnjetc2lmuwzdluf0v0fzbkn5mdqxvgz2uzq4burjzlhqawtvb0nibxcyb19ad2fvwq?oc=5"
   },
   {
     "kind": "news",
@@ -566,6 +713,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmifkfvx3lxte5fzevtbmhab3rbq25rovd6cdg2akf0nluwbvjnm1rjalbjd2zlywd5q25uu2i3tjnutno3wertefqytgtbb1uxtmztohptzfzpbc1lmlfymxvsbs1kwduwvhm3agtswja1c3fmu3jvcjzrrdztqlvit3hed1zgqq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Nobel-winning AI scientist John Jumper said he was leaving Google DeepMind for Anthropic, drawing praise from Google AI chief Demis Hassabis | Hindustan Times - Hindustan Times",
+    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQN3dqYXZBU0xTamVpZmo3T0hZRVhwZXVJVzQzaVFoX3AxUlpOalRvekhJS0IxelpkUElSc0w2Z2NsNHljSE5KaThsRll2Rk5HRFpLVmItQms1RGVvQ3NickxYbWNTZXNrMzdicDczUHJSVDFHaHlfcGRoYkNOY1NUeG84YUJtNTNuNUk1emx6elpkWlhxN242NmRTX3BoRG9kcGpuT29ieGloOXVMTldTUzNTVWhScWxNQm1hZ0I1Umkzb09qZ2ozQWZVWFBFZGpHeFhVdzJCS1ZhZW00aE56ZUFVQVk0alY3UnRCVGd2dVh5bEV6ZUhCeC1UTEI1emJJa1VSWlVDRlYzMmJQR3dQSi1nZk45ejN0SU1mT19tZFV4TDNJNTJHcmZnVWFxcU8tWk1z0gG4AkFVX3lxTE1zcXA2b1o5Mnp3dVpPbFhiUGRHemE1bndDX25VWjhNRm04ZFo1RWpCTmdqMFlqU3YxNFFXczNIczNwY3NSVW5vNXNIOEZCaFVUdGdHeWtibkZfUnlKLWRZcFBnTV9iaVRPdE1pbS1NMkg4bUJWVk1wSXdzUTVnT2FIT0huTk1GOC1PYTdpRy0tZEVYZnVuODhlOHpqenZoMHhhVGtyQnVCd2lGQjA5WjRuVEVaMHhsYnJ0RndDMnhPUkNsb3QwZUszcGptLXJGVVRyYTZmbUNPZThCTW5qNHhoaGhwQ1J4dlo3dzM4cG9nc3NjaTl6RWZiWjlTejlsTWtXNmtmNWxmblp0SmVvZE1yb0xWTDRxaFY5Yk53dWJ2ZTV1MGlYVWtuSG9IX2NQQmotLUpEMkJKdQ?oc=5",
+    "source": "Hindustan Times",
+    "source_type": "press",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-12T19:19:24.186025+00:00",
+    "authors": [],
+    "summary": "Nobel-winning AI scientist John Jumper said he was leaving Google DeepMind for Anthropic, drawing praise from Google AI chief Demis Hassabis | Hindustan Times Hindustan Times",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiswjbvv95cuxqn3dqyxzbu0xtamvpzmo3t0hzrvhwzxvjvzqzavfox3axulpoalrvekhjs0ixelpkuelsc0w2z2nsnhljse5kathsrll2rk5hrfplvmitqms1rgvvq3nickxybwntzxnrmzdicdczuhjsvdfhahlfcgroyknoy1nueg84yujtntnunuk1emx6elpkwlhxn242nmrtx3borg9kcgput29ieglooxvmtldtuzntvwhscwxnqm1hz0i1umkzb09qz2ozqwzvwfbfzgphefhvdzjcs1zhzw00ae56zufvqvk0aly3unrcvgd2dvh5bev6zuhcec1utei1emjja1vswlvdrlyzmmjqr3dqsi1nzk45ejn0su1mt19tzfv4tdnjntjhcmznvwfxcu8twk1z0gg4akfvx3lxte1zcxa2b1o5mnp3dvppbfhiugrheme1bnddx25vwjhnrm04zfo1rwpctmdqmflqu3yxnffxcznicznwy3nsvw5vnxnioezcafvudgdhewtibkzfunlklwrzcfbntv9iavrpde1pbs1nmkg4bujwvk1wsxdzutvnt2fit0hutk1goc1pytdpry0tzevyznvuodhlohpqenzomhhhvgtyqnvcd2lgqja5wjruvevamhhsynj0rnddmnhpuknsb3qwzuszcgptlxjgvvryytzmbunpzthctw5qnhhoaghwq1j4dlo3dzm4cg9nc3njatl6rwziwjltejlstwtxnmtmnwxmblp0smvvze1yb0xwtdrxafy5yk53dwj2ztv1mglyvwtusg9ix2nqqmotlupemkjkdq?oc=5"
   },
   {
     "kind": "news",
@@ -1555,6 +1723,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwwfbvv95cuxqn2xjtwn2egzrvk1dbjkznzn3b1dmutnra0lerlfmmlvwmfa0u0dmohnplxblzi1ts184m3fgmkfweww1qvbdq0frngtmevbxvljmwfftovbcexdfqwrbr3j2m2jwruhiww1frknfrmn6mgjzttnyv29mtutsbmmyyljsuwqxbkp5q0rms3n3c2fhvtlsalmyamlwwtlydu5pzlfxuxfiowdzctvgdvrgsg50vvc3dvv0mxduv1fsamozmta?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Director Hershberg sells $125k in Recursion Pharmaceuticals stock By Investing.com - Investing.com Canada",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmlSSS1oMjlpWmVLUkpZbVoxbE5EUGRLdmtEZEpOdXJaZHZoQjNlb1NzSUVPUkxlZHFJQlhjM1pJdjlPaUtYa196MnVJWnkzQlI4V1RpYU5hR1NDeDBjX0NYM0pRNExrNmlIdDVvSGxtTzBsb09XRFotY05weGxDRlYwV2lLMTY2UWl4LUtOaDJ1dmF3ZW9fZnpBbDhPVGcxNmc1VUtZeEk4czh1N2ZWUXZrT2hZUGhsdW5vT3dSZks5QkU?oc=5",
+    "source": "Investing.com Canada",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-12T19:19:20.883684+00:00",
+    "authors": [],
+    "summary": "Director Hershberg sells $125k in Recursion Pharmaceuticals stock By Investing.com Investing.com Canada",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwwfbvv95cuxqdmlsss1omjlpwmvlukpzbvoxbe5eugrldmtezepodxjazhzoqjnlb1nzsuvpukxlzhfjqlhjm1pjdjlpautya196mnvjwnkzqli4v1rpyu5hr1ndedbjx0nym0prnexrnmliddvvsgxttzbsb09xrfoty05wegxdrlywv2llmty2uwl4lutoadj1dmf3zw9fznpbbdhpvgcxnmc1vutzeek4czh1n2zwuxzrt2hzughsdw5vt3dszks5qku?oc=5"
   },
   {
     "kind": "news",
@@ -9661,6 +9850,27 @@
   },
   {
     "kind": "news",
+    "title": "Anthropic starts allowing some life sciences researchers to use Mythos - Endpoints News",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmRlZ3d5SldCUWZ6S01LSnpVdmlhOS1CM2F4QzVrWllvNVhQN2NJd0s1YmFqdmFudjQ1MkNtV2RuUmlKQlRyY2x0TERzOUhvNkpwWnpBbkRucjBTdFpJaWtvZUp4aW9Nc19nRTZFMG83N1BCTDdSazIyT3RESkNxeFZmcjdMSUYxcC16OUtkSjZtMXM?oc=5",
+    "source": "Endpoints News",
+    "source_type": "press",
+    "published_date": "2026-09-18",
+    "collected_at": "2026-10-12T19:19:25.173297+00:00",
+    "authors": [],
+    "summary": "Anthropic starts allowing some life sciences researchers to use Mythos Endpoints News",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmikwfbvv95cuxqvmrlz3d5sldcuwz6s01lsnpvdmlhos1cm2f4qzvrwllvnvhqn2njd0s1ymfqdmfudjq1mkntv2ruumlkqlryy2x0terzouhvnkpwwnpbbkrucjbtdfpjawtvzup4aw9nc19nrtzfmg83n1bctddsaziyt3resknxefzmcjdmsuyxcc16outksjztmxm?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Insilico Medicine Strengthens Its Middle East Presence with potential Blood Cancer treatment, generated by AI, first of its kind in the UAE - Insilico Medicine",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSci1WRGlnMmFNNWZHcUF2djktZExUUG12NnljYVVsZlFqb0h0NFJtZU8zZkZGNFVuOTZjamFyXzhxbzctVmlYWEhDN29teklVVnd5TUtuaGVubWhjTi1qNmNWcnRpYmFGZzNvZXF2OTRzX3lLdXpNZ1VR?oc=5",
     "source": "Insilico Medicine",
@@ -13159,6 +13369,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmikgfbvv95cuxpqurgum92rzvob251a01osvb0vvrtoezvq3zpemrdzgxdenpyx2d2d1hbqxf2bnryyl9mlwi5uupjdhnizklssxbsbgn1njfwqvr5mxh4x1kxcflfdvppqmlwckfyu1k0ruvnawlethrqm0tbdm9ovw1mrk5izmdjwlixsejkshbqt0l2stndyupyqq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "‘Chilling’ warning or overreaction? AI bioweapons report divides experts - Science | AAAS",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONGdwcS1ReVVxc1daTXF0WXJJUmR1Y1Y5Y1AyUlZPcmNKM242N0JtUEY4aHhSWUJxc245eHpUNFpHRnA0WDA4N2twdld4UWRPS2w3blhrUWF3TW03VmRyWG5fbjRscXRYUl9QbUhnVzJCd0NWNm1QSXM5b3RxckF4b0Y0c0k3SVVYWHJhVU9VcTctZWNBbmJrVlFBQmpZZHhVTlBxOEVlRmt3Szdzc3c?oc=5",
+    "source": "Science | AAAS",
+    "source_type": "press",
+    "published_date": "2026-09-13",
+    "collected_at": "2026-10-12T19:19:25.171266+00:00",
+    "authors": [],
+    "summary": "‘Chilling’ warning or overreaction? AI bioweapons report divides experts Science | AAAS",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmirgfbvv95cuxongdwcs1revvxc1datxf0wxjjumr1y1y5y1ayulzpcmnkm242n0jtuey4ahhswujxc245ehpunfphrna0wda4n2twdld4uwrps2w3blhruwf3tw03vmrywg5fbjrscxryul9qbuhnvzjcd0nwnm1qsxm5b3rxckf4b0y0c0k3svvywhjhvu9vctctzwnbbmjrvlfbqmpzzhhvtlbxoevlrmt3szdzc3c?oc=5"
   },
   {
     "kind": "news",
@@ -31703,6 +31934,27 @@
   },
   {
     "kind": "news",
+    "title": "Is Longevity a $1.2 Quadrillion Opportunity? - Metatrends",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOalo0TXVnZ3VYR2lfUWkwQVhSb1UzcWotU19iWl91T01fR09UU1Q3cklNRkViVzVieEp0dWR3cGVESzA4NTRfNDIxdmRmSUxia2FtcHpjV205RW1kaUdKSHdSU2RUbTljM3pCNHVVcFBLQm1seDRHd1pYOEVnNFY1Sg?oc=5",
+    "source": "Metatrends",
+    "source_type": "press",
+    "published_date": "2026-05-11",
+    "collected_at": "2026-10-12T19:19:22.589862+00:00",
+    "authors": [],
+    "summary": "Is Longevity a $1.2 Quadrillion Opportunity? Metatrends",
+    "doi": null,
+    "company_slug": "lila-sciences",
+    "keywords_matched": [
+      "Lila Sciences"
+    ],
+    "extra": {
+      "query": "\"Lila Sciences\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmigafbvv95cuxoalo0txvnz3vyr2lfuwkwqvhsb1uzcwotu19iwl91t01fr09uu1q3cklnrkvivzvieep0dwr3cgvesza4ntrfndixdmrmsuxia2ftchpjv205rw1kaudkshdsu2rubtljm3pcnhvvcfblqm1sedrhd1pyoevnnfy1sg?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Isomorphic Labs Eyes $2 Billion Raise as AlphaFold's Drug Discovery Ambitions Enter a New Phase - Glitchwire",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWDdiYWZLdjVXTy13OFJ2dG44MmJIRHFpaTJXS2FBR0xlUWdScE90U2NVTkNyVzd2NFVKWmdNQ3l2RTMyWE9rT05TcXNZRnJIdktWOHhiZm1CTEFBd1puMDhGX3JPNzhEX2pENGtVeDR0YWlLMzRyRW1lbUs4OGdkeEluem1ndWpyWlcxME4zSXl0RjA1SXlLTnZfbGNGT2pRdGZodDE0T09NXzliQ1E?oc=5",
     "source": "Glitchwire",
@@ -39575,6 +39827,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmijgfbvv95cuxptlheofrnn3ltslq0dxp0nljhnwzgtjd3b2ezcve1twljtxj3exvudnfxwjfvtw5juupxavhfnnjkvendtut4du1jdnbxb2mzruzzuelmmjr2bnzlnwl2qnv5n0p3bxlyt19lnfaxqje4yxlhuxizyuw3tnpibv9pbnfnq3nosuc5ugxezkpr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Building superintelligence using AI - Healthcare Finance News",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2tVZXdGN09IWTZFYTUyZUZhazF1U2hhU0h5UjNJNXA2RFU1TUlCTk1JQ0cwZGF3N1dyTG0yeGVpakZwNm95b0UxNlVmR3MxUDJiYV84MkwyX2tFbG9mdE5GcG1qWEx6OGp3NnpfUVpGR0hiUVRJdk9IbHJzM2Z3aDRJMFRTQQ?oc=5",
+    "source": "Healthcare Finance News",
+    "source_type": "press",
+    "published_date": "2025-06-10",
+    "collected_at": "2026-10-12T19:19:22.596676+00:00",
+    "authors": [],
+    "summary": "Building superintelligence using AI Healthcare Finance News",
+    "doi": null,
+    "company_slug": "lila-sciences",
+    "keywords_matched": [
+      "Lila Sciences"
+    ],
+    "extra": {
+      "query": "\"Lila Sciences\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmihgfbvv95cuxos2tvzxdgn09iwtzfytuyzuzhazf1u2hhu0h5ujnjnxa2rfu1tulctk1jq0cwzgf3n1dytg0yegvpakzwnm95b0uxnlvmr3mxudjiyv84mkwyx2tfbg9mde5gcg1qwex6ogp3nnpfuvpgr0hiuvrjdk9ibhjzm2z3adrjmfrtqq?oc=5"
   },
   {
     "kind": "news",
