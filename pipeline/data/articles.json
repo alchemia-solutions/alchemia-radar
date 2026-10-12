@@ -474,6 +474,271 @@
   },
   {
     "kind": "article",
+    "title": "Probing Physical Intuition in Large Language Models through Partner-Dependent Mutation Prediction",
+    "url": "https://doi.org/10.64898/2026.10.09.757856",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T22:35:43.859051+00:00",
+    "authors": [
+      "Cheng, L.",
+      "Zheng, K.",
+      "Huang, W.",
+      "Chen, H.-F.",
+      "Yu, Z."
+    ],
+    "summary": "Structure-guided mutation design requires relating a proposed substitution to its molecular environment to anticipate its effects. Existing evaluations of large language models (LLMs) in protein engineering emphasize sequence-based prediction or tool-integrated workflows, leaving unclear whether LLMs themselves can infer mutation effects from structural evidence without dedicated predictors. We evaluate physical intuition-qualitative reasoning that connects structural observations with molecular interaction principles-using a benchmark that tests the same substitution in the same protein across different binding partners, with predictions based on local atomic coordinates and no dedicated mutation-effect predictors. In the tested comparisons, the best-performing LLM achieved group accuracy comparable to the evaluated energy predictors and Biomni, an LLM-driven tool workflow, while the methods differed in their prediction patterns. Most evaluated LLMs achieved higher group accuracy for larger affinity improvements. Structural interventions support selective dependence on mutation-site and partner information, while assessable structural claims largely agree with the supplied coordin",
+    "doi": "10.64898/2026.10.09.757856",
+    "company_slug": null,
+    "keywords_matched": [
+      "protein engineering"
+    ],
+    "extra": {
+      "category": "bioinformatics"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.09.757856"
+  },
+  {
+    "kind": "article",
+    "title": "Intrinsically disordered regions influence protein motif usage in Drosophila Ubx and AbdA Hox proteins",
+    "url": "https://doi.org/10.64898/2026.10.09.757964",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T22:35:43.862777+00:00",
+    "authors": [
+      "Maurel-Zaffran, C.",
+      "Edelstein, I.",
+      "Michel, L.",
+      "Macchi, M.",
+      "Caruso, N.",
+      "Saurin, A. J.",
+      "Levy, Y.",
+      "Graba, Y."
+    ],
+    "summary": "Hox proteins are evolutionary conserved transcription factors guiding morphogenesis in all bilaterian animals. Conservation mainly concerns the homeodomain (HD), a helix-turn-helix DNA binding motif and flanking sequences close by. Besides, sequences are poorly conserved and disordered. Here we investigate how poorly conserved Intrinsically Disordered Regions (IDRs) influence Hox protein activity, focusing on a closely related Drosophila Hox pair and using a wide range of in vivo function. Studying Drosophila Ultrabithorax (Ubx) and AbdominalA (AbdA) proteins, we find that conserved protein motifs close to the HD are differently used in Ubx and AbdA. Coarse-grained molecular dynamics simulations identify a large set of intra-molecular interactions, notably involving poorly conserved disordered regions upstream and downstream the HD. Swapping these regions in Ubx and AbdA alters protein functions and switches motif dependency in some biological situations. This suggests that IDRs, predicted to mediate large and dynamic sets of intramolecular interactions, influence protein motif usage in a context dependent manner.",
+    "doi": "10.64898/2026.10.09.757964",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {
+      "category": "developmental biology"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.09.757964"
+  },
+  {
+    "kind": "article",
+    "title": "Modular Cell-Free Extract Mixing Enables Soluble, Active Biomanufacturing of Difficult-to-Express and Aggregation-Prone Proteins",
+    "url": "https://doi.org/10.64898/2026.10.09.757855",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T22:35:45.891969+00:00",
+    "authors": [
+      "Firmansyah, L.",
+      "Delmundo, A.",
+      "Oza, J. P."
+    ],
+    "summary": "Cell-free protein synthesis (CFPS) is a powerful platform for rapid protein prototyping and biomanufacturing, but expression of complex proteins remains limited by labor-intensive extract preparation as well as the inability of conventional Escherichia coli extracts to efficiently support disulfide bond formation and prevent protein aggregation. We previously developed a Cell-Free Autoinduction (CFAI) workflow that simplifies extract preparation, however, CFAI-derived extracts retain the folding limitations of standard E. coli systems for producing traditionally difficult proteins. Here, we address these challenges by utilizing extracts enriched with molecular chaperones or Erv1p-based oxidative folding catalysts and combining them through a modular extract mixing strategy to enable independent tuning of the cell-free folding environment. This workflow supplies folding factors through enriched extracts, avoiding recurring purchases of purified supplements and enabling a modeled reagent-cost advantage. To evaluate real-world applications and utility of lysate mixing for protein production, we demonstrate a 10-fold increase in solubility of the aggregation-prone bacterial toxin Colic",
+    "doi": "10.64898/2026.10.09.757855",
+    "company_slug": null,
+    "keywords_matched": [
+      "protein engineering"
+    ],
+    "extra": {
+      "category": "synthetic biology"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.09.757855"
+  },
+  {
+    "kind": "article",
+    "title": "Activation of Disease-Associated Polycystin-1 Mutants by Binding of Stalk-derived Agonist Peptides",
+    "url": "https://doi.org/10.64898/2026.10.10.758211",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T22:35:47.204473+00:00",
+    "authors": [
+      "Joshi, K.",
+      "Magenheimer, B. S.",
+      "Haldane, A.",
+      "Zhang, Y.",
+      "Miao, Y.",
+      "Maser, R. L."
+    ],
+    "summary": "Polycystin-1 (PC1) functions as an atypical G-protein-coupled receptor (GPCR) with an autocatalytic GAIN domain that cleaves PC1 into extracellular N-terminal (NTF) and membrane-embedded C-terminal (CTF) fragments. Mutations in PC1 are responsible for 85% of autosomal dominant polycystic kidney disease (ADPKD) cases. Activation of signaling by PC1 CTF has been shown to be allosterically mediated by a stalk tethered agonist (TA) and to be prevented by mutations of the stalk. Soluble, synthetic peptides derived from the PC1 stalk were also shown to re-activate signaling by a stalkless CTF mutant. Here, we have investigated the ability of selected stalk peptide agonists p9, p15 or p17 to re-activate signaling by PC1 CTF with ADPKD-associated missense mutations, G3052R or R3063C. Biochemical experimental data showed that each of the three stalk peptides was able to significantly reactivate signaling by the CTF-R3063C mutant. In contrast, signaling by CTF-G3052R could only be rescued by treatment with p17. In parallel, we employed peptide docking and novel Peptide Gaussian-accelerated Molecular Dynamics (Pep-GaMD) simulations to elucidate the binding conformations of p9, p15 and p17 to ",
+    "doi": "10.64898/2026.10.10.758211",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {
+      "category": "bioinformatics"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.10.758211"
+  },
+  {
+    "kind": "article",
+    "title": "Reformulating Protein Corona Prediction as Universal Protein-conditioned Learning",
+    "url": "https://doi.org/10.64898/2026.10.09.752255",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T22:35:48.884483+00:00",
+    "authors": [
+      "Wu, X.",
+      "Wang, C.",
+      "Jin, Y.",
+      "Zhao, Y.",
+      "Tang, H."
+    ],
+    "summary": "When nanoparticles enter biological environments, their surfaces are rapidly coated by proteins, forming a protein corona that governs their biological identity and downstream responses. Existing computational methods treat each protein as an independent prediction task, preventing the learning of shared adsorption principles and limiting generalization beyond experimentally characterized proteins. Here we introduce NanoPCT, a universal protein-conditioned learning framework that jointly models nanoparticle physicochemical properties and protein sequence representations. Using frozen ESM-2 embeddings and a joint interaction transformer, NanoPCT learns transferable representations of nano-bio interaction patterns across hundreds of proteins and maintains robust performance as protein diversity increases. The learned protein representation further enables zero-shot prediction for previously unseen proteins and biologically distinct protein groups through classifier reconstruction in embedding space. Beyond prediction, NanoPCT supports large-scale in silico inverse design and reveals consistent adsorption preferences between observed and unseen protein populations, suggesting that it ",
+    "doi": "10.64898/2026.10.09.752255",
+    "company_slug": null,
+    "keywords_matched": [
+      "in silico"
+    ],
+    "extra": {
+      "category": "bioinformatics"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.09.752255"
+  },
+  {
+    "kind": "article",
+    "title": "Tensorizing Pairwise Structural Analysis: GPU-Accelerated RMSD and FCC Clustering in HADDOCK3 Without Structural Regression.",
+    "url": "https://doi.org/10.64898/2026.10.10.758202",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T22:35:48.885058+00:00",
+    "authors": [
+      "Salami, R. O.",
+      "Kumordzi, S. M.",
+      "Amuna, D. N.",
+      "Carr, R. A.",
+      "Morang'a, C. M."
+    ],
+    "summary": "Integrative macromolecular docking pipelines generate thousands of candidate structural decoys, relying on downstream pairwise ensemble analysis, including Root-Mean-Square Deviation (RMSD) matrices and Fraction of Common Contacts (FCC) clustering, to identify biologically relevant binding poses. However, pairwise structural comparisons scale quadratically (O(N^2)), and canonical workflows in HADDOCK3 historically rely on disk-bound trajectory serialization and iterative CPU set operations, creating a quadratic computational and storage bottleneck for large ensembles. Here, we demonstrate that these operations can be reformulated as continuous linear algebra on GPU-resident tensors: structural superposition via batched Singular Value Decomposition (SVD) and residue contact overlap via binary matrix multiplication (M = A A^T). Across empirical benchmarks spanning N = 200 to 10,000 models (evaluating up to 49,995,000 decoy pairs), our GPU implementation achieves a 6.41-fold compute speedup on Apple Silicon (MPS) and up to 12.2-fold end-to-end acceleration in an N = 5,000 ablation on NVIDIA CUDA by eliminating trajectory disk I/O. Crucially, the implementation achieves zero downstream",
+    "doi": "10.64898/2026.10.10.758202",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "category": "bioinformatics"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.10.758202"
+  },
+  {
+    "kind": "article",
+    "title": "Structural Basis for the Rational Design of UAMC-1110-Based FAP Radiopharmaceuticals",
+    "url": "https://doi.org/10.64898/2026.10.11.758356",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T22:35:48.885904+00:00",
+    "authors": [
+      "Zhang, C.",
+      "Gerhards, J.",
+      "Scharbert, L.",
+      "Cardinale, J.",
+      "Giesel, F.",
+      "Strodel, B."
+    ],
+    "summary": "Radioligands targeting fibroblast activation protein alpha (FAP) are promising tools for cancer diagnosis and therapy. However, the molecular binding mode of clinically established UAMC-1110-derived ligands such as FAPI-46 remains insufficiently characterized. To simplify synthesis while preserving key binding properties, we designed two novel derivatives - FAP-DD-101 (short aminoalkyl linker) and FAP-DD-102 (extended aminohexanoic acid spacer) - and evaluated them alongside FAPI-46 using molecular docking and all-atom molecular dynamics (MD) simulations. Across all derivatives, we identified a highly stable, energetically favorable charge-anchored binding mode, in which the 2-cyano-4,4-difluoropyrrolidine head anchors in a negatively charged subregion formed by Glu202, Glu203, and Glu204, mimicking the binding architecture observed in the FAP-linagliptin complex. MD trajectories confirmed that FAPI-46 and FAP-DD-101 maintain exceptional stability in this pose, with several non-anchored FAPI-46 trajectories spontaneously evolving toward engagement with this electrostatic subregion. For FAP-DD-102, linker elongation slightly reduced pose robustness, yet initial charge-anchored state",
+    "doi": "10.64898/2026.10.11.758356",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics"
+    ],
+    "extra": {
+      "category": "biophysics"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.11.758356"
+  },
+  {
+    "kind": "article",
+    "title": "A reference-calibrated spatial-statistical framework for quantifying stroma-tumor cell spatial associations from histology and its geometric limits",
+    "url": "https://doi.org/10.64898/2026.10.09.758046",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T22:35:48.886776+00:00",
+    "authors": [
+      "Miti, T.",
+      "Miroshnychenko, D.",
+      "Desai, B.",
+      "Marusyk, A.",
+      "Basanta, D."
+    ],
+    "summary": "Quantifying interactions in biological tissues requires determining whether an interaction exists, the distance over which it operates, and its strength. Existing spatial-statistical approaches can characterize spatial organization but often require interaction range or interaction models to be specified a priori, making them less suited to settings where these quantities are themselves unknown. Here, we present a practical framework that recovers the presence, range, and association strength of spatial bias toward a tissue structure directly from segmented histology. The framework combines four complementary statistics, the resource selection function, nearest-structure distance distributions, the cross J-function, and the radial distribution function, with specimen-specific reference states that preserve tissue stromal architecture while spanning a continuum of known spatial biases. Across controlled in silico tissues, we show that tissue stromal architecture imposes geometric limits on the range of recoverable interactions and that event fraction independently constrains statistical sensitivity. These spatial associations establish fundamental bounds on inference and demonstrate",
+    "doi": "10.64898/2026.10.09.758046",
+    "company_slug": null,
+    "keywords_matched": [
+      "in silico"
+    ],
+    "extra": {
+      "category": "cancer biology"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.09.758046"
+  },
+  {
+    "kind": "article",
+    "title": "Positive selection and structural disruption of KCNA5 by mutation in colorectal cancer",
+    "url": "https://doi.org/10.64898/2026.10.09.758060",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T22:35:48.887108+00:00",
+    "authors": [
+      "Xu, B.",
+      "Shorthouse, D."
+    ],
+    "summary": "Ion channels regulate cell proliferation, survival and migration, but the functional consequences of many ion channel mutations in cancer are unknown, and electrophysiological characterisation at scale is impractical. Here we use the mutational landscape of colorectal adenocarcinoma as a functional filter to identify potassium channel mutations under selection. A dN/dS screen of 16 potassium channels expressed in the large intestine identified KCNA5 (Kv1.5) as the strongest candidate under positive mutational selection. These mutations cluster in the T1 tetramerisation, S1-S4 voltage-sensor and pore domains, yet avoid the selectivity filter, indicating that selection does not favour loss of conduction. Within the pore region, the observed mutations occupy a biophysical space distinct from known C-type inactivation, activation-gate and toxin-binding mutations. In the voltage sensor, mutations affect gating-charge arginines. In the T1 domain, mutations fall on inter-subunit interfaces conserved across the KCNA family, and saturation mutagenesis energy calculations predict that they destabilise subunit contacts or the folding of the domain. Molecular dynamics simulations of D166N and ",
+    "doi": "10.64898/2026.10.09.758060",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {
+      "category": "cancer biology"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.09.758060"
+  },
+  {
+    "kind": "article",
+    "title": "The immunogenic 33-mer gliadin peptide attenuates flagellin-induced TLR5/NF-κB signaling",
+    "url": "https://doi.org/10.64898/2026.10.10.758210",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T22:35:48.889306+00:00",
+    "authors": [
+      "Lammers, K. M.",
+      "Vazquez, D. S.",
+      "Segura, V.",
+      "Hollmann, J.",
+      "Huebner, W.",
+      "Morre, S. A.",
+      "Huser, T.",
+      "Sousa, C.",
+      "Dodero, V. I."
+    ],
+    "summary": "Wheat gluten is the main trigger of gluten-related disorders such as celiac disease, in which the proteolysis-resistant, 33-mer peptide is a key immunodominant factor. It has been reported that the 33-mer forms oligomers and thin-plate superstructures that accumulate in the Caco-2 intestinal epithelial cell line, although their biological effects remain only partially understood. Here, we screened the effects of these nanostructures on Toll-like receptors in Caco-2 cells to investigate their effect on the early innate immune response. Our findings showed a specific upregulation of TLR5 mRNA in response to 33-mer gliadin superstructures, although no inflammatory response was detected based on CXCL1 and CXCL8 levels. Moreover, immunofluorescence analysis revealed partial co-localization with TLR5. We further found that the 33-mer superstructures attenuate flagellin-induced TLR5/NF{kappa}B signaling in reporter cells, similar to a blocking anti-hTLR5-IgA2 antibody. Molecular docking suggested that the 33-mer peptide occupies the concave region of TLR5 as well as 54% of the TLR5-TLR5 dimerization interface. The interference with the TLR5 dimerization domain could explain the experiment",
+    "doi": "10.64898/2026.10.10.758210",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "category": "immunology"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.10.758210"
+  },
+  {
+    "kind": "article",
     "title": "In silico subtractive genomics and reverse vaccinology approach reveal outer membrane proteins OMP47 and LptD as dual-purpose drug and vaccine targets in Pasteurella multocida Pm70",
     "url": "https://doi.org/10.64898/2026.10.07.757254",
     "source": "bioRxiv",
@@ -80206,5 +80471,272 @@
       "journal": "European journal of pharmacology"
     },
     "dedupe_key": "doi:10.1016/j.ejphar.2026.179397"
+  },
+  {
+    "kind": "article",
+    "title": "Short-Chain Fatty Acids as Endogenous Inhibitors of DPP-IV Enzyme: Implications in GLP-1 Stability and Metabolic Health.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42863046/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-12T22:35:05.204071+00:00",
+    "authors": [
+      "Paul Dias",
+      "Ravindran Mugesh",
+      "Ajmal Rahim",
+      "Amit Chakrabortty",
+      "Manoj Kumar Joshi"
+    ],
+    "summary": "Dipeptidyl peptidase-IV (DPP-IV/CD26) is a circulating serine protease that rapidly degrades incretin hormones, including glucagon-like peptide-1 (GLP-1), limiting incretin activity and glucose homeostasis. Short-chain fatty acids (SCFAs), major gut microbiota-derived metabolites, influence metabolic health through multiple mechanisms; whether they directly inhibit DPP-IV remains unknown. Here, we investigated the inhibitory activity and mechanism of acetate, propionate, and butyrate against recombinant human DPP-IV. All three SCFAs inhibited DPP-IV concentration-dependently, with an average IC50 of 0.62 ± 0.13 mM. Michaelis-Menten, Lineweaver-Burk, Dixon, and Cornish-Bowden analyses demonstrated reversible mixed-mode inhibition, whereas sitagliptin exhibited competitive inhibition (Ki = 2.6 nM). SCFAs protected GLP-1 from DPP-IV mediated degradation and preserved GLP-1-induced calcium signaling in INS-1 cells. Molecular docking indicated preferential SCFA interactions within the DPP-IV β-propeller domain. These findings identify SCFAs as direct, reversible DPP-IV modulators, providing a molecular link between gut microbial metabolites and incretin regulation.",
+    "doi": "10.1021/acs.jafc.6c07553",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42863046",
+      "journal": "Journal of agricultural and food chemistry"
+    },
+    "dedupe_key": "doi:10.1021/acs.jafc.6c07553"
+  },
+  {
+    "kind": "article",
+    "title": "KAT-Net: a hyperbolic routing framework for joint lysine acylation site prediction with shared sequence-structure representations.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862881/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-12T22:35:05.204703+00:00",
+    "authors": [
+      "Hao Wu",
+      "Yiyu Lin",
+      "Lun Zhu",
+      "Yan Wang",
+      "Shan Chang",
+      "Sen Yang"
+    ],
+    "summary": "Protein lysine acylation regulates protein function through changes in local chemistry, structure, and molecular interactions. Acetylation (Kac), succinylation (Ksucc), and crotonylation (Kcr) share the lysine centre but differ in acyl-group chemistry, motivating joint yet task-aware prediction. We developed KAT-Net, a multi-task framework integrating ESM-2 representations, physicochemical priors, and AlphaFold2-derived structural context. Predicted aligned error-aware graph modelling reduces uncertain structural relationships, while task-driven hyperbolic routing retrieves modification-specific information from shared representations. A masked asymmetric focal loss supports learning with unavailable labels and task-dependent class imbalance. Independent benchmark and external Kcr evaluations showed favourable performance, while ablation and single-task comparisons supported contributions from sequence-structure integration, structural modelling, hyperbolic routing, and multi-task learning. Sequence and structural analyses revealed modification-related positional, residue, and spatial patterns around candidate lysines. External functional analysis using an independent mouse lung acetylome and succinylome provided complementary evidence of functional plausibility, with Kac predictions showing partial concordance with experimentally reported metabolic processes rather than serving as a binary test of general Kac-site discrimination. For Kac prediction, model development and primary benchmarking were performed using the curated non-histone acetylation dataset from TransPTM and should be interpreted within this benchmark scope rather than as a comprehensive evaluation of the complete acetylome. KAT-Net therefore provides a unified framework for lysine-acylation prediction and candidate-site prioritization within the evaluated benchmark settings.",
+    "doi": "10.1093/bib/bbag567",
+    "company_slug": null,
+    "keywords_matched": [
+      "AlphaFold"
+    ],
+    "extra": {
+      "pmid": "42862881",
+      "journal": "Briefings in bioinformatics"
+    },
+    "dedupe_key": "doi:10.1093/bib/bbag567"
+  },
+  {
+    "kind": "article",
+    "title": "GTPase GBP7 promotes HSV-1 infection by interacting with and activating eEF1A1 to accelerate the protein translation process.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862856/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-12T22:35:05.205295+00:00",
+    "authors": [
+      "Jinshen Wang",
+      "Liangbing Man",
+      "Binhao Rong",
+      "Kunyu Lu",
+      "Luping Cheng",
+      "Jianfu He",
+      "Haowei Li",
+      "Hao Su",
+      "Xinxin Lin",
+      "Ru Li",
+      "Min Zou",
+      "Chan Yang",
+      "Shuwen Liu"
+    ],
+    "summary": "Guanylate-binding proteins (GBPs) are immune GTPases induced by interferons (IFNs) and comprise GBPs1-7. In this study, GBP7, a less studied member of the GBPs, was identified to possess Herpes simplex virus I (HSV-1) promoting effects on replication both in vitro and in vivo. Knockdown of GBP7 or loss of its GTPase activity demonstrated significant antiviral effects. Consistently, GBP7-/- mice infected with HSV-1 showed higher survival and milder symptoms. Mechanistically, we discovered GBP7 directly binds to eukaryotic translation elongation factor 1α1 (eEF1A1), which was validated through immunoprecipitation mass spectrum (IP-MS) and binding affinity assays. GBP7 utilizes its GTPase activity to assist eEF1A1 in GTP hydrolysis, activating its role in promoting protein translation, thereby increasing viral replication and infection. Moreover, through high-throughput virtual screening, S-Adenosylhomocysteine (SAH) was identified as a novel GBP7 targeting inhibitor, which demonstrated potent antiviral activity against HSV-1infection and broad-spectrum potentiality. Collectively, these findings uncover the critical role of the GBP7-eEF1A1 axis in viral infection and provide theoretical basis for host-targeted antiviral therapy.",
+    "doi": "10.1371/journal.ppat.1014652",
+    "company_slug": null,
+    "keywords_matched": [
+      "virtual screening"
+    ],
+    "extra": {
+      "pmid": "42862856",
+      "journal": "PLoS pathogens"
+    },
+    "dedupe_key": "doi:10.1371/journal.ppat.1014652"
+  },
+  {
+    "kind": "article",
+    "title": "Integrated bioinformatics analysis identifies an immune-related gene signature associated with non-obstructive azoospermia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862824/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-12T22:35:05.205893+00:00",
+    "authors": [
+      "Yucheng Zhong",
+      "Songqing Ye",
+      "Hongshen Lai",
+      "Xiangyu Zeng",
+      "Ge Song",
+      "Xiaofu Qiu"
+    ],
+    "summary": "Non-obstructive azoospermia (NOA) is a severe male infertility disorder. This study aims to identify immune-related biomarkers for explore immune-related molecular signatures associated with NOA. Here, we integrated transcriptomic data from four independent cohorts (GSE145467, GSE45885, GSE45887, GSE9210) using an integrative pipeline combining differential expression analysis, weighted gene co-expression network analysis (WGCNA), and consensus-based multi-machine learning to identify an immune-related gene signature associated with NOA. We identified 16 immune-related differentially expressed genes through WGCNA, which were refined into a 12-gene panel-Hub NOA.Sig (CD14, CD19, CMTM2, CXCL16, HSPA1L, HSPA2, IGF1, IL13, POMC, RBP1, STAB2, TYROBP)-using five feature selection algorithms (Bagged Trees, Bayesian, Boruta, LASSO, LVQ). A Random Forest classifier based on Hub NOA.Sig yielded good classification performance with an AUC of 0.87. This signature offers a transcriptomic reference for characterizing NOA heterogeneity and exploring immune-related molecular features. Single-sample gene set enrichment analysis (ssGSEA) revealed significant alterations in six immune cell populations-including effector memory CD4 ⁺ /CD8 ⁺ T cells, regulatory T cells, and plasmacytoid dendritic cells-and demonstrated strong correlations between hub genes and specific immune infiltrates. Furthermore, drug-gene interaction screening and molecular docking predicted loperamide-POMC, acitretin-RBP1, and retinol-RBP1 as candidate drug-gene pairs for subsequent experimental validation. This work provides transcriptomic clues and candidate molecular targets for future mechanistic investigations into NOA-related male infertility.",
+    "doi": "10.1371/journal.pone.0360305",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42862824",
+      "journal": "PloS one"
+    },
+    "dedupe_key": "doi:10.1371/journal.pone.0360305"
+  },
+  {
+    "kind": "article",
+    "title": "Integrative pan-cancer analysis of AKT1 and structure-based drug design by buckwheat derived compounds.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862713/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-12T22:35:05.206497+00:00",
+    "authors": [
+      "Ramjan Sheikh",
+      "Punam Chowdhury",
+      "Ekhlas Uddin",
+      "Jarin Tasnim",
+      "Mobin Mahmud Shawon",
+      "Sohela Faisal",
+      "Abu Sayed",
+      "M Salahuddin",
+      "Abrar Farhan Fuad"
+    ],
+    "summary": "Copyright: &copy; 2026 Sheikh et al. This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. AKT1 is a serine-threonine protein-kinase involved in tumour cell proliferation, survival, metabolism, and therapeutic resistance via activation of the PI3K/AKT/mTOR pathway. However, the comprehensive pan-cancer characterization of AKT1 and systematics identifications of natural AKT1 inhibitors remains limited. This study comprehensively evaluated the expression patterns and mutation landscape of AKT1, its promoter methylation, immune infiltration, and clinical significance using the TCGA datasets for 33 cancer types. AKT1 showed significant over-expression in BRCA, HNSC, CHOL, STAD, and UCEC while being under-expressed in PRAD and GBM. Survival analysis demonstrated cancer-specific prognostic associations of AKT1 expression, and cBioPortal profiling characterized E17 as having hotspot missense mutations. Promoter methylation profiling revealed widespread hypomethylation that correlates with increased transcription. AKT1 was widely expressed in normal tissues, and its localization was mainly cytoplasmic, varying according to cell type. At the single cell level, expression was detected in malignant, immune, and stromal compartments. AKT1 expression exhibited tumor-specific associations with tumor mutational burden and microsatellite instability. To identify candidate natural inhibitors, this study computationally screened 52 buckwheat-derived phytochemicals with AKT1. Fagopyrine showed the strongest binding affinity (&#x2212;15.45 kcal/mol) and remained structurally stable and flexible with AKT1 protein at 100 ns MD simulation. ADMET and DFT analyses indicated favorable electronic stability but predicted moderate gastrointestinal absorption, suggesting that further structural optimization is required. In summary, this study reveals that fagopyrine is a promising computational AKT1 targeting lead, but the direct biochemical and cancer cell-line validation experiments required to confirm its AKT1 inhibitory activity and anticancer efficacy remain to be performed.",
+    "doi": "10.18632/oncotarget.28922",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug design",
+      "ADMET",
+      "structure-based drug design"
+    ],
+    "extra": {
+      "pmid": "42862713",
+      "journal": "Oncotarget"
+    },
+    "dedupe_key": "doi:10.18632/oncotarget.28922"
+  },
+  {
+    "kind": "article",
+    "title": "Targeting ROCK Isoforms by Natural Phytocompounds: An In-Silico Approach to Modulate Mitochondrial Fission and Mitophagy in Neurological Diseases.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862490/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-12T22:35:05.207174+00:00",
+    "authors": [
+      "Chesta Shandilya",
+      "Shalini Mani"
+    ],
+    "summary": "One of the major key organelles for neuronal survival is the mitochondria. To maintain synaptic functions and neurotransmission, these cells rely upon high ATP levels and the regulated process of mitochondrial dynamics (fission and fusion) and mitophagy. Dysregulation in any of the mitochondrial processes, such as excessive fission and/or impaired removal of damaged mitochondria, can lead to damage to nerve cells and cause neuroinflammation, a major cause of various neurodegenerative diseases. Rho-associated coiled-coil kinase isoforms (ROCK1 and ROCK2) have emerged as critical upstream regulators of mitochondrial dynamics, where ROCK1 promotes Drp1-mediated mitochondrial fission. On the other hand, ROCK2 suppresses PINK1-Parkin-dependent mitophagy. Overexpression of both ROCK isoforms leads to increased ROS production and reduced ATP generation, compromising neuronal health. Although synthetic ROCK inhibitors show neuroprotective potential, their long-term clinical use is limited due to their toxicity, poor pharmacokinetics, and suboptimal BBB penetration. In contrast, natural compounds may offer a safer, cheaper and more effective inhibitory effect. The current study follows an integrated in-silico approach to screen natural phytochemicals derived from Indian medicinal plants, known for their neuroprotective effects. Based on neuroprotective properties and less explored mechanistic potential,11 plants were selected. From these plants, a library of 1,223 natural product compounds was downloaded, and a further 428 unique phytocompounds were obtained after curation with the known inhibitor for reference. These compounds were screened against key proteins ROCK1 and ROCK2 using molecular docking, followed by pharmacokinetic and toxicity class, MM-GBSA free binding energy, and molecular dynamics simulations for 200 ns. Several natural phytocompounds showed comparable binding affinities with respect to known inhibitors. Based on all the in-silico observations, Scopolin and Lycorine emerged as promising ROCK1 inhibitors, while Cytisoside and N-Methyltyramine demonstrated strong ROCK2 inhibition. Notably, Coumarin exhibited stable and persistent interactions with both ROCK1 and ROCK2, with good binding energies, high blood-brain barrier permeability, and strong dynamic stability across simulations. Collectively, all these findings indicate the natural phytochemicals as viable modulators of mitochondrial quality control. Particularly, Coumarin emerges as a promising dual ROCK inhibitor; its potential to restore mitochondrial fission and mitophagy balance and mitigate neurodegenerative diseases may be further validated using in vitro assays.",
+    "doi": "10.1007/s12021-026-09822-0",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics"
+    ],
+    "extra": {
+      "pmid": "42862490",
+      "journal": "Neuroinformatics"
+    },
+    "dedupe_key": "doi:10.1007/s12021-026-09822-0"
+  },
+  {
+    "kind": "article",
+    "title": "Genome-wide characterization of histidine kinase genes in Aciculosporium take and their potential roles in cytokinin sensing.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862462/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-12T22:35:05.207699+00:00",
+    "authors": [
+      "Yu Gu",
+      "Yingchong Liao",
+      "Sha Ye",
+      "Yan Tang",
+      "Huiru Meng",
+      "Xing Zhao",
+      "Xiaoping Ma"
+    ],
+    "summary": "Histidine kinases (HKs) are critical receptors within two-component regulatory systems, helping fungi perceive environmental stimuli. However, the functions of the HKs gene family in Aciculosporium take, which mediates cytokinin (CKs) imbalance during bamboo witches' broom disease, and the mechanisms by which HKs respond to CKs and environmental stimuli remain unelucidated. This study identified 10 AtaHKs genes, categorizing them into 8 groups. Phylogenetic analysis across multiple species suggested that Group I AtaHKs were closely linked to plant pathogenicity. The promoter regions of AtaHKs genes contained enrichment cis-acting elements responsive to carbon catabolism and carbon catabolite repression. RT-qPCR analysis revealed that AtaHK4 expression varied significantly in response to CKs, whereas AtaHK10 was markedly expressed under NaCl stress. According to protein 3D structure simulations and molecular docking, we speculate that the GAF domain may be the functional region responsible for CKs sensing, though it remains untested. This study offers an in-depth analysis of the functional characteristics of the AtaHKs gene family in A. take, thereby enhancing the theoretical understanding of signal transduction mechanisms in plant-pathogen interactions. Additionally, it contributes to the conservation of bamboo forest resources and supports the sustainable development of the bamboo industry.",
+    "doi": "10.1007/s13353-026-01118-y",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42862462",
+      "journal": "Journal of applied genetics"
+    },
+    "dedupe_key": "doi:10.1007/s13353-026-01118-y"
+  },
+  {
+    "kind": "article",
+    "title": "Computational Identification of IL-17 a Small-Molecule Inhibitors as Potential Therapeutics for Plaque Psoriasis Through e-Pharmacophore Screening, Molecular Docking, and Molecular Dynamics Simulation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862452/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-12T22:35:05.208322+00:00",
+    "authors": [
+      "Selvakumar Rajendran",
+      "Anantha Krishnan Dhanabalan",
+      "Sriram Srinivasa Raghavan",
+      "Jebiti Haribabu",
+      "Arunachalam Arulraj",
+      "Varaprasad Kokkarachedu",
+      "Gunasekaran Krishnasamy"
+    ],
+    "summary": "Plaque psoriasis is a long-term skin disease driven by the immune system, impacting around 1-3% of people worldwide. Despite the availability of various treatment options, the limitations in effectiveness, side effects, and long-term response underscore the necessity for enhanced therapeutic strategies. Focusing on the interleukin-17 (IL-17) pathway offers a promising strategy for treating plaque psoriasis. In this research, established co-crystallized peptide-derived inhibitors (PDB IDs: 5HI3, 5HI4, and 5HI5) were utilized to create energetically optimized pharmacophore models, which were then used for virtual screening of chemical libraries, resulting in 4,923 potential hit compounds. Molecular docking based on structure and induced-fit docking were subsequently conducted on IL-17 A to pinpoint potential lead compounds exhibiting advantageous binding orientations and interactions with essential active-site residues. The selected protein-ligand complexes' stability and dynamic behavior were examined through molecular dynamics (MD) simulations, which were complemented by root mean square deviation (RMSD), radius of gyration (RoG), principal component analysis (PCA), and dynamic cross-correlation matrix (DCCM) analyses. The MD simulations revealed that the selected leads retained consistent interactions in the IL-17 A binding pocket, with C2 and C3 demonstrating especially advantageous protein structural stability, while C3 displayed the most stable ligand behavior. PCA uncovered unique collective movements within the complexes, while DCCM analysis showed specific correlated and anti-correlated residue movements linked to protein conformational dynamics. Ongoing protein-ligand interactions further confirmed the stable placement of the chosen compounds within the binding site. In summary, the combined pharmacophore-based virtual screening, molecular docking, MD, PCA, and DCCM analyses discovered promising lead compounds exhibiting advantageous binding stability and dynamic behavior, offering a structural foundation for their subsequent experimental validation and potential advancement as therapeutic candidates for plaque psoriasis.",
+    "doi": "10.1007/s10930-026-10359-z",
+    "company_slug": null,
+    "keywords_matched": [
+      "virtual screening",
+      "molecular docking",
+      "molecular dynamics"
+    ],
+    "extra": {
+      "pmid": "42862452",
+      "journal": "The protein journal"
+    },
+    "dedupe_key": "doi:10.1007/s10930-026-10359-z"
+  },
+  {
+    "kind": "article",
+    "title": "Pharmacophore-guided identification and dynamic characterization of potential binders of the sporulation histidine kinase KinA in Bacillus subtilis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862365/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-12T22:35:05.208941+00:00",
+    "authors": [
+      "Maniratnam Puli",
+      "Prem Pal Singh",
+      "Veeresh Bantal",
+      "Rahul Saginela"
+    ],
+    "summary": "Bacterial histidine kinases represent attractive yet underexplored targets for antibacterial drug discovery owing to their central roles in environmental sensing and adaptive signaling. Among these, the sporulation histidine kinase KinA regulates entry into the phosphorelay controlling sporulation initiation in Bacillus species. In this study, a pharmacophore-guided virtual screening strategy based on the structural features of the histidine kinase inhibitor waldiomycin was employed to identify structurally diverse candidate KinA-binding compounds. A library of 2500 compounds was screened and prioritized through hierarchical molecular docking, pre-molecular dynamics MM/GBSA analysis, molecular dynamics simulations, post-molecular dynamics MM/GBSA analysis, and in silico ADMET profiling. Five compounds exhibiting favorable predicted interaction profiles within the KinA DHp-CA region were prioritized. Comparative trajectory analysis demonstrated that energetic estimates did not necessarily correspond to dynamic behavior, with Compound 3 exhibiting the most favorable post-molecular dynamics MM/GBSA estimate (ΔGbind = - 53.89 kcal mol - 1), whereas Compound 5 showed comparatively favorable dynamic stability and persistent multi-residue interactions. Analysis of the enantiomeric pair represented by Compounds 4 and 5 further suggested that stereochemistry may influence ligand accommodation and interaction patterns within the predicted KinA binding region. Several screened compounds also showed favorable predicted absorption and toxicity characteristics relative to waldiomycin. Overall, the findings prioritize structurally distinct compounds for further investigation and provide a computational framework for identifying potential KinA-binding candidates. Experimental biochemical and sporulation-based studies will be required to determine whether these compounds modulate KinA activity or affect sporulations.",
+    "doi": "10.1007/s00203-026-05254-1",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery",
+      "virtual screening",
+      "molecular docking",
+      "ADMET",
+      "molecular dynamics",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42862365",
+      "journal": "Archives of microbiology"
+    },
+    "dedupe_key": "doi:10.1007/s00203-026-05254-1"
   }
 ]

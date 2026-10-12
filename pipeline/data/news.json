@@ -253,6 +253,69 @@
   },
   {
     "kind": "news",
+    "title": "Google DeepMind’s Nature Study on Watermarking AI-Designed Proteins Validated with Carterra HT-SPR - Cambridge Network",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGtscVdCRkE3cmtoSHlhbWlZX0EtRlpoVzlGQ1RGT0VITWoxSzZqWkJGU2NvLUtyQlMyS0c0Wm0zNDE0a0RJSjJTcWxDUmhKVFg0U1JOVW1HOEJkWTlJb3hEYW5aWmdOd2I3cnQ1b2E4bjd2ZU9yZ3FabXdMNTB1ek5UdjExdEl0VGJsS2FHaGpBdGtEaklWU01BU0VrcU9pRlZCMlo4OU9OMGVfSnd1Vk1EaXowcUFpV0Vkc0taQk5nbUFHTVBrbQ?oc=5",
+    "source": "Cambridge Network",
+    "source_type": "news",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T22:36:19.322351+00:00",
+    "authors": [],
+    "summary": "Google DeepMind’s Nature Study on Watermarking AI-Designed Proteins Validated with Carterra HT-SPR Cambridge Network",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiyafbvv95cuxpogtscvdcrke3cmtoshlhbwlzx0etrlpovzlgq1rgt0vitwoxszzqwkjgu2nvlutyqlmys0c0wm0znde0a0rjsjjtcwxdumhkvfg0u1jovw1hoejkwtljb3heyw5awmdod2i3cnq1b2e4bjd2zu9yz3fabxdmntb1ek5udjexdel0vgjss2fhagpbdgteaklwu01bu0vrcu9prlzcmlo4ou9omgvfsnd1vk1eaxowcufpv0vkc0taqk5nbufhtvbrbq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Recursion Pharmaceuticals (RXRX) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTTdJVno2S1IzQTlqMEgwQm1ocnV1blRmZk5MdDlobF9ySF9PdUNGYjhfSnlSUXVVQXg5cUMyQWJYTUxXcm91Rm1MNEtzTUo4a3d1R3p6akc0UmE5NGc4bFhXU2hHSEt6Z0ROY1ZtQ2tuR3N6cXpRUEhzSktHVlppVXB1WHJYVjd4TUlNOEFTQTE4bV9vd1VraXZxMGE?oc=5",
+    "source": "Yahoo Finance Singapore",
+    "source_type": "press",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T22:36:37.911335+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals (RXRX) Registers a Bigger Fall Than the Market: Important Facts to Note Yahoo Finance Singapore",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbminafbvv95cuxpttdjvno2s1izqtlqmegwqm1ocnv1blrmzk5mddlobf9ysf9pdungyjhfsnlsuxvvqxg5cumyqwjytuxxcm91rm1mnetztuo4a3d1r3p6akc0ume5ngc4bfhxu2hhset6z0roy1ztq2tur3n6cxpruehzskthvlppvxb1whjyvjd4tulnoeftqte4bv9vd1vraxzxmge?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google DeepMind’s Nature Study on Watermarking AI-Designed Proteins Validated with Carterra HT-SPR - StreetInsider",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOHc3YjN3dmkyTzdDTzBSTmxNcVpka0VWbTNoaGFDM09TMjlOTURIV09naVZwQ0hTbXg4M3d6YlFoR3M3UW5fYTBpSHFucThWejRidVYwY20ydVM4d0NYcDg0akhuN1kydGFBWlB0Q2VVekxwdTlacWVIZXdEYS00LWFiaEFDekpkcS1wMzR0U2xqbUdfc29uRXYxbVczbnNNZWVDdTVJX0Zja2JrcUZNUVZ1Y2UxLUFNWExHMS1zdlByTVNLQ2ZLcmxadFdWUUNhRUtyd0xkaXZ5Yk5BbDVxbFA3MkdVN1pJMlp1NzhhN2oyMHp0TElZ?oc=5",
+    "source": "StreetInsider",
+    "source_type": "press",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T22:36:39.420850+00:00",
+    "authors": [],
+    "summary": "Google DeepMind’s Nature Study on Watermarking AI-Designed Proteins Validated with Carterra HT-SPR StreetInsider",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi9wfbvv95cuxqohc3yjn3dmkytzddtzbstmxncvpka0vwbtnoagfdm09tmjloturiv09navzwq0htbxg4m3d6ylfor3m3uw5fytbpshfucthwejridvywy20ydvm4d0nycdg0akhun1kydgfbwlb0q2vvekxwdtlacwvizxdeys00lwfiaefdekpkcs1wmzr0u2xqbudfc29urxyxbvczbnnnzwvddtvjx0zja2jrcuznuvz1y2uxlufnwexhms1zdlbytvnlq2zlcmxadfdwuunhrutyd0xkaxz5yk5bbdvxbfa3mkdvn1pjmlp1nzhhn2oymhp0telz?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "What Is GSK (LSE:GSK) Really Gaining From Its New AI Drug Discovery Deal? - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOTl1QVUwMHp0Mkt4NUtfdkh3Y2xuUDlIeVVRM0twSEZIUkcwVnRyelFZd3JONHJyaXRMbjhUSU9FV05iU20xTjNNOUFyQVZqNldyQjhncmdLdHRHUDVod3h6dXZqQjEybjVuMkY4eEtwVXNkUG1lRFRobW92ZFRkdjNCLUIycU92NndvZ0lZemg?oc=5",
     "source": "Yahoo Finance",
@@ -15466,6 +15529,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmikwfbvv95cuxqvmrlz3d5sldcuwz6s01lsnpvdmlhos1cm2f4qzvrwllvnvhqn2njd0s1ymfqdmfudjq1mkntv2ruumlkqlryy2x0terzouhvnkpwwnpbbkrucjbtdfpjawtvzup4aw9nc19nrtzfmg83n1bctddsaziyt3resknxefzmcjdmsuyxcc16outksjztmxm?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic monta laboratório de biologia e amplia uso de IA em pesquisas médicas e científicas - Olhar Digital",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVll0TEEwTHpLZXNnR1plN1haTzdVaXlvRllYQzFONG5sb3JCNFo0WFNDNkxKSnVWaGVlNXo3aXJwUGNBRjF1Tk81SUhPRFdhSEFoSEl6RmNwV2paYkJNaGNqa2xBYWlVdUxtV1E4RG9la1NDVklMZHhCXzdmUWd5cXJ0V1JMWjVIYTNLVjNVNV9jRUZ5UW5WZklBdFpMSTQtQzh3c2dOUXdFZVlZVHA0UGYzN3JjMzA4ZGRNczM2UEU5Wl9HdW1tdnpuWHlwYVpXNGdqMUkxcE1mTk5SeDVuUEFEQzB5NDBDMkdxWXF3?oc=5",
+    "source": "Olhar Digital",
+    "source_type": "news",
+    "published_date": "2026-09-18",
+    "collected_at": "2026-10-12T22:36:27.874337+00:00",
+    "authors": [],
+    "summary": "Anthropic monta laboratório de biologia e amplia uso de IA em pesquisas médicas e científicas Olhar Digital",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "biologia computacional (fármacos OR medicamentos)"
+    ],
+    "extra": {
+      "query": "biologia computacional (fármacos OR medicamentos)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi7gfbvv95cuxnvll0teewthplzxnnr1pln1hatzdvaxlvrllyqzfong5sb3jcnfo0wfndnkxksnvwagvlnxo3axjwugnbrjf1tk81suhprfdhsefosel6rmnwv2paykjnagnqa2xbywlvduxtv1e4rg9la1ndvklmzhhcxzdmuwd5cxj0v1jmwjviytnlvjnvnv9jruz5uw5wzklbdfpmstqtqzh3c2douxdfzvlzvha0ugyzn3jjmza4zgrnczm2ueu5wl9hdw1tdnpuwhlwyvpxngdqmukxce1mtk5sedvuuefeqzb5ndbdmkdxwxf3?oc=5"
   },
   {
     "kind": "news",

@@ -148,6 +148,48 @@
   },
   {
     "kind": "news",
+    "title": "Recursion Pharmaceuticals (RXRX) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTTdJVno2S1IzQTlqMEgwQm1ocnV1blRmZk5MdDlobF9ySF9PdUNGYjhfSnlSUXVVQXg5cUMyQWJYTUxXcm91Rm1MNEtzTUo4a3d1R3p6akc0UmE5NGc4bFhXU2hHSEt6Z0ROY1ZtQ2tuR3N6cXpRUEhzSktHVlppVXB1WHJYVjd4TUlNOEFTQTE4bV9vd1VraXZxMGE?oc=5",
+    "source": "Yahoo Finance Singapore",
+    "source_type": "press",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T22:36:37.911335+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals (RXRX) Registers a Bigger Fall Than the Market: Important Facts to Note Yahoo Finance Singapore",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbminafbvv95cuxpttdjvno2s1izqtlqmegwqm1ocnv1blrmzk5mddlobf9ysf9pdungyjhfsnlsuxvvqxg5cumyqwjytuxxcm91rm1mnetztuo4a3d1r3p6akc0ume5ngc4bfhxu2hhset6z0roy1ztq2tur3n6cxpruehzskthvlppvxb1whjyvjd4tulnoeftqte4bv9vd1vraxzxmge?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google DeepMind’s Nature Study on Watermarking AI-Designed Proteins Validated with Carterra HT-SPR - StreetInsider",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOHc3YjN3dmkyTzdDTzBSTmxNcVpka0VWbTNoaGFDM09TMjlOTURIV09naVZwQ0hTbXg4M3d6YlFoR3M3UW5fYTBpSHFucThWejRidVYwY20ydVM4d0NYcDg0akhuN1kydGFBWlB0Q2VVekxwdTlacWVIZXdEYS00LWFiaEFDekpkcS1wMzR0U2xqbUdfc29uRXYxbVczbnNNZWVDdTVJX0Zja2JrcUZNUVZ1Y2UxLUFNWExHMS1zdlByTVNLQ2ZLcmxadFdWUUNhRUtyd0xkaXZ5Yk5BbDVxbFA3MkdVN1pJMlp1NzhhN2oyMHp0TElZ?oc=5",
+    "source": "StreetInsider",
+    "source_type": "press",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-12T22:36:39.420850+00:00",
+    "authors": [],
+    "summary": "Google DeepMind’s Nature Study on Watermarking AI-Designed Proteins Validated with Carterra HT-SPR StreetInsider",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi9wfbvv95cuxqohc3yjn3dmkytzddtzbstmxncvpka0vwbtnoagfdm09tmjloturiv09navzwq0htbxg4m3d6ylfor3m3uw5fytbpshfucthwejridvywy20ydvm4d0nycdg0akhun1kydgfbwlb0q2vvekxwdtlacwvizxdeys00lwfiaefdekpkcs1wmzr0u2xqbudfc29urxyxbvczbnnnzwvddtvjx0zja2jrcuznuvz1y2uxlufnwexhms1zdlbytvnlq2zlcmxadfdwuunhrutyd0xkaxz5yk5bbdvxbfa3mkdvn1pjmlp1nzhhn2oymhp0telz?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Anthropic AI agent files false murder tip with Philadelphia police after two months undetected - DongA Science",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEYUVvQ1QzdjdtQUVvTTVEMVdzbG1EaHRLVmI4Wl85TDBUbUFzd3l3T083M3J0bVRFdjZDVnNLcUYxSW5RYXpsTXROSldiUDJZTUZFZQ?oc=5",
     "source": "DongA Science",
