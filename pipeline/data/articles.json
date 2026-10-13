@@ -739,6 +739,109 @@
   },
   {
     "kind": "article",
+    "title": "UPLiFT: Uncertainty Parameterized Activation for Lightweight Fine-Tuning",
+    "url": "https://doi.org/10.64898/2026.10.05.756747",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-13T02:42:42.567886+00:00",
+    "authors": [
+      "Abeer, A. N. M. N.",
+      "Rahmati, A. H.",
+      "Qian, X.",
+      "Yoon, B.-J."
+    ],
+    "summary": "Learned protein representations contribute to the broad utility of pretrained protein language models (PLMs), often enhanced by task-specific fine-tuning where parameter-efficient techniques are imperative due to large network size. Our work takes an orthogonal approach to such fine-tuning: rather than optimizing the network weights, we formulate adaptation as an optimization task over the parameterized activation space. Motivated by the prior work on curvature-tuning, we propose UPLiFT, Uncertainty Parameterized activation for Lightweight Fine-Tuning, with enhanced adaptation capacity when the underlying model--whether pretrained or randomly initialized--remains fixed, for significantly improved parameter efficiency. Furthermore, its learnable non-linearity naturally allows to model uncertainty over the activation space through fine-tuning in a variational inference framework. Evaluation across multiple protein datasets shows that UPLiFT performs competitively while requiring 3-11x fewer trainable parameters than weight-only adaptations. Bayesian UPLiFT further improves calibration while largely preserving the predictive performance of deterministically fine-tuned models. The narr",
+    "doi": "10.64898/2026.10.05.756747",
+    "company_slug": null,
+    "keywords_matched": [
+      "protein language model"
+    ],
+    "extra": {
+      "category": "bioinformatics"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.05.756747"
+  },
+  {
+    "kind": "article",
+    "title": "Gene Regulatory Network Inference reveals tcf4 as a key a player in neuroblastoma gene expression circuitry",
+    "url": "https://doi.org/10.64898/2026.07.07.737136",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-13T02:42:42.568372+00:00",
+    "authors": [
+      "Koering, C.",
+      "Vallin, E.",
+      "Picard, F.",
+      "Gonin-Giraud, S.",
+      "Gandrillon, O."
+    ],
+    "summary": "Neuroblastoma (NB), a pediatric cancer arising from disrupted sympathetic neuron differentiation, exhibits marked heterogeneity and limited therapeutic options. To better understand its molecular circuitry dynamics, we applied CardamomOT, a novel Gene Regulatory Network (GRN) inference framework, to single-cell RNA-seq data from patient-derived tumoroids. This approach models gene regulation via piecewise deterministic Markov processes, capturing transcriptional bursting and protein-mediated feedback, overcoming limitations of RNA velocity (e.g., gene independence and lack of biological time). We identified a continuous chromaffin-to-sympathoblast differentiation trajectory along which we selected 85 dynamically relevant genes enriched in cell cycle and DNA replication functions. Notably, 9 genes overlapped with those driving normal sympathoadrenal differentiation, underscoring tumor-normal tissue similarity. The inferred 85-genes network reproduced quite well experimental gene expression patterns in silico, and allowed to predict protein-level dynamics. Furthermore, it allowed to predict the effect of perturbations (both knock-out and overexpression) of hub genes (e.g., tcf4 and P",
+    "doi": "10.64898/2026.07.07.737136",
+    "company_slug": null,
+    "keywords_matched": [
+      "in silico"
+    ],
+    "extra": {
+      "category": "cancer biology"
+    },
+    "dedupe_key": "doi:10.64898/2026.07.07.737136"
+  },
+  {
+    "kind": "article",
+    "title": "Structure-Based Drug Design of Novel Inhibitors Targeting the Thiamine Biosynthesis Pathway in Bacteria",
+    "url": "https://doi.org/10.64898/2026.10.05.756923",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-13T02:42:43.664241+00:00",
+    "authors": [
+      "Krishna, N.",
+      "Ulaganathan, V."
+    ],
+    "summary": "Current generation antibiotics are limited by poor target selectivity and are often mismanaged, leading to widespread antimicrobial resistance. The bacterial thiamine biosynthesis pathway offers compelling alternative since it is highly essential for bacterial survival and yet absent in humans. Genetic perturbations within pathway lead to documented auxotrophy and virulence defects, indicating low mutational tolerance within this pathway. Thiamine phosphate synthase is a key bottleneck enzyme performing the crucial role of coupling thiazole and pyrimidine moieties to form thiamine monophosphate. To develop a suitable inhibitor against it, a structure-based drug design pipeline was implemented. High-throughput virtual screening of nearly 1.5 million molecules provided sufficient exploration of chemical space. Further, R-group substitution was utilized for lead optimization. Structure-Activity Relationship analysis upon molecular mutants reveals patterns among R-group interactions to catalytic residues across various scaffolds. Additionally, ADMET screening and validation using molecular dynamics simulations resulted in a potent orally bioavailable broad-spectrum bactericidal molecul",
+    "doi": "10.64898/2026.10.05.756923",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug design",
+      "virtual screening",
+      "ADMET",
+      "molecular dynamics",
+      "structure-based drug design"
+    ],
+    "extra": {
+      "category": "bioinformatics"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.05.756923"
+  },
+  {
+    "kind": "article",
+    "title": "Human Metalloenzymes Are Disproportionately Linked to Disease: The HEAM Structural Annotation Resource",
+    "url": "https://doi.org/10.64898/2026.10.09.758104",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-12",
+    "collected_at": "2026-10-13T02:42:43.664642+00:00",
+    "authors": [
+      "Miller, E.",
+      "Lim, S.",
+      "Copeland, M. M.",
+      "Slusky, J. S. G."
+    ],
+    "summary": "Catalytic metal-binding sites are established drug targets for many human diseases, yet systematic study of how metal function relates to disease is limited by the lack of a resource combining structural localization of human metal-binding sites with catalytic annotation at scale. We introduce HEAM (the Human Enzymatic Annotation of Metalloproteins), a structurally annotated dataset of 1,933 human metalloenzymes and 1,171 non-catalytic metalloproteins. HEAM incorporates annotated metals into protein structures at their corresponding binding sites and classifies each site as catalytic or non-catalytic using the machine learning classifier MAHOMES II. HEAM more than quadruples the human site-level coverage of the largest prior metalloenzyme database. Using HEAM, we show that human metalloproteins are significantly enriched in KEGG disease pathways relative to the human proteome, and that metalloenzymes specifically are significantly enriched in ClinVar pathogenic variants -- a distinction obscured in prior, catalytically unresolved metalloprotein datasets. These pathogenic variants are concentrated in metabolic disorders, indicating that metabolic dysfunction is a substantial contrib",
+    "doi": "10.64898/2026.10.09.758104",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug design"
+    ],
+    "extra": {
+      "category": "biophysics"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.09.758104"
+  },
+  {
+    "kind": "article",
     "title": "In silico subtractive genomics and reverse vaccinology approach reveal outer membrane proteins OMP47 and LptD as dual-purpose drug and vaccine targets in Pasteurella multocida Pm70",
     "url": "https://doi.org/10.64898/2026.10.07.757254",
     "source": "bioRxiv",
