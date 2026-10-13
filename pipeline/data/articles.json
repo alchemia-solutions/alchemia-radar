@@ -482,6 +482,33 @@
   },
   {
     "kind": "article",
+    "title": "Molecular mechanism of Aurora-A binding and activation by hnRNPK",
+    "url": "https://doi.org/10.64898/2026.10.11.757697",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-13",
+    "collected_at": "2026-10-13T20:49:06.117041+00:00",
+    "authors": [
+      "Mohan, I.",
+      "Martin Viney, L.",
+      "Batchelor, M.",
+      "Richards, M. W.",
+      "Ochi, T.",
+      "Bayliss, R."
+    ],
+    "summary": "Aurora-A kinase (AurA) is a serine/threonine kinase regulated by protein binding partners such as TPX2, which interacts with the Y-pocket of the kinase domain. Although the canonical functions of AurA are mitotic, where it phosphorylates spindle-associated proteins such as TACC3, there is evidence for non-mitotic, chromatin-associated roles. Heterogenous nuclear ribonucleoprotein K (hnRNPK) is a transcriptional regulator and an AurA substrate, how AurA is activated in this pathway is unknown. Their interaction contributes to cancer-associated nuclear accumulation of AurA and has been implicated in driving oncogenic transcription of MYC. Here, we show that hnRNPK promotes AurA autophosphorylation and stimulates AurA activity. The interface was mapped to residues 330-380, an intrinsically disordered region of hnRNPK, and the AurA Y-pocket, using NMR spectroscopy and competitive-binding experiments with mitotic and synthetic AurA-binding partners. AlphaFold3 modelling of the complex predicted Phe339 and Trp345 at the kinase Y-pocket, and site-specific mutagenesis confirmed these as key residues for AurA binding and activation. Our work provides a mechanistic basis for hnRNPK-dependent",
+    "doi": "10.64898/2026.10.11.757697",
+    "company_slug": null,
+    "keywords_matched": [
+      "AlphaFold"
+    ],
+    "extra": {
+      "category": "biochemistry"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.11.757697"
+  },
+  {
+    "kind": "article",
     "title": "A StayGold-based calcium ion indicator",
     "url": "https://doi.org/10.64898/2026.03.06.710044",
     "source": "bioRxiv",
