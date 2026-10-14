@@ -75,6 +75,35 @@ topics:
   - descoberta de fármacos
   - planejamento de fármacos
 
+  # 2026-10-14 -- TEMAS E TERMOS POR FASE (pedido do fundador: "virtual cell" e "AI drug design" por
+  # fase e missao). Medido ANTES de entrar, contra o acervo local (pipeline/data/articles+news+
+  # companies_activity, 8.658 linhas somadas nesta data; noticia de empresa existe em news.json E em
+  # companies_activity.json, entao ha contagem dupla; checkout do Radar 1 commit atras do remoto, entao
+  # e uma amostra, nao o acervo da producao): "novos" = linhas que hoje NAO casam nenhum termo.
+  #   virtual cell ............. 19 itens, 14 novos (tema, fases WET LAB e AURORA/WORKBENCH como fonte de modelo)
+  #   AI drug design ........... 42 itens, 0 novos (ja casavam por "drug design"; entra para a tag
+  #                              keywords_matched dizer o tema pelo nome)
+  #   AI co-scientist .......... 12 itens, 5 novos (WORKBENCH: agente orquestrador, termo da Vecura,
+  #                              da DeepMind e da Schrodinger/Bunsen nos relatorios 04a)
+  #   high-throughput screening  21 itens, 2 novos (WET LAB: a fala do fundador diz "High Throughput screening")
+  #   lab-in-the-loop .......... 4 itens, 1 novo (WET LAB: palavra da Recursion no relatorio 04b)
+  #   digital twin ............. 8 itens, 0 novos (CLINICAL TRIALS: frente "Patient Digital Twins")
+  #   celula virtual ........... 1 item, 1 novo (equivalente PT direto de "virtual cell", mesmo criterio
+  #                              de 2026-09-04; traducao nossa, nao veio dos relatorios)
+  # Medidos e NAO adicionados (inundariam o filtro dos veiculos generalistas: Fierce, BioPharma Dive,
+  # Labiotech, Butantan, Fiocruz): "clinical trial" (63 itens, 30 novos), "ensaio clinico" (7, 7 novos),
+  # "FDA approval" (8, 6 novos), "phase 3" (10, 8 novos). Por isso CLINICAL TRIALS e THE CURE ficam
+  # com um termo so e AURORA/DRY LAB, nenhum: os termos de CADD do topo ja cobrem o DRY LAB, e
+  # nenhum relatorio da nome de termo proprio para AURORA ou THE CURE. Reavaliar com spec se o
+  # fundador quiser cobertura dessas duas fases por termo.
+  - virtual cell
+  - AI drug design
+  - AI co-scientist
+  - high-throughput screening
+  - lab-in-the-loop
+  - digital twin
+  - célula virtual
+
 # Query compacta usada pelo coletor PubMed (E-utils), ancorada no nicho de IA+CADD — evita o
 # ruído de "drug discovery" genérico (majoritariamente clínico/regulatório, não computacional).
 pubmed_query: >-
@@ -125,3 +154,6 @@ google_news_queries_en:
   - '"AlphaFold" drug discovery'
   - '"AI vaccine design"'
   - '"molecular docking" AI'
+  # 2026-10-14: os dois temas pedidos pelo fundador como busca propria (a rotacao por empresa nao os pega).
+  - '"virtual cell" AI'
+  - '"AI drug design"'

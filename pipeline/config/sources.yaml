@@ -167,3 +167,72 @@ google_news_general:
   hl_gl:
     - {hl: "en-US", gl: "US", ceid: "US:en", query_set: "google_news_queries_en"}
     - {hl: "pt-BR", gl: "BR", ceid: "BR:pt", query_set: "google_news_queries_pt"}
+
+# ---------------------------------------------------------------------------------------------------
+# 2026-10-14 -- MAPA DE EMPRESAS POR FASE: feeds de empresa e pendencias (pedido do fundador).
+# Relatorios: alchemia-ai/ai-engineering/docs/descoberta-agentes-por-fase/04a-empresas-in-silico.md e
+# 04b-empresas-lab-e-clinica.md. Este bloco e REGISTRO: nao tem chave que algum coletor leia.
+#
+# ONDE OS FEEDS DE EMPRESA ENTRAM. Feed de empresa nao vai em `newsletter_feeds` (que cria item
+# `newsletter` sem empresa): vai em companies.yaml com `method: rss`, que e o caminho do coletor
+# `companies` (item `company_blog` com `company_slug`, a pagina Empresas do System). E o mesmo caminho
+# do BioSolveIT, que ja estava la. Os quatro feeds do 04a foram REVALIDADOS em 2026-10-14 com GET real
+# e o parser do proprio Radar (`feed_collector.fetch_feed`), nao so com curl:
+#
+#   feed                                     HTTP  itens  datas dos itens          entrada (companies.yaml)
+#   deepmind.google/blog/rss.xml             200   100    2025-11-18 a 2026-10-14  google-deepmind-blog (filter true:
+#                                                                                   blog generalista, 3 dos 100 casam
+#                                                                                   os termos anteriores a esta data)
+#   rowansci.substack.com/feed               200   20     2026-04-09 a 2026-10-05  rowan-scientific-blog (filter false)
+#   optibrium.com/feed (301 para /feed/)     200   19     2023-12-07 a 2026-03-24  optibrium (filter false)
+#   www.biosolveit.de/feed (301 para /feed/) 200   10     2026-08-04 a 2026-10-14  biosolveit, que ja existia (nada novo)
+#
+# O DeepMind respondeu XML com e sem `--compressed` (o `http_get` do Radar nao pede compressao e leu
+# os 100 itens). Os itens antigos entram na primeira coleta (o coletor `companies` nao tem janela, como
+# os demais feeds de empresa); a deduplicacao por URL impede repeticao depois.
+#
+# PENDENCIAS DO MAPA POR FASE (nada disto foi criado; cada item pede decisao ou spec):
+# 1. Varredura de pagina de noticias (sem RSS). O Radar NAO tem coletor de pagina HTML: `fetch_feed` so le
+#    RSS/Atom e levanta FeedIndisponivel diante de HTML. Coletor novo = fonte nova = spec com delta medido
+#    (AGENTS.md do Radar, secao 5). Paginas que os relatorios apontam, sem feed: Isomorphic /news,
+#    Adaptyv /blog, Insilico /news (parada em 2023 segundo a 04b), /blog e /publications, Anthropic /news,
+#    Expasy /news, Iktos /resources/articles, LILA /news, Vecura /en/news, Chai /news, Boltz /news,
+#    Genesis /news, Cradle /blog, Absci press-releases, Generate media-center, XtalPi /category/news,
+#    Simulations Plus press-releases, Cresset /news, Medidata e Veeva (indices nao abertos pela 04b),
+#    Owkin, Arc, Biohub, Ginkgo. Enquanto isso, cada uma dessas empresas e coberta por Google News
+#    (companies.yaml), que e noticia de terceiros, nao o canal da empresa.
+# 2. Bloqueadas ao acesso automatico: ir.recursion.com/news-events/press-releases (403, confirmado de
+#    novo em 2026-10-14), ir.schrodinger.com RSS (403 na 04a, nao retestado), Charles River (403 na 04b,
+#    sem entrada: nada confirmado sobre a empresa). Nao se contorna bloqueio.
+# 3. Evotec: a 04b viu o link evotec.com/ir-news/news/rss sem abri-lo. Aberto agora, devolve HTML
+#    (HTTP 200, text/html, 8.109 bytes), nao feed. Nao entrou como rss.
+# 4. Registro de trials (ClinicalTrials.gov): o Radar nao tem coletor de registro. A API v2 respondeu
+#    JSON em 2026-10-14 (GET /api/v2/studies/NCT07687459 com o User-Agent do Radar: HTTP 200; fase PHASE3,
+#    RECRUITING, patrocinador InSilico Medicine Hong Kong Limited, o que bate com a 04b). As regras de uso
+#    e limites de taxa nao foram lidos (a 04b tambem nao os leu: "nao confirmado"). Os NCT de Insilico e
+#    Recursion estao em `registro_trial` no companies.yaml, prontos para um coletor que a spec decidir.
+#    Nao e fonte de "todos os ensaios": so dos patrocinadores listados, quando existir.
+# 5. Fora do mapa, e por que: AI4Pharma (04a: fora do recorte, sem fase de drug discovery); Numerion
+#    Labs (a 04a nao da fase e nao confirma o vinculo com a Atomwise; atomwise.com redireciona para ela);
+#    Strateos (04b: atividade em 2026 nao confirmada); Tempus (429, nada lido); Charles River (403);
+#    a pagina da CZI (404; a plataforma de modelos de celula virtual esta em Biohub, que entrou).
+#    Exscientia nao tem leitura propria: e subsidiaria da Recursion segundo a 04b.
+
+# ---------------------------------------------------------------------------------------------------
+# 2026-10-14 (segunda rodada, 04c-empresas-segunda-rodada.md) -- feeds revalidados com GET real e com o parser do Radar
+# (mesmo critério do bloco acima; mesmo destino: companies.yaml, `method: rss`):
+#
+#   feed                                    HTTP  itens  datas dos itens          entrada (companies.yaml)
+#   www.certara.com/feed/                   200   10     2026-10-06 a 2026-10-13  certara (filter false)
+#   www.benchling.com/feed.rss              200   300    2019-09-04 a 2026-10-06  benchling (filter TRUE: 300 itens desde
+#                                                                                  2019 inundariam a base; 12 de 300 casam
+#                                                                                  os termos de antes desta data e 12 passam
+#                                                                                  hoje, na coleta de teste)
+#   www.synthace.com/blog/rss.xml           200   10     2023-09-20 a 2026-07-20  synthace (filter false; cadência baixa)
+#
+# Não entram como feed (decisão do coordenador, 2026-10-14): emulatebio.com/feed (parado desde 2026-06-11; a empresa entra por
+# Google News), opentrons.com/feed e relaytx.com/feed (XML válido sem nenhum item). Tempus, Charles River e Lilly TuneLab bloqueiam
+# o acesso automático: ficam na chave `a_acompanhar` de companies.yaml, sem coleta; Lilly TuneLab marcada `a-confirmar`.
+# Pendências novas: varredura de página para IQVIA, Certara News, Automata, Xaira, Cellarity, Valo, Dotmatics, Enamine, Iambic, insitro
+# e Relay (ir.relaytx.com, 403); os trials de Relay (NCT06982521, NCT05216432, NCT06789913, NCT07584226) e Iambic (NCT06253871)
+# esperam o coletor de registro da pendência 4 acima. Valem os dados do registro, não os da página.

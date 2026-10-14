@@ -8,6 +8,31 @@
 # category usada para agrupar/filtrar na página Empresas:
 #   ai_drug_discovery | cadd_platform | biotech_ai | big_tech_ai | br_institution | bioinformatics_resource
 
+#
+# 2026-10-14 -- MARCAS DO MAPA POR FASE (pedido do fundador; relatorios
+# alchemia-ai/ai-engineering/docs/descoberta-agentes-por-fase/04a-empresas-in-silico.md e
+# 04b-empresas-lab-e-clinica.md, lidos em site oficial em 2026-10-14). Campos opcionais, lidos so por
+# quem quiser filtrar (o coletor e o System ignoram; o catalogo no banco guarda a entrada inteira como
+# jsonb; o espelho do Supabase tem colunas fixas e NAO leva estes campos). O vocabulario e imposto por
+# pipeline/tests/test_config_empresas.py, nos dois sentidos:
+#   fase:  lista de aurora | dry-lab | workbench | wet-lab | clinical-trials | the-cure
+#          (a fase que o relatorio atribui; virtual cell nao e fase: fica em `temas`)
+#   missao: lista de athanor | aurora | workbench, SO quando o relatorio a atribui (lista vazia = o
+#          relatorio nao atribuiu; nada foi inferido)
+#   tipo:  lista de concorrente | ferramenta | fonte-de-dado | referencia | parceiro | cro
+#   temas: opcional; virtual-cell | ai-drug-design, so onde o relatorio os liga a empresa
+#   a_confirmar: o que o relatorio diz "nao confirmado" para a empresa (licenca, preco, produto...);
+#          nada disso foi tratado como fato. Empresa inteira "nao confirmada" NAO entra aqui.
+#   registro_trial: NCT resolvidos no ClinicalTrials.gov pela 04b em 2026-10-14. Nenhum coletor os
+#          le ainda (ver "Pendencias do mapa por fase" em sources.yaml); status muda, leia no registro.
+#   relatorio: 04a, 04b ou 04a+04b -- onde a empresa foi lida.
+#   nota: risco de claim, de LGPD ou de licenca que o relatorio registra.
+# Tipo e fase sao julgamento nosso nos relatorios, nao afirmacao da empresa. Nenhuma entrada diz que a
+# Alchemia e melhor, maior ou equivalente a ninguem. Uma entrada = um metodo; por isso o blog de Rowan
+# e o de DeepMind tem slug proprio (-blog) ao lado da entrada por Google News.
+#   Chave `a_acompanhar` (no fim do arquivo): empresas SEM COLETA (acesso bloqueado ou fonte nao confirmada),
+#   com `situacao`. Nenhum coletor a le; o teste impede que um slug dela entre em `companies` por engano.
+
 companies:
   - slug: schrodinger
     name: "Schrödinger"
@@ -16,6 +41,11 @@ companies:
     method: google_news
     query: '"Schrodinger" (drug discovery OR "molecular design" OR "computational chemistry" OR pharmaceutical)'
     filter_relevance: false
+    fase: [dry-lab, workbench]
+    missao: [workbench]
+    tipo: [concorrente, referencia]
+    a_confirmar: [licenca, preco]
+    relatorio: "04a"
     logo_hint: "S"
 
   - slug: isomorphic-labs
@@ -25,6 +55,13 @@ companies:
     method: google_news
     query: '"Isomorphic Labs"'
     filter_relevance: false
+    fase: [dry-lab]
+    missao: []
+    tipo: [referencia]
+    temas: [virtual-cell, ai-drug-design]
+    a_confirmar: [produto, pipeline, modelo-comercial, membros-vbi]
+    relatorio: "04a+04b"
+    nota: "Virtual Biology Initiative (convocada pela Biohub): Isomorphic e membro fundador segundo a propria pagina; datas da pagina divergem entre secoes"
 
   - slug: adaptyv-bio
     name: "Adaptyv Bio"
@@ -33,6 +70,12 @@ companies:
     method: google_news
     query: '"Adaptyv Bio"'
     filter_relevance: false
+    fase: [wet-lab, dry-lab]
+    missao: [workbench, aurora]
+    tipo: [parceiro, ferramenta, fonte-de-dado]
+    a_confirmar: [licenca-proteinbase, termos-de-pi]
+    relatorio: "04a+04b"
+    nota: "ler os Termos antes de enviar qualquer sequencia da Alchemia"
 
 
   - slug: rowan-scientific
@@ -42,6 +85,12 @@ companies:
     method: google_news
     query: '"Rowan Scientific"'
     filter_relevance: false
+    fase: [dry-lab, workbench]
+    missao: [workbench]
+    tipo: [concorrente, ferramenta]
+    a_confirmar: [preco, codigo-aberto]
+    relatorio: "04a"
+    nota: "o blog entra pelo feed em rowan-scientific-blog"
 
   - slug: insilico-medicine
     name: "Insilico Medicine"
@@ -50,6 +99,14 @@ companies:
     method: google_news
     query: '"Insilico Medicine"'
     filter_relevance: false
+    fase: [dry-lab, clinical-trials, the-cure]
+    missao: [athanor, workbench, aurora]
+    tipo: [concorrente, referencia]
+    temas: [ai-drug-design]
+    a_confirmar: [preco, licenca-software, aprovacao-regulatoria]
+    registro_trial: [NCT07687459]
+    relatorio: "04a+04b"
+    nota: "NCT resolvido no ClinicalTrials.gov pela 04b em 2026-10-14 (Fase 3 iniciada; nenhuma aprovacao confirmada); a pagina /news da empresa para em 2023, o registro vence"
 
   - slug: pharma-ai
     name: "Pharma.AI"
@@ -58,6 +115,11 @@ companies:
     method: google_news
     query: '"Pharma.AI" Insilico'
     filter_relevance: false
+    fase: [dry-lab]
+    missao: []
+    tipo: [concorrente]
+    relatorio: "04a"
+    nota: "suite de software da Insilico Medicine (insilico-medicine)"
 
   - slug: claude-science
     name: "Claude Science (Anthropic)"
@@ -66,6 +128,12 @@ companies:
     method: google_news
     query: '"Claude Science" Anthropic'
     filter_relevance: false
+    fase: [workbench, dry-lab]
+    missao: [workbench]
+    tipo: [ferramenta, referencia]
+    a_confirmar: [preco]
+    relatorio: "04a"
+    nota: "mesmo fornecedor do modelo que opera os agentes da Alchemia: declarar o conflito de interesse em qualquer material comparativo"
 
   - slug: expasy
     name: "ExPASy (SIB)"
@@ -74,6 +142,11 @@ companies:
     method: google_news
     query: '"ExPASy" OR "SIB Swiss Institute of Bioinformatics"'
     filter_relevance: false
+    fase: [dry-lab, aurora]
+    missao: [aurora]
+    tipo: [fonte-de-dado, ferramenta]
+    a_confirmar: [licenca]
+    relatorio: "04a"
 
   - slug: biosolveit
     name: "BioSolveIt"
@@ -82,6 +155,11 @@ companies:
     method: rss
     feed_url: "https://www.biosolveit.de/feed/"
     filter_relevance: false
+    fase: [dry-lab]
+    missao: []
+    tipo: [concorrente, ferramenta, referencia]
+    a_confirmar: [licenca]
+    relatorio: "04a"
 
 
   - slug: recursion
@@ -91,6 +169,13 @@ companies:
     method: google_news
     query: '"Recursion Pharmaceuticals"'
     filter_relevance: false
+    fase: [wet-lab, clinical-trials, the-cure]
+    missao: [athanor, workbench, aurora]
+    tipo: [concorrente, referencia]
+    a_confirmar: [modelo-comercial, licenca, nct-rec-3565, rss-ir]
+    registro_trial: [NCT05552755, NCT06678659, NCT07819136, NCT05985655, NCT06980116, NCT07517198]
+    relatorio: "04b"
+    nota: "NCTs resolvidos no ClinicalTrials.gov pela 04b em 2026-10-14; numeros de escala da empresa nao se repetem como fato nosso; ir.recursion.com respondeu 403"
 
   - slug: iktos
     name: "Iktos"
@@ -99,6 +184,11 @@ companies:
     method: google_news
     query: '"Iktos"'
     filter_relevance: false
+    fase: [dry-lab]
+    missao: []
+    tipo: [concorrente, ferramenta]
+    a_confirmar: [preco, ilaka]
+    relatorio: "04a"
 
   - slug: lila-sciences
     name: "Lila Sciences"
@@ -107,6 +197,11 @@ companies:
     method: google_news
     query: '"Lila Sciences"'
     filter_relevance: false
+    fase: [workbench, wet-lab]
+    missao: [workbench]
+    tipo: [referencia]
+    a_confirmar: [cobertura-drug-discovery, financiamento]
+    relatorio: "04a+04b"
 
   - slug: vecura
     name: "Vecura"
@@ -115,6 +210,12 @@ companies:
     method: google_news
     query: '"Vecura" (biotech OR bio OR drug OR "cell therapy" OR "gene therapy")'
     filter_relevance: false
+    fase: [dry-lab, workbench]
+    missao: [athanor, workbench]
+    tipo: [concorrente]
+    temas: [ai-drug-design]
+    a_confirmar: [pais, entidade-juridica, preco]
+    relatorio: "04a+04b"
 
   - slug: google-deepmind
     name: "Google DeepMind"
@@ -123,6 +224,13 @@ companies:
     method: google_news
     query: '"Google DeepMind" (protein OR AlphaFold OR "drug discovery" OR biology OR chemistry)'
     filter_relevance: false
+    fase: [dry-lab, aurora, workbench]
+    missao: [aurora, workbench, athanor]
+    tipo: [referencia]
+    temas: [virtual-cell, ai-drug-design]
+    a_confirmar: [licenca-alphafold3, licenca-alphagenome, virtual-cell-fonte-primaria]
+    relatorio: "04a+04b"
+    nota: "o blog entra pelo feed em google-deepmind-blog"
 
   - slug: anthropic
     name: "Anthropic"
@@ -147,6 +255,12 @@ companies:
     method: rss
     feed_url: "https://blogs.nvidia.com/feed/"
     filter_relevance: true
+    fase: [dry-lab]
+    missao: []
+    tipo: [ferramenta, parceiro]
+    a_confirmar: [licenca-bionemo]
+    relatorio: "04a"
+    nota: "BioNeMo; o feed e generalista, por isso filter_relevance true"
 
   - slug: microsoft-research
     name: "Microsoft Research"
@@ -202,3 +316,648 @@ companies:
     method: rss
     feed_url: "https://agencia.fiocruz.br/rss.xml"
     filter_relevance: true
+
+  # --- 2026-10-14: mapa de empresas por fase (pedido do fundador; relatorios 04a e 04b) ---
+  # Empresas das fases DRY LAB, AURORA e WORKBENCH (04a-empresas-in-silico.md).
+
+  - slug: genix-ai
+    name: "Genix.ai"
+    url: "https://genix.ai/"
+    category: biotech_ai
+    method: google_news
+    query: '"Genix.ai" -ABB'
+    filter_relevance: false
+    fase: [dry-lab, clinical-trials]
+    missao: [aurora]
+    tipo: [concorrente, referencia]
+    a_confirmar: [regulatorio-produto-clinico]
+    relatorio: "04a+04b"
+    nota: "vende relatorio de DNA ao consumidor: dado genetico e dado pessoal sensivel; qualquer troca de dado vai ao fundador (LGPD)"
+
+  - slug: chai-discovery
+    name: "Chai Discovery"
+    url: "https://www.chaidiscovery.com/"
+    category: ai_drug_discovery
+    method: google_news
+    query: '"Chai Discovery"'
+    filter_relevance: false
+    fase: [dry-lab]
+    missao: []
+    tipo: [referencia]
+    a_confirmar: [licenca-pesos, acesso]
+    relatorio: "04a"
+
+  - slug: genesis-therapeutics
+    name: "Genesis Therapeutics"
+    url: "https://genesis.ml/"
+    category: ai_drug_discovery
+    method: google_news
+    query: '"Genesis Therapeutics"'
+    filter_relevance: false
+    fase: [dry-lab]
+    missao: []
+    tipo: [referencia]
+    a_confirmar: [licenciamento-externo]
+    relatorio: "04a"
+
+  - slug: boltz
+    name: "Boltz"
+    url: "https://boltz.com/"
+    category: ai_drug_discovery
+    method: google_news
+    query: '"Boltz PBC" OR "Boltz-2" OR "BoltzGen"'
+    filter_relevance: false
+    fase: [dry-lab, workbench]
+    missao: []
+    tipo: [ferramenta, concorrente]
+    a_confirmar: [licenca-boltz-2, licenca-boltzgen, rss]
+    relatorio: "04a"
+
+  - slug: evolutionaryscale
+    name: "EvolutionaryScale"
+    url: "https://www.evolutionaryscale.ai/"
+    category: biotech_ai
+    method: google_news
+    query: '"EvolutionaryScale" OR "ESM3" protein'
+    filter_relevance: false
+    fase: [dry-lab, aurora]
+    missao: [aurora]
+    tipo: [ferramenta, referencia]
+    a_confirmar: [licenca-esm3-open, vinculo-biohub]
+    relatorio: "04a"
+
+  - slug: biohub
+    name: "Biohub"
+    url: "https://www.biohub.org/"
+    category: biotech_ai
+    method: google_news
+    query: '"Biohub" ("virtual cell" OR "virtual cells" OR "Virtual Biology Initiative" OR "EvolutionaryScale")'
+    filter_relevance: false
+    fase: [wet-lab]
+    missao: [aurora, workbench]
+    tipo: [fonte-de-dado, referencia, ferramenta]
+    temas: [virtual-cell]
+    a_confirmar: [licenca, termos-de-uso]
+    relatorio: "04a+04b"
+    nota: "fase wet-lab pela frente In vitro & Virtual Cells do WET LAB; plataforma de modelos de celula virtual em virtualcellmodels.cziscience.com (requer login)"
+
+  - slug: cradle
+    name: "Cradle"
+    url: "https://www.cradle.bio/"
+    category: biotech_ai
+    method: google_news
+    query: '"Cradle.bio" OR ("Cradle" "protein engineering")'
+    filter_relevance: false
+    fase: [dry-lab, workbench]
+    missao: []
+    tipo: [concorrente]
+    relatorio: "04a"
+
+  - slug: absci
+    name: "Absci"
+    url: "https://www.absci.com/"
+    category: ai_drug_discovery
+    method: google_news
+    query: '"Absci" (AI OR antibody OR biologics)'
+    filter_relevance: false
+    fase: [dry-lab, wet-lab]
+    missao: []
+    tipo: [referencia]
+    relatorio: "04a"
+    nota: "dados clinicos e de pipeline sao da empresa"
+
+  - slug: generate-biomedicines
+    name: "Generate:Biomedicines"
+    url: "https://generatebiomedicines.com/"
+    category: ai_drug_discovery
+    method: google_news
+    query: '"Generate Biomedicines" OR "Generate:Biomedicines"'
+    filter_relevance: false
+    fase: [dry-lab, clinical-trials]
+    missao: []
+    tipo: [referencia]
+    relatorio: "04a"
+    nota: "estagio clinico e valor de acordo sao da empresa ou da imprensa"
+
+  - slug: xtalpi
+    name: "XtalPi"
+    url: "https://en.xtalpi.com/"
+    category: ai_drug_discovery
+    method: google_news
+    query: '"XtalPi"'
+    filter_relevance: false
+    fase: [dry-lab, wet-lab]
+    missao: []
+    tipo: [concorrente, referencia]
+    a_confirmar: [modelo-comercial]
+    relatorio: "04a"
+
+  - slug: openeye-cadence
+    name: "OpenEye (Cadence Molecular Sciences)"
+    url: "https://www.eyesopen.com/"
+    category: cadd_platform
+    method: google_news
+    query: '"OpenEye" ("Cadence" OR "Orion" OR "drug discovery")'
+    filter_relevance: false
+    fase: [dry-lab]
+    missao: []
+    tipo: [concorrente, ferramenta]
+    a_confirmar: [licenca]
+    relatorio: "04a"
+
+  - slug: chemical-computing-group
+    name: "Chemical Computing Group"
+    url: "https://www.chemcomp.com/"
+    category: cadd_platform
+    method: google_news
+    query: '"Chemical Computing Group"'
+    filter_relevance: false
+    fase: [dry-lab]
+    missao: []
+    tipo: [concorrente, ferramenta]
+    a_confirmar: [licenca, preco]
+    relatorio: "04a"
+    nota: "sem blog nem feed; o News da empresa aponta para redes sociais, fora de escopo"
+
+  - slug: optibrium
+    name: "Optibrium"
+    url: "https://optibrium.com/"
+    category: cadd_platform
+    method: rss
+    feed_url: "https://optibrium.com/feed/"
+    filter_relevance: false
+    fase: [dry-lab, workbench]
+    missao: []
+    tipo: [concorrente]
+    a_confirmar: [preco]
+    relatorio: "04a"
+
+  - slug: cresset
+    name: "Cresset"
+    url: "https://www.cresset-group.com/"
+    category: cadd_platform
+    method: google_news
+    query: '"Cresset" ("Flare" OR "drug discovery" OR "Cresset Group")'
+    filter_relevance: false
+    fase: [dry-lab]
+    missao: []
+    tipo: [concorrente, ferramenta, cro]
+    a_confirmar: [licenca, rss]
+    relatorio: "04a"
+
+  - slug: simulations-plus
+    name: "Simulations Plus"
+    url: "https://www.simulations-plus.com/"
+    category: cadd_platform
+    method: google_news
+    query: '"Simulations Plus"'
+    filter_relevance: false
+    fase: [dry-lab]
+    missao: []
+    tipo: [concorrente, ferramenta]
+    a_confirmar: [licenca]
+    relatorio: "04a"
+    nota: "a 04a a coloca fora do recorte in silico (baixa prioridade); entra pelo QSAR de ADMET"
+
+  - slug: rowan-scientific-blog
+    name: "Rowan Scientific (blog)"
+    url: "https://www.rowansci.com/blog"
+    category: cadd_platform
+    method: rss
+    feed_url: "https://rowansci.substack.com/feed"
+    filter_relevance: false
+    fase: [dry-lab, workbench]
+    missao: [workbench]
+    tipo: [concorrente, ferramenta]
+    relatorio: "04a"
+    nota: "feed do mesmo fornecedor de rowan-scientific; slug proprio porque cada entrada tem um so metodo"
+
+  - slug: google-deepmind-blog
+    name: "Google DeepMind (blog)"
+    url: "https://deepmind.google/blog/"
+    category: big_tech_ai
+    method: rss
+    feed_url: "https://deepmind.google/blog/rss.xml"
+    filter_relevance: true
+    fase: [dry-lab, aurora, workbench]
+    missao: [aurora, workbench, athanor]
+    tipo: [referencia]
+    temas: [virtual-cell, ai-drug-design]
+    a_confirmar: [virtual-cell-fonte-primaria]
+    relatorio: "04a+04b"
+    nota: "feed generalista (todo o blog de IA), por isso filter_relevance true; slug proprio porque cada entrada tem um so metodo"
+
+  # Empresas das fases WET LAB, CLINICAL TRIALS e THE CURE (04b-empresas-lab-e-clinica.md).
+
+  - slug: ginkgo-bioworks
+    name: "Ginkgo Bioworks"
+    url: "https://www.ginkgo.bio/"
+    category: biotech_ai
+    method: google_news
+    query: '"Ginkgo Bioworks"'
+    filter_relevance: false
+    fase: [wet-lab]
+    missao: [workbench]
+    tipo: [ferramenta, fonte-de-dado, parceiro]
+    a_confirmar: [preco, termos-de-dados]
+    relatorio: "04b"
+
+  - slug: emerald-cloud-lab
+    name: "Emerald Cloud Lab"
+    url: "https://www.emeraldcloudlab.com/"
+    category: biotech_ai
+    method: google_news
+    query: '"Emerald Cloud Lab"'
+    filter_relevance: false
+    fase: [wet-lab]
+    missao: [workbench]
+    tipo: [ferramenta, parceiro]
+    a_confirmar: [preco, conformidade-gxp]
+    relatorio: "04b"
+
+  - slug: evotec
+    name: "Evotec"
+    url: "https://www.evotec.com/en"
+    category: biotech_ai
+    method: google_news
+    query: '"Evotec" ("drug discovery" OR CRO OR preclinical)'
+    filter_relevance: false
+    fase: [wet-lab]
+    missao: [workbench]
+    tipo: [cro, parceiro]
+    a_confirmar: [preco, rss-ir]
+    relatorio: "04b"
+    nota: "a 04b viu um link de RSS em evotec.com/ir-news/news/rss, sem abri-lo"
+
+  - slug: wuxi-apptec
+    name: "WuXi AppTec"
+    url: "https://www.wuxiapptec.com/"
+    category: biotech_ai
+    method: google_news
+    query: '"WuXi AppTec"'
+    filter_relevance: false
+    fase: [wet-lab]
+    missao: []
+    tipo: [cro]
+    a_confirmar: [situacao-regulatoria-geopolitica]
+    relatorio: "04b"
+    nota: "situacao de restricoes legais nos EUA nao foi confirmada: verificar antes de qualquer parceria ou mencao"
+
+  - slug: medidata
+    name: "Medidata"
+    url: "https://www.medidata.com/en/"
+    category: biotech_ai
+    method: google_news
+    query: '"Medidata" ("clinical trial" OR "clinical trials" OR "Rave")'
+    filter_relevance: false
+    fase: [clinical-trials]
+    missao: [workbench]
+    tipo: [ferramenta, referencia]
+    a_confirmar: [proprietario, licenca]
+    relatorio: "04b"
+    nota: "processa dado de paciente: uso no Brasil implica LGPD, Anvisa e CEP/CONEP (a checar em fonte legal)"
+
+  - slug: veeva-systems
+    name: "Veeva Systems"
+    url: "https://www.veeva.com/"
+    category: biotech_ai
+    method: google_news
+    query: '"Veeva" ("clinical" OR "life sciences")'
+    filter_relevance: false
+    fase: [clinical-trials]
+    missao: []
+    tipo: [ferramenta, referencia]
+    a_confirmar: [modelo-comercial, licenca]
+    relatorio: "04b"
+
+  - slug: unlearn-ai
+    name: "Unlearn"
+    url: "https://www.unlearn.ai/"
+    category: biotech_ai
+    method: google_news
+    query: '"Unlearn" ("digital twin" OR "digital twins") clinical'
+    filter_relevance: false
+    fase: [clinical-trials]
+    missao: []
+    tipo: [referencia, parceiro]
+    a_confirmar: [status-regulatorio-ema-fda]
+    relatorio: "04b"
+    nota: "alegacoes de economia e de braco de controle menor sao da empresa"
+
+  - slug: owkin
+    name: "Owkin"
+    url: "https://www.owkin.com/"
+    category: ai_drug_discovery
+    method: google_news
+    query: '"Owkin"'
+    filter_relevance: false
+    fase: [dry-lab, wet-lab, clinical-trials]
+    missao: [aurora, workbench]
+    tipo: [concorrente, referencia]
+    temas: [ai-drug-design]
+    a_confirmar: [base-legal-rede-de-pacientes, indice-de-imprensa]
+    relatorio: "04b"
+
+  - slug: formation-bio
+    name: "Formation Bio"
+    url: "https://www.formation.bio/"
+    category: biotech_ai
+    method: google_news
+    query: '"Formation Bio"'
+    filter_relevance: false
+    fase: [clinical-trials, the-cure]
+    missao: []
+    tipo: [referencia]
+    a_confirmar: [parceiros-de-tecnologia]
+    relatorio: "04b"
+
+  - slug: arc-institute
+    name: "Arc Institute"
+    url: "https://arcinstitute.org/"
+    category: biotech_ai
+    method: google_news
+    query: '"Arc Institute" ("virtual cell" OR "Evo 2" OR "foundation model")'
+    filter_relevance: false
+    fase: [wet-lab]
+    missao: []
+    tipo: [referencia, ferramenta]
+    temas: [virtual-cell]
+    a_confirmar: [licenca, acesso]
+    relatorio: "04b"
+
+  # Empresas da segunda rodada (04c-empresas-segunda-rodada.md), lidas em fonte primaria em 2026-10-14.
+
+  - slug: certara
+    name: "Certara (inclui ChemAxon)"
+    url: "https://www.certara.com/"
+    category: cadd_platform
+    method: rss
+    feed_url: "https://www.certara.com/feed/"
+    filter_relevance: false
+    fase: [dry-lab, clinical-trials]
+    missao: [workbench]
+    tipo: [concorrente, ferramenta]
+    a_confirmar: [licenca-chemaxon, termos-nvidia-bionemo, preco]
+    relatorio: "04c"
+    nota: "a ChemAxon e da Certara desde 2024 (chemaxon.com redireciona); marca listada e regulatorio sensivel: nao repetir os numeros de medicamentos nem 'aligned with regulators'"
+
+  - slug: iqvia
+    name: "IQVIA"
+    url: "https://www.iqvia.com/"
+    category: biotech_ai
+    method: google_news
+    query: '"IQVIA" ("clinical" OR "real-world" OR "life sciences")'
+    filter_relevance: false
+    fase: [clinical-trials]
+    missao: [workbench]
+    tipo: [cro, fonte-de-dado, referencia]
+    a_confirmar: [preco, rss]
+    relatorio: "04c"
+    nota: "dado de paciente: LGPD e Anvisa em qualquer uso local; escala e 'Healthcare-grade AI' sao da empresa"
+
+  - slug: opentrons
+    name: "Opentrons"
+    url: "https://opentrons.com/"
+    category: biotech_ai
+    method: google_news
+    query: '"Opentrons"'
+    filter_relevance: false
+    fase: [wet-lab]
+    missao: [workbench]
+    tipo: [ferramenta, parceiro]
+    a_confirmar: [conformidade-gxp]
+    relatorio: "04c"
+    nota: "Python API com licenca Apache-2.0 confirmada no repositorio (04c, 2026-10-14); o feed da empresa tem XML valido e zero itens"
+
+  - slug: automata
+    name: "Automata"
+    url: "https://automata.tech/"
+    category: biotech_ai
+    method: google_news
+    query: '"Automata" ("lab automation" OR LINQ OR "laboratory automation")'
+    filter_relevance: false
+    fase: [wet-lab]
+    missao: [workbench]
+    tipo: [ferramenta, parceiro]
+    a_confirmar: [preco, licenca, regulatorio, rss]
+    relatorio: "04c"
+    nota: "conectividade MCP e o ponto de contato com os agentes da Alchemia; numeros de produtividade sao de caso de cliente da empresa"
+
+  - slug: xaira-therapeutics
+    name: "Xaira Therapeutics"
+    url: "https://xaira.com/"
+    category: ai_drug_discovery
+    method: google_news
+    query: '"Xaira Therapeutics"'
+    filter_relevance: false
+    fase: [dry-lab, wet-lab]
+    missao: []
+    tipo: [referencia]
+    a_confirmar: [modelo-comercial, pipeline, financiamento, rss]
+    relatorio: "04c"
+    nota: "zero ensaios no ClinicalTrials.gov como patrocinador (04c, 2026-10-14)"
+
+  - slug: relay-therapeutics
+    name: "Relay Therapeutics"
+    url: "https://relaytx.com/"
+    category: ai_drug_discovery
+    method: google_news
+    query: '"Relay Therapeutics"'
+    filter_relevance: false
+    fase: [dry-lab, clinical-trials, the-cure]
+    missao: []
+    tipo: [referencia]
+    a_confirmar: [nct-lirafugratinib, modelo-comercial-plataforma, rss-ir]
+    registro_trial: [NCT06982521, NCT05216432, NCT06789913, NCT07584226]
+    relatorio: "04c"
+    nota: "valem os dados do registro, nao os da pagina: a pagina diz Fase 1/2 onde o registro diz Fase 2 (NCT06789913) e Fase 1 (NCT07584226); nao dizer que a plataforma produziu o candidato sem artigo"
+
+  - slug: iambic-therapeutics
+    name: "Iambic Therapeutics"
+    url: "https://www.iambic.ai/"
+    category: ai_drug_discovery
+    method: google_news
+    query: '"Iambic Therapeutics"'
+    filter_relevance: false
+    fase: [dry-lab, the-cure]
+    missao: []
+    tipo: [referencia]
+    a_confirmar: [acesso-plataforma, termos-abbvie, nct-iam217, rss]
+    registro_trial: [NCT06253871]
+    relatorio: "04c"
+    nota: "valem os dados do registro (Fase 1 para o NCT06253871); 'molecular superintelligence' e marca da empresa"
+
+  - slug: insitro
+    name: "insitro"
+    url: "https://www.insitro.com/"
+    category: ai_drug_discovery
+    method: google_news
+    query: '"insitro"'
+    filter_relevance: false
+    fase: [wet-lab, dry-lab]
+    missao: []
+    tipo: [referencia, concorrente]
+    temas: [virtual-cell]
+    a_confirmar: [pipeline, parcerias, rss]
+    relatorio: "04c"
+    nota: "concorrente indireto na tese dado + laboratorio + IA; 'causal AI' e termo da empresa"
+
+  - slug: cellarity
+    name: "Cellarity"
+    url: "https://www.cellarity.com/"
+    category: ai_drug_discovery
+    method: google_news
+    query: '"Cellarity"'
+    filter_relevance: false
+    fase: [clinical-trials, the-cure]
+    missao: []
+    tipo: [referencia]
+    temas: [virtual-cell]
+    a_confirmar: [nct-cly-124, termos-novo-nordisk, rss]
+    relatorio: "04c"
+
+  - slug: valo-health
+    name: "Valo Health"
+    url: "https://www.valohealth.com/"
+    category: ai_drug_discovery
+    method: google_news
+    query: '"Valo Health"'
+    filter_relevance: false
+    fase: [dry-lab, clinical-trials]
+    missao: []
+    tipo: [referencia]
+    a_confirmar: [plataforma-opal, pipeline, rss]
+    relatorio: "04c"
+
+  - slug: benevolentai
+    name: "BenevolentAI"
+    url: "https://www.benevolent.com/"
+    category: ai_drug_discovery
+    method: google_news
+    query: '"BenevolentAI"'
+    filter_relevance: false
+    fase: [dry-lab]
+    missao: []
+    tipo: [referencia]
+    a_confirmar: [situacao-societaria, pipeline, parcerias]
+    relatorio: "04c"
+
+  - slug: benchling
+    name: "Benchling"
+    url: "https://www.benchling.com/"
+    category: biotech_ai
+    method: rss
+    feed_url: "https://www.benchling.com/feed.rss"
+    filter_relevance: true
+    fase: [wet-lab, dry-lab]
+    missao: [workbench]
+    tipo: [concorrente, ferramenta]
+    a_confirmar: [preco]
+    relatorio: "04c"
+    nota: "concorrente parcial do conceito WORKBENCH, nenhuma comparacao sem ler /pricing; feed generalista de 300 itens desde 2019, por isso filter_relevance true"
+
+  - slug: dotmatics
+    name: "Dotmatics (Siemens)"
+    url: "https://www.dotmatics.com/"
+    category: biotech_ai
+    method: google_news
+    query: '"Dotmatics"'
+    filter_relevance: false
+    fase: [wet-lab, clinical-trials]
+    missao: [workbench]
+    tipo: [concorrente, ferramenta]
+    a_confirmar: [aquisicao-siemens, preco, rss]
+    relatorio: "04c"
+
+  - slug: synthace
+    name: "Synthace"
+    url: "https://www.synthace.com/"
+    category: biotech_ai
+    method: rss
+    feed_url: "https://www.synthace.com/blog/rss.xml"
+    filter_relevance: false
+    fase: [wet-lab]
+    missao: []
+    tipo: [ferramenta, referencia, parceiro]
+    a_confirmar: [preco, financiamento-e-sede]
+    relatorio: "04c"
+    nota: "cadencia baixa (ultimo item do feed em 2026-07-20); a pagina nao cita a Thermo Fisher"
+
+  - slug: thermo-fisher
+    name: "Thermo Fisher Scientific (PPD, Patheon)"
+    url: "https://corporate.thermofisher.com/"
+    category: biotech_ai
+    method: google_news
+    query: '"Thermo Fisher" ("drug discovery" OR PPD OR "clinical trials" OR "cryo-EM")'
+    filter_relevance: false
+    fase: [wet-lab, clinical-trials]
+    missao: []
+    tipo: [cro, ferramenta, referencia]
+    a_confirmar: [modelo-comercial, portfolio-completo, rss]
+    relatorio: "04c"
+    nota: "a newsroom bloqueia acesso automatico (403)"
+
+  - slug: enamine
+    name: "Enamine"
+    url: "https://enamine.net/"
+    category: biotech_ai
+    method: google_news
+    query: '"Enamine"'
+    filter_relevance: false
+    fase: [dry-lab, wet-lab]
+    missao: [aurora]
+    tipo: [fonte-de-dado, cro, ferramenta, parceiro]
+    a_confirmar: [licenca-de-dado, termos-de-uso, rss]
+    relatorio: "04c"
+    nota: "o espaco REAL como fonte de compostos compraveis tem licenca desconhecida"
+
+  - slug: emulate
+    name: "Emulate"
+    url: "https://emulatebio.com/"
+    category: biotech_ai
+    method: google_news
+    query: '"Emulate" ("Organ-Chip" OR "organ chip" OR "Liver-Chip")'
+    filter_relevance: false
+    fase: [wet-lab]
+    missao: []
+    tipo: [ferramenta, referencia, parceiro]
+    a_confirmar: [atribuicao-istand, projecao-fda-nih]
+    relatorio: "04c"
+    nota: "o feed da empresa esta parado desde 2026-06-11 e nao entra; as alegacoes regulatorias sao da empresa (tema do alchemia-health-compliance)"
+
+# Empresas a acompanhar SEM COLETA (04c, 2026-10-14). Lista separada de `companies` de proposito: nenhum coletor,
+# catalogo do banco ou conector do System le esta chave, entao nada daqui e coletado nem exibido. E registro
+# para quando houver rota humana, o EDGAR ou decisao do fundador; contornar bloqueio nao e decisao de agente.
+a_acompanhar:
+  - slug: tempus-ai
+    name: "Tempus AI"
+    url: "https://www.tempus.com/"
+    situacao: bloqueado-a-acompanhar
+    fase: [clinical-trials]
+    missao: [aurora]
+    tipo: [fonte-de-dado, referencia]
+    a_confirmar: [site-oficial, clia-ldt, preco]
+    relatorio: "04c"
+    nota: "lido so no Form 10-K de 2025 na SEC (leitura parcial); o site recusa acesso automatico (desafio anti-bot); dado de pessoa: LGPD vai ao fundador"
+
+  - slug: charles-river-laboratories
+    name: "Charles River Laboratories"
+    url: "https://www.criver.com/"
+    situacao: bloqueado-a-acompanhar
+    fase: [wet-lab]
+    missao: []
+    tipo: [cro, referencia]
+    a_confirmar: [site-oficial, feeds, preco]
+    relatorio: "04c"
+    nota: "lido so no Form 10-K de 2025 na SEC (leitura parcial); criver.com e ir.criver.com dao 403; o 10-K diz in silico como suplemento, nao substituto, de teste animal"
+
+  - slug: lilly-tunelab
+    name: "Eli Lilly TuneLab"
+    url: "https://www.lilly.com/tunelab"
+    situacao: a-confirmar
+    fase: [dry-lab]
+    missao: [workbench]
+    tipo: [ferramenta, referencia]
+    a_confirmar: [todo-o-conteudo, fonte-primaria]
+    relatorio: "04c"
+    nota: "nenhuma leitura de fonte primaria (403); o que ha vem de busca web e deve ser reaberto no site da Lilly; clausula de que o dado de entrada melhora o modelo da Lilly e questao de IP: fundador antes de enviar qualquer dado"

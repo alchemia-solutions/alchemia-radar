@@ -2043,3 +2043,76 @@ pasta). Serviço: `rc stop radar`. Carga: só restaurando o dump `pre-radar`, o 
 
 **Não verificado:** a causa do erro do `biorxiv` na VM (campo acima); a tela `/science/radar` renderizada; a falha do passo
 "Persistir estado da coleta" do Actions; CPU e memória do contêiner `radar` na VM (o README do deploy pede `docker stats` na sombra).
+
+
+---
+
+## Addendum — 2026-10-14: mapa de empresas por fase
+
+Pedido do fundador (2026-10-14): acompanhar as empresas de drug discovery de CADD a ensaios clínicos e os temas "virtual cell" e
+"AI drug design" por fase e missão. Fontes: `alchemia-ai/ai-engineering/docs/descoberta-agentes-por-fase/04a-empresas-in-silico.md` e
+`04b-empresas-lab-e-clinica.md` (leitura de site oficial em 2026-10-14, pelo Avicena) e as fichas de `alchemia-enterprise/magnum-opus/phases/`.
+Correção do fundador no mesmo dia, durante o trabalho: Isomorphic Labs e Google DeepMind têm `tipo: [referencia]`, nunca parceiro nem
+concorrente; `parceiro` só onde o relatório diz "parceiro potencial" (adaptyv-bio, nvidia, ginkgo-bioworks, emerald-cloud-lab, evotec,
+unlearn-ai), na dúvida `referencia`. O teste `test_correcao_do_fundador_2026_10_14` a trava.
+
+**O que mudou (só `pipeline/config/`, mais um teste; nada em `pipeline/data/`, no System, na VM ou no banco).**
+- `companies.yaml`: de 20 para 47 entradas (27 novas, medido por `yaml.safe_load` do arquivo antes e depois). 42 entradas ganharam as
+  marcas `fase`, `missao`, `tipo`, e conforme o caso `temas`, `a_confirmar`, `registro_trial`, `relatorio`, `nota`; ficaram sem marca
+  anthropic, openai, microsoft-research, butantan e fiocruz (nenhum relatório as cobre). Vocabulário e semântica no cabeçalho do arquivo.
+  Categorias só as seis que o System rotula. Contagem por fase (uma empresa pode ter mais de uma): aurora 4, dry-lab 30, workbench 11,
+  wet-lab 12, clinical-trials 9, the-cure 3.
+- Feeds: os quatro RSS foram revalidados com GET real e com o parser do Radar (200 e XML nos quatro; 100, 20, 19 e 10 itens). Entram em
+  `companies.yaml` com `method: rss`, não em `newsletter_feeds` de `sources.yaml`, porque só o coletor `companies` guarda `company_slug`
+  (mesmo caminho do biosolveit). `sources.yaml` ganhou um bloco de registro, sem chave que coletor leia, com a tabela dos feeds e as pendências.
+- `keywords.yaml`: sete termos (`virtual cell`, `AI drug design`, `AI co-scientist`, `high-throughput screening`, `lab-in-the-loop`,
+  `digital twin`, `célula virtual`) e duas buscas de Google News geral. Delta medido antes, no comentário do arquivo; quatro termos
+  genéricos de clínica foram medidos e recusados por inundarem os filtros.
+- `pipeline/tests/test_config_empresas.py`: vocabulário e catálogo, nos dois sentidos.
+- `corporate_programs.yaml`, `funding_channels.yaml` e `resources.yaml`: não tocados (os relatórios não tratam de fomento nem de bancos;
+  `resources.yaml` só admite três tipos que o System rotula, e o ClinicalTrials.gov não cabe em nenhum).
+
+**Verificação (2026-10-14).** Testes: `python -m unittest` por módulo, 66 testes, 20 pulados por falta de Postgres (13 em
+`test_armazenamento_pg`, 7 em `test_migrar_para_postgres`); antes, 61 com os mesmos 20 pulados. Coleta determinística local sem escrita
+(`run_all.coletar` com `--skip` de todos menos `companies` e `googlenews`, que não grava): `googlenews` 1.074 itens e `companies` 2.502
+itens, ambos sem erro; `meta.json` e `news.json` com o mesmo md5 antes e depois. Qualidade das buscas novas medida pela fração de itens que
+citam o nome: o Genix.ai devolvia 3 de 4 itens da ABB (produto "Genix"), e a busca virou `"Genix.ai" -ABB` (1 item, relevante; a imprensa
+cobre pouco a empresa). `chemical-computing-group` traz 5 de 29 itens que citam o nome, quase todos da aquisição da Simulations Plus pela
+Altaris, que um título diz combinar a empresa com a CCG (detalhe que a 04a não leu). `arc-institute` (11 de 36), `boltz` (18 de 38),
+`evolutionaryscale` (13 de 26), `emerald-cloud-lab` (7 de 41) e `openeye-cadence` (5 de 24) trazem muito item de tema, sem o nome. Revisar
+essas buscas depois de uma semana de coleta real.
+
+**Não medido.** Se a VM e o Actions leem os arquivos novos (depende do `push` do fundador); o efeito das 27 empresas no tempo da coleta
+(a coleta local de `companies` levou 42,3 s, contra 10,0 s em `meta.json` de 2026-10-14 com 20 empresas); a tela `/science/radar` com as
+novas empresas (o System lê só `slug`, `name`, `url`, `category` e `method`; as marcas não aparecem nela); o espelho do Supabase (tem colunas
+fixas e não leva as marcas); a quantidade de itens relevantes que o feed do DeepMind trará depois dos termos novos; `ir.schrodinger.com`
+(403 na 04a, não retestado); as regras de uso da API do ClinicalTrials.gov.
+
+**Ficou de fora, e por quê.** AI4Pharma (fora do recorte, sem fase); Numerion Labs (sem fase no relatório e vínculo com a Atomwise não
+confirmado); Strateos (atividade em 2026 não confirmada); Tempus (429) e Charles River (403): nada lido; Evotec RSS (aberto agora, devolve
+HTML); ClinicalTrials.gov (sem coletor; a API v2 respondeu 200 com JSON para NCT07687459, fase 3, recrutando, o que bate com a 04b);
+varredura de página de notícia (sem coletor de página). Lista completa no fim de `pipeline/config/sources.yaml`.
+
+### Complemento de 2026-10-14: segunda rodada (04c)
+
+O coordenador trouxe `alchemia-ai/ai-engineering/docs/descoberta-agentes-por-fase/04c-empresas-segunda-rodada.md` (20 empresas) com as mesmas
+regras. Os números do addendum acima (47 empresas, 66 testes) valem até este complemento; os atuais são os daqui.
+
+- `companies.yaml`: de 47 para 64 entradas coletadas (17 novas, medido por `yaml.safe_load`): certara, iqvia, opentrons, automata,
+  xaira-therapeutics, relay-therapeutics, iambic-therapeutics, insitro, cellarity, valo-health, benevolentai, benchling, dotmatics,
+  synthace, thermo-fisher, enamine, emulate. Mais a chave `a_acompanhar`, com 3 empresas sem coleta (tempus-ai, charles-river-laboratories,
+  lilly-tunelab; só a Lilly TuneLab está `a-confirmar`, porque não tem nenhuma leitura de fonte primária; Tempus e Charles River vêm do
+  Form 10-K da SEC e estão `bloqueado-a-acompanhar`). Nenhum coletor, o catálogo do banco nem o System leem essa chave.
+- Feeds: certara, benchling e synthace revalidados (200 e XML; 10, 300 e 10 itens; ver `sources.yaml`). Benchling entra com
+  `filter_relevance: true` por causa dos 300 itens desde 2019. Emulate, Opentrons e Relay ficaram sem feed, como decidido.
+- `registro_trial`: Relay (NCT06982521, NCT05216432, NCT06789913, NCT07584226) e Iambic (NCT06253871); valem os dados do registro.
+- `tipo`: Isomorphic e DeepMind seguem `referencia` (reforço do coordenador). `parceiro` só onde o relatório diz parceiro potencial:
+  opentrons, automata, synthace, enamine e emulate (04c), além dos seis anteriores; o teste `test_parceiro_so_onde_o_relatorio_diz` trava a lista.
+- Testes: `test_config_empresas` passou a 8 casos; suíte total, 69 testes, 20 pulados por falta de Postgres.
+- Coleta determinística local, sem escrita, só das 17 novas: sem erro; os quatro JSON de `pipeline/data/` com o mesmo md5 antes e depois. Itens
+  que citam o nome: emulate 13 de 42, cellarity 21 de 37, benchling 4 de 12 (rss com filtro), synthace 1 de 10 (o feed fala do assunto sem dizer
+  o nome), os demais 50% ou mais. `opentrons` 50 de 73 e `enamine` 50 de 70.
+- `iqvia` e `thermo-fisher` devolvem 100 itens (teto do Google News) de empresa muito coberta pela imprensa financeira (ações, resultados);
+  cobertura de mercado, não de ciência. Revisar com uma semana de coleta real.
+
+**Não medido (soma ao anterior).** O efeito de 64 empresas no tempo da coleta; os 69 testes não incluem nada que rode contra Postgres.

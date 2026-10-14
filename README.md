@@ -176,6 +176,7 @@ fundador. Detalhe e último estado registrado do deploy: [`dashboard/README.md`]
 | Coleta do Actions de 2026-10-07 16:52 UTC falhou no passo "Persistir estado da coleta (commit pipeline/data)"; sem alarme de falha, não se distingue de coleta parada. Causa não investigada. | fundador (aba Actions) |
 | Paliativo `RADAR_HORARIOS_UTC=09:00,15:00,21:00` no `producao.env` da VM: sai quando um release com o `compose.yaml` novo do System subir. | `alchemia-system` e `alchemia-tech` |
 | Hopper medir `/science/radar` (F6, no máximo 1,0 s): `lerDoBanco` lê `radar.item` inteiro, sem `LIMIT`, e a tabela tem 9.360 linhas. | `alchemia-frontend-gate` e `alchemia-system` |
+| Mapa de empresas por fase (2026-10-14): as marcas `fase`/`missao`/`tipo` e as empresas novas só valem na coleta depois que o fundador der `push` e a VM reler `companies.yaml`; páginas de notícia sem RSS, o ClinicalTrials.gov e os bloqueios 403 estão em pendência no fim de `pipeline/config/sources.yaml` (o Radar não tem coletor de página nem de registro; coletor novo pede spec). | fundador e `alchemia-radar` |
 
 ---
 
