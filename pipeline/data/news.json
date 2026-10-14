@@ -1,6 +1,308 @@
 [
   {
     "kind": "news",
+    "title": "Targeting SHOC2 as an Emerging Approach to RAS-Driven Cancers",
+    "url": "https://drughunter.com/articles/targeting-shoc2-as-an-emerging-approach-to-ras-driven-cancers",
+    "source": "Drug Hunter",
+    "source_type": "newsletter",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T14:39:31.682506+00:00",
+    "authors": [],
+    "summary": "SHOC2 is a leucine-rich repeating regulatory protein that promotes activation of RAF kinase in the MAPK (mitogen-activated protein kinase) pathway by interacting with the RAS proteins. This role has made SHOC2 a potential target in RAS(Q61X)-mutant cancers and in combination with MEK1/2 inhibition. Although SHOC2 presents a challenging, relatively shallow binding surface, researchers at Novartis have shown disruption of the SHOC2/NRAS(Q61R) PPI (protein–protein interaction) using a small molecule tool compound.",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [],
+    "extra": {},
+    "dedupe_key": "url:https://drughunter.com/articles/targeting-shoc2-as-an-emerging-approach-to-ras-driven-cancers"
+  },
+  {
+    "kind": "news",
+    "title": "Biomea posts phase 1 data to pitch oral GLP-1 to potential partners, but investors appear unconvinced",
+    "url": "https://www.fiercebiotech.com/biotech/biomea-posts-phase-1-data-pitch-oral-glp-1-potential-partners",
+    "source": "Fierce Biotech",
+    "source_type": "newsletter",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T14:39:49.986251+00:00",
+    "authors": [],
+    "summary": "Biomea Fusion has shared phase 1 data on its oral GLP-1 prospect, shedding light on a small molecule designed to balance efficacy and gastrointestinal tolerability. Management hailed the data as a launchpad for talks with potential partners, but investors drove down the share price of the cash-strapped biotech.",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "small molecule design"
+    ],
+    "extra": {},
+    "dedupe_key": "url:https://www.fiercebiotech.com/biotech/biomea-posts-phase-1-data-pitch-oral-glp-1-potential-partners"
+  },
+  {
+    "kind": "news",
+    "title": "How to Invest in AI Drug Discovery - ETF Trends",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1EtOFB2b0JWNWQ4UFlNSnVsVFM4aElUMXY5d1lEZTN6Zmx2MDgyd0hvUlhYTDhwd1ZfQmdSbThwOW1DOUlJT3I4U3ZhWUxnckU2MTFVUTk2dFBXZkFkc3N2VFJCMFpES29ndW5ad2paRDZVTUtPR3BCTzZpVjliVzFBNUV2U0pPbEgxQ3UtMmJNU3doYmVvUTU5d9IBoAFBVV95cUxPS0luOEpOTlZpMjRQS1huQjRiMENURG1fSm9pVFVETVZsc2YtZkluZEs1MHJ0YWZieEdyclllS1BGTjdQd25NQ0RZdFhRVGx3YXFXS0xPcWdhLUZsczR5aGhhSWdKMFRaVEhDTmxKQTFtZ2Q2NjBEM3RSWkNyYnY2aTdaMHBydEhOZmNscXN3bzdwVTUwWFRRZmNoeTZlQlRP?oc=5",
+    "source": "ETF Trends",
+    "source_type": "news",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T14:39:53.803366+00:00",
+    "authors": [],
+    "summary": "How to Invest in AI Drug Discovery ETF Trends",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmimwfbvv95cuxon1etofb2b0jwnwq4uflnsnvsvfm4aelumxy5d1leztn6zmx2mdgyd0hvulhytdhwd1zfqmdsbthwow1douljt3i4u3zhwuxncku2mtfvutk2dfbxzkfkc3n2vfjcmfpes29ndw5ad2pardzvtutpr3bctzzpvjlivzfbnuv2u0ppbegxq3utmmjnu3doymvvutu5d9iboafbvv95cuxps0luoepotlzpmjrqs1huqjrimenurg1fsm9pvfvetvzsc2ytzkluzes1mhj0ywzieedycllls1bgtjdqd25nq0rzdfhrvgx3yxfxs0xpcwdhluzsczr5aghhswdkmfravehdtmxkqtftz2q2njbem3rswknyyny2atdamhbydehozmnscxn3bzdwvtuwwfrrzmnoetzlqlrp?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Nasdaq listing awaits Singapore’s US$1.5 billion AI drug-discovery biotech Nanyang Biologics - The Business Times",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSFJQb3ZNYjczeFVIdmhxT285V21xRXdiR0NOR3drd0NDVHRUWE11aWozZ2xPX0ZrdWptNlM4akVCUDJSTjV3dWxGT0Q3d2J1dl9VYk9fQXNSQndWc284a1BSeDBuR2JPU2Q5WW96am1rQW9CbnNhcXh1V2VpTUJRMDktVFJrSmRzSHpCMVF0Nkp3WmFRTDBJY3VuSGxMZHlSNmxVYnJPUVdBWXd5Sl9ZWUJXM19BWUFfWGs3eXg0QnFIZ2R0d04tRHUtbGx5X0hmVU5RSl9hWkVFbWZFR29yU1RZRGk0eXJYQlNLbndWRW91RVU?oc=5",
+    "source": "The Business Times",
+    "source_type": "news",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T14:39:53.803637+00:00",
+    "authors": [],
+    "summary": "Nasdaq listing awaits Singapore’s US$1.5 billion AI drug-discovery biotech Nanyang Biologics The Business Times",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi8wfbvv95cuxpsfjqb3znyjczefvidmhxt285v21xrxdir0nor3drd0ndvhruwe11awozz2xpx0zrdwptnlm4akvcudjstjv3dwxgt0q3d2j1dl9vyk9fqxnsqndwc284a1bsedbur2jpu2q5ww96am1rqw9cbnnhcxh1v2vptujrmdktvfjrsmrzshpcmvf0nkp3wmfrtdbjy3vusgxmzhlsnmxvynjpuvdbwxd5sl9zwujxm19bwuffwgs3exg0qnfiz2r0d04trhutbgx5x0hmvu5rsl9hwkvfbwzfr29yu1rzrgk0exjyqlnlbndwrw91rvu?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Algorae Pharmaceuticals (ASX:1AI): AI Drug Discovery and 2026 Commercial Developments - Kalkine",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbEZGMXpoYnI4SHRYd1VIaloxRFVSZDJsaXRWVUJzTkV2UGVtRUhGSXNEbVhzNW0xQldoREdaeFNiYVAtaWlhZ0RwTmtvSmVQLXVfWnNxSHBSeWJqLXpzZ2NRTDJRbDd4bjd1R3RLeTdLZnlLNWN6RWExREN6OERZVnpRNC1xUmMwcDdVdGFTZkpwUm9kdXdWQklONHdCVlhRbXY0LUVrcEt3aUw4TUZsc3lhV3hFbmtuaTVfbFhwaWE3VFI1VHoxS0Y5Zm1uUQ?oc=5",
+    "source": "Kalkine",
+    "source_type": "news",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T14:39:53.803830+00:00",
+    "authors": [],
+    "summary": "Algorae Pharmaceuticals (ASX:1AI): AI Drug Discovery and 2026 Commercial Developments Kalkine",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmizgfbvv95cuxnbezgmxpoyni4shryd1vialoxrfvszdjsaxrwvujztkv2ugvtruhgsxnebvhznw0xqldoredaefniyvatawlhz0rwtmtvsmvqlxvfwnnxshbsewjqlxpzz2nrtdjrbdd4bjd1r3rletdlznllnwn6rwexren6oerzvnprnc1xummwcddvdgftzkpwum9kdxdwqklonhdcvlhrbxy0luvrcet3auw4tuzsc3lhv3hfbmtuatvfbfhwawe3vfi1vhoxs0y5zm1uuq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Rakovina Therapeutics Secures Exclusivity on Optimized kt-5000 Lead Profile from Variational AI - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOTVyZmpzOVlVQTIzdGhoT3BUM19odXVMdk1OVWx5UFlIR3NUS3Bzbl9RRkpuaGt4QVNZN2JjaEZXRUp5dkg2ZDQ5UmV6b0RGaHUzZl90S0U5d0JmdFVaY1FhTkxsTUhka090em82TVZXNEdvZnZxSnFhbXNlQVMyMmJlSFM5T1Z5RkJxRzY4QTVHYk9xbkRDRUpENkVxZjJ4TGxoYWQwQ1ZaM1VjcXhoNGFIYm9tM0w1ZzVLMjcwVTlGSzMzOFBIUkg1SmVDbUJvWjBuSlgwUlZfYWo5M2pjdFYxUjBFWVNJRWpVOWF3OS1DU1pYSWYwdDJRRkRiZ9IBgwJBVV95cUxQaXV0aHFwbVpfR0lXY0JqSFA3anNqZG91MXY2OWJ0Y1V6UnJOQ0lBQlpKS19SMnAzcDlzenYzbmFVcy1mWm5GZzZpTTJEQUI4SHFGcjlfRWdmbDdwN0RhMzZrS2dZMXVocGc0UmNTVDQ4R25JaVFCQU8tajl0Tm5FdmhEYzNVMGZEUXdwdmRSRlZwM0ZEeExBM3NpZ1c1REtxR0MwTExvSWFmZGo2M2MtcHdKSFc5cURPSmdrRkVBT1AxU25WSVAtVXhIM0ZHXzloTFBiQjBGU1lZZG5WMmpjV2NKMXRqRXpXYTVLM0hZcVYyQVJTY0d4OEphcHhhcUlqRkZN?oc=5",
+    "source": "The Manila Times",
+    "source_type": "news",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T14:39:53.805884+00:00",
+    "authors": [],
+    "summary": "Rakovina Therapeutics Secures Exclusivity on Optimized kt-5000 Lead Profile from Variational AI The Manila Times",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi_gfbvv95cuxnotvyzmpzovlvqtizdghot3bum19odxvmdk1ovwx5uflir3nus3bzbl9rrkpuagt4qvnzn2jjaezxrup5dkg2zdq5umv6b0rgahuzzl90s0u5d0jmdfvay1fhtkxstuhka090em82tvzxnedvznzxsnfhbxnlqvmymmjlsfm5t1z5rkjxrzy4qtvhyk9xbkrdrupenkvxzjj4tgxoywqwq1zam1vjcxhongfiym9tm0w1zzvlmjcwvtlgszmzofbiukg1smvdbujvwjbuslgwulzfywo5m2pjdfyxujbfwvnjrwpvowf3os1du1pyswywddjrrkriz9ibgwjbvv95cuxqaxv0ahfwbvpfr0lxy0jqsfa3annqzg91mxy2owj0y1v6unjoq0lbqlpks19smnazcdlzenyzbmfvcy1mwm5gzzzpttjequi4shfgcjlfrwdmbddwn0rhmzzrs2dzmxvocgc0umntvdq4r25javfcqu8tajl0tm5fdmheyznvmgzeuxdwdmrsrlzwm0zeeexbm3npz1c1retxr0mwtexvswfmzgo2m2mtchdksfc5curpsmdrrkvbt1axu25wsvatvxhim0zhxzlotfbiqjbgu1lzzg5wmmpjv2nkmxrqrxpxytvlm0hzcvyyqvjty0d4oephchhhculqrkzn?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Dos laboratórios à inteligência artificial: uma revolução na descoberta de fármacos - Jornal Económico",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNnRlZm9VaFl1b1Z4bERTZjRMb0JhSU95N2FSY2lvX0hYZHhmekJyVThpWER6V3VZMHJYX283d0M2UmVGQkRqUXdxTjdkeUlIYWdqZVhuV3ZPc3RmOUVVTXNrXzZyU0U5VnF4RnExOENhU3pzVjF5bFdFVlB5b2JCZks3NTVNU2s5b0VDbnlQOGRsYkNTdlE1eVZHeGlnN1lRUXEzWm50X2g3dlpiZTZKSlZhS3BMalpJRGRlRDluN01vdw?oc=5",
+    "source": "Jornal Económico",
+    "source_type": "news",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T14:39:57.868362+00:00",
+    "authors": [],
+    "summary": "Dos laboratórios à inteligência artificial: uma revolução na descoberta de fármacos Jornal Económico",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "inteligência artificial\" \"descoberta de fármacos"
+    ],
+    "extra": {
+      "query": "\"inteligência artificial\" \"descoberta de fármacos\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwgfbvv95cuxpnnrlzm9vafl1b1z4bertzjrmb0jhsu95n2fsy2lvx0hyzhhmekjyvthpwer6v3vzmhjyx283d0m2umvgqkrquxdxtjdkeuliywdqzvhuv3zpc3rmouvvtxnrxzzyu0u5vnf4rnexoenhu3pzvjf5bfdfvlb5b2jczks3ntvnu2s5b0vdbnlqogrsykntdle1evzheglnn1lruxezwm50x2g3dlpiztzkslzhs3bmalpjrgrlrdlun01vdw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "2026 Has Been A Bumper Year For Biotech IPOs - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUzlGVzlVT0Vqc1RBSWRnXzBmcEFWa0VQa3FjemxJaDBrczRQdnZYelpLM1l0MloxTzhyZ2NueElSVWlBeUROdkF1ZlI3dUJPWVd2RnFXSTZlalpYZE50UHp1MGhDcFlDMUItMDJlVENNR0MxbE9iLXRLd2VNWnRzU1djMmhlRUpqcURlUzNLOU1qOVhBNjlzWHFIMTBVSzZiUEp4SlNPN0FRMGdOSHEyTmptdjh3QThfUmVORVB4VQ?oc=5",
+    "source": "Forbes",
+    "source_type": "press",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T14:40:03.998477+00:00",
+    "authors": [],
+    "summary": "2026 Has Been A Bumper Year For Biotech IPOs Forbes",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmivwfbvv95cuxnuzlgvzlvt0vqc1rbswrnxzbmcefwa0vqa3fjemxjadbrczrqdnzyelplm1l0mloxtzhyz2nueelsvwlbeurodkf1zli3dujpwvd2rnfxstzlalpyze50uhp1mghdcfldmuitmdjlvennr0mxbe9ilxrld2vnwnrzu1djmmhlrupqcurluznlou1qovhbnjlzwhfimtbvszziuep4slnpn0frmgdosheytmptdjh3qthfumvorvb4vq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Insilico Medicine Nominates AI-Designed VAV1 Molecular Glue Degrader for Autoimmune Diseases - BioPharma APAC",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbjROeFVRdnJpWXUxRFNlTUl4QTZ0RUVOYk5SUWs1a0E1VkVqTVRFWG5naExUT3M1aVp5cjJobnpHTDdPc0ljRFlhbFMxQTFTQWpsTDVGU1dEcktPYUtxUTRsUTdXVWJEZ3pzbnNFbDBhZXBrc291U0t6ekhNQ1pLbkJNem4tN3ZIQTI5alZnSndKSFZic2VwLTlfMTZhSG01RUt0SW9XX1M3YV9GX1FWN1BSa3lWdktzUnZwNWlpbkxKTDM1VnZsNUh2VC1VcXVTRWc?oc=5",
+    "source": "BioPharma APAC",
+    "source_type": "press",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T14:40:05.573836+00:00",
+    "authors": [],
+    "summary": "Insilico Medicine Nominates AI-Designed VAV1 Molecular Glue Degrader for Autoimmune Diseases BioPharma APAC",
+    "doi": null,
+    "company_slug": "pharma-ai",
+    "keywords_matched": [
+      "Pharma.AI"
+    ],
+    "extra": {
+      "query": "\"Pharma.AI\" Insilico",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi0gfbvv95cuxpbjroefvrdnjpwxuxrfnltul4qtz0ruvoyk5suws1a0e1vkvqtvrfwg5naexut3m1avp5cjjobnphtddpc0ljrflhbfmxqtftqwpstdvgu1decktpyutxutrsutdxvwjez3pzbnnfbdbhzxbrc291u0t6ekhnq1plbkjnem4tn3ziqti5alznsndksfzic2vwltlfmtzhsg01rut0sw9xx1m3yv9gx1fwn1bsa3lwdktzunzwnwlpbkxktdm1vnzsnuh2vc1vcxvtrwc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Make It Double! — SeeSAR and HPSee Updates",
+    "url": "https://www.biosolveit.de/2026/10/14/seesar-and-hpsee-updates/",
+    "source": "BioSolveIt",
+    "source_type": "company_blog",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T14:40:07.836608+00:00",
+    "authors": [],
+    "summary": "The SeeSAR 15.1 and HPSee 2.4 Updates SeeSAR 15.1 ‘Apollo’ and HPSee 2.4 ‘Electra’ are here! The double release brings per-synthon estimates of extension result counts to Chemical Space Docking and new reference-molecule support and automatic best-spot selection to Activity Spotter. Alongside these additions, faster molecule transfers and more flexible compound organization help streamline your […]",
+    "doi": null,
+    "company_slug": "biosolveit",
+    "keywords_matched": [],
+    "extra": {},
+    "dedupe_key": "url:https://www.biosolveit.de/2026/10/14/seesar-and-hpsee-updates"
+  },
+  {
+    "kind": "news",
+    "title": "Recursion Pharmaceuticals, Inc. (Coinbase Tokenized Stock) - CoinGecko",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLXlaR01feGhla24zX0xWSXdVWnF5RE55MXJ4SGVoMnZDUm84S0xiS2FYR1Qzek9kSHRWYjJJOXVSQUMxNHBoWDRMWGxEU0k1LVJwVUk2aXlkbWs5WFFWbG9tUjVESzRHRHhWSndWNmhkbVZSdWpXNi0zeElaNllLUnE0UEdna1pnZXJ1MklYZXhwOWs?oc=5",
+    "source": "CoinGecko",
+    "source_type": "press",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T14:40:08.309886+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals, Inc. (Coinbase Tokenized Stock) CoinGecko",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmikwfbvv95cuxolxlar01feghla24zx0xwsxdvwnf5re55mxj4sgvomnzdum84s0xis2fyr1qzek9kshrwyjjjoxvsqumxnhbowdrmwgxeu0k1lvjwvuk2axlkbws5wffwbg9tujveszrhrhhwsndwnmhkbvzsdwpxni0zeelanlllune0uedna1pnzxj1mklyzxhwows?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Recursion Pharmaceuticals, Inc. (RXRX) stock price, news, quote and history - Yahoo Finance Australia",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYUEo3UjdJMU0xVFJiWGJ0UFNsSzJqZGxfUUU5UkdpOVMyQ3J0N1ZyWU10MjRRRm5RX1NvVUMteUdJRmx6U1dGUFlXdjY0TDc2Wnc?oc=5",
+    "source": "Yahoo Finance Australia",
+    "source_type": "press",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T14:40:08.310174+00:00",
+    "authors": [],
+    "summary": "Recursion Pharmaceuticals, Inc. (RXRX) stock price, news, quote and history Yahoo Finance Australia",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiukfvx3lxtfbyueo3ujdjmu0xvfjiwgj0ufnsszjqzgxfuuu5ukdpovmyq3j0n1zywu10mjrrrm5rx1nvvumteudjrmx6u1dguflxdjy0tdc2wnc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google DeepMind opens its science AI models to 200 European researchers - The Next Web",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1RfcEtLNXg4SUZ4cHpsZ05PWEhuNC1DNWNCdDFZaWhkREN6N1hGTjRRNjVRWWFGNkZiTmFxMHNzSnlOZTR2Y1JEY3pEV2d6U1lOMEtSRlRMelg2elZCbm13WXdIbElsNWV2NHdxMGNlYWdoSXlFVXREa1lvazZmSFdqNTNkbXM?oc=5",
+    "source": "The Next Web",
+    "source_type": "press",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T14:40:09.993302+00:00",
+    "authors": [],
+    "summary": "Google DeepMind opens its science AI models to 200 European researchers The Next Web",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmihwfbvv95cuxpu1rfcetlnxg4suz4chpsz05pwehunc1dnwncddfzawhkren6n1hgtjrrnjvrwwfgnkzitmfxmhnzsnloztr2y1jey3pev2d6u1lometsrlrmelg2elzcbm13wxdibelsnwv2nhdxmgnlywdosxlfvxrea1lvazzmsfdqntnkbxm?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google gives European researchers access to AlphaFold 3 - Techzine Global",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEFfQjZsUi1iRE9iNXBSLWN4TDJyWjNVZUZyWks2MDFhalBZeVFHR3RfTXNNcWhDT0lxQkM0Y2MzcC1JUFRJRy0wbFJORnhSSWt4X2VMMzlydXQyampCb2pJWFBFWEZlR3pzLVQ0VWJma1p5eFhMblFpMDhfTDBwUnZyOEt6c252Y1BnbVhaZlZaRGRHTlQ5a0lmMEhtSVJrODRCclR5QzlTaXc?oc=5",
+    "source": "Techzine Global",
+    "source_type": "press",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T14:40:09.993465+00:00",
+    "authors": [],
+    "summary": "Google gives European researchers access to AlphaFold 3 Techzine Global",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "AlphaFold"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqwfbvv95cuxpoeffqjzsui1ire9inxbslwn4tdjywjnvzuzywks2mdfhalbzevfhr3rftxnncwhdt0lxqkm0y2mzcc1jufrjry0wbfjornhsswt4x2vmmzlydxqyampcb2pjwfbfwezlr3pzlvq0vwjma1p5efhmblfpmdhftdbwunzyoet6c252y1bnbvhazlzargrhtlq5a0lmmehtsvjrodrcclr5qzltaxc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google Pledges Frontier Models and Compute to European Scientists - Unite.AI",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZm5LaTl2d3otVHVrdWswVnlTMkNzT3M2ZXJSV1FVcWxGWXFoWGhBQk9xNEw4RzNpcUlzRlItNGxpOWVQWVlmaTFWZ0VWaEo3SmhxSXhSZ3VwNU9rdm81YTBsbEgtWklaYlhOWTdpWjBNT3BXUjAyR3V0aTQ4dFhvak5iT2txN1lFcExIbkw1bHQ?oc=5",
+    "source": "Unite.AI",
+    "source_type": "press",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T14:40:09.994451+00:00",
+    "authors": [],
+    "summary": "Google Pledges Frontier Models and Compute to European Scientists Unite.AI",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "Google DeepMind"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmikafbvv95cuxqzm5latl2d3otvhvrdwswvnltmknzt3m2zxjsv1fvcwxgwxfowghbqk9xnew4rznpculzrlitngxpowvqwvlmatfwz0vwaeo3smhxsxhsz3vwnu9rdm81ytbsbegtwklaylhowtdpwjbnt3bxujayr3v0atq4dfhvak5it2txn1lfcexibkw1bhq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Form 4 Recursion Pharmaceuticals Inc: Dean Y. Li (Director) For: 1 October - Investing.com India",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRDVnRFZxbnpVRDJ1ajkwVUZ6NnljRi11WUR6UVFSUUdXTFgyVmxyY0c2RVRJTE1PZW9YOFM5WG5VZ2FJY1dQakFQSVdnOEVvOEFNWW10dmlFd3F0SXhLY1pKdjFCSWg2RHY3NzFWVERiZ2l5b3c4ZTJyZFNuenpRWEJRMTN5NnJIbjVQbkxxY2ZubnhLejBfY1dZZ1h0eXdvNGdmUVhJWXBPZEFoaUdJcGRPamQ4NWlLU25zME1SSE1kXzMzX3owdFVn?oc=5",
     "source": "Investing.com India",
@@ -282,6 +584,69 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmilwfbvv95cuxoy2pzrtc2sevlq1rmmlh0axk1bdd3q2tzntawuhbiq3q3enlsqnz4d1cynuk0nktbt2hmyjbinvf3ltv1vmffyzb1blbasulrajhia3u4n1l2y1f6edh3ykw4aufpuzlpmhhucmtzy1nerw9uvnjqvxjmuwthq20wcfvsdvzhyu10umdsadzosxdcvjhja1fn?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AI-driven Molecular Glue Innovation: Insilico Nominates ISM9546, an Oral, Peripheral-Restricted VAV1 Degrader as PCC for Autoimmune Diseases - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQZ1lCYjhfZndfMC16QTY3Qzh2LUU5Y1FSQzQ5bFo3NDVoS0JtNmppd1dBbDFmNUxfWUN1cUJ6RnY1Q29NTDNUNUgxeE5kZjRaRTZUTWFuNzBmNENmd0xfSkxqWmptRzJFSlQ5d1RaR1dGMzFvVHR3cTZVdy04aGhJYnZFWjRNc0tyZGlYQ1dDUHBEelFGejRoOHNWM1RuLVRkMV8xUWQ4YWNYZE9qa1NIdWFzc25QUndDWGxRcm03RFBpQ1g3b3V4VUI2dHVaTjN3VkwwLVZxaW93a2JiSk1FZmEtYng0OFctTkxHV1FfeUtGZU9idXEwMGFrUFJMa0ZiS1lDMkVoUmZxUmpZeTBSbWFuSnpqc0hrQ2hRRkdqWnNSOU5PWF81MU1uMzR0WTMtZ3pQSEpmbmLSAbgCQVVfeXFMUGdZQmI4X2Z3XzAtekE2N0M4di1FOWNRUkM0OWxaNzQ1aEtCbTZqaXdXQWwxZjVMX1lDdXFCekZ2NUNvTUwzVDVIMXhOZGY0WkU2VE1hbjcwZjRDZndMX0pMalpqbUcyRUpUOXdUWkdXRjMxb1R0d3E2VXctOGhoSWJ2RVo0TXNLcmRpWENXQ1BwRHpRRno0aDhzVjNUbi1UZDFfMVFkOGFjWGRPamtTSHVhc3NuUFJ3Q1hsUXJtN0RQaUNYN291eFVCNnR1Wk4zd1ZMMC1WcWlvd2tiYkpNRWZhLWJ4NDhXLU5MR1dRX3lLRmVPYnVxMDBha1BSTGtGYktZQzJFaFJmcVJqWXkwUm1hbkp6anNIa0NoUUZHalpzUjlOT1hfNTFNbjM0dFkzLWd6UEhKZm5i?oc=5",
+    "source": "The Manila Times",
+    "source_type": "press",
+    "published_date": "2026-10-13",
+    "collected_at": "2026-10-14T14:40:05.110941+00:00",
+    "authors": [],
+    "summary": "AI-driven Molecular Glue Innovation: Insilico Nominates ISM9546, an Oral, Peripheral-Restricted VAV1 Degrader as PCC for Autoimmune Diseases The Manila Times",
+    "doi": null,
+    "company_slug": "insilico-medicine",
+    "keywords_matched": [
+      "Insilico Medicine"
+    ],
+    "extra": {
+      "query": "\"Insilico Medicine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiuajbvv95cuxqz1lcyjhfzndfmc16qty3qzh2luu5y1fsqzq5bfo3ndvos0jtnmppd1dbbdfmnuxfwun1cuj6rny1q29ntdnunugxee5kzjrartzutwfunzbmnenmd0xfskxqwmptrzjfslq5d1rar1dgmzfvvhr3ctzvdy04aghjynzfwjrnc0tyzglyq1dduhbeelfgejroohnwm1rulvrkmv8xuwq4ywnyze9qa1nidwfzc25qunddwgxrcm03rfbpq1g3b3v4vui2dhvatjn3vkwwlvzxaw93a2jisk1fzmetyng0ofcttkxhv1ffeutgzu9idxewmgfrufjma0zis1ldmkvoumzxumpzetbsbwfusnpqc0hrq2hrrkdqwnnsou5pwf81mu1umzr0wtmtz3pqsepmbmlsabgcqvvfexfmugdzqmi4x2z3xzateke2n0m4di1fownrukm0owxanzq1aetcbtzqaxdxqwwxzjvmx1lddxfcekz2nunvtuwzvdvimxhozgy0wku2ve1hbjcwzjrdzndmx0pmalpqbucyrupuoxduwkdxrjmxb1r0d3e2vxctoghoswj2rvo0txnlcmrpwenxq1bwrhprrno0adhzvjnubi1uzdffmvfkogfjwgrpamttshvhc3nuufj3q1hsuxjtn0rqaunyn291efvcnnr1wk4zd1zmmc1wcwlvd2tiykpnrwzhlwj4ndhxlu5mr1drx3llrmvpynvxmdbha1bstgtgyktzqzjfafjmcvjqwxkwum1hbkp6annia0nouuzhalpzujlot1hfntfnbjm0dfkzlwd6uehkzm5i?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Pharma.AI Fall 2026 Release Recap: Transforming Drug Discovery and Development Through Specialized Models and AI Agents - Insilico Medicine",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT1RsVXVocGVvWTdtaUtJMWh1dFE0b25PQWxxRFZHNmVYQXNxWXR3d2ZRZUpVRUw3SjRTSVo5UlN6WTBaN3BQaEVkQjhjS3lMaW1nc09vNUhZTjVjTU1sTUp2QlptS094MzF0WmhlYXkzZldJNnRCbHZjQWtMUzV6cG9QaUVucGVpdHFHOU5ZWExJbEl3YnpROU1iRzVMRXJBU1dNUGtjS1A5TGxLa0tGQ1Q4R2RZTEJnVU5mN0c0dkNSUmlvS1UwOW5WRHFPcy1FdzM4WHhuVDY0WDg0NUFicENCcw?oc=5",
+    "source": "Insilico Medicine",
+    "source_type": "press",
+    "published_date": "2026-10-13",
+    "collected_at": "2026-10-14T14:40:05.573650+00:00",
+    "authors": [],
+    "summary": "Pharma.AI Fall 2026 Release Recap: Transforming Drug Discovery and Development Through Specialized Models and AI Agents Insilico Medicine",
+    "doi": null,
+    "company_slug": "pharma-ai",
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "query": "\"Pharma.AI\" Insilico",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi4wfbvv95cuxnt1rsvxvocgvvwtdtautjmwh1dfe0b25pqwxxrfzhnmvyqxnxwxr3d2zrzupvruw3sjrtsvo5uln6wtban3bqaevkqjhjs3lmaw1nc09vnuhztjvjtu1stup2qlpts094mzf0wmhlyxkzzldjnnrcbhzjqwtmuzv6cg9qauvucgvpdhfhou5zwexjbel3ynprou1irzvmrxjbu1dnugtjs1a5tgxla0tgq1q4r2rztejnvu5mn0c0dknsumlvs1uwow5wrhfpcy1fdzm4whhuvdy0wdg0nuficenccw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Form 4 Recursion Pharmaceuticals Inc: Dean Y. Li (Director) For: 1 October By Investing.com - Investing.com South Africa",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGx5SWFUTlcyX29tdGFfSzZOY2ZKLUMzM1I5MGMzWXNhUUxlLVdFZ2NxNUpGSzkxM1d3RERuR2pjV2VxbmR0X0V6bTUwWGMzN1NZR1kxWUREZXlzRldyVTJHZWpuYllmRHJtVE1CdXVTUy1NUWxfM3h5V3UxdmE1TkxadzV4Y0c1a3dfb2tkX3pEbVVLM0lPZkJzOU9ZdF81eHptSUU3U3dnTXdVLUhKcjlqRnJaN0xjMDVqZDlwTGphYk1kRjR1eGh3?oc=5",
+    "source": "Investing.com South Africa",
+    "source_type": "press",
+    "published_date": "2026-10-13",
+    "collected_at": "2026-10-14T14:40:08.312158+00:00",
+    "authors": [],
+    "summary": "Form 4 Recursion Pharmaceuticals Inc: Dean Y. Li (Director) For: 1 October By Investing.com Investing.com South Africa",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiygfbvv95cuxprgx5swfutlcyx29tdgffszzoy2zklumzm1i5mgmzwxnhuuxllvdfz2nxnupgszkxm1d3rerur2pjv2vxbmr0x0v6btuwwgmzn1nzr1kxwurezxlzrldyvtjhzwpuyllmrhjtve1cdxvtuy1nuwxfm3h5v3uxdme1tkxadzv4y0c1a3dfb2tkx3pebvvlm0lpzkjzou9zdf81ehptsuu3u3dntxdvluhkcjlqrnjan0xjmdvqzdlwtgphyk1krjr1egh3?oc=5"
   },
   {
     "kind": "news",
@@ -868,6 +1233,27 @@
   },
   {
     "kind": "news",
+    "title": "Form 144 RECURSION PHARMACEUTICALS For: 11 October By Investing.com - Investing.com Canada",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXNzY2otNC1GR1JMNzlsV2tROW1hTE4taWVvZG5fV19Fa0JXbUszVHBZLV9hQ25wSEZPanA0bF9yeGhYS3ZOOWphUzZSMC1reGw0VVl6bzVWZ2VQem9ERUJMY1VyNHR3M19sdWhTUWZEMndwNEZsTGtkYmZHVDI2bEJDYkFvWVNmLUVnejVVeEk3MDgxdmR3ZDhsemtqODlGTDBSSXZIS0d3aDl5YUVj?oc=5",
+    "source": "Investing.com Canada",
+    "source_type": "press",
+    "published_date": "2026-10-11",
+    "collected_at": "2026-10-14T14:40:08.318901+00:00",
+    "authors": [],
+    "summary": "Form 144 RECURSION PHARMACEUTICALS For: 11 October By Investing.com Investing.com Canada",
+    "doi": null,
+    "company_slug": "recursion",
+    "keywords_matched": [
+      "Recursion Pharmaceuticals"
+    ],
+    "extra": {
+      "query": "\"Recursion Pharmaceuticals\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmirwfbvv95cuxpbxnzy2otnc1gr1jmnzlsv2trow1hte4tawvvzg5fv19fa0jxbuszvhbzlv9hq25wsezpana0bf9yeghys3zoowphuzzsmc1regw0vvl6bzvwz2vqem9erujmy1vynhr3m19sdwhtuwzemndwnezstgtkymzhvdi2bejdykfvwvnmluvnejvveek3mdgxdmr3zdhsemtqodlgtdbssxzis0d3adl5yuvj?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Anthropic Uses Claude to Assemble First All-Sky Ultraviolet Map, with One-Third of the Sky Inferred by AI - BigGo Finance",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tbFNjT3N5dmVyRGp2dTNpWlBqZUxZcDdWYS1xd2p5NmU1RjFIdHh1cC00WldvMlJrZHZodEI2MmVpNnNrTG9PNmlLV2NKNFhnamZPa0tpLUN1b1pNVUtRdl93c3RJQnJoWXFYVElNSzBhVXBBWnc?oc=5",
     "source": "BigGo Finance",
@@ -1096,6 +1482,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbminafbvv95cuxonuxyndu3u0i3u2jkrdfqzwrvtgtmsfpnuetjmu1bbgnvsjzxtusyaeu5z0s0uhj2q08wytfjrum1n0vlzxnht0rxegtotf9uz3nyz1h0azc1tznrahvab0tgexc3wdnvr2niuxl5ymdxym9wduplrhuwqlv6d0mznmfmaglmlxnwafrsywzqsxnodtc4bwlsm0zpumg?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic’s Biology Breakthrough: AI Discovers New Enzyme System Evoking CRISPR - Vocal",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOODNncnpuTEJRWG12TzJteXhERTBzZnF5YWNXejg3NHVuUGNCZndyR2ZRS1B4d2E1bVM3M0RvR3ppZ0hJRWpCN04yd0hXclRVbGRRaGtyMUhXRUtoN2lEc3BnSGdHTXdCbDNTNTc2dlRyc3NRdW1pWEd6SEZkSHFJd1JramFUdkdzUkwxR1c5RjJPVS1vbGNlajBSNTNUN3hMSlE?oc=5",
+    "source": "Vocal",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-14T14:40:10.602177+00:00",
+    "authors": [],
+    "summary": "Anthropic’s Biology Breakthrough: AI Discovers New Enzyme System Evoking CRISPR Vocal",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiogfbvv95cuxoodnncnputejrwg12tzjtexhertbzznf5ywnxejg3nhvuugnczndyr2zrs1b4d2e1bvm3m0rvr3ppz0hjrwpcn04yd0hxclrvbgrragtymuhxruton2lec3bnsgdhtxdcbdntntc2dlryc3nrdw1pwed6sezkshfjd1jramfudkdzukwxr1c5rjjpvs1vbgnlajbsntnun3hmsle?oc=5"
   },
   {
     "kind": "news",
@@ -1574,6 +1981,48 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiswjbvv95cuxqn3dqyxzbu0xtamvpzmo3t0hzrvhwzxvjvzqzavfox3axulpoalrvekhjs0ixelpkuelsc0w2z2nsnhljse5kathsrll2rk5hrfplvmitqms1rgvvq3nickxybwntzxnrmzdicdczuhjsvdfhahlfcgroyknoy1nueg84yujtntnunuk1emx6elpkwlhxn242nmrtx3borg9kcgput29ieglooxvmtldtuzntvwhscwxnqm1hz0i1umkzb09qz2ozqwzvwfbfzgphefhvdzjcs1zhzw00ae56zufvqvk0aly3unrcvgd2dvh5bev6zuhcec1utei1emjja1vswlvdrlyzmmjqr3dqsi1nzk45ejn0su1mt19tzfv4tdnjntjhcmznvwfxcu8twk1z0gg4akfvx3lxte1zcxa2b1o5mnp3dvppbfhiugrheme1bnddx25vwjhnrm04zfo1rwpctmdqmflqu3yxnffxcznicznwy3nsvw5vnxnioezcafvudgdhewtibkzfunlklwrzcfbntv9iavrpde1pbs1nmkg4bujwvk1wsxdzutvnt2fit0hutk1goc1pytdpry0tzevyznvuodhlohpqenzomhhhvgtyqnvcd2lgqja5wjruvevamhhsynj0rnddmnhpuknsb3qwzuszcgptlxjgvvryytzmbunpzthctw5qnhhoaghwq1j4dlo3dzm4cg9nc3njatl6rwziwjltejlstwtxnmtmnwxmblp0smvvze1yb0xwtdrxafy5yk53dwj2ztv1mglyvwtusg9ix2nqqmotlupemkjkdq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "UK scientists’ protein membranes for cleaner lithium: DLE implications for mine planners - Geomechanics.io",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeUdNTWxUaThVNXFsT3VHRVdaYV9XOTlIYTRteXBOdkc4VFo0TUREa0JuQXVGM0FoYlFDeG14Q0NtRGNBdVFrQktCZVVmaTJ4eWlpQUdXek0wT1NfRGxvQ0RFLXBvbHZKYTkta25QNFd4dnc5MnJZcHcwSzdET05uWGVMR0RiVDBRZzZ4LTBTSGNVZUhvYzdQbTlya2l1UWdjbEpwell4NXFlaDJGWjVpMmVBYkFVb0pLQWJqNy15ak1lMXVWOEE?oc=5",
+    "source": "Geomechanics.io",
+    "source_type": "press",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-14T14:40:04.331707+00:00",
+    "authors": [],
+    "summary": "UK scientists’ protein membranes for cleaner lithium: DLE implications for mine planners Geomechanics.io",
+    "doi": null,
+    "company_slug": "adaptyv-bio",
+    "keywords_matched": [
+      "Adaptyv Bio"
+    ],
+    "extra": {
+      "query": "\"Adaptyv Bio\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmixgfbvv95cuxneudntwxuathvnxfst3vhrvdayv9xotliytrtexbodkc4vfo0turea0juqxvgm0foylfdeg14q0ntrgnbdvfrqktczvvmatj4ewlpqudxek0wt1nfrgxvq0rflxbvbhzkytkta25qnfd4dnc5mnjzchcwszdet05uwgvmr0rivdbrzzz4ltbtsgnvzuhvyzdqbtlya2l1uwdjbepwell4nxfladjgwjvpmmvbykfvb0plqwjqny15ak1lmxvwoee?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic Commits $150M to Federal Science AI Initiative - TUN - The University Network",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaWdEQ3JfRTBMMTdxNjJBODVhNTczNDhaUkR2a01MUmpCTFB4dDQwN3haNWI4VHI3YnF0Mm5GcWNNLXlvT01aUVRuN21GbGYyQ3BPdXR4WDUzbk1JS2tsekhsUzlGV0xtTlBUZTl4ckZWS0FsdDY1NFlUU2hKdl9rOTdNQTZFMVdz?oc=5",
+    "source": "TUN - The University Network",
+    "source_type": "press",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-14T14:40:06.159855+00:00",
+    "authors": [],
+    "summary": "Anthropic Commits $150M to Federal Science AI Initiative TUN - The University Network",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiiafbvv95cuxqawdeq3jfrtbmmtdxnjjbodvhntczndhaukr2a01mumpctfb4ddqwn3hanwi4vhi3ynf0mm5gcwnnlxlvt01auvrun21gbgyyq3bpdxr4wduzbk1js2tsekhsuzlgv0xttlbuztl4ckzws0fsddy1nfluu2hkdl9rotdnqtzfmvdz?oc=5"
   },
   {
     "kind": "news",
@@ -2895,6 +3344,48 @@
   },
   {
     "kind": "news",
+    "title": "Anthropic says scientist used Claude Science to build first complete ultraviolet sky map - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZbmVnMzJpTUluVGxlVVRud09Za2FkQ1ViNEcySEZoYWFpV2NKTWl6Q2pSeWhycTVSYTBWNEQ1RkVLeVNwTmgzTEFublhoQUF2OVVlVm9haE1NZ29wSmhrX0sxNk1GMmRWRXFxdjBEWVVycEtzTWxfTzNOVQ?oc=5",
+    "source": "Crypto Briefing",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-14T14:40:06.158250+00:00",
+    "authors": [],
+    "summary": "Anthropic says scientist used Claude Science to build first complete ultraviolet sky map Crypto Briefing",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmie0fvx3lxtfbzbmvnmzjptuluvgxlvvrud09za2fkq1vinecysezoywfpv2nktwl6q2psewhyctvsytbwneq1rkvlevnwtmgztefublhoquf2ovvlvm9hae1nz29wsmhrx0sxnk1gmmrwrxfxdjbewvvycetztwxftznovq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Anthropic pledges $150 million to expand Claude across federal research agencies - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb1REaXdzNWJvWVZfcWNhdTFrU1BiVUVZN0NCVWN5WXhtc01fSXZvOUpfQWdLcFlnWkRwVzJucURlb1JxYUw0WXVCY2N2T1UxZzFJdnVELVBTWTgwdVdXT2tXNkNkTXZhYXdDQklSN3Nqbmo5Yjlxc3ZB?oc=5",
+    "source": "Crypto Briefing",
+    "source_type": "press",
+    "published_date": "2026-10-08",
+    "collected_at": "2026-10-14T14:40:06.160503+00:00",
+    "authors": [],
+    "summary": "Anthropic pledges $150 million to expand Claude across federal research agencies Crypto Briefing",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiekfvx3lxte9sb1reaxdznwjvwvzfcwnhdtfru1bivuvzn0ncvwn5wxhtc01fsxzvoupfqwdlcflnwkrwvzjucurlb1jxyuw0wxvcy2n2t1uxzzfjdnvelvbtwtgwdvdxt2txnknktxzhyxddqklsn3nqbmo5yjlxc3zb?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "DA-003",
     "url": "https://drughunter.com/molecule/da-003",
     "source": "Drug Hunter",
@@ -3679,6 +4170,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmizafbvv95cuxpwwr1u3i0sududmdltfldx2xelwu0zknxzfd2smx1ymw1rgqzm2xfqzznbue3uzboajnwcwvwzmn2dvltrtzmd3dsu2tcywett3bxdwdnedrxtlpqelrcsl90n01ozxfwmkjhzlzpauddtxjkveq5ahpxx29qm3nqwvdrzf9gng9slvc3dg8wnzbdvti5zk5sbzb6ahp1v1ffy1nzytfvweherwqwwlzwaglwx3fjytb1mzfxagd5rva3dwdmvuv0q0lednq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "VSR: processo de produção de vacina no Brasil já começou, com transferência de tecnologia para o Instituto Butantan; entenda - Abrafarma",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRUU0ZHBOYTVqaHBRT0Nmeng2Z3N6SVE0Vk5wcjdXbXZXWXk1c0FvU1lmZ0tNWExiQTNJei1QWWJTV2NMeGswTXYtc1owRDF2X25sMUFYWnJyYUphSHl5QUttWFZuODZMV0VwMGszUVRQVFA1dmRrMk1vbDBJWWktRkxZSVZ4RWxJdTN2cUlWR2ZlQ1NvX2Vxc3o5eTdGN3ZETVNTcldBaXoxM2dnVXFOVGlreDU4WmdwbUpmdEI1Zi1vS0RLT1ROUXZUTWc3eTNxbnNtSFRpZnZZTG9WNS1tNHBiZDNZVXBBS2h5Y2xWUmw?oc=5",
+    "source": "Abrafarma",
+    "source_type": "news",
+    "published_date": "2026-10-07",
+    "collected_at": "2026-10-14T14:40:02.502277+00:00",
+    "authors": [],
+    "summary": "VSR: processo de produção de vacina no Brasil já começou, com transferência de tecnologia para o Instituto Butantan; entenda Abrafarma",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi8afbvv95cuxpruu0zhboytvqahbrt0nmeng2z3n6sve0vk5wcjdxbxzxwxk1c0fvu1lmz0tnwexiqtnjei1qwwjtv2nmegswtxytc1owrdf2x25smufywnjyyuphshl5quttwfzuodzmv0vwmgszuvrqvfa1dmrrmk1vbdbjwwktrkxzsvz4rwxjdtn2culwr2zlq1nvx2vxc3o5etdgn3zetvntcldbaxoxm2dnvxfovglredu4wmdwbupmdei1zi1vs0rlt1rouxzutwc3etnxbnntsfrpznzztg9wns1tnhbizdnzvxbbs2h5y2xwumw?oc=5"
   },
   {
     "kind": "news",
@@ -6734,6 +7246,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmivwfbvv95cuxqv0nlz1u0zhm4nkjvsmw3wupsmty5s1hhlvvynvduqlyzzti2rtvgylfvemtjeujzbffwwgrjuxczwln6uesxn0m5x0homznbdkqwefbqr2ctbul1ukwty0xwc0f6ber2ndfqbwjju1v2edlpy1mtcnpjeffvrhfkdu01wws0rnvubjnzrhnudwjxmnlyv1vuv2ziymjxvenerlplehq0uc1obepkbvitajraou5tn3bqsnn0c3k1dw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Hansa Biopharma Partners with Cradle to Advance AI-Driven Protein Design and Engineering - PR Newswire UK",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzdOaFFHWFhkbUdPcHZ3dnlaLTQzajNfWFgtZUlYVWdqTDRzLUNfWTdoS2ZkX2t1WkpGS29kNkR5WW85QU5FNS1JSUNINmc4ZUZOcG9GZlZpTzVuVkhpN3ExTHRCT0Z5OVp0X1FOUU9RMVljamcxbFJmYWZ5aG1CaU9zMG02TTl4S2RrLWxUbkxFd01tUlNWSmpTcUJEV3VGT1pWbHdidVhPaE52dGJ5V0JzZ0tsbFhhLXZfSnZ0YUl2a29ESXdkbU1WZngxa3RxVVNPXzlpa0xzd0V5UFpF?oc=5",
+    "source": "PR Newswire UK",
+    "source_type": "news",
+    "published_date": "2026-10-01",
+    "collected_at": "2026-10-14T14:39:55.051777+00:00",
+    "authors": [],
+    "summary": "Hansa Biopharma Partners with Cradle to Advance AI-Driven Protein Design and Engineering PR Newswire UK",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "protein design\" AI"
+    ],
+    "extra": {
+      "query": "\"protein design\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi3wfbvv95cuxoxzdoaffhwfhkbudpchz3dnlaltqzajnfwfgtzulyvwdqtdrzlunfwtdos2zkx2t1wkpgs29knkr5ww85qu5fns1jsuninmc4zuzocg9gzlzptzvuvkhpn3exthrct0z5ovp0x1fouu9rmvljamcxbfjmywz5ag1cau9zmg02ttl4s2rrlwxubkxfd01tulnwsmptcujev3vgt1pwbhdidvhpae52dgj5v0jzz0tsbfhhlxzfsnz0yul2a29esxdkbu1wzngxa3rxvvnpxzlpa0xzd0v5ufpf?oc=5"
   },
   {
     "kind": "news",
@@ -30551,6 +31084,27 @@
   },
   {
     "kind": "news",
+    "title": "Anthropic Opens Free Claude to Scientists; Biology Frontier Goes Through Washington - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTGVTVXQzWDZ2SnFCVlJSN2FNanBXZVlOMDdyZHd2TDNQaTg0ZjJKczVsc3JPRC1JeUV6V2YtRUNTalViSk9QV0ZKcEVuVUltU19UcHdqWTJpdzhCdVRJOENjOGlXUkE0MVJDME1qUUtqS3VESTZyRlpFX2RGdnItaDFwcU42bEdmUElHVGVtUFBEc3M2elRSVWtzS1U0aFBQQ0ktQTRfdDhCQkxOS2RhcUc5WGlJRUFQV0pkelRfWF94S3dGUFdEWUlBWWV4aW8?oc=5",
+    "source": "Tech Times",
+    "source_type": "press",
+    "published_date": "2026-08-28",
+    "collected_at": "2026-10-14T14:40:06.168197+00:00",
+    "authors": [],
+    "summary": "Anthropic Opens Free Claude to Scientists; Biology Frontier Goes Through Washington Tech Times",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmizwfbvv95cuxptgvtvxqzwdz2snfcvljsn2fnanbxzvlomddyzhd2tdnqatg0zjjkczvsc3jprc1jeuv6v2ytruntalvisk9qv0zkcevuvultu19uchdqwtjpdzhcdvrjoenjoglxuke0mvjdme1quutqs3vestzyrlpfx2rgdnitadfwcu42bedmuelhvgvtufbec3m2elrsvwtzs1u0afbqq0ktqtrfddhcqkxos2rhcuc5wgljrufqv0pkelrfwf94s3dgufdewulbwwv4aw8?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "daraxonrasib (RMC-6236)",
     "url": "https://drughunter.com/molecule/daraxonrasib-rmc-6236",
     "source": "Drug Hunter",
@@ -34645,6 +35199,27 @@
   },
   {
     "kind": "news",
+    "title": "Schrodinger Inc. (SDGR) Dips 0.95% to $17.64 as Shares Sit Between Support and Resistance - Exhaustion Gap - dars.gov.et",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaENsSUlHWWFlWHBhUjZMOWVJcXZJRjZzNFJpaFFSUDc0bGM1cExSVFVMWkRncnFqX3RvSllxWFZ4T0hBZUdWeTVJSXk0Rm1Rb1M1VXpFNFZYTWFJZkFwRTEwaEVNVXpPUnRkd2Rxdk9IODZPemYwTlBDZmxRZWNGR0REZUxMN2U1bTNBOTB5RHNNSTctNmViRGV2d19iTjc5UVVBTDJ5NzJrVDVxV1dVVUpPemxkNkQ1VkpXNW4zSGRkX0p5bi1MbGdIZm1MZFBKbnBoQ2dJYmVJc283REtZZnhfeHc4akl0S1BPUDU2eVJGYzBjSG16YmlQWHo3QQ?oc=5",
+    "source": "dars.gov.et",
+    "source_type": "press",
+    "published_date": "2026-08-07",
+    "collected_at": "2026-10-14T14:40:03.507341+00:00",
+    "authors": [],
+    "summary": "Schrodinger Inc. (SDGR) Dips 0.95% to $17.64 as Shares Sit Between Support and Resistance - Exhaustion Gap dars.gov.et",
+    "doi": null,
+    "company_slug": "schrodinger",
+    "keywords_matched": [
+      "Schrödinger"
+    ],
+    "extra": {
+      "query": "\"Schrodinger\" (drug discovery OR \"molecular design\" OR \"computational chemistry\" OR pharmaceutical)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi_gfbvv95cuxqaenssulhwwflwhbhujzmowvjcxzjrjzznfjpaffsudc0bgm1cexsvfvmwkrncnfqx3rvsllxwfz4t0hbzudwetvjsxk0rm1rb1m1vxpfnfzytwfjzkfwrtewaevnvxppunrkd2rxdk9iodzpemywtlbdzmxrzwngr0rezuxmn2u1btnbotb5rhnnstctnmvirgv2d19itjc5uvvbtdj5nzjrvdvxv1dvvuppemxknkq1vkpxnw4zsgrkx0p5bi1mbgdizm1mzfbkbnboq2djymvjc283retzznhfehc4akl0s1bpudu2evjgyzbjsg16ymlqwho3qq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Ministério da Saúde suspende o uso da vacina contra a dengue do Butantan - Portal Drauzio Varella",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVHpUY2RqOWJTM2Z3cjRtdXR2LThtS1BFVlZ6Rmt4YlRmamZEdk95Nm92ekRrN1JsYThhSHcybGMzZ3lYU2xhQ0ZheTFKMlVQLWlnYk83a2c5SmpZd3ZXc05VbWtOR2VKelRNN1BGd1pPZ3BBS0ZPX3dBLVNBVnlyTkVLVlEzY2dnenhLQzZsS0JmLVIyWDlLUnJmaXJLUFVaX2VYVFZhblQ0TDltcWhvYUx1SU82c1VrTktTYw?oc=5",
     "source": "Portal Drauzio Varella",
@@ -36612,6 +37187,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmijafbvv95cuxnugheedq2egjpohdyblvxdjnklwnjc0visffmz29em1ixmfg0a0phohfnt1jvszfzx2dhrgfjy3vumy16d2zhufm1dkriekhed0tgdhn2bwu0ufjcvznwd2jnqwm0mkvnywtwbm1xvjlpszu4sml1sew4wdlsetdounjfvlzwwgh3avvlbg?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Lila Sciences Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MNVJYbzExTG56S0JaMjF0VVVYV0QwWDdLb3Y1TmprQlVjaEhkaFpfXzZaTUpTX295d1FUZGVWMGRtcE9KbVQ5M014M19md1ZFcVVRc0kxb1dHWEtmdmhfRS03aC1KbE1QemRmeGl3?oc=5",
+    "source": "Revelio Labs",
+    "source_type": "press",
+    "published_date": "2026-07-29",
+    "collected_at": "2026-10-14T14:40:09.048029+00:00",
+    "authors": [],
+    "summary": "Lila Sciences Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+    "doi": null,
+    "company_slug": "lila-sciences",
+    "keywords_matched": [
+      "Lila Sciences"
+    ],
+    "extra": {
+      "query": "\"Lila Sciences\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmibkfvx3lxte9mnvjybzextg56s0jamjf0vvvyv0qwwddlb3y1tmprqlvjaehkafpfxzzatuptx295d1fuzgvwmgrtce9kbvq5m014m19md1zfcvvrc0kxb1dhwetmdmhfrs03ac1kbe1qemrmegl3?oc=5"
   },
   {
     "kind": "news",
@@ -73300,6 +73896,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiogfbvv95cuxpcwxyn1fxoupssjrqs21wy3nuvtzas2vfyvvntwjwvhd0v3pdddm3m3ayovnzx2naynn6bhnit1dltgldv3lelvhkbjlhnxblx1l4buhnvdq3mgxedjj2sercvg1rrdnxbuplddzlq3dez2vjtdl1vfj5ugkzvgyxvmi5a2lvdu5smvbtsjhsvtixuwrznmkwd0tinvf6uvdqske?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Deep reinforcement learning for de novo drug design - Science | AAAS",
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNczNoSmtoMTkwNUoyU2NsTjIxQlpldVFBSTBiZV93d2xSbWJMNHlTOERXNkx6azZwYmhtZXoxR2NCLWR6NkVscmRscG9JLVp6UEhTN0pITWcxcG5EVXh3eDBsNHpnY0hWS0Zfam8yX1R4RWltYVlUSkxJdXJzMy15dm5mcnNNbDlPcTdPa0pMMGlwbkFsVjRGT05uYklWRkUwazVoT05FOHlCdW1iUFNiQ0J1MzV6NWlfZGlxcmlMTDZOQU9KQ1d4YzFyc3AwMFhNUWlhc1ZrV2haaHJndDczRjI2bjd4Mkd2R3ZoYUszbzV5b2RsLUhhUWc2YktDNFlyQWhGOFU4UFhJOTkzTkhYbW95OENLS21LRktF?oc=5",
+    "source": "Science | AAAS",
+    "source_type": "news",
+    "published_date": "2023-08-16",
+    "collected_at": "2026-10-14T14:39:55.433413+00:00",
+    "authors": [],
+    "summary": "Deep reinforcement learning for de novo drug design Science | AAAS",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "de novo drug design"
+    ],
+    "extra": {
+      "query": "\"de novo drug design\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmimwjbvv95cuxncznosmtomtkwnuoyu2nstjixqlpldvfbstbizv93d2xsbwjmnhltoerxnkx6azzwymhtzxoxr2nclwr6nkvscmrscg9jlvp6uehtn0pitwcxcg5evxh3edbsnhpny0hws0zfam8yx1r4rwltyvluskxjdxjzmy15dm5mcnnnbdlpctdpa0pmmglwbkfsvjrgt05uyklwrkuwazvot05fohlcdw1iufniq0j1mzv6nwlfzglxcmlmtdzoqu9kq1d4yzfyc3awmfhnuwlhc1zrv2haahjnddczrji2bjd4mkd2r3zoyuszbzv5b2rsluhhuwc2yktdnflyqwhgofu4ufhjotkztkhybw95oenls21lrktf?oc=5"
   },
   {
     "kind": "news",
