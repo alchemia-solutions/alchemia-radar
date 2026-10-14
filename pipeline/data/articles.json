@@ -85387,5 +85387,458 @@
       "journal": "Medicinal chemistry research : an international journal for rapid communications on design and mechanisms of action of biologically active agents"
     },
     "dedupe_key": "doi:10.1007/s00044-026-03627-1"
+  },
+  {
+    "kind": "article",
+    "title": "Screening for medicine and food homologous ingredients targeting ALDH2 to alleviate acute ethanol-induced liver injury.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42871545/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-14T19:40:24.773565+00:00",
+    "authors": [
+      "Yuan Lu",
+      "Zibin Li",
+      "Pan Gao",
+      "Yushan Liu",
+      "Lin Han",
+      "Ji Bian",
+      "Min Wang"
+    ],
+    "summary": "Alcoholic liver disease (ALD) is a major global health burden with limited therapeutic options. Aldehyde dehydrogenase 2 (ALDH2) plays a critical role in alcohol metabolism, and ALDH2 deficiency exacerbates alcohol-induced hepatic injury. This study aimed to identify and validate natural ALDH2 activators from medicine and food homologous sources for alleviating acute ethanol-induced liver injury. A literature-based screening revealed 18 candidate compounds. In vitro enzyme kinetics, molecular docking, and isothermal titration calorimetry were employed to identify four potent ALDH2 activators from these 18 candidates. The hepatoprotective effects of the four candidates were validated in vivo using serum biochemical analyses, oxidative stress measurements, and histopathological examinations in the Gao-binge ALD mouse model. Puerarin, sophoricoside, quercetin, and daidzin were preliminarily identified as mixed-type ALDH2 activators, which increased the acetaldehyde dehydrogenation rate catalyzed by ALDH2. These compounds significantly improved motor coordination, reduced blood ethanol and acetaldehyde levels, attenuated hepatic steatosis, normalized transaminase activities, restored antioxidant capacity, and ameliorated liver histopathological damage in the mouse model. Several natural ALDH2 activators from medicine and food homologous sources with potent hepatoprotective effects were identified, providing the scientific basis for developing healthy foods and dietary supplements to alleviate acute ethanol-induced liver injury.",
+    "doi": "10.3389/fnut.2026.1913449",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42871545",
+      "journal": "Frontiers in nutrition"
+    },
+    "dedupe_key": "doi:10.3389/fnut.2026.1913449"
+  },
+  {
+    "kind": "article",
+    "title": "Pimpinella brachycarpa extract attenuates periodontal inflammation by modulating the PI3K/Akt-NF-κB signaling pathway.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42871523/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-14T19:40:24.774153+00:00",
+    "authors": [
+      "A Yeong Lee",
+      "Su-Bin Park",
+      "Eunjung Son",
+      "Junghyun Kim",
+      "Dong-Seon Kim",
+      "Soon Yeong Park",
+      "Hyeri Ku",
+      "Jung-In Kim",
+      "Yun Mi Lee"
+    ],
+    "summary": "This study was conducted to investigate the preventive effects of Pimpinella brachycarpa extract (PBE), which has demonstrated anti-inflammatory effects but whose molecular mechanisms and active components are not completely understood, in experimental periodontitis and to elucidate its underlying mechanisms. The protective effects of PBE were evaluated in a lipopolysaccharide (LPS)-induced periodontitis rat model by assessing histological changes, TRAP-positive osteoclast presence, and alveolar bone loss. Network pharmacology, protein-protein interaction network analysis, KEGG pathway enrichment analysis, and molecular docking were performed to predict the potential targets and mechanisms of PBE. The anti-inflammatory effects of PBE were further investigated in RAW264.7 macrophages and human periodontal ligament fibroblasts (PDLFs). Inflammatory mediators, cytokines, matrix metalloproteinases (MMPs), and PI3K/Akt/NF-κB signaling-related proteins were analyzed. Major constituents of PBE were identified using UPLC-QTOF-MS, and their anti-inflammatory activities were evaluated in vitro. PBE attenuated periodontal tissue destruction in LPS-induced periodontitis rats, as demonstrated by reduced inflammatory cell infiltration, decreased CEJ-ABC distance, and suppression of TRAP-positive osteoclast presence. Network pharmacology analysis identified the PI3K/Akt signaling pathway as a key target associated with the anti-inflammatory effects of PBE. In RAW264.7 macrophages, PBE significantly reduced the production of NO, PGE2, TNF-α, and IL-1β. In PDLFs, PBE suppressed IL-1β-induced production of PGE2, IL-6, and IL-1β and downregulated the expression of MMP-3, MMP-8, and MMP-13. Furthermore, PBE inhibited the phosphorylation of PI3K, Akt, IKK, IκBα, and NF-κB p65. Chemical profiling identified chlorogenic acid, luteolin 7-O-glucuronide, apigenin 7-O-glucuronide, and luteolin 3'-O-glucuronide as major constituents. Among these, flavonoid glucuronides exhibited stronger anti-inflammatory activities than chlorogenic acid in vitro. The present findings indicate that PBE exerts anti-inflammatory and tissue-protective effects in experimental models of periodontitis. The observed effects were associated with suppression of PI3K/Akt-NF-κB signaling. In addition, flavonoid glucuronides identified in PBE exhibited anti-inflammatory activities in vitro. Further studies are required to clarify the contribution of individual constituents to the biological activity of PBE.",
+    "doi": "10.3389/fphar.2026.1902876",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42871523",
+      "journal": "Frontiers in pharmacology"
+    },
+    "dedupe_key": "doi:10.3389/fphar.2026.1902876"
+  },
+  {
+    "kind": "article",
+    "title": "Atractylenolide III attenuates age-related vertebral bone loss by suppressing macrophage inflammation and osteoclastogenesis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42871506/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-14T19:40:24.774616+00:00",
+    "authors": [
+      "Cheng Xiang",
+      "Wenyuan Xiang",
+      "Jannatul Ferdus Shila",
+      "Atikul Islam",
+      "Yilin Liao",
+      "Zhengxiao Ouyang",
+      "Gen Wu",
+      "Xinfeng Gao"
+    ],
+    "summary": "Age-related bone loss is driven in part by inflammatory remodeling of the bone marrow niche, which promotes macrophage activation and osteoclastogenesis. Atractylenolide III (AT-III) is a chemically defined sesquiterpene lactone with anti-inflammatory activity, but its skeletal effects in natural aging remain unclear. Bone marrow cells and macrophages from young and aged mice were evaluated by flow cytometry, ELISA, immunostaining, TRAP staining, RT-qPCR, and immunoblotting. Twenty-four-month-old male mice received vehicle or AT-III (10 or 20 mg/kg/day) for 1 month, followed by vertebral micro-computed tomography and histomorphometry. Aged bone marrow exhibited increased TLR4 and IL-1β signals in CD11b-positive myeloid cells, particularly a macrophage-enriched population. In aged bone marrow-derived macrophages, AT-III reduced TNF-α and IL-1β secretion, lowered TLR4 and IL-1β staining, and suppressed RANKL-induced osteoclast formation. AT-III-treated aged mice showed improved vertebral microarchitecture, increased osteoblast surface, and reduced osteoclast and eroded-surface indices without overt short-term changes in body weight or major-organ histology. AT-III also reduced phosphorylation of RelA and p50 and decreased Tlr4, Rela, and Nfkb1 expression. Exploratory network pharmacology and molecular docking independently prioritized TLR4/NF-κB-related signaling. These findings indicate that AT-III attenuates age-related vertebral bone loss and inflammatory osteoclastogenesis, while direct target engagement and causal pathway dependence remain to be established.",
+    "doi": "10.1016/j.bonr.2026.101955",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42871506",
+      "journal": "Bone reports"
+    },
+    "dedupe_key": "doi:10.1016/j.bonr.2026.101955"
+  },
+  {
+    "kind": "article",
+    "title": "Machine learning-driven discovery of TGFBR1 inhibitors from Mangifera indica for Atorvastatin-based antidiabetic therapy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42871457/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-14T19:40:24.775111+00:00",
+    "authors": [
+      "Raghuvir Keni",
+      "Farmiza Begum",
+      "Niraja Ranadive",
+      "Pawan G Nayak",
+      "Vijayakumar Murugesan",
+      "Kommu Pradeep",
+      "Mangirish Deshpande",
+      "Nandakumar Krishnadas",
+      "Panneerselvam Theivendren"
+    ],
+    "summary": "Mangiferin, a C-glucosyl xanthone from Mangifera indica, has known antidiabetic activity, but the specific protein target underlying this activity, and its compatibility with existing antidiabetic drugs such as Atorvastatin, were not defined. In this work, machine learning, network pharmacology, molecular dynamics simulations, and experimental validation identified and validated TGFBR1 as a novel molecular target of Mangiferin and evaluated a Mangiferin-Atorvastatin combination for diabetes therapy. A curated collection of TGFBR1 inhibitors from BindingDB was used to train several supervised learning models, with the best performance from Random Forest (94.68% accuracy, κ = 0.8981) and robust external validation (79.35%) on 868 unseen compounds. Screening of 545 M. indica phytochemicals with this model identified Mangiferin, Fisetin, Isochinomin, Mangiferolic acid, and Astragalin as high-confidence TGFBR1 inhibitors. Network pharmacology identified TGF-β as the most central protein in the interaction network (cumulative score 350), and molecular docking showed that Mangiferin forms stable hydrogen bonds with SER-287, ILE-211, and GLU-208 at the TGFBR1 binding site, together with hydrophobic contacts. This binding pose remained structurally stable (RMSD 1.50-1.75 Å) over 100 nanoseconds of molecular dynamics simulation, with ligand-residue occupancy > 85%. ADMET profiling showed favorable drug-likeness (Lipinski compliance, low predicted toxicity) with a moderate permeability limitation (TPSA 201.28 Å²), and DFT analysis showed a HOMO-LUMO gap of 2.85937 eV, supporting antioxidant activity. In cultured cells, Atorvastatin combined with Mangiferin increased apoptosis through the mitochondrial pathway (Bcl-xL downregulation, BAK upregulation, cytochrome c release, caspase-7/8 activation) and enhanced insulin sensitivity, shown by increased glucose uptake (2-NBDG assay) and higher GLUT-4 and pIRS-1(Tyr896) expression. In high-fat diet-fed rats, Atorvastatin plus Mangiferin given for 24 weeks significantly improved glucose tolerance and reduced HbA1c, total cholesterol, triglycerides, and random blood sugar relative to untreated high-fat diet controls, with preserved pancreatic architecture and increased muscle GLUT-4 expression. These findings identify TGFBR1 as a plausible molecular target of Mangiferin and provide a mechanistic rationale for the Mangiferin-Atorvastatin combination as a candidate antidiabetic therapy. The online version contains supplementary material available at https://doi.org/10.1007/s13205-026-05088-0.",
+    "doi": "10.1007/s13205-026-05088-0",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "ADMET",
+      "molecular dynamics",
+      "drug-likeness",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42871457",
+      "journal": "3 Biotech"
+    },
+    "dedupe_key": "doi:10.1007/s13205-026-05088-0"
+  },
+  {
+    "kind": "article",
+    "title": "Uncovering potent natural products against Sars-Cov-2 main protease using structure-based virtual screening and simulation studies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42871427/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-14T19:40:24.775542+00:00",
+    "authors": [
+      "Pawan Gupta",
+      "Vishnu Kumar Sharma"
+    ],
+    "summary": "The aim of the studies is to perform structure-based virtual screening against the main protease (Mpro) of SARS-CoV-2 to identify the novel natural product using in silico methods. The screening studies ranked the first 10 screened molecules in the docking method along with marketed drugs (NTR and LPV) and a known inhibitor (D95). These 10 molecules exhibited satisfactory ADME results. The stability studies using these 10 molecules were performed till 100 ns and extended three times using the MD simulation method. The triplicate MD simulation (three replicates) studies were found to have satisfactory stability parameters for the F35, like RMSD, RMSF, Rg, etc. The PCA demonstrated three replicates of the X77 and NTR displayed the substantial reproducible essential dynamics and stable conformational behaviour throughout the MD simulation. However, the F35 complex also followed the considerable overlap in motion or compact conformational sampling during MD simulation. Moreover, the zero-energy state structure of Mpro on the free energy landscape plot suggested that the novel natural product F35 also performed satisfactorily as compared to the known inhibitors (NTR, LPV, X77). Moreover, extended MD simulation was found that F35 is having binding potential similar to X77 (NTR > F35 ≈ X77) but need to be proved biologically using different in vitro/in vivo experiments. The F35 is a novel natural product never reported against Mpro SARS-CoV-2 to date. These computational studies suggested that the natural product-F35 (plant: Ornithogalum caudatum) followed the similar binding patterns and binding energy among the known Mpro inhibitors. Thus, F35 could be an alternative and complementary therapy against SARS-CoV-2 infection and exploited further for designing and searching for novel Mpro inhibitors. The online version contains supplementary material available at https://doi.org/10.1007/s40203-026-00759-5.",
+    "doi": "10.1007/s40203-026-00759-5",
+    "company_slug": null,
+    "keywords_matched": [
+      "virtual screening",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42871427",
+      "journal": "In silico pharmacology"
+    },
+    "dedupe_key": "doi:10.1007/s40203-026-00759-5"
+  },
+  {
+    "kind": "article",
+    "title": "A review of advances in research on mechanisms inhibiting kidney stone formation from a network pharmacology perspective.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42871389/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-14T19:40:24.776026+00:00",
+    "authors": [
+      "Xuming Zhang",
+      "Chaoyue Ji",
+      "Weiguo Hu"
+    ],
+    "summary": "Nephrolithiasis is a prevalent, highly recurrent urological disorder affecting 1%-15% of the global population, with 5-year recurrence rates reaching up to 50%. While surgical interventions achieve acute stone clearance, they do not resolve underlying metabolic derangements, crystal-induced tubular injury, or chronic inflammatory cascades. Natural products from global ethnomedicinal systems (including Traditional Chinese Medicine, Indian Ayurveda, Persian Unani medicine, European phytotherapy, and African ethnopharmacology) demonstrate potent multi-target anti-urolithic properties. However, decoding their intricate polypharmacology remains a major challenge. Network pharmacology, combining multi-omics profiling, computational target prediction, and network topology, has emerged as a promising paradigm to decipher these multi-component mechanisms. Unlike previous descriptive reviews that largely focused on narrow botanical catalogs or local traditions, this review establishes a critical, globally inclusive, and methodologically rigorous synthesis of network pharmacology-driven nephrolithiasis research from 2022 to 2026. We detail the fundamental pathophysiology across major stone types (calcium oxalate, calcium phosphate, uric acid, struvite, cystine) and the comprehensive cellular cascade encompassing crystal nucleation, Randall's plaque/plug formation, CD44-mediated adhesion, mitochondrial reactive oxygen species burst, endoplasmic reticulum stress, NLRP3 inflammasome activation, macrophage M1/M2 polarization, immunometabolism, extracellular vesicle communication, and programmed cell death (apoptosis, necroptosis, pyroptosis, ferroptosis, and PANoptosis). We critically synthesize evidence across diverse chemical classes (flavonoids, polyphenols, pentacyclic triterpenes, alkaloids, anthraquinones, tannins, polysaccharides, and marine bioactive metabolites), bridging computational predictions with established mechanistic milestones. Furthermore, we provide a deep critical appraisal of core methodological bottlenecks-target prediction bias, publication bias of over-studied hub genes, arbitrary pharmacokinetic cutoffs, circular virtual docking, and lack of renal bioavailability validation. Finally, we formulate a forward-looking translational roadmap integrating single-cell transcriptomics, humanized 3D organoid co-cultures, spatial multi-omics, reverse validation in longitudinal clinical registries, and machine learning feature selection, providing rigorous guidance for precision anti-urolithic drug discovery.",
+    "doi": "10.3389/fphar.2026.1872382",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42871389",
+      "journal": "Frontiers in pharmacology"
+    },
+    "dedupe_key": "doi:10.3389/fphar.2026.1872382"
+  },
+  {
+    "kind": "article",
+    "title": "Gastrodin alleviates mild cognitive impairment and Alzheimer's disease via candidate targeting of ACHE, S1PR5, SERPINE1, and TOP2A: an integrative computational and cellular study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42871277/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-14T19:40:24.776473+00:00",
+    "authors": [
+      "Yu Wang",
+      "Meng-Xi Liu",
+      "Jia-Lu Zhu",
+      "Gui-Xian Li",
+      "Hong Yu",
+      "Cong-Hui Wang",
+      "Qiang Zong",
+      "Wen-Sheng Wang"
+    ],
+    "summary": "Alzheimer's disease (AD) and its prodromal mild cognitive impairment (MCI) lack effective disease-modifying therapeutic strategies. Gastrodin (GAS), the major bioactive compound of Gastrodia elata, exhibits pronounced neuroprotective effects. However, the precise candidate molecular targets and systematic mechanisms by which GAS protects against AD and MCI remain poorly clarified; target engagement is inferred from computational simulation rather than direct biochemical validation. This study adopted an integrated approach of network pharmacology, transcriptome-based machine learning, molecular simulation, and in vitro cellular validation to explore the therapeutic mechanisms of GAS against AD/MCI. A total of 127 overlapping therapeutic targets of GAS, AD, and MCI were identified, which were mainly enriched in synaptic transmission and calcium signaling pathways. Four core hub genes (ACHE, S1PR5, SERPINE1, and TOP2A) were further screened by intersecting candidate targets with AD differentially expressed genes from the GSE329677 dataset. The ensemble Logistic + SVM machine learning model exhibited optimal diagnostic efficiency with an AUC value of 0.897. Molecular docking and 50 ns molecular dynamics simulations confirmed that GAS stably bound to the four target proteins and maintained stable binding states under physiological conditions. In an Aβ1-42 oligomer-injured N2a neuronal model, GAS showed no significant cytotoxicity at concentrations ranging from 0.1 to 100 μM. Notably, 25 μM GAS markedly reversed Aβ1-42-induced neuronal death and excessive intracellular ROS accumulation. This study identifies four novel candidate core therapeutic targets of GAS against AD/MCI and provides computational evidence for their stable atomic-level binding characteristics. GAS exerts prominent neuroprotective effects through anti-apoptotic and antioxidant mechanisms in Aβ-injured neurons. These findings provide a novel theoretical basis and preclinical evidence for the development of GAS as a natural candidate agent for AD intervention.",
+    "doi": "10.3389/fphar.2026.1937359",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42871277",
+      "journal": "Frontiers in pharmacology"
+    },
+    "dedupe_key": "doi:10.3389/fphar.2026.1937359"
+  },
+  {
+    "kind": "article",
+    "title": "Genetic evidence and multi-omics characterization of DEHP-relevant detoxification and metabolic heterogeneity in hepatocellular carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42871276/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-14T19:40:24.776876+00:00",
+    "authors": [
+      "Zeyang Fan",
+      "Guoqing Zhang",
+      "Letian Ren",
+      "Wence Zhou"
+    ],
+    "summary": "Human evidence linking di(2-ethylhexyl) phthalate (DEHP) exposure to hepatocellular carcinoma (HCC) is limited, and it remains unclear whether DEHP-relevant detoxification biology captures clinically meaningful HCC heterogeneity. We integrated two-sample Mendelian randomization, proteomic and phosphoproteomic subtyping, bulk, single-cell and spatial transcriptomics, computational candidate prioritization, molecular docking, and cell-based assays. Genetically proxied MECPP and MEHHP were evaluated for associations with HCC and liver-related outcomes. DPTS-related molecular, cellular, spatial, and experimental patterns were then characterized. MR did not support a causal association of genetically proxied MECPP or MEHHP with HCC. In 165 CPTAC tumors, consensus clustering identified two detoxification-phosphorylation tumor subtypes. Compared with DPTS1, DPTS2 showed coordinated suppression of xenobiotic metabolism, bile acid metabolism, fatty-acid oxidation, phase II conjugation, and transport programs. A transcriptomically projected DPTS2-like state was associated with poorer overall survival in TCGA-LIHC, but this association was not replicated in ICGC-LIRI-JP. Single-cell and spatial analyses localized these programs mainly to hepatocyte-like compartments and showed modest spatial coordination with nine prioritized genes, including ALDH2, EHHADH, and PCK2. LINCS-based screening and molecular docking prioritized PD-0325901, trametinib, and regorafenib, but these predictions did not demonstrate binding or efficacy, and the compounds were not tested experimentally. Basal qPCR and DEHP-treatment experiments showed cell-line-specific expression and phenotypic responses. DPTS defines a DEHP-relevant, detoxification-suppressed HCC molecular phenotype rather than an exposure-defined or DEHP-induced subtype. These findings provide a bounded framework for future mechanistic validation of metabolic vulnerability in HCC.",
+    "doi": "10.3389/ftox.2026.1925431",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42871276",
+      "journal": "Frontiers in toxicology"
+    },
+    "dedupe_key": "doi:10.3389/ftox.2026.1925431"
+  },
+  {
+    "kind": "article",
+    "title": "Contact-mediated triclosan delivery for transmission blocking of Plasmodium in Anopheles stephensi.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42871256/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-14T19:40:24.777362+00:00",
+    "authors": [
+      "Meenakshi Jeena",
+      "Gaurav Kumar",
+      "Bharti Goyal",
+      "Suman Lata",
+      "Lipun Kumar Pradhan",
+      "Yamini Thakur",
+      "Gaganpreet Kaur",
+      "Vaishali Verma",
+      "Kailash C Pandey",
+      "Shweta Pasi",
+      "Jaspreet Kaur"
+    ],
+    "summary": "Extensive and long-term insecticide use has led to the development of resistance in mosquito vectors, underscoring the need for novel insecticidal molecules and integrated, multifaceted strategies that simultaneously target both the vector and the parasite. In line with this, we evaluated the potential of a lipophilic drug triclosan, as a contact-mediated inhibitor to block the development of Plasmodium parasite within the malaria vector, Anopheles stephensi. Molecular docking and simulations identified the potential of triclosan to interact with the ookinete surface proteins of the Plasmodium species. Intrinsic toxicity of triclosan was first established on both larval and adult stages of laboratory reared An. stephensi through oral feeding and contact exposure (topical application and bottle bio-assay) in terms of survival and/or fecundity and egg hatchability. The transmission blocking potential of triclosan was initially tested in vitro using exflagellation assays and ookinete development assays. Finally, studies with P. berghei challenged mosquitoes were done to check the in vivo transmission blocking activity of triclosan through bottle bioassays. Docking and simulations showed stable binding of triclosan to Plasmodium ookinete surface proteins. Contact exposure of triclosan was non-toxic for adult mosquitoes. However, parasite development was markedly affected. We observed a concentration dependent reduction in exflagellation centers and ookinete formation with increasing concentrations of triclosan compared to the control group. However, at 70 μM concentration, a significant reduction of 87% in exflagellation centers was observed. There was a substantial reduction in ookinete formation; at 50 μM, it was 97.7%, while at 70 μM, the reduction reached 99%. In vivo, triclosan exposure resulted in a substantial decrease in oocyst development, with reductions of up to 86% at higher concentrations. These findings demonstrate triclosan as a contact-mediated anti-Plasmodium agent that disrupts parasite development within the mosquito vector, underscoring its potential as a novel vector-targeted transmission blocking intervention against malaria.",
+    "doi": "10.3389/fmicb.2026.1927723",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42871256",
+      "journal": "Frontiers in microbiology"
+    },
+    "dedupe_key": "doi:10.3389/fmicb.2026.1927723"
+  },
+  {
+    "kind": "article",
+    "title": "Berberine and celecoxib synergistically suppress non-small cell lung cancer with EGFR/AKT/COX-2-related signaling: network pharmacology, molecular docking and experimental validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42871100/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-14T19:40:24.777848+00:00",
+    "authors": [
+      "Qiang Wang",
+      "Chengyu Bian",
+      "Xinyuan She",
+      "Haonan Du",
+      "Minhe Wang",
+      "Yu Zheng",
+      "Lei Cao",
+      "Chenghao Fu",
+      "Yuheng Wang"
+    ],
+    "summary": "Non-small cell lung cancer (NSCLC) remains a major cause of cancer-related mortality, and safer combination strategies with improved antitumor efficacy are still needed. Berberine (BBR), a natural isoquinoline alkaloid with multi-target pharmacological activity, and celecoxib (CXB), a selective cyclooxygenase-2 (COX-2) inhibitor, have shown antitumor potential. However, their combined efficacy and underlying mechanisms in NSCLC remain unclear. Network pharmacology, molecular docking, Chou-Talalay combination index analysis, complementary synergy analysis using SynergyFinder+, in vitro functional assays, molecular validation, and a PC9 xenograft model were integrated to evaluate the antitumor effects and associated molecular changes of BBR combined with CXB. Candidate targets and pathways were screened using protein-protein interaction analysis, GO/KEGG enrichment, and Target-Pathway network analysis. Molecular docking was performed to assess the predicted binding affinity of BBR and CXB with key targets, and native-ligand re-docking was performed to validate the docking protocol. Cell viability, proliferation, colony formation, migration, invasion, apoptosis, and molecular changes were examined using CCK-8, EdU, colony formation, wound-healing, Transwell invasion, flow cytometry, Western blotting, qRT-PCR, immunohistochemistry, and in vivo experiments. Network analysis identified EGFR, AKT1, and PTGS2 (encoding COX-2) as candidate nodes, and molecular docking suggested predicted binding of BBR and CXB with EGFR, AKT1, and COX-2. Native-ligand re-docking showed acceptable reproduction of the crystallographic ligand poses. BBR and CXB synergistically reduced A549 and PC9 cell viability, with ZIP, HSA, Loewe, and Bliss analyses further supporting the multidose synergy, and a representative working combination dose was used for validation. The combination significantly inhibited proliferation, colony formation, migration, and invasion while promoting apoptosis. These effects were accompanied by suppression of EGFR and AKT phosphorylation, reduced COX-2 expression, downregulation of TNF-α, IL-1β, and CXCL8, decreased the Bcl-2/Bax ratio, and increased cleaved-Caspase-3. In vivo, BBR + CXB more effectively inhibited PC9 xenograft growth than either monotherapy without obvious body weight loss, accompanied by reduced Ki-67, p-EGFR, p-AKT, and COX-2 expression and increased cleaved-Caspase-3 staining. BBR combined with CXB exhibits synergistic antitumor activity in NSCLC cells and enhanced antitumor efficacy in vivo, associated with suppression of EGFR/AKT/COX-2-related signaling, attenuation of inflammatory responses, and activation of apoptosis, providing support for this potential combination strategy.",
+    "doi": "10.3389/fphar.2026.1930125",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42871100",
+      "journal": "Frontiers in pharmacology"
+    },
+    "dedupe_key": "doi:10.3389/fphar.2026.1930125"
+  },
+  {
+    "kind": "article",
+    "title": "Placental alkaline phosphatase promotes lipid accumulation and fibrosis in ligamentum flavum hypertrophy and represents a potential target for statin repurposing.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42871036/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-14T19:40:24.778270+00:00",
+    "authors": [
+      "Junjie Cheng",
+      "Konghe Hu",
+      "Jianjun Li",
+      "Huanbin Lin",
+      "Luqi Zhu",
+      "Runfan Chen",
+      "Shaoxiong Min",
+      "Yang Duan"
+    ],
+    "summary": "Lumbar spinal stenosis is a prevalent degenerative disorder driven primarily by ligamentum flavum hypertrophy. Emerging evidence links ectopic lipid accumulation to fibrotic remodeling and suggests a potential contribution of immune dysregulation. However, the molecular targets connecting lipid accumulation with ligamentum flavum fibrosis remain incompletely defined. We sought to evaluate the underlying mechanisms of lipid-lowering drug targets in lipid-associated ligamentum flavum fibrosis. We applied two-sample Mendelian randomization (MR), summary-data-based MR, and Bayesian colocalization to evaluate the associations of genetically proxied levels of 213 lipid-lowering drug target proteins with lumbar spinal stenosis risk. Candidate targets were evaluated via genetic immune-cell mediation analysis, molecular docking, molecular dynamics simulations, and experimental validation in vitro and in vivo. MR identified three proteins increasing disease risk, with placental alkaline phosphatase (ALPP) consistently replicating across platforms (colocalization at rs12478529, PP.H4 = 0.9979). Genetically inferred mediation analysis suggested that selected immune-cell traits may partially mediate the association between ALPP and lumbar spinal stenosis. Molecular dynamics simulations and cellular thermal shift assays supported target engagement of atorvastatin and simvastatin with ALPP. In clinical specimens, ALPP was upregulated in hypertrophied tissues, co-localizing with fibrosis and lipid accumulation. In vitro, statins suppressed lipid accumulation and fibrotic markers; ALPP overexpression counteracted these protective effects. In vivo, systemic statin administration attenuated ligamentum flavum thickening, whereas local viral-mediated ALPP overexpression reversed this benefit. Our findings identify ALPP as a genetically supported candidate associated with LSS and link it to lipid accumulation and fibrosis. Computational and CETSA findings support possible target engagement of statins with ALPP and attenuate lipid accumulation and fibrosis, supporting ALPP as a potential mediator of their effects and statin repurposing for LSS.",
+    "doi": "10.3389/fphar.2026.1910904",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics"
+    ],
+    "extra": {
+      "pmid": "42871036",
+      "journal": "Frontiers in pharmacology"
+    },
+    "dedupe_key": "doi:10.3389/fphar.2026.1910904"
+  },
+  {
+    "kind": "article",
+    "title": "Knowledge graph and machine learning-guided virtual screening prioritizes putative blockers of the PSMD11/Rpn6-EBOV glycoprotein interface.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42870962/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-14T19:40:24.778704+00:00",
+    "authors": [
+      "Yanshuang Wang",
+      "Yuanjian Li",
+      "Lin Zhu",
+      "Zhiguo Jiang",
+      "Qian Tang",
+      "Hainan Liu",
+      "Yong Hu",
+      "Zijing Liu",
+      "Ziyi Li",
+      "Xinwei Zhou",
+      "Xin Qi",
+      "Yinan Liao",
+      "Luya Hu",
+      "Yufeng Wang",
+      "Yue Liu",
+      "Ziqian An",
+      "Qincai Dong",
+      "Cheng Cao"
+    ],
+    "summary": "Host-directed antiviral discovery requires a traceable route from host-factor identification to testable molecular hypotheses. This study developed such a workflow around a host factor associated with Ebola virus glycoprotein (EBOV GP). GFP-GP pulldown coupled with co-immunoprecipitation/mass spectrometry was used to identify GP-associated host candidates. A PSMD11/Rpn6-centred workflow integrated knowledge-graph inference, ligand-only machine learning, ADMETlab profiling and interface-guided docking. Candidate prioritization was assessed through score-weight sensitivity analysis, applicability-domain assessment and docking controls addressing seed reproducibility, search convergence, whole-receptor context and macrocycle ring-conformer sensitivity. Docking scores were contextualized against a matched 59-compound library. The analysis recovered 424 GP-pulldown-specific host proteins and nominated PSMD11/Rpn6 as a proteostasis anchor. The tier-gated knowledge-graph candidate membership was invariant across the tested weight perturbations, with Spearman rho = 0.998 under equal weighting. The selected ExtraTrees model achieved an AUC of 0.912 for the Ki endpoint. Applicability-domain assessment and ADMET profiling differentiated candidate confidence and predicted liabilities. Docking reproducibility checks yielded a maximum standard deviation of 0.05 kcal/mol for conformationally restricted ligands, while macrocyclic candidates showed greater protocol-dependent variability. Rule-based triage integrating upstream evidence, ADMET burden, chemotype diversity and mechanistic coverage returned five candidates: betamethasone, bafilomycin A1, everolimus, pitavastatin and CHEMBL1410015. The workflow links a proteomic host-factor signal to a compact set of chemically diverse hypotheses with explicit evidence sources and limitations. The candidates remain hypotheses for experimental assessment; direct target engagement, interface blockade and antiviral activity are not established by the present study.",
+    "doi": "10.3389/fphar.2026.1910440",
+    "company_slug": null,
+    "keywords_matched": [
+      "virtual screening",
+      "ADMET"
+    ],
+    "extra": {
+      "pmid": "42870962",
+      "journal": "Frontiers in pharmacology"
+    },
+    "dedupe_key": "doi:10.3389/fphar.2026.1910440"
+  },
+  {
+    "kind": "article",
+    "title": "Selenium metabolism-related gene TXNRD1 drives tumor progression and microenvironment remodeling in oral squamous cell carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42870925/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-14T19:40:24.779132+00:00",
+    "authors": [
+      "Jun Zhan",
+      "Qixiang Sun",
+      "Wenyuan Zhu",
+      "Xiao Lu",
+      "Yao He"
+    ],
+    "summary": "Selenium metabolism is implicated in redox regulation and tumor progression, yet its role in oral squamous cell carcinoma (OSCC) remains elusive. Thioredoxin reductase 1 (TXNRD1), a core selenoprotein, has been linked to malignant phenotypes, but its clinical relevance and biological functions in OSCC require further elucidation. Therefore, this study aimed to systematically investigate the prognostic value and biological functions of TXNRD1 in OSCC through multi-omics analysis and experimental validation. We integrated multi-omics data from The Cancer Genome Atlas (TCGA) and Molecular Signatures Database (MSigDB) to systematically screen selenium metabolism-related prognostic genes. Least absolute shrinkage and selection operator (LASSO) regression, single-cell transcriptomics GSE103322, and immune infiltration analyses were applied to evaluate the clinical value and microenvironmental features of TXNRD1. Furthermore, we established stable TXNRD1-knockdown OSCC cell lines HSC-2 using lentiviral-mediated short hairpin RNA (shRNA), and performed Cell Counting Kit-8 (CCK-8) proliferation assays, colony formation assays, and flow cytometry to validate its functional roles in vitro. TXNRD1 was identified as a key selenium-related risk gene. It was significantly overexpressed in OSCC tissues and strongly correlated with poor overall survival area under the curve [area under the curve (AUC) =0.750]. Functional enrichment and single-cell analyses revealed that TXNRD1-high cancer cells were enriched in cell-cycle pathways (E2F targets, G2M checkpoint) and exhibited enhanced intercellular communication via MIF, LAMININ, and SPP1 pathways, along with associations with immune checkpoint genes PDCD1 and LAG3. Critically, our in vitro experiments demonstrated that TXNRD1 knockdown significantly suppressed OSCC cell viability and colony formation. Flow cytometric analysis further showed that TXNRD1 depletion induced a marked S-phase cell cycle arrest and significantly promoted apoptosis. Moreover, molecular docking predicted GSK591 as a potential compound targeting TXNRD1. TXNRD1 drives OSCC progression through a dual mechanism-facilitating S-phase progression and suppressing apoptosis-and represents a promising prognostic biomarker and therapeutic target in OSCC.",
+    "doi": "10.21037/tcr-2026-1753",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42870925",
+      "journal": "Translational cancer research"
+    },
+    "dedupe_key": "doi:10.21037/tcr-2026-1753"
+  },
+  {
+    "kind": "article",
+    "title": "Commentary: Identification of diagnostic genes for myocardial ischemia reperfusion injury associated with metabolic syndrome through the integration of bioinformatics analysis, molecular docking and experimental validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42870907/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-14T19:40:24.779401+00:00",
+    "authors": [
+      "Yifei Zhang",
+      "Wuxiao Yang",
+      "Xuewen Li"
+    ],
+    "summary": "",
+    "doi": "10.3389/fimmu.2026.1968659",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42870907",
+      "journal": "Frontiers in immunology"
+    },
+    "dedupe_key": "doi:10.3389/fimmu.2026.1968659"
+  },
+  {
+    "kind": "article",
+    "title": "SPHK1 drives pyroptosis via ROS-dependent activation of the NLRP3 inflammasome in non-infectious uveitis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42870831/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-14T19:40:24.779821+00:00",
+    "authors": [
+      "Lili Hu",
+      "Shaoxin Pan",
+      "Jing Wang",
+      "Suyin Mei",
+      "Haoning Pan",
+      "Rui Chang"
+    ],
+    "summary": "Non-infectious uveitis associated with systemic diseases is a sight-threatening inflammatory disorder often associated with dysregulated immune responses and oxidative stress. Although redox imbalance is thought to contribute to its pathogenesis, the precise molecular mechanisms remain poorly defined. We performed transcriptomic analysis of human non-infectious uveitis datasets (GSE17114 and GSE18781) encompassing Behçet's uveitis (BU), sarcoidosis-associated uveitis, and spondyloarthropathy (SpA)-associated uveitis, combined with experimental validation to elucidate oxidative stress-associated mechanisms. We identified 1,821 differentially expressed genes (DEGs) enriched in immune cell migration, T and B cell signaling, and T cell activation pathways. Among the oxidative stress-associated DEGs, six genes were validated in patients with BU: SPHK1, MMP8, and ARG1 were upregulated, while CCR7, PDGFD, and DDIT4 were downregulated. Knockdown of SPHK1 reduced ROS production, lipid peroxidation, and NLRP3 inflammasome-mediated pyroptosis, decreasing IL-1β and IL-18 secretion; SPHK1 overexpression promoted pyroptosis, reversed by the ROS inhibitor N-acetylcysteine. Molecular docking revealed strong binding affinity between SPHK1 and dexamethasone. All six oxidative stress-related DEGs demonstrated strong diagnostic potential. Immune cell abundance profiling revealed a significant decrease in activated CD4+ T cells, memory B cells, and NK cells in peripheral blood. Collectively, our findings highlight SPHK1 as a key mediator of oxidative stress-induced pyroptosis in non-infectious uveitis and propose the SPHK1-ROS-pyroptosis axis as a potential therapeutic target.",
+    "doi": "10.3389/fimmu.2026.1764448",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42870831",
+      "journal": "Frontiers in immunology"
+    },
+    "dedupe_key": "doi:10.3389/fimmu.2026.1764448"
   }
 ]

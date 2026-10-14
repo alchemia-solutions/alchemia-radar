@@ -303,6 +303,69 @@
   },
   {
     "kind": "news",
+    "title": "Researchers use AI to design proteins that cut up other proteins - Ars Technica",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORVlhd0RBV3NhdWhVZGFFa2dpa3h4d1ZDX3lGYkVSMThYQzhidktweGdPVy1qdkF3NXhpYTQzZ1pzZjJmSlNKYnBydVJjM0hRR0RRcko4NTFlVmJXbm1RVVJ6aXVXWElGdHRyV3o0TXhPQndVWmROYlFIc19PY2tEYmJNZ1NKXzliNkNYYUYxSDFfV3p3SllOZWhzQ1BoYzVPSTczbjdZa3I?oc=5",
+    "source": "Ars Technica",
+    "source_type": "news",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T19:41:33.151719+00:00",
+    "authors": [],
+    "summary": "Researchers use AI to design proteins that cut up other proteins Ars Technica",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "protein design\" AI"
+    ],
+    "extra": {
+      "query": "\"protein design\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqafbvv95cuxorvlhd0rbv3nhdwhvzgffa2dpa3h4d1zdx3lgykvsmthyqzhidktwegdpvy1qdkf3nxhpytqzz1pzzjjmslnkynbydvjjm0hrr0rrcko4ntflvmjxbm1rvvj6axvxwelgdhryv3o0txhpqndvwmroylfic19py2teymjnz1nkxzlinknyyuyxsdffv3p3sllozwhzq1boyzvpstczbjdza3i?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AI may double human lifespans - Fast Company",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wTXNVY20xajFfSXFUaDZIMzVrZG9SODN2NXhCQ3ltU3NINjFFNVFiVVNOVDZZTHhZNVFmMGt6ZEZYWGpPYU1lbXRFY2pubF9lUTZOaUdUbkk4SGFOTXVUYjE5ZjBSd3dQZ01XN0RJYzdacWVH?oc=5",
+    "source": "Fast Company",
+    "source_type": "press",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T19:41:40.249500+00:00",
+    "authors": [],
+    "summary": "AI may double human lifespans Fast Company",
+    "doi": null,
+    "company_slug": "insilico-medicine",
+    "keywords_matched": [
+      "Insilico Medicine"
+    ],
+    "extra": {
+      "query": "\"Insilico Medicine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmidefvx3lxte1wtxnvy20xajffsxfuadzimzvrzg9sodn2nxhcq3ltu3ninjffnvfivvnovdzzthhznvfmmgt6zezywgppyu1lbxrfy2pubf9lutzoaudubkk4sgfotxvuyje5zjbsd3dqz01xn0rjyzdacwvh?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does - Scientific American",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY3VvcHh4UGVpa1NTQXhBZFE5c2cxaFc5TWtLRDNkcjRUVFE2QkRUWHZacXRWcVMwLWJEOU8yTHNyWEVFQXplelU2LWpDaW5GekxQbWxNVXZSMHctdGVDQ1l5WEQ1QTI5TUZKTjhrdVhNcnFYV24zUEZfRkJsQkxtMHk4ajZ5Y3FxRzlwaVlxMVV0aUxXWDFnbVVxRzJmb1VWVTIzYkE5enZJRnhPeDJndm5YbTVUWXhodFlIdkRtSURIcGRXMGNrd1pZTUM5cE5JODFxdGZlRmc4UQ?oc=5",
+    "source": "Scientific American",
+    "source_type": "press",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T19:41:41.209674+00:00",
+    "authors": [],
+    "summary": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does Scientific American",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi2gfbvv95cuxny3vvchh4ugvpa1ntqxhbzfe5c2cxafc5twtlrdnkcjruvfe2qkruwhzacxrwcvmwlwjeou8ythnywevfqxplelu2lwpdaw5gekxqbwxnvxzsmhctdgvdq1l5weq1qti5tuzktjhrdvhncnfyv24zuezfrkjsqkxtmhk4ajz5y3fxrzlwavlxmvv0auxxwdfnbvvxrzjmb1vwvtizyke5enzjrnhpedjndm5ybtvuwxhodflidkrtsuricgrxmgnrd1pztum5ce5jodfxdgzlrmc4uq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Form 4 Recursion Pharmaceuticals Inc: Dean Y. Li (Director) For: 1 October - Investing.com India",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRDVnRFZxbnpVRDJ1ajkwVUZ6NnljRi11WUR6UVFSUUdXTFgyVmxyY0c2RVRJTE1PZW9YOFM5WG5VZ2FJY1dQakFQSVdnOEVvOEFNWW10dmlFd3F0SXhLY1pKdjFCSWg2RHY3NzFWVERiZ2l5b3c4ZTJyZFNuenpRWEJRMTN5NnJIbjVQbkxxY2ZubnhLejBfY1dZZ1h0eXdvNGdmUVhJWXBPZEFoaUdJcGRPamQ4NWlLU25zME1SSE1kXzMzX3owdFVn?oc=5",
     "source": "Investing.com India",
@@ -46759,6 +46822,27 @@
   },
   {
     "kind": "news",
+    "title": "'Vacina do Butantan contra dengue seria aprovada em qualquer lugar do mundo', diz ex-diretor da Anvisa - G1",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM2pKWUdTajVLa0FvMFZJWm9kdTZrM1dFdEpZbmNVSTdjYmkybTYxN0N1Vk9XWExlMVJoQUZveFd4cVBOYkJiNEtUMnVDVkZnblVyRlRNRk5vbEh5Q3BNTkNRZTlmQ0t6RlpfUXREVEFPb1I3UUxVcVFla0hYbUtDV1FncEJZNzNmbkVtZXQ4WVQxVWpydXJDZkV2cUczazdYeWwwalZoMXdpRVZIOXE1a1E0dWFsVlZVMUxSblljUTB4RUdhMUs1ZDlfQS1SdUpTb2J4LVVtUFZZV1lqMmlENFE3ZW1KZ9IB9AFBVV95cUxOaUJHQl9pUU9MWHJOSVRxSVBRQUdUSDhncGxFbWxwYTdWbmJzNmxlLXlQSzZRbUV1ajdYV3BXTlpRMGRHRXIyNFZqOE1lMk16Sy1QZV85ZmpDcl96QW1LZ2xlajhtVlNuQ0hmLUdYSW5oV3hCNzVfTlZ3V2NhZ1ZLQldZV0VheTVFYjlraWhmNkZGWm95d0pkSTNXQ2Q1OGdBYjN0MW11Q3NDREhXZGR6QkxMaFFFcm1yaTJfb2JXNnBxZjJoRm9sSVV0WkNQcWlaWXFOY29FcFNtRDBsNVJFYThrb2JSaTVJS0RHUVBjUTNvLXU3?oc=5",
+    "source": "G1",
+    "source_type": "news",
+    "published_date": "2026-06-10",
+    "collected_at": "2026-10-14T19:41:37.673238+00:00",
+    "authors": [],
+    "summary": "'Vacina do Butantan contra dengue seria aprovada em qualquer lugar do mundo', diz ex-diretor da Anvisa G1",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi5gfbvv95cuxnm2pkwudtajvla0fvmfzjwm9kdtzrm1dfdepzbmnvstdjymkybtyxn0n1vk9xwexlmvjoquzvefd4cvboykjinetumnvdvkznblvyrlrnrk5vbeh5q3bntknrztlmq0t6rlpfuxrevefpb1i3uuxvcvfla0hybutdv1fncejznznmbkvtzxq4wvqxvwpydxjdzkv2cuczazdyewwwalzomxdprvzioxe1a1e0dwfsvlzvmuxsblljutb4rudhmus1zdlfqs1sduptb2j4lvvtufzzv1lqmmlenfe3zw1kz9ib9afbvv95cuxoaujhql9puu9mwhjosvrxsvbrqudusdhncgxfbwxwytdwbmjznmxllxlqszzrbuv1ajdyv3bxtlprmgrhrxiynfzqoe1lmk16sy1qzv85zmpdcl96qw1lz2xlajhtvlnuq0hmludysw5ov3hcnzvftlz3v2nhz1zlqldzv0vhetvfyjlrawhmnkzgwm95d0pkstnxq2q1ogdbyjn0mw11q3ndrehxzgr6qkxmafffcm1yatjfb2jxnnbxzjjorm9ssvv0wknqcwlawxfoy29fcfntrdbsnvjfythrb2jsatvjs0rhuvbjutnvlxu3?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Machine Learning Powers Multi-Objective Antibody Design - Bioengineer.org",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHpCWjNJVUxHNHZKY1FKSmZiRXE5bEp6VFJoaFNiUUxaalJDS21yeEEyQ1pUY3E1ejhSRURRWDNLcnEwLVJjdTB3ZVdtS1lqU3Fnbm1GM0ZxZWluUjgxaWxRNndQR2Z6LTlTU1ZUYndsMFdRNGwyRFNOZDdKTVV5eG9sN1ZrSFk?oc=5",
     "source": "Bioengineer.org",
@@ -61348,6 +61432,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmigwfbvv95cuxpb2pinhnsm2vivlm5bwlablvwotk4a1pcwv8wuurfzjetltvcr3n5t3bwrllynvgwrxvor0vpbwtcbk8xddngtgxktg1ichrcswozq1backfrwtz5uenqewfxc1zeulezcgnxnmrsaensy0nxtzjivgdtoe9eempidwvzcw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "8 perguntas e respostas sobre a vacina da dengue do Instituto Butantan que começa a ser aplicada na população - agenciasp.sp.gov.br",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZjNZYTlQYmM0NkFrNkxTSmRXN1FULXdBMFo2SVFBQkpsTDRqaGdhY1hGLXR1MHotb0VmTXg3WFJyUmFXdXFqZnBZczhGZUMzQnFJT19yRm8tOXk0Y051MXI1TUxVM292Z0ZkQmdRWXprODE5cFNFSFBRRTFhcU40UzR3MzhkNy1wNWVkUUJYR3JxcVNDRV8ybWs1azhlOWxYMkw1LU1nTEp4NFVDUjBtalpFY1hZb1NsMDVzbnBuc2xqbWhCUkdCdmNIY1BXejIwcVJBYlNLLTdsQQ?oc=5",
+    "source": "agenciasp.sp.gov.br",
+    "source_type": "news",
+    "published_date": "2026-01-19",
+    "collected_at": "2026-10-14T19:41:37.672531+00:00",
+    "authors": [],
+    "summary": "8 perguntas e respostas sobre a vacina da dengue do Instituto Butantan que começa a ser aplicada na população agenciasp.sp.gov.br",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi2gfbvv95cuxpzjnzytlqymm0nkfrnkxtsmrxn1fulxdbmfo2svfbqkpstdrqagdhy1hglxr1mhotb0vmtxg3wfjyumfxdxfqznbzczhgzumzqnfjt19yrm8toxk0y051mxi1tuxvm292z0zkqmdrwxprode5cfnfsfbrrtfhcu40uzr3mzhkny1wnwvkuujyr3jxcvndrv8ybws1azhlowxymkw1lu1ntep4nfvdujbtalpfy1hzb1nsmdvzbnbuc2xqbwhcukdcdmniy1bxejiwcvjbylnlltdsqq?oc=5"
   },
   {
     "kind": "news",
@@ -77342,6 +77447,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmipafbvv95cuxpemzpcffcofpcaeytzfnzsvhqvuriajziovbnyku1vfrjnvb3yznkunlnvfdwzezwn3r1egr3sv9fbxnkt2jvm2draefanktwrjl0vvpyqznnsvzoug8wtmlolvrium16wtgycgc2ekjynndltffaq0zgruvpvez2qtbodkc1wwvsvgozdnlfy3owalhnenvxvevmrglxzwn6svn4aq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "A OccamzRazor está usando computação de ponta para curar o Mal de Parkinson - Brazil Journal",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGdLVVlRc2tPZTgyNEVLZnpFN19qMmRZN3NEV0hhSkMtTy1OVzUyX3RYWXl1OTBJN0g4SVJkcVBiLXQ0WjBuYml4SFdFbkF0V2NVV3h6NGJoUTM5YXRSTkZPYXhnSnVlVDRoVklDbFdqcHVwcVlGMFN0NGxoWGNNYllWNkt4UTNudW5Qd1FyQ3dodVFfRGwyX2RrbEpLeXdZVDk0?oc=5",
+    "source": "Brazil Journal",
+    "source_type": "news",
+    "published_date": "2020-11-18",
+    "collected_at": "2026-10-14T19:41:37.108789+00:00",
+    "authors": [],
+    "summary": "A OccamzRazor está usando computação de ponta para curar o Mal de Parkinson Brazil Journal",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "biologia computacional (fármacos OR medicamentos)"
+    ],
+    "extra": {
+      "query": "biologia computacional (fármacos OR medicamentos)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiowfbvv95cuxodgdlvvlrc2tpztgynevlznpfn19qmmrzn3nev0hhskmtty1ovzuyx3rywxl1otbjn0g4svjkcvbilxq0wjbuyml4sfdfbkf0v2nvv3h6ngjoutm5yxrstkzpyxhnsnvlvdrovkldbfdqchvwcvlgmfn0ngxowgnnyllwnkt4utnudw5qd1fyq3dodvffrgwyx2rrbeplexdzvdk0?oc=5"
   },
   {
     "kind": "news",

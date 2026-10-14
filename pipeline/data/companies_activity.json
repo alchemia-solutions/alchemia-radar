@@ -164,6 +164,48 @@
   },
   {
     "kind": "news",
+    "title": "AI may double human lifespans - Fast Company",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wTXNVY20xajFfSXFUaDZIMzVrZG9SODN2NXhCQ3ltU3NINjFFNVFiVVNOVDZZTHhZNVFmMGt6ZEZYWGpPYU1lbXRFY2pubF9lUTZOaUdUbkk4SGFOTXVUYjE5ZjBSd3dQZ01XN0RJYzdacWVH?oc=5",
+    "source": "Fast Company",
+    "source_type": "press",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T19:41:40.249500+00:00",
+    "authors": [],
+    "summary": "AI may double human lifespans Fast Company",
+    "doi": null,
+    "company_slug": "insilico-medicine",
+    "keywords_matched": [
+      "Insilico Medicine"
+    ],
+    "extra": {
+      "query": "\"Insilico Medicine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmidefvx3lxte1wtxnvy20xajffsxfuadzimzvrzg9sodn2nxhcq3ltu3ninjffnvfivvnovdzzthhznvfmmgt6zezywgppyu1lbxrfy2pubf9lutzoaudubkk4sgfotxvuyje5zjbsd3dqz01xn0rjyzdacwvh?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does - Scientific American",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY3VvcHh4UGVpa1NTQXhBZFE5c2cxaFc5TWtLRDNkcjRUVFE2QkRUWHZacXRWcVMwLWJEOU8yTHNyWEVFQXplelU2LWpDaW5GekxQbWxNVXZSMHctdGVDQ1l5WEQ1QTI5TUZKTjhrdVhNcnFYV24zUEZfRkJsQkxtMHk4ajZ5Y3FxRzlwaVlxMVV0aUxXWDFnbVVxRzJmb1VWVTIzYkE5enZJRnhPeDJndm5YbTVUWXhodFlIdkRtSURIcGRXMGNrd1pZTUM5cE5JODFxdGZlRmc4UQ?oc=5",
+    "source": "Scientific American",
+    "source_type": "press",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-14T19:41:41.209674+00:00",
+    "authors": [],
+    "summary": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does Scientific American",
+    "doi": null,
+    "company_slug": "claude-science",
+    "keywords_matched": [
+      "Claude Science (Anthropic)"
+    ],
+    "extra": {
+      "query": "\"Claude Science\" Anthropic",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi2gfbvv95cuxny3vvchh4ugvpa1ntqxhbzfe5c2cxafc5twtlrdnkcjruvfe2qkruwhzacxrwcvmwlwjeou8ythnywevfqxplelu2lwpdaw5gekxqbwxnvxzsmhctdgvdq1l5weq1qti5tuzktjhrdvhncnfyv24zuezfrkjsqkxtmhk4ajz5y3fxrzlwavlxmvv0auxxwdfnbvvxrzjmb1vwvtizyke5enzjrnhpedjndm5ybtvuwxhodflidkrtsuricgrxmgnrd1pztum5ce5jodfxdgzlrmc4uq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Form 4 Recursion Pharmaceuticals Inc: Dean Y. Li (Director) For: 1 October - Investing.com India",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRDVnRFZxbnpVRDJ1ajkwVUZ6NnljRi11WUR6UVFSUUdXTFgyVmxyY0c2RVRJTE1PZW9YOFM5WG5VZ2FJY1dQakFQSVdnOEVvOEFNWW10dmlFd3F0SXhLY1pKdjFCSWg2RHY3NzFWVERiZ2l5b3c4ZTJyZFNuenpRWEJRMTN5NnJIbjVQbkxxY2ZubnhLejBfY1dZZ1h0eXdvNGdmUVhJWXBPZEFoaUdJcGRPamQ4NWlLU25zME1SSE1kXzMzX3owdFVn?oc=5",
     "source": "Investing.com India",
