@@ -249,6 +249,65 @@
   },
   {
     "kind": "article",
+    "title": "Constructed Negatives Shape the Evaluation of Sequence-Based Protein--Protein Interaction Models",
+    "url": "https://doi.org/10.64898/2026.10.08.757593",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-15",
+    "collected_at": "2026-10-15T19:22:27.160836+00:00",
+    "authors": [
+      "Durand, E.",
+      "Grudinin, S.",
+      "Durand, B.",
+      "Laine, E."
+    ],
+    "summary": "Many machine-learning tasks, including representation learning, rely on negative examples that are constructed rather than directly observed. This issue is especially important for protein--protein interaction (PPI) prediction, where experimentally established non-interactions are scarce. PPI models are therefore commonly trained and evaluated against sampled, unobserved protein pairs treated as negatives. We study how this construction affects model comparison. Keeping positives, protein-disjoint splits, class balance, and model selection fixed, we vary training and evaluation negatives independently across six constructions and four sequence-based models, three of which use protein language model (pLM) representations. Changing only the test negatives shifts AUPRC by up to 0.26, and the top-ranked architecture changes with the construction. Negatives matched to true partners in pLM representation space reduce all pLM-based models to near-chance performance, and shuffling partners within each class shows that the original pairing contributes little to AUROC. Constructed training negatives rarely outperform uniform sampling: on external data, they underperform it in 108 of 120 comp",
+    "doi": "10.64898/2026.10.08.757593",
+    "company_slug": null,
+    "keywords_matched": [
+      "protein language model"
+    ],
+    "extra": {
+      "category": "bioinformatics"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.08.757593"
+  },
+  {
+    "kind": "article",
+    "title": "The anxiolytic-like effect of the aqueous extract of Punica granatum depends on the stress level of fish and mice: Evidence of a homeostatic re-establishing effect",
+    "url": "https://doi.org/10.64898/2026.10.08.757595",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-15",
+    "collected_at": "2026-10-15T19:22:27.161805+00:00",
+    "authors": [
+      "Pantoja, A. R. B.",
+      "Chan-Monroy, J. M.",
+      "Leite, M.",
+      "Cervantes-Anaya, N.",
+      "Vega-Rivera, N. M.",
+      "Rodrigues, T. R. R.",
+      "Meneses, A. O. S.",
+      "Costa, B. P. D.",
+      "Siqueira-Silva, D. H.",
+      "Lima-Maximino, M.",
+      "Estrada-Camarena, E.",
+      "Maximino, C."
+    ],
+    "summary": "Pomegranate (Punica granatum) has shown potential anxiolytic and antidepressant effects in preclinical research, but its mechanisms remain unclear. Importantly, some evidence suggests that the effects of P. granatum depend on previous stress, suggesting an adaptogenic effect. This study aimed to evaluate the anxiolytic-like effects of an aqueous extract of P. granatum (AE-PG) on lambaris and zebrafish exposed to acute restraint stress (ARS) and female BALB/c mice exposed to unpredictable chronic mild stress (CUMS). In addition, we evaluated antidepressant-like effects in female BALB/c mice. Acute administration of AE-PG (1 mg/kg, i.p.) was tested in the novel tank test (NTT) in lambaris and zebrafish and in the light/dark test (LDT) in zebrafish, while chronic (7 days) administration of AE-PG (1 mg/kg, i.p.) was tested in the elevated plus-maze (EPM), open-field test (OFT), splash test (ST), and forced swim test (FST) in mice. ARS increased geotaxis and erratic swimming in the NTT, as well as scototaxis, risk assessment, and erratic swimming in the LDT. Acute pre-treatment with AE-PG blocked the effects of ARS on these anxiety-like endpoints in both lambaris and zebrafish. CUMS inc",
+    "doi": "10.64898/2026.10.08.757595",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "in silico"
+    ],
+    "extra": {
+      "category": "pharmacology and toxicology"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.08.757595"
+  },
+  {
+    "kind": "article",
     "title": "KRAS recognition by Src: Mechanistic insights from Molecular Dynamics Simulations",
     "url": "https://doi.org/10.64898/2026.03.17.712316",
     "source": "bioRxiv",
@@ -88333,5 +88392,211 @@
       "journal": "Computational biology and chemistry"
     },
     "dedupe_key": "doi:10.1016/j.compbiolchem.2026.109477"
+  },
+  {
+    "kind": "article",
+    "title": "Phenolic metabolites from Ceratonia siliqua L. pods: chemical characterization, soybean lipoxygenase-1 inhibition, and in vitro gallstone-dissolving capacity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42876935/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-15T19:21:47.484187+00:00",
+    "authors": [
+      "Souheyla Mekraf",
+      "Mokhtaria Yasmina Boufadi",
+      "Fatiha Abbassene",
+      "Kamal Nedjari Benhadj Ali",
+      "Abdelkrim Chetibi",
+      "Soumia Keddari",
+      "Malika Meziane",
+      "Mohammed Bouzouina",
+      "Hamza Moussa",
+      "Zulzamri Salleh",
+      "Hichem Tahraoui",
+      "Jie Zhang",
+      "Abdeltif Amrane"
+    ],
+    "summary": "Carob (Ceratonia siliqua L., Fabaceae) is a Mediterranean tree whose pods are rich in phenolic metabolites and are credited with antioxidant, anti-inflammatory,hypolipidemic and antimicrobial properties. The chemical composition of MECp was determined by high-performance liquid chromatography coupled with ultraviolet detection (HPLC/UV). Free radical-scavenging and ferric-reducing capacities were measured using the 2,2-diphenyl-1-picrylhydrazyl (DPPH) and ferric-reducing antioxidant power (FRAP) analytical descriptors assays, and soybean LOX-1 inhibition was assessed in vitro and examined in silico by molecular docking against the enzyme (PDB ID: 3O8Y). Gallstones removed at surgery were confirmed as cholesterol stones by Fourier transform infrared spectroscopy with attenuated total reflectance (FTIR-ATR) and then incubated in MECp under continuous agitation for 4 weeks, with a sodium chloride solution (NaCl, 9 g/L) as control. Gallstone mass after drying at 40 °C, the percentage of gallstone-dissolving capacity (% GDC) and the pH of the medium were recorded weekly. HPLC/UV analysis identified 20 phenolic metabolites in MECp. The extract contained 160.68 mg GAE/g DE of total phenolics and 9.19 mg QE/g DE of total flavonoids, with median inhibitory concentrations (IC50) of 0.16, 0.86 and 0.19 mg/mL for the DPPH, FRAP and soybean LOX-1 inhibition assays, respectively. Compared with the control, MECp produced a highly significant increase in % GDC over time, and the docking analysis revealed strong and stable interactions between the major polyphenols and the soybean LOX-1 active site. The dissolution obtained with MECp is consistent with its phenolic composition, and the docking results agree with the soybean LOX-1 inhibition measured in vitro. These findings identify MECp as a promising natural candidate for cholesterol gallstone management and support further preclinical investigation.",
+    "doi": "10.3389/fphar.2026.1945402",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42876935",
+      "journal": "Frontiers in pharmacology"
+    },
+    "dedupe_key": "doi:10.3389/fphar.2026.1945402"
+  },
+  {
+    "kind": "article",
+    "title": "A study on comprehensive bibliometric analysis of natural medicines for Alzheimer's disease (1999-2025).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42876908/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-15T19:21:47.484892+00:00",
+    "authors": [
+      "Yue Chen",
+      "Huihuang Shi",
+      "Sicheng Chen",
+      "Zhu Li"
+    ],
+    "summary": "Natural medicines have low toxicity, multi-target effects and long-term clinical use. They inhibit amyloid-β (Aβ) deposition, regulate tau phosphorylation, and exert anti-inflammatory and antioxidant activities, matching Alzheimer's disease (AD) complex pathogenesis. Supported by the World Health Organization, they are promising alternatives to current symptomatic AD drugs that cannot stop disease progression. AD poses a growing global neurodegenerative burden, but systematic bibliometric analysis of natural medicines against AD remains lacking. This study aimed to reveal research trends, core contributors, hotspots and mechanisms from 1999 to 2025. Literature data were retrieved from the Web of Science Core Collection (WOSCC) database (1999-2025) using a combined subject term search strategy. VOSviewer 1.6.20 was used for collaborative network analysis (countries, institutions, authors) and keyword co-occurrence analysis; CiteSpace 6.3.R1 was applied for keyword burst detection. Global publications on natural medicines against AD showed phased growth: slow growth (1999-2009), rapid growth (2011-2018), and explosive growth (2020-present). China led in publications; India had the strongest international collaboration. Top co-cited journals included Journal of Ethnopharmacology, and key cited literatures focused on natural medicines' anti-AD effects. Keyword analysis revealed core hotspots: oxidative stress, amyloid-beta, neuroinflammation, and emerging technologies. Core anti-AD mechanisms of natural medicines included inhibiting Aβ aggregation, regulating tau phosphorylation, anti-neuroinflammation, and gut-brain axis modulation. Numerous typical compounds showed potential but faced slow clinical translation. China is a core contributor. Research has shifted to molecular mechanisms and clinical translation, with network pharmacology, molecular docking and gut-brain axis as frontiers. Future efforts require interdisciplinary cooperation and large-sample trials.",
+    "doi": "10.1177/25424823261478276",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42876908",
+      "journal": "Journal of Alzheimer's disease reports"
+    },
+    "dedupe_key": "doi:10.1177/25424823261478276"
+  },
+  {
+    "kind": "article",
+    "title": "Hemin suppresses interferon responses in periodontal cell models through JAK2-STAT1 inhibition.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42876722/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-15T19:21:47.485476+00:00",
+    "authors": [
+      "Xiaoyu Huang",
+      "Reinhard Gruber",
+      "Layla Panahipour"
+    ],
+    "summary": "Hemin, an oxidized heme species released during erythrocyte breakdown, is detectable in gingival crevicular fluid during periodontal inflammation, but its effects on local immune signaling remain unclear. We investigated whether hemin modifies cytokine-induced interferon responses in HSC-2 oral squamous cell carcinoma cells and primary human gingival fibroblasts. Cells were stimulated with interleukin-1β and tumor necrosis factor-α, or with interferon-γ, in the presence or absence of hemin. Transcriptomic changes were assessed by RNA sequencing and pathway analysis, and selected transcripts and proteins were validated by reverse-transcription quantitative PCR, enzyme-linked immunosorbent assay, immunoblotting, and immunofluorescence. Ligand-kinase interactions were examined by molecular docking and molecular dynamics simulations, and recombinant Janus kinase 2 activity was measured in a cell-free assay. Hemin preferentially suppressed an interferon-associated gene network, including CXCL10, CXCL11, MX1, OAS1, IFIT1, IFIT3, and ISG15, while nuclear factor κB-associated responses were comparatively preserved. Hemin also reduced signal transducer and activator of transcription 1 Tyr701 phosphorylation and nuclear accumulation induced by either the cytokine combination or interferon-γ. Computational analyses predicted stable hemin interactions within conserved ATP-binding pockets of Janus kinases, and the cell-free assay demonstrated inhibition of recombinant Janus kinase 2. Together, these findings show that hemin attenuates interferon-associated transcription in periodontal cell models, consistent with inhibition of the Janus kinase 2-signal transducer and activator of transcription 1 axis. This mechanism may enable blood-derived hemin to modify local mucosal immune signaling, although its relevance to periodontal tissues and antiviral defense requires confirmation in organotypic, infection, and in vivo models.",
+    "doi": "10.3389/fimmu.2026.1958476",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics"
+    ],
+    "extra": {
+      "pmid": "42876722",
+      "journal": "Frontiers in immunology"
+    },
+    "dedupe_key": "doi:10.3389/fimmu.2026.1958476"
+  },
+  {
+    "kind": "article",
+    "title": "Chicoric acid-rich extract of Cichorium intybus seeds (CAREOCI) preserves pancreatic β-cell function under glucotoxic stress through modulation of MAFA, DYRK1A, cell cycle, apoptosis, and mitochondrial dysfunction.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42876685/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-15T19:21:47.486046+00:00",
+    "authors": [
+      "Anish Murtaja Alam Khan",
+      "Kailash Chandra",
+      "Furqan Choudhary",
+      "Aftab Alam",
+      "Farheen Azad",
+      "Jasmeet Kaur",
+      "Mohit Suyal",
+      "Yasmin Bano",
+      "Dinesh Kumar Singhal",
+      "Sayeed Ahmad",
+      "Bibhu Prasad Panda",
+      "Vineet Jain"
+    ],
+    "summary": "Progressive decline in functional pancreatic β-cell mass is a key pathological feature of type 2 diabetes mellitus (T2DM), highlighting the need for therapies that preserve and regenerate β-cells. This study investigated the preservative effects of a chicoric acid-rich aqueous extract of Cichorium intybus seeds (CAREOCI) under glucotoxic conditions (25 mM glucose) in pancreatic β-cells. Phytochemical standardisation by HPTLC, HPLC, and LC-MS/MS confirmed chicoric acid is the principal constituent present in CAREOCI. A molecular docking study identified DYRK1A is a one of the key target (-8.72 kcal/mol) of chicoric acid for β-cell regeneration. In glucotoxic MIN 6 β-cells, CAREOCI significantly enhanced glucose-stimulated insulin secretion, restored antioxidant status, reduced intracellular ROS, and suppressed IL-1β and TNF-α. CAREOCI also reduced apoptosis, attenuated caspase-3/7 activity, preserved normal nuclear morphology, restored mitochondrial membrane potential, and promoted autophagy through increased acidic vesicular organelles. Cell-cycle analysis indicated a trend toward increased S-phase population, suggesting enhanced β-cell proliferation. At the molecular level, CAREOCI downregulated DYRK1A, NF-κB, mTOR, and CHOP while upregulating MAFA, PDX1, PAX6, and NKX6.1, supporting β-cell survival and preservation. Compared with purified chicoric acid, CAREOCI consistently exhibited greater efficacy, indicating potential complementarity among its phytoconstituents. CAREOCI protects pancreatic β-cells through coordinated antioxidant, anti-inflammatory, anti-apoptotic, mitochondrial-protective, autophagy-promoting effects, supporting beta cell preservation and function under glucotoxicity condition supporting its potential as a phytopharmaceutical for T2DM.",
+    "doi": "10.3389/fphar.2026.1953632",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42876685",
+      "journal": "Frontiers in pharmacology"
+    },
+    "dedupe_key": "doi:10.3389/fphar.2026.1953632"
+  },
+  {
+    "kind": "article",
+    "title": "Immunogenicity and protective efficacy of recombinant BCG expressing a multi-epitope vaccine against mycobacterium tuberculosis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42876677/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-15T19:21:47.486631+00:00",
+    "authors": [
+      "Xuan-Ji Zhang",
+      "Jia-Rui Luo",
+      "Ting-Ting Tian",
+      "Juan Shi",
+      "Zheng-Long Chai",
+      "Chuang Li",
+      "Si-Yu Zhang",
+      "Tao Qu",
+      "Feng-Bo Zhang",
+      "Yue-Jie Zhu"
+    ],
+    "summary": "Mycobacterium tuberculosis (Mtb) infects approximately one-quarter of the global population, of whom 5%-10% develop active tuberculosis (TB). Although Bacillus Calmette-Guérin (BCG) remains the cornerstone vaccine against severe infant TB, its efficacy in adults is limited, underscoring the need for novel TB vaccines. This study aimed to design a multi-epitope vaccine, tMEV, and validate its protective potential through bioinformatic prediction and in vivo experiments. tMEV was constructed from dominant T- and B-cell epitopes derived from Mtb ESAT-6, PE35, PPE38, and PE4 proteins, fused with an adjuvant. Its vaccine candidacy was assessed via physicochemical and solubility profiling, secondary and tertiary structure modeling, TLR-4 molecular docking, molecular dynamics simulation, and immune simulation. The tMEV coding sequence was cloned into pMV361 and transformed into BCG to generate recombinant BCG (rBCG-tMEV). Immunogenicity, antigenicity, and protective efficacy were evaluated in mouse immunization and Mtb challenge models. tMEV exhibited favorable vaccine-like properties in silico. In mice, both tMEV and rBCG-tMEV induced Mtb-specific immune responses. Compared with PBS, tMEV significantly enhanced cellular and humoral immunity with a Th2-biased profile. Relative to conventional BCG, rBCG-tMEV elicited a superior mixed Th1-Th2 response and higher antigen-specific immunity, accompanied by increased secretion of IFN-γ, IL-2, TNF-α, granzyme B, and perforin. Moreover, rBCG-tMEV markedly reduced bacterial loads in the lungs and spleens of Mtb-infected mice, conferring partial protection. These findings demonstrate that tMEV and rBCG-tMEV possess robust immunogenicity and protective potential against Mtb, representing promising novel TB vaccine candidates and providing a rationale for future vaccine development and optimization.",
+    "doi": "10.3389/fcimb.2026.1912983",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42876677",
+      "journal": "Frontiers in cellular and infection microbiology"
+    },
+    "dedupe_key": "doi:10.3389/fcimb.2026.1912983"
+  },
+  {
+    "kind": "article",
+    "title": "Characterization and clustering of immunocompetent proteins based on ESM-2 sequence embedding and physicochemical feature fusion.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42876657/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-15T19:21:47.487263+00:00",
+    "authors": [
+      "Xingxing Liu",
+      "Rui Zhang",
+      "Jie Li",
+      "Li Zhang",
+      "Panpan Tong",
+      "Jinxin Xie"
+    ],
+    "summary": "Traditional sequence-comparison methods face challenges when classifying and identifying low-homology proteins formed by convergent evolution. In this exploratory study, we built a PCA-based unsupervised clustering workflow combining high-dimensional embeddings from the frozen pre-trained protein-language model ESM-2 and weighted-fused physicochemical features. The workflow was explored for family-level grouping, identification of putative functional conservation, and cross-species evolutionary analysis of immune-active proteins. An independent external test dataset was further used to preliminarily probe its potential generalization behaviour. Nineteen arthropod-derived immunocompetent proteins (tick lipocalin antihistamine proteins, mosquito D7 salivary proteins, dust mite allergens, and two additional arthropod immune-active proteins) formed our reference dataset. Eleven test sequences, comprising nine independent vertebrate Cathelicidin peptides and two tick lipocalin positive controls, including nine vertebrate cathelicidin antimicrobial peptides and two tick lipocalin homologs, served as the external test dataset. Using Python3.9, we implemented an analytical pipeline. The ESM-2 t33_650M_UR50D model in frozen pre-trained mode generated 1280-dimensional sequence embeddings. Six core physicochemical and secondary-structure descriptors were computed. An empirically-determined weight ratio (0.7:0.3) was applied to build a weighted fused dissimilarity matrix. After full feature concatenation, PCA-based clustering and visualization were performed. On the reference data set, the fusion features showed a significant visual separation trend among different functional protein families. The fusion dissimilarity value within the family is usually lower than the dissimilarity value between the families, and there is a statistically significant difference at the group level (P < 0.05). The 9 vertebrate cathelicidin sequences in the test dataset form a unique cluster separated from the arthropod reference protein. The observed clustering patterns are generally consistent with the evolutionary relationship of species and the calculated physical and chemical properties. This exploratory ESM-2-embedding and physicochemical-feature-fusion PCA clustering workflow shows promising descriptive performance for immune-active proteins. It can generate family-level grouping without relying on high-quality multiple-sequence alignments and may help analyse low-homology protein datasets. Nevertheless, given dataset-size limitations and the absence of quantitative clustering-validation metrics, its broad-scale classification accuracy, stability and generalizability remain to be further validated on larger datasets. This pipeline provides a reproducible bioinformatic framework for exploratory family screening, evolutionary interpretation and functional hypothesis generation for animal-derived immune-active proteins.",
+    "doi": "10.3389/fimmu.2026.1918918",
+    "company_slug": null,
+    "keywords_matched": [],
+    "extra": {
+      "pmid": "42876657",
+      "journal": "Frontiers in immunology"
+    },
+    "dedupe_key": "doi:10.3389/fimmu.2026.1918918"
+  },
+  {
+    "kind": "article",
+    "title": "Editorial: Artificial intelligence and anti-cancer drugs: advancing discovery, personalization, and precision oncology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42876485/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-15T19:21:47.487632+00:00",
+    "authors": [
+      "Mohamed El-Shazly",
+      "Neeraj Kumar",
+      "Sumit Sheoran"
+    ],
+    "summary": "",
+    "doi": "10.3389/fonc.2026.1988629",
+    "company_slug": null,
+    "keywords_matched": [],
+    "extra": {
+      "pmid": "42876485",
+      "journal": "Frontiers in oncology"
+    },
+    "dedupe_key": "doi:10.3389/fonc.2026.1988629"
   }
 ]
