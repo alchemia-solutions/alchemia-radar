@@ -1,6 +1,469 @@
 [
   {
     "kind": "article",
+    "title": "Mechanistic quantification of the effects of genes, environment, and development on human behaviour",
+    "url": "https://doi.org/10.1101/2025.03.17.643651",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:17.221192+00:00",
+    "authors": [
+      "Gonzalez-Forero, M.",
+      "Gomez-Robles, A."
+    ],
+    "summary": "A long-standing question is to what extent behaviour is determined by genes, environment, or else. Common practice estimates genetic components using heritability, which is correlational, population-level, and variously problematic to measure genetic contribution. Ideally, contributions would be quantified via experimental intervention, which is often infeasible for humans and other organisms, but possible in silico. We formulate mathematical methods to quantify contributions to phenotypic differences in silico, and apply them to an in-silico replica of human skill development and evolution. We find that, in this replica, adult skill level is more reactive to differences in developmental history than to genetic, environmental, or social differences from Homo habilis to H. sapiens. This occurs although, in this replica, adult skill level has evolved an increased reactivity to environmental and social differences, and a decreased reactivity to genetic differences, which is consistent with observation. Our results predict a window of sensitivity at the end of brain growth. They also predict that adverse genetic and environmental conditions that would developmentally yield low adult sk",
+    "doi": "10.1101/2025.03.17.643651",
+    "company_slug": null,
+    "keywords_matched": [
+      "in silico"
+    ],
+    "extra": {
+      "category": "evolutionary biology"
+    },
+    "dedupe_key": "doi:10.1101/2025.03.17.643651"
+  },
+  {
+    "kind": "article",
+    "title": "From coarse-grained molecular dynamics simulations to continuum models of biomolecular condensation",
+    "url": "https://doi.org/10.64898/2026.10.14.759104",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:17.223290+00:00",
+    "authors": [
+      "Hubman, A.",
+      "Potisk, T.",
+      "Merzel, F."
+    ],
+    "summary": "Biomolecular condensation contributes to cellular organization and the regulation of numerous biochemical processes. Capturing its dynamics on large spatio-temporal scales requires a macroscopic model that accurately describes both thermodynamic forces and molecular transport. Here, we investigate the applicability of the Cahn-Hilliard equation for modeling phase-separation dynamics in intrinsically disordered proteins. Using the low-complexity domain of FUS as a model system for biomolecular condensation, we perform coarse-grained molecular dynamics simulations to infer the free-energy functional and mobility coefficient entering the Cahn-Hilliard equation. The resulting continuum model accurately describes the growth of initial concentration fluctuations in the spinodal regime and the subsequent morphological evolution of the concentration fields during coarsening. We find that the free-energy functional is transferable across different stages of phase separation, whereas the mobility is not. During coarsening, we identify two kinetic regimes characterized by distinct mobilities, which persist even when a concentration-dependent mobility is introduced.",
+    "doi": "10.64898/2026.10.14.759104",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {
+      "category": "biophysics"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.14.759104"
+  },
+  {
+    "kind": "article",
+    "title": "Discovery of GluA3 preferring AMPA receptor positive allosteric modulator BRD3290",
+    "url": "https://doi.org/10.64898/2026.07.26.740780",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:17.224239+00:00",
+    "authors": [
+      "Greaves, C.",
+      "Martenis, W. E.",
+      "Nelson, S. D.",
+      "Madison, J.",
+      "Skepner, A.",
+      "Baez-Nieto, D.",
+      "Stalnaker, K. J.",
+      "Lebois, E. P.",
+      "Campbell, A. J.",
+      "Pelham, K.",
+      "Magdei, M.",
+      "Guletsky, A.",
+      "Perez de Arce, K.",
+      "Zhang, Y.-L.",
+      "Wagner, F. F.",
+      "Pan, J. Q.",
+      "Weïwer, M.",
+      "Sheng, M.",
+      "Moran, S. P."
+    ],
+    "summary": "Schizophrenia is a debilitating neuropsychiatric disease that lacks effective treatments for many symptom domains including negative, cognitive and sleep disturbances. Lack of clear disease etiology has hampered the development of new, effective treatments for the unmet needs of people with schizophrenia. Large scale human genetics have identified rare loss of function mutations that substantially increase risk of developing schizophrenia, including in GRIA3, the gene that encodes the GluA3 receptor subunit of the AMPA receptor (AMPAR). Several drug discovery programs have been aimed at developing AMPAR positive allosteric modulators (PAMs) as a novel treatment for schizophrenia. Despite intense drug discovery efforts, there are no FDA approved AMPAR PAMs. We therefore hypothesized that selectively targeting GluA3, the AMPAR subunit implicated by human genetics, could yield a safer and more effective AMPAR PAM for the potential treatment of schizophrenia. Using a combination of medicinal chemistry, in vitro, and in vivo studies, we discovered BRD3290, a GluA3-preferring AMPAR PAM with reasonable potency in heterologous cells, as well as favorable tolerability and brain exposure. Pe",
+    "doi": "10.64898/2026.07.26.740780",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "category": "pharmacology and toxicology"
+    },
+    "dedupe_key": "doi:10.64898/2026.07.26.740780"
+  },
+  {
+    "kind": "article",
+    "title": "A Blast Fungus Effector Targets a Tubby-like F-box Protein to Suppress Plant Immunity",
+    "url": "https://doi.org/10.64898/2026.10.15.759101",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:19.590283+00:00",
+    "authors": [
+      "Saado, I.",
+      "Bennett, J. W.",
+      "Huang, L.",
+      "Chia, K.-S.",
+      "Talbot, N. J.",
+      "Banfield, M. J."
+    ],
+    "summary": "The blast fungus Magnaporthe oryzae is one of the most destructive pathogens of rice, secreting effector proteins that reprogram host cells to enable infection. Identifying plant targets of these fungal effectors is central to understanding how blast disease is established, but the targets and mechanisms of most effectors remain unknown. Here, we show that a Zinc finger (ZiF)-family effector, Tie1, targets the rice Tubby-like protein (TLP) family, which are membrane-associated plant immunity regulators whose exact functions have not been defined. Tie1 binds a range of rice TLPs and specifically engages with the Tubby-like domain of OsTLP7. Co-expression in planta with Tie1 re-localises this domain from the plasma membrane to the cytoplasm and nucleus, a shift also observed by disrupting the OsTLP7 phosphatidylinositol 4,5-bisphosphate (PIP2)-binding site in the absence of the effector. By combining AlphaFold3 structural predictions with allelic variation, we define a putative Tie1/OsTLP7 interface distal to the PIP2-binding site. Furthermore, Tie1 induces transcriptional activation activity of the OsTLP7 Tubby-like domain, and Tie1 overexpression in stable Arabidopsis lines leads t",
+    "doi": "10.64898/2026.10.15.759101",
+    "company_slug": null,
+    "keywords_matched": [
+      "AlphaFold"
+    ],
+    "extra": {
+      "category": "plant biology"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.15.759101"
+  },
+  {
+    "kind": "article",
+    "title": "Intermolecular interactions of CYP3A enzymes and cytosolic sulfotransferases (SULT1E1, SULT2A1)",
+    "url": "https://doi.org/10.64898/2026.10.14.759113",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:22.873705+00:00",
+    "authors": [
+      "Tumilovich, A.",
+      "Yablokov, E.",
+      "Gnedenko, O.",
+      "Mednaia, D.",
+      "Selin, V.",
+      "Mezentsev, Y.",
+      "Ershov, P.",
+      "Kaluzhskiy, L.",
+      "Tsybruk, T.",
+      "Grabovec, I.",
+      "Shabunya, P.",
+      "Gilep, A.",
+      "Ivanov, A."
+    ],
+    "summary": "Cytochrome P450 enzymes of the CYP3A subfamily (CYP3A4 and CYP3A5) and cytosolic sulfotransferases (SULT1E1 and SULT2A1) play key roles in the sequential oxidative and conjugative metabolism of steroid hormones and xenobiotics. While their coordinated transcriptional regulation and co-expression patterns are well documented, direct physical interactions between these phase I and phase II enzymes have not previously been demonstrated. In this study, we combined systems biology analysis, SPR biosensing, activity assays, and AlphaFold2 modeling to investigate PPIs between CYP3A4/3A5 and SULT1E1/2A1. STRINGdb and transcriptomic data suggested potential associations, but direct evidence was lacking. SPR confirmed high-affinity binding (Kd 0.29-1.8 nM); the SULT2A1-CYP3A5 pair gave 0.29 nM, while SULT2A1-CYP3A4 gave 1.8 nM. Notably, the presence of the sulfo group donor SULT PAPS, had minimal effect on binding affinity. Functional assays demonstrated that SULTs slightly inhibited CYP3A4 activity while moderately enhancing CYP3A5 activity in the presence of SULT1E1, both with and without PAPS, whereas the addition of CYPs leads to selectively increase in SULT2A1 activity in vitro by 38% (",
+    "doi": "10.64898/2026.10.14.759113",
+    "company_slug": null,
+    "keywords_matched": [
+      "AlphaFold",
+      "in silico"
+    ],
+    "extra": {
+      "category": "molecular biology"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.14.759113"
+  },
+  {
+    "kind": "article",
+    "title": "The Genetic Discovery (GeDi) resource: Deep characterization of a multi-ancestry panel of human reference iPSCs for functional genomic studies",
+    "url": "https://doi.org/10.64898/2026.10.14.759173",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:22.875131+00:00",
+    "authors": [
+      "Melo-Carrillo, A.",
+      "Pellegrino, E.",
+      "Balachandran, P.",
+      "Kostich, M.",
+      "Werren, L.",
+      "Lorig, C.",
+      "Kendra, A.",
+      "Alcoforado Diniz, J.",
+      "Merisotis, K.",
+      "Garofalo, J.",
+      "Grubb, S.",
+      "Beck, C. R.",
+      "Robson, P.",
+      "Skarnes, W. C."
+    ],
+    "summary": "Human induced pluripotent stem cells (iPSCs) are essential tools for disease modelling, drug discovery, and functional genomics, yet the field remains anchored to a small number of reference lines, limiting our understanding of how genetic background shapes cellular phenotypes across human populations. Here we describe the Genetic Discovery iPSC panel (GeDi), eight clonal iPSC lines reprogrammed from male and female donors that broadly span global human population diversity. Ancestry analysis confirmed that each line's genetic profile is concordant with donor self-reported ancestry. All GeDi lines are pluripotent and passed comprehensive quality control, demonstrating Sendai virus clearance, intact p53 pathway integrity, reproducible proliferative capacity, and compatibility with standardized genome editing workflows. Transcriptome profiling across five differentiated lineages covered 80% of annotated protein-coding genes and revealed stable donor-intrinsic variability in gene expression within each lineage. Haplotype-resolved genome assemblies were used to catalog structural variants and regions of absence of heterozygosity invisible to short-read sequencing. Whole-genome methylat",
+    "doi": "10.64898/2026.10.14.759173",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "category": "cell biology"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.14.759173"
+  },
+  {
+    "kind": "article",
+    "title": "Identification and targeting of a novel drug pocket in the tumour angiogenesis regulator RhoJ",
+    "url": "https://doi.org/10.64898/2026.10.14.758331",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:23.666428+00:00",
+    "authors": [
+      "Chen, W.",
+      "Shoemark, D. K.",
+      "Corey, R. A.",
+      "Adrienko, T. N.",
+      "Mellor, H."
+    ],
+    "summary": "The Rho GTPase RhoJ is a key regulator of tumour angiogenesis and has been identified as a target for anti-angiogenic drug design. Its high sequence conservation with the related Rho GTPase Cdc42 complicates selective drug discovery. RhoJ has a unique N-terminal extension (Asn2-Lys19) that is absent in Cdc42 and other Rho GTPases. Here, we use molecular dynamics simulations to identify a novel allosteric pocket formed by the RhoJ N-terminus and show that this pocket contributes to interactions with key downstream signalling partners. Structure-based virtual screening of small molecules targeting this pocket identified the antifungal terconazole as a potential binder. Computational docking revealed that terconazole occupies the N-terminal pocket, sharing critical contacts with the interface between RhoJ and PAK3, a key interacting partner. To validate this, we developed an optimized bioluminescence resonance energy transfer (eBRET2)-based biosensor to monitor the interaction between RhoJ and PAK3 in live cells and saw that terconazole disrupted the RhoJ:PAK3 interaction in a dose-dependent manner. Together, our MD results show that the RhoJ N-terminal extension assumes structure on ",
+    "doi": "10.64898/2026.10.14.758331",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery",
+      "drug design",
+      "virtual screening",
+      "molecular dynamics"
+    ],
+    "extra": {
+      "category": "biochemistry"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.14.758331"
+  },
+  {
+    "kind": "article",
+    "title": "HighFold-Lasso: Topology-Guided Prediction of Lasso Peptide Structures Using AlphaFold3",
+    "url": "https://doi.org/10.64898/2026.10.14.759041",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:23.668529+00:00",
+    "authors": [
+      "Sen, C.",
+      "Zhang, C.",
+      "Yang, H.",
+      "Ge, Y.",
+      "Hou, H.",
+      "Zhu, N.",
+      "Li, C.",
+      "Mo, J.",
+      "Wu, Y.",
+      "Guo, J.",
+      "GUO, J.",
+      "Duan, H."
+    ],
+    "summary": "Lasso peptides are a class of ribosomally synthesized and post-translationally modified peptides (RiPPs) characterized by a mechanically interlocked topology, in which the C-terminal tail is threaded through an N-terminal macrolactam ring formed by an isopeptide bond. This unique topology often confers high thermal stability and resistance to proteolytic degradation. However, the isopeptide linkage, threaded topology, and class-specific disulfide connectivity make lasso peptide structures difficult to reconstruct reliably using general-purpose structure prediction models. Here, we developed HighFold-Lasso, which combines custom covalent connectivity with lasso scaffold-guided adaptive low-noise initialization to enable conditional structure generation guided by lasso conformational priors. On a test set of 52 experimentally determined structures, HighFold-Lasso achieved a 100% lasso topology success rate, with a mean RMSD C-alpha of 1.942 Angstrom for the ring-loop region and 2.375 Angstrom for the full peptide. The framework supports modeling of the four classical lasso peptide classes (I-IV) and can represent noncanonical amino acids, providing computational support for structure",
+    "doi": "10.64898/2026.10.14.759041",
+    "company_slug": null,
+    "keywords_matched": [
+      "AlphaFold"
+    ],
+    "extra": {
+      "category": "bioinformatics"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.14.759041"
+  },
+  {
+    "kind": "article",
+    "title": "Nucleotide State Regulates Asymmetric Substrate-Binding Protein Docking in a Type II ABC Importer",
+    "url": "https://doi.org/10.64898/2026.10.15.759412",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:25.869802+00:00",
+    "authors": [
+      "Karagiaridi, A.",
+      "Mendoza Uriarte, R.",
+      "Chen, M.",
+      "Roux, B.",
+      "Pinkett, H. W."
+    ],
+    "summary": "Type II ABC importers rely on substrate-binding proteins (SBP) to capture nutrients and deliver them to membrane-embedded transporters, but how ATP binding and hydrolysis regulate their interactions remains poorly understood. To address these questions, we determined structures of the Type II small-substrate molybdate importer MolBC-A from H. influenzae in distinct nucleotide-bound states, complemented by molecular dynamics (MD) simulations and functional assays. In a nucleotide-free state, the MolA-MolBC interface is remodeled into a more open conformation, whereas ATP and AMP-PNP binding induce asymmetric conformational changes that preserve the MolA Lobe I interface and disrupt contacts with MolA Lobe II, revealing a previously unresolved partially-docked state. In the ADP-bound state, MolA exhibits the greatest conformational heterogeneity with reduced stable engagement that extends across both lobes. Together these findings define a nucleotide-dependent cycle of asymmetric MolA remodeling and reveal distinct contributions of the two SBP lobes in coupling transporter nucleotide state to SBP engagement.",
+    "doi": "10.64898/2026.10.15.759412",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {
+      "category": "biochemistry"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.15.759412"
+  },
+  {
+    "kind": "article",
+    "title": "Nanoscopic Origin of Enhanced Tyrosine-Mediated Water Ordering over Canonical Threonine Motifs in a Bacterial Ice-Nucleating Protein",
+    "url": "https://doi.org/10.64898/2026.10.15.759343",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:27.464960+00:00",
+    "authors": [
+      "Jadhav, S. E.",
+      "Debnath, A."
+    ],
+    "summary": "Bacterial ice-nucleating proteins (INPs) are known as the most efficient biological heterogeneous ice nucleators. Ice-nucleation ability is conventionally attributed to the threonine-based conserved motifs of {beta} -helical INPs, whereas the role of other conserved motifs remains overlooked. To identify the motif with the highest hydration-ordering ability, a 16-loop model INP and its two mutants are simulated using all-atom molecular dynamics at 260 K, just below the ice nucleation temperature, using the CHARMM36m force field and TIP4P/Ice water model. Among four potential ice-nucleating sites present in four exposed surfaces of the {beta} -helical INP, the glycine-tyrosine-glycine (GYG) motif-associated interface water (IW) exhibits the probability distribution of the Steinhardt bond-orientational and tetrahedral order parameters closest to that of the Ih. The GYG arrange themselves into a ladder-like array of tyrosine hydroxyls, compatible with the Ih-like lattice geometry, suggesting that this motif provides the IW a favorable template for ice-like water organization. The Y-to-phenylalanine mutation produces the largest disruption in IW order compared to the threonine mutation",
+    "doi": "10.64898/2026.10.15.759343",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {
+      "category": "biophysics"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.15.759343"
+  },
+  {
+    "kind": "article",
+    "title": "Network-enabled drug repurposing identifies lithium to promote cardiomyocyte proliferation",
+    "url": "https://doi.org/10.64898/2026.10.15.759417",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:28.494165+00:00",
+    "authors": [
+      "Wintruba, K. L.",
+      "Verma, S. K.",
+      "Kathiriya, I. S.",
+      "Kostina, A.",
+      "Aguirre, A.",
+      "Kuyumcu-Martinez, M. N.",
+      "Saucerman, J. J."
+    ],
+    "summary": "The adult mammalian heart has minimal regenerative capacity, limited in part by endogenous cardiomyocyte (CM) renewal. Although CM proliferation is a promising target in both congenital and adult heart disease, no current therapies specifically target this process. Progress has been hindered by the complexity of CM proliferation signaling networks, which may require systems-level approaches. The overall goal of this study was to leverage systems modeling to identify FDA approved drugs that have the potential to be repurposed towards CM proliferation. To achieve this goal, we developed a computational drug repurposing framework that integrates drug-target interaction data with a previously developed logic-based network model of CM proliferation signaling. Using this framework, we identified 81 drugs that directly target nodes within the CM proliferation network, corresponding to 32 unique drug-target interactions. Virtual screening predicted 5 unique drug-target interactions that increase CM proliferation and 14 that decrease CM proliferation outputs. Lithium, a GSK3{beta} inhibitor widely prescribed for bipolar disorder, was predicted and experimentally validated to promote CM prol",
+    "doi": "10.64898/2026.10.15.759417",
+    "company_slug": null,
+    "keywords_matched": [
+      "virtual screening",
+      "drug repurposing"
+    ],
+    "extra": {
+      "category": "systems biology"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.15.759417"
+  },
+  {
+    "kind": "article",
+    "title": "Poisoning the corpora of protein design systems during pre-training and retrieval",
+    "url": "https://arxiv.org/abs/2610.21200",
+    "source": "arXiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:31.592420+00:00",
+    "authors": [
+      "Charalampos Koilakos",
+      "Kimon-Antonios Provatas",
+      "Michail Patsakis",
+      "Candace SY Chan",
+      "Georgios A. Pavlopoulos",
+      "Ilias Georgakopoulos-Soares"
+    ],
+    "summary": "Protein foundation models increasingly support the generation of novel biological sequences, yet their reliance on large public datasets creates opportunities for adversarial manipulation of the material they learn from and retrieve. We investigate two data-only poisoning attacks against protein design systems, targeting the pre-training corpus of autoregressive protein language models and the retrieval corpus of a text-guided protein generator. For the first, we pre-trained ProtGPT2 and ProGen2 variants of 300 million parameters, introducing poisoned protein sequences containing one of two triggers followed by one of three payloads. Across all poisoned runs, both architectures acquired highly reliable trigger-dependent generation under uniform and ramped poisoning schedules. Under ramped exposure, the earliest majority activation occurred after only 200 contaminated examples, while for the uniform schedule earliest activation occurred around 5000 poisoned samples. For the second attack, we inserted records into a retrieval corpus system without modifying its weights or decoding procedure. A single query-aware record captured a top-16 retrieval position for 58\\% of templated reques",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "protein design",
+      "protein language model"
+    ],
+    "extra": {
+      "arxiv_id": "2610.21200v1",
+      "arxiv_categoria_feed": "q-bio.QM",
+      "arxiv_announce_type": "cross"
+    },
+    "dedupe_key": "url:https://arxiv.org/abs/2610.21200"
+  },
+  {
+    "kind": "article",
+    "title": "Site-Selective Gaussian Accelerated Molecular Dynamics and Its Integration with Replica-Exchange Methods",
+    "url": "https://doi.org/10.26434/chemrxiv.15010586/v1",
+    "source": "ChemRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:34.946687+00:00",
+    "authors": [
+      "Hiraku Oshima"
+    ],
+    "summary": "We developed site-selective Gaussian accelerated molecular dynamics (ssGaMD), which selectively enhances molecular motions associated with a specified region or set of interactions. The method allows selected dihedral, electrostatic, and Lennard–Jones energy terms to be biased independently or in combination, while limiting direct biasing of the rest of the system. ssGaMD can be combined with replica-exchange umbrella sampling (ssGaREUS) or temperature replicaexchange molecular dynamics (ssGaREMD) to further enhance the sampling of association and dissociation processes and conformational changes. We implemented these methods in the GENESIS MD simulation software and applied them to aspirin binding to β-cyclodextrin, PP1 binding to Src kinase, and Trp-cage folding. Selectively boosting interactions involved in binding efficiently promoted molecular association and dissociation, while combining ssGaMD with replica-exchange methods accelerated the convergence of binding and folding free-energy landscapes. These methods offer a flexible approach to studying ligand binding and other biomolecular processes in which slow dynamics are governed by specific local interactions.",
+    "doi": "10.26434/chemrxiv.15010586/v1",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {},
+    "dedupe_key": "doi:10.26434/chemrxiv.15010586/v1"
+  },
+  {
+    "kind": "article",
+    "title": "The Regularized Frozen Natural Orbital approach to CASPT2: extension to Restricted Active Space wave functions, different multiplicities and assessment of correlation effects",
+    "url": "https://doi.org/10.26434/chemrxiv.15007726/v2",
+    "source": "ChemRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:34.948042+00:00",
+    "authors": [
+      "Juliana Cuéllar-Zuquin",
+      "Javier Segarra-Martí",
+      "Francesco Aquilante"
+    ],
+    "summary": "The frozen natural orbital (FNO) method is a well-known approximation that significantly reduces the cost of many-body perturbation theory treatments for obtaining correlation energies in a systematic and controlled manner, enabling the simulation of larger and more realistic molecular systems. Here, we implement FNO on top of restricted active-space self-consistent field (RASSCF) wave function within second-order perturbation theory, leading to the FNO-RASPT2 method. To account for the additional approximations incurred when using restricted RASSCF wave functions, as well as to apply it to states of different molecular charge and spin multiplicity, we introduce a regularisation approach via a level-shift in the orbital deletion procedure, which helps avoid singularities resulting from vanishing denominators due to the reduced occupation of restricted (active) virtual orbitals and that we show does not significantly influence the final energies obtained. Numerical results on vertical excitation energies showcase the FNO to be up to ∼3.5 faster than the parent computation while retaining ∼95% of the dynamic correlation energy and being within 0.1 eV of the reference calculation, wit",
+    "doi": "10.26434/chemrxiv.15007726/v2",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {},
+    "dedupe_key": "doi:10.26434/chemrxiv.15007726/v2"
+  },
+  {
+    "kind": "article",
+    "title": "TAPERSS-MoCa: A Physics-Based Monte Carlo Framework for 3D RNA Structure Prediction from Sequence",
+    "url": "https://doi.org/10.26434/chemrxiv.15010570/v1",
+    "source": "ChemRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:34.951896+00:00",
+    "authors": [
+      "Mariam Ibrahim",
+      "Ivan Issac Riveros",
+      "Nanayakkara P.N.R. Kumarachchi",
+      "Ilyas Yildirim"
+    ],
+    "summary": "Ribonucleic acid (RNA) function is intrinsically linked to its three-dimensional architecture, yet experimental structure determination remains challenging. Here, we introduce TAPERSS-MoCa (Theoretical Analyses, Prediction, and Evaluation of RNA Structures from Sequence using a Monte-Carlo Simulator), a physics-based fragment assembly framework for predicting RNA tertiary structures directly from sequence. By utilizing a novel fragment library grounded in dinucleoside monophosphate (DNMP) energetics parameterized via Discrete Path Sampling (DPS), TAPERSS-MoCa efficiently samples low-energy conformational landscapes. Evaluated across 6-, 10-, and 12-nucleotide RNA test sets, TAPERSS-MoCa consistently recovers native-like global minima with canonical Watson–Crick base pairs adopting near-planar geometry. By combining dinucleoside fragment energetics with an angularly constrained hydrogen-bonding potential, TAPERSS-MoCa accurately captures A-form structures in 6-nucleotide linear RNAs, outperforming traditional fragment-assembly algorithms that frequently misfold these flexible sequences. Thermodynamic evaluations based on ensemble partition functions (Δ G folding ) and macrostate bas",
+    "doi": "10.26434/chemrxiv.15010570/v1",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {},
+    "dedupe_key": "doi:10.26434/chemrxiv.15010570/v1"
+  },
+  {
+    "kind": "article",
+    "title": "Breaking the Potency Barrier: A Practical Recipe for QSAR Extrapolation",
+    "url": "https://doi.org/10.26434/chemrxiv.15010567/v1",
+    "source": "ChemRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:34.952377+00:00",
+    "authors": [
+      "Sankalp Jain",
+      "Alexey V. Zakharov"
+    ],
+    "summary": "Predicting compounds that are more potent than those represented in the training data remains a difficult and practically important problem for quantitative structure-activity relationship (QSAR) modeling. This challenge is particularly relevant during lead optimization, where the goal is to design or identify analogs that are more potent than compounds already measured. To address this problem, we developed a new Pairwise-Difference QSAR (PD-QSAR) approach that learns changes in biological activity from differences in molecular descriptors between compound pairs. We evaluated three strategies for aggregating the resulting PD-QSAR predictions: mean aggregation, k-nearest-neighbor aggregation (k = 3), and 10% quantile aggregation, and compared their performance with Direct QSAR and Chemprop using a benchmark derived from publicly available ChEMBL 35 data. The primary benchmark included 103 human single-protein target datasets, comprising 33,707 activity records. For each target, the 10% most potent activity records were withheld for external validation. Among the approaches evaluated, 10% quantile aggregation provided the lowest median external validation RMSE (0.518) and outperform",
+    "doi": "10.26434/chemrxiv.15010567/v1",
+    "company_slug": null,
+    "keywords_matched": [
+      "QSAR"
+    ],
+    "extra": {},
+    "dedupe_key": "doi:10.26434/chemrxiv.15010567/v1"
+  },
+  {
+    "kind": "article",
+    "title": "Nonadiabatic Semiclassical Polariton Dynamics: Excited State Proton Transfer of Aminopropenal",
+    "url": "https://doi.org/10.26434/chemrxiv.15010520/v2",
+    "source": "ChemRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T14:13:34.955029+00:00",
+    "authors": [
+      "Sourav Majumdar",
+      "Christopher A. Myers",
+      "Darwin Martinez",
+      "Christine M. Isborn"
+    ],
+    "summary": "The interplay between strong light-matter coupling and nonadiabatic molecular dynamics provides a promising route to control chemical reactivity. Here, we develop a framework for simulating polaritonic chemistry with on-the-fly semiclassical nonadiabatic molecular dynamics, employing the linearized semiclassical initial value representation. With this approach, we simulate the nonadiabatic molecular dynamics under strong light-matter coupling, presenting results for excited state proton transfer of aminopropenal. Light-matter interactions are described using a Jaynes-Cummings Hamiltonian formulated in the adiabatic electronic basis, where the electronic energies, transition moments, and nuclear forces are evaluated on the fly. We characterize how light-matter coupling reshapes reaction pathways and redistributes photonic and electronic character of individual states along the trajectory, finding that photonic character of the lower polaritonic state decreases in time as the molecular geometry relaxes, demonstrating that the cavity effect is strongest during the initial dynamics. We find that for aminopropenal, the main effect of cavity coupling on the dynamics is not altering the p",
+    "doi": "10.26434/chemrxiv.15010520/v2",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {},
+    "dedupe_key": "doi:10.26434/chemrxiv.15010520/v2"
+  },
+  {
+    "kind": "article",
     "title": "Transfer seeding reveals divergent activation ensembles across tyrosine kinases",
     "url": "https://doi.org/10.64898/2026.06.26.734786",
     "source": "bioRxiv",
@@ -366,6 +829,62 @@
       "category": "bioinformatics"
     },
     "dedupe_key": "doi:10.64898/2026.10.08.757741"
+  },
+  {
+    "kind": "article",
+    "title": "SMARTFlexDB: a paired apo-holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition",
+    "url": "https://doi.org/10.64898/2026.10.11.757724",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-15",
+    "collected_at": "2026-10-16T14:13:13.272458+00:00",
+    "authors": [
+      "Jiang, S.",
+      "Wei, J.",
+      "Taghavi, A.",
+      "Seabra, G.",
+      "Childs-Disney, J. L.",
+      "Li, C.",
+      "Disney, M. D.",
+      "Li, Y."
+    ],
+    "summary": "RNA structures can undergo substantial conformational changes upon small-molecule binding, yet existing structural resources provide only static RNA-ligand snapshots without connecting ligand-bound (holo) RNA structures to corresponding ligand-free (apo) conformations. SMARTFlexDB is a curated database and analysis platform that uses paired apo-holo RNA structures to characterize conformational differences and RNA-small-molecule recognition. Candidate pairs were identified from the Protein Data Bank by matching RNA chains with at least 90% sequence identity and coverage, and fully conserved binding pocket nucleotides. The current release contains 434 binding pockets from 266 holo structures, linked to 186 apo structures to yield 1,187 pocket-level apo-holo pairs organized into 734 database entries, spanning 150 small molecules and 23 RNA functional classes. Each entry integrates RNA sequence and secondary-structure annotations, apo and holo three-dimensional structures, RNA-ligand atomic interactions, and quantitative descriptors of global and local conformational changes. An interactive web interface enables users to explore sequence alignments and structural overlays, compare sec",
+    "doi": "10.64898/2026.10.11.757724",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "category": "bioinformatics"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.11.757724"
+  },
+  {
+    "kind": "article",
+    "title": "Dual-graph deconvolution of enzyme fitness: an interpretable framework to identify and explain catalytic modulators",
+    "url": "https://doi.org/10.64898/2026.10.15.759402",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-15",
+    "collected_at": "2026-10-16T14:13:14.652878+00:00",
+    "authors": [
+      "Garcia Busto, S.",
+      "Eschbach, E.",
+      "Hopf, T. A.",
+      "Sander, C.",
+      "Bacallado, S.",
+      "Marks, D. S."
+    ],
+    "summary": "Models trained on protein sequences can predict mutational effects, but their outputs represent a convolution of different phenotypes. Isolating stability-independent activity effects is essential for rational enzyme design, allosteric drug design and functional annotation, yet existing pLM-based deconvolution methods lack interpretability. Here, we introduce a hybrid framework that pairs stability predictors with probabilistic graphical models of coevolution. Benchmarked on all enzymes with available multidimensional deep mutational scanning data, our framework isolates stability-independent activity effects with a fidelity that matches analogous pLM-based approaches. Crucially, we reveal biophysically plausible communication pathways that align with previous knowledge and that we validate with experimental data across a diverse set of targets. This hybrid approach merges statistical and geometric deep learning into a zero-shot, explainable tool for targeted engineering and mechanistic discovery.",
+    "doi": "10.64898/2026.10.15.759402",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug design"
+    ],
+    "extra": {
+      "category": "bioinformatics"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.15.759402"
   },
   {
     "kind": "article",
@@ -88804,5 +89323,1819 @@
       "journal": "Frontiers in microbiology"
     },
     "dedupe_key": "doi:10.3389/fmicb.2026.1944089"
+  },
+  {
+    "kind": "article",
+    "title": "HDAC8 Assistant: a QSAR-guided molecular generation platform for de novo design and virtual screening of HDAC8 inhibitors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42885407/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.215107+00:00",
+    "authors": [
+      "O V Tinkov",
+      "V Y Grigorev"
+    ],
+    "summary": "Histone deacetylase 8 (HDAC8) inhibitors are considered promising therapeutic agents for the treatment of cancer and several other diseases. In this study, regression QSAR models for HDAC8 inhibitors were developed using various types of molecular descriptors and machine learning algorithms. The best-performing weighted consensus model achieved an external predictive performance of Q2test = 0.62 for the complete test set and 0.71 for compounds within the applicability domain, covering 77% of the external data. Model reliability was confirmed by five-fold cross-validation and y-randomization tests. The developed QSAR model was integrated into the HDAC8 Assistant web application (https://hdac8-assistant.streamlit.app/), which includes a de novo molecular generation module based on recurrent neural networks (SMILES-RNN) and reinforcement learning (REINVENT 2). For targeted discovery of novel inhibitors, an original reward function was proposed that combines QSAR-predicted activity with applicability domain control for generated compounds. This approach enables simultaneous optimization of predicted inhibitory activity while limiting extrapolation beyond the model applicability domain. HDAC8 Assistant also implements assessment of drug-likeness according to the Muegge criteria, as well as PAINS, toxicophore, and Brenk structural-alert detection. Molecular docking was performed for the most promising compounds generated by HDAC8 Assistant to analyse their interactions with the HDAC8 active site.",
+    "doi": "10.1080/1062936X.2026.2741359",
+    "company_slug": null,
+    "keywords_matched": [
+      "virtual screening",
+      "molecular docking",
+      "QSAR",
+      "drug-likeness"
+    ],
+    "extra": {
+      "pmid": "42885407",
+      "journal": "SAR and QSAR in environmental research"
+    },
+    "dedupe_key": "doi:10.1080/1062936x.2026.2741359"
+  },
+  {
+    "kind": "article",
+    "title": "Synthesis, in silico study and cytotoxic evaluation of new benzimidazole derivatives as potential aromatase inhibitors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42885347/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.215731+00:00",
+    "authors": [
+      "Ayşen Işık",
+      "Nour El-Huda Daoud",
+      "Kezban Uçar Çiftçi",
+      "Gulsah Congur",
+      "Ebru Nur Ay",
+      "Emine Rana Bagcı",
+      "Şennur Görgülü",
+      "Ulviye Acar Çevik",
+      "Yusuf Tutar",
+      "Yusuf Özkay",
+      "Zafer Asım Kaplancıklı"
+    ],
+    "summary": "A new series of benzimidazole derivatives (4a-4p) was designed, synthesized, and evaluated as potential aromatase inhibitors with anticancer activity. The anticancer effects of the compounds were evaluated using the MCF-7 cell line. Derivatives that showed activity were subjected to an aromatase inhibition assay. Molecular docking, molecular dynamics simulations, and in silico ADMET profiling were performed for the selected compounds. Among the series, para-substituted derivatives 4d (Cl), 4h (OC2H5), and 4k (F) exhibited potent antiproliferative activity with low‑micromolar IC50 values (2.40-2.64 µM), surpassing cisplatin, while maintaining favorable selectivity profiles. This experimental and computational study identifies 4d as a promising lead for further development as a non-steroidal aromatase inhibitor for breast cancer therapy.",
+    "doi": "10.1080/17568919.2026.2748643",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "ADMET",
+      "molecular dynamics",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42885347",
+      "journal": "Future medicinal chemistry"
+    },
+    "dedupe_key": "doi:10.1080/17568919.2026.2748643"
+  },
+  {
+    "kind": "article",
+    "title": "Gomisin A as a multi‑target therapeutic agent: Pharmacological mechanisms, pharmacokinetics and network pharmacology (Review).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42885297/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.216366+00:00",
+    "authors": [
+      "Jiaqi Xu",
+      "Sha Shi",
+      "Chengkai Zhu",
+      "Qi Sui",
+      "Shanhao Zhu",
+      "Jingnan Zhang",
+      "Yi Zhang",
+      "Peng Chen"
+    ],
+    "summary": "Gomisin A (GA; C23H28O7) is a principal bioactive dibenzocyclooctadiene lignan derived from Schisandra chinensis (Turcz.) Baill. (Wu Wei Zi), a herb traditionally used in Chinese medicine for its adaptogenic, hepatoprotective and detoxifying properties, particularly in treating fatigue, chronic cough and liver disorders. GA exhibits multi‑target potential against a spectrum of complex diseases. The present study aimed to assess the pharmacological profile, mechanisms, pharmacokinetics (PK) and computational docking of GA, emphasizing its potential as a multi‑target agent. A comprehensive literature search was performed in the PubMed and China National Knowledge Infrastructure database platforms. All mechanistic findings were appraised and stratified by supporting evidence strength, complemented by network pharmacology screening, molecular docking and molecular dynamics (MD) assessment of representative target complexes. GA exhibits polypharmacological properties, including hepatoprotective, anticancer, cardiovascular‑modulating, neuroprotective and anti‑inflammatory/antioxidant effects, with hepatoprotection representing the most robustly supported preclinical indication. GA modulates key signaling pathways such as the PI3K/AKT/mTOR, MAPK and ErbB receptor family pathways. Network pharmacology analysis identified STAT3, EGFR and mTOR as high‑priority candidate targets. Molecular docking predicted moderate‑to‑strong binding affinity across nine hub proteins, with that of EGFR reaching ‑7.7 kcal/mol. MD simulations further supported the conformational plausibility of the GA‑EGFR, GA‑GSK3β and GA‑STAT3 complexes. PK data identified limited oral bioavailability as a key translational bottleneck. GA holds promise as a multi‑target natural product. Advancing GA toward clinical translation requires addressing PK limitations through advanced delivery systems, alongside orthogonal validation of its predicted targets and preclinical and clinical evaluation.",
+    "doi": "10.3892/ijmm.2026.6011",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42885297",
+      "journal": "International journal of molecular medicine"
+    },
+    "dedupe_key": "doi:10.3892/ijmm.2026.6011"
+  },
+  {
+    "kind": "article",
+    "title": "A Retrospective Benchmark of Quantitative Antimicrobial Peptide Activity Prediction Tools.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42885293/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.216941+00:00",
+    "authors": [
+      "Jianda Yue",
+      "Zhaoyang Tang",
+      "Xie Li",
+      "Jiawei Xu",
+      "Hua Tan",
+      "Qizhang Yang",
+      "Zhonghua Liu",
+      "Ying Wang"
+    ],
+    "summary": "Antimicrobial peptides (AMPs) are critical candidates for addressing the global antibiotic resistance crisis. AI-driven quantitative models capable of directly predicting peptide antimicrobial activity, specifically minimum inhibitory concentration (MIC), are gaining scientific prominence by providing precise guidance for the rational design of AMPs. To assess their real-world, out-of-the-box performance, we conducted a retrospective benchmark of 10 publicly released quantitative AMP prediction tools spanning classical machine learning and contemporary deep learning approaches. Using an external dataset and reconstructed native datasets, we evaluated absolute MIC regression, retrospective reproducibility, directional prediction patterns, ranking capability, and virtual-screening enrichment. Most released tools exhibited poor absolute MIC regression and limited transferability to the external benchmark, while selected tools retained useful relative-ranking and enrichment capabilities. Retrospective evaluation further revealed marked differences in implementation-level reproducibility among the released tools. Error-stratified analyses identified systematic associations between prediction errors and peptide residue composition, together with a general compression of the predicted activity range. Collectively, these findings characterize the practical performance boundaries of currently accessible quantitative AMP prediction tools and support their use primarily as early-stage screening filters rather than precise substitutes for experimental MIC measurements.",
+    "doi": "10.1002/smtd.71137",
+    "company_slug": null,
+    "keywords_matched": [],
+    "extra": {
+      "pmid": "42885293",
+      "journal": "Small methods"
+    },
+    "dedupe_key": "doi:10.1002/smtd.71137"
+  },
+  {
+    "kind": "article",
+    "title": "Network Pharmacology and Bioinformatic Prediction of Five Medicinal-Food Homologous Plants Against the Progression from Chronic Atrophic Gastritis to Gastric Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42885262/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.217467+00:00",
+    "authors": [
+      "Menglin Chen",
+      "Houshu Tu",
+      "Chengming Yang",
+      "Cui Xu",
+      "Yaqian Huang",
+      "Ling He"
+    ],
+    "summary": "Chronic atrophic gastritis (CAG) progresses through distinct pathological stages to gastric cancer. This computational study employed network pharmacology and bioinformatics to predict the active compounds, targets, and pathways of five medicinal-food homologous plants (Houttuyniae Herba, Mume Fructus, Rhizoma Dioscoreae, Portulacae Herba, and Curcumae longae Rhizoma) against this progression. We identified 28 active compounds and 242 targets from TCMSP. differentially expressed genes from GSE130823 and GSE55696 were integrated with weighted gene co-expression network analysis, yielding 129 candidate targets. Machine learning (LASSO and random forest) prioritized AR, EIF6, GSTM2, and FOSB as potential diagnostic biomarkers distinguishing CAG from cancer. Enrichment analysis predicted involvement of IL-17, TNF, and p53 pathways. Compound-target-pathway network analysis identified quercetin and kaempferol as multi-target compounds. Molecular docking predicted binding affinities ranging from weak-to-moderate for core genes (-2.60 to -5.83 kcal/mol) and moderate-to-strong for inflammatory targets (up to -7.25 kcal/mol for quercetin-TNF). These findings computationally predict candidate mechanisms of these five plants, offering a rationale for future experimental validation and therapeutic development.",
+    "doi": "10.1177/15578100261495835",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42885262",
+      "journal": "Omics : a journal of integrative biology"
+    },
+    "dedupe_key": "doi:10.1177/15578100261495835"
+  },
+  {
+    "kind": "article",
+    "title": "Synthesis of Curcumin Analogs Targeting Androgen Receptor for the Selective Inhibition of Castration-Resistant Prostate Cancer Cells.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42885231/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.218084+00:00",
+    "authors": [
+      "Manman Huang",
+      "Ziyi Chen",
+      "Ruiqi Zhang",
+      "Shengping Liu",
+      "Defeng Xu",
+      "Bing Li",
+      "Hang Hu"
+    ],
+    "summary": "In the present study, a series of curcumin analogs (A1-P3) were designed and synthesized for the inhibition of prostate cancer cells by targeting androgen receptor (AR). All synthesized compounds were structurally characterized by 1H NMR, 13C NMR, and high-resolution mass spectrometry (HRMS). In vitro cytotoxicity assays demonstrated that multiple compounds exhibited comparable or improved cytotoxicity against AR-positive 22Rv1 cells as compared to dimethylcurcumin (DMC, ASC-J9). Among these compounds, compounds A2, A3, B1-B3, D1, F1, F3, G1, G3, H1, and P3 possessed higher selectivity toward prostate cancer cells as compared to DMC. Compounds O1-O3, A1-A3, B1-B3, F1, F3, G1, I1, and P3 exhibited lower cytotoxicity against AR-negative PC-3 cells than those against 22Rv1 cells. Based on the cytotoxicity results, the structure-activity relationships were analyzed. In the AR protein suppression assay, compounds O1-O3, A1-A3, and I1 exhibited similar inhibitory effects on both full-length AR (AR-FL) and AR splice variant 7 (AR-V7) as compared to DMC, while compound P3 exhibited significantly enhanced AR-FL suppression effect as compared to DMC. In comparison, compounds B2, B3, F1, and F3 exhibited reduced AR-FL and AR-V7 suppression effects as compared to DMC; B1 and G1 exhibited no significant suppression effect on AR-FL and AR-V7, suggesting that these compounds might inhibit prostate cancer cells by multiple mechanisms. Molecular docking simulations further confirmed that compounds O1-O3, A1-A3, I1, and P3 displayed high targeting ability to AR. The probable binding modes of these compounds to AR were also revealed. By modifying the molecular structure of curcumin, this study identified several compounds (A2, A3, P3) with high inhibitory activity and selectivity against castration-resistant prostate cancer cells by targeting AR-FL and AR-V7. These three compounds are promising new candidates for castration-resistant prostate cancer drug discovery.",
+    "doi": "10.1111/cbdd.70418",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery",
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42885231",
+      "journal": "Chemical biology & drug design"
+    },
+    "dedupe_key": "doi:10.1111/cbdd.70418"
+  },
+  {
+    "kind": "article",
+    "title": "Phytochemical Profiling, In Vitro α-Amylase Inhibitory and Antioxidant Activities of Madhuca longifolia Leaf and Bark Extracts with Molecular Docking Analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884923/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.218791+00:00",
+    "authors": [
+      "Parvej Ahmad",
+      "Mohd Waiz",
+      "Tabrez Faruqui",
+      "Supriya Srivastava",
+      "Khurshid Ahmad",
+      "Abbas Ali Mahdi",
+      "M Salman Khan"
+    ],
+    "summary": "Plant-derived phytochemicals are increasingly investigated for their antioxidant and enzyme-inhibitory activities as potential sources of bioactive compounds. The present study evaluated the phytochemical composition, antioxidant activity, and in vitro α-amylase inhibitory activity of Madhuca longifolia leaf and bark extracts, followed by GC-MS profiling and exploratory computational analyses of the methanolic leaf fraction. Moreover, we elucidated the ADME properties of GC-MS-putatively identified compounds and their computational molecular interactions with α-amylase. The leaves and barks were sequentially extracted using n-hexane, DCM, EtOAc, MeOH, and water. The qualitative phytochemical analysis and antioxidant activity were determined via DPPH, ABTS, and FRAP assays. Furthermore, the MeOH fraction of M. longifolia leaves was subjected to GC-MS analysis to identify the secondary metabolites. The putatively identified compounds were further subjected to ADME analysis and computational molecular interaction studies with α-amylase. Phytochemical screening indicated the presence of several tested phytochemical classes in the MeOH and aqueous fractions of the leaf and bark extracts. The MeOH and aqueous fractions of the leaf extract showed IC50 values of 8.67 and 10.51 µg/mL, respectively, against DPPH, whereas the corresponding bark fractions showed IC50 values of 8.21 and 8.15 µg/mL, respectively. A similar trend was observed in the ABTS assay, where the MeOH and aqueous fractions of the leaf extract exhibited IC50 values of 4.32 and 4.68 µg/mL, respectively, while the corresponding bark fractions showed IC50 values of 4.44 and 5.40 µg/mL, respectively. The maximum α-amylase inhibitory potential was observed in the MeOH fraction of the leaf extract, and global nonlinear enzyme kinetic analysis showed a pattern consistent with competitive inhibition. The in silico molecular docking analysis predicted that 6-methylheptanoic acid from the MeOH fraction of the leaf extract may interact with the catalytic site of human α-amylase, with a Glide score of -6.132. In conclusion, the findings provide preliminary evidence of antioxidant and in vitro α-amylase inhibitory activities of the MeOH fraction of M. longifolia leaf extract and support its consideration as a preliminary lead for further investigation. Further studies involving quantitative chemical characterization, isolation and validation of individual constituents, cellular and pharmacodynamic evaluation, experimental toxicity assessment, and in vivo efficacy studies are required to establish their relevance to glucose metabolism and diabetes-related outcomes.",
+    "doi": "10.3390/plants15193059",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42884923",
+      "journal": "Plants (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/plants15193059"
+  },
+  {
+    "kind": "article",
+    "title": "Antioxidant Activity and Anti-Inflammatory Potential of Rhododendron dauricum Flowers via UPLC-Q-TOF-MS/MS Combined with Network Pharmacology and In Vitro Validation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884916/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.219368+00:00",
+    "authors": [
+      "Yanan Liu",
+      "Xinyao Zhou",
+      "Yuanqi Duan",
+      "Qilin Shi",
+      "Yajie Liu",
+      "Zhengyu Hu",
+      "Man Li",
+      "Jinfeng Sun",
+      "Mei Jin",
+      "Tieqiang Zong",
+      "Wei Zhou",
+      "Gao Li"
+    ],
+    "summary": "Rhododendron dauricum L. flowers are highly valued as ornamental plants in northern Chinese horticulture, yet while its leaves are well-known for their antitussive and anti-asthmatic effects, the flowers themselves remain an underutilized resource. Oxidative stress and chronic inflammation are intimately intertwined pathological processes that mutually reinforce each other in a self-perpetuating cycle, and current clinical treatments for diseases related to oxidative stress and inflammation have become a significant focus of research. This study investigated the chemical composition and bioactivities of R. dauricum flower extract using UPLC-Q-TOF-MS/MS, network pharmacology, molecular docking, and in vitro assays. A total of 57 compounds were tentatively annotated in EFRD, with Morin, Quercetin 3-O-α-L-arabinopyranoside and Procyanidin B2 as candidate compounds prioritized through network analysis. Network prediction revealed key targets (STAT3, JUN, ESR1, CXCL8, PTGS2) and pathways (MAPK, AGE-RAGE, PPAR). In vitro, assays demonstrated that EFRD exhibited dose-dependent scavenging of DPPH, ABTS, and superoxide radicals, as well as a dose-dependent suppression of LPS-induced NO, TNF-α, and IL-6 release in RAW 264.7 macrophages, with IC50 values of 16.52, 29.91 and 72.09 μg/mL, respectively, indicating the most potent inhibition of NO. These findings demonstrate that R. dauricum flowers possess dual antioxidant and anti-inflammatory activities, providing a scientific basis for expanding their medicinal use.",
+    "doi": "10.3390/plants15193052",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42884916",
+      "journal": "Plants (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/plants15193052"
+  },
+  {
+    "kind": "article",
+    "title": "Long-Term Fertilisation Regimes, Crop Yield and Rhizosphere Microecology in a Wheat-Soybean Rotation System.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884898/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.219937+00:00",
+    "authors": [
+      "Jingyang Li",
+      "Qiuju Wang",
+      "Xinyu Li",
+      "Zhuo Zhang",
+      "Yanxia Liu",
+      "Qingying Meng",
+      "Jiahe Zou",
+      "Xin Liu",
+      "Yifei Luo",
+      "Zhenhua Guo"
+    ],
+    "summary": "Long-term fertilisation must sustain crop yield and rhizosphere microbial functions in wheat-soybean rotations, but interannual responses remain unclear. We examined 12 treatments in a long-term field experiment established in 1979 and continuing through 2025 in Heilongjiang, China; three within-plot soil composites per treatment represented the 2025 microbiome snapshot. Long-term wheat and soybean grain and straw yield, rhizosphere and non-rhizosphere metagenomes, bacterial diversity, functional gene profiles, taxonomic composition, yield-microbe correlations, and structural equation modelling were assessed. The displayed wheat grain yields differed among treatments, with the median approaching 2500 kg ha-1 under manure plus medium-rate mineral fertiliser. Soybean grain yield exceeded 2000 kg ha-1 under manure plus low- or medium-rate mineral fertiliser and was higher than under high-rate mineral fertiliser alone. Separate exploratory treatment-only PERMANOVAs returned R2 values of 0.7578 and 0.8227 for rhizosphere and non-rhizosphere functional profiles, respectively; the profiles were within-plot subsamples. Mesorhizobium, Lysobacter, Gemmatirosa, and Pseudolabrys were positively correlated with crop yield. Structural equation modelling linked available phosphorus to wheat yield and rhizosphere diversity and linked available potassium to soybean yield. These descriptive findings suggest crop-specific fertilisation patterns and possible associations of yield with soil nutrients and rhizosphere microbiota, indicating that productivity and microbial responses should inform long-term nutrient management.",
+    "doi": "10.3390/plants15193034",
+    "company_slug": null,
+    "keywords_matched": [],
+    "extra": {
+      "pmid": "42884898",
+      "journal": "Plants (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/plants15193034"
+  },
+  {
+    "kind": "article",
+    "title": "Neuroprotective Potential of the Edible Seaweed Pterocladiella capillacea: Bioactivity Coupled LC-MS/MS, Metabolomics Annotation, Validation, and Network Pharmacology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884661/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.220483+00:00",
+    "authors": [
+      "Meicai Yue",
+      "Longjian Zhou",
+      "Wanrong He",
+      "Bin Li",
+      "Zhiyou Yang",
+      "Yayue Liu",
+      "Lingyun Chen",
+      "Caiyi Chen",
+      "Yi Zhang"
+    ],
+    "summary": "Background: Alzheimer's disease (AD) is a complex neurodegenerative disorder with a global impact, highlighting an urgent need for effective dietary therapeutic agents for the development of brain-healthy functional foods and medicines. This study focuses on the edible red alga Pterocladiella capillacea from Zhanjiang, China, investigating its anti-neuronal injury activity, active principles, and underlying mechanisms. Methods: Based on antioxidant and neuroprotection evaluations and column fractioning, bioactivity-coupled liquid chromatography-tandem mass spectrometry (Bio-LC-MS/MS) was employed to recognize the neuroprotective compounds, which were further annotated by comprehensive metabolomics analysis. The annotated compounds were validated by LC-MS/MS and bioassay. Computational prediction techniques were further used to reveal their mechanism of action. Results: The study demonstrated that P. capillacea extract and fractions exhibited significant antioxidant and anti-neuronal injury activities. Among the annotated and MS-validated potential compounds, erucamide standard exhibited the strongest neuroprotective effect, maintaining cell viability above 85% at low concentrations. Network pharmacology and molecular docking revealed that erucamide may exert neuroprotective effects by modulating the AKT1 and BCL2 targets. ADMET prediction suggested a low risk of central side effects. Conclusions: The neuroprotective potential of P. capillacea provides a primary foundation for new brain-healthy functional foods and drug development in future.",
+    "doi": "10.3390/nu18193210",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "ADMET",
+      "ADMET prediction",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42884661",
+      "journal": "Nutrients"
+    },
+    "dedupe_key": "doi:10.3390/nu18193210"
+  },
+  {
+    "kind": "article",
+    "title": "CD180-Associated B-Cell Alterations in Type 1 Diabetes and the In Vitro Effects of Chlorogenic Acid: An Integrated Transcriptomic and Experimental Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884178/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.221143+00:00",
+    "authors": [
+      "Zihang Wang",
+      "Arzu Mijit",
+      "Rong Han",
+      "Mengjia Li",
+      "Yang Wu",
+      "Lufeng Cheng"
+    ],
+    "summary": "Type 1 diabetes mellitus (T1DM) is an autoimmune disease involving progressive loss of pancreatic β-cells. Although B cells have been implicated in T1DM progression, the molecular characteristics associated with disease-related B-cell states remain unclear. Here, we investigated B-cell-associated molecular alterations in T1DM and explored the potential immunomodulatory effects of a natural compound. Public T1DM transcriptomic datasets were analyzed using differential expression analysis, WGCNA, and machine-learning approaches. Single-cell RNA sequencing was used to characterize Cd180 expression across B-cell states. Molecular docking and molecular dynamics simulations were used to explore potential interactions between CD180 and candidate compounds, and an exploratory DARTS assay was performed to assess CGA-associated changes in CD180 proteolytic susceptibility. CD180 expression was examined in pancreatic tissues from vehicle- and MSA-2-treated NOD mice. The effects of chlorogenic acid (CGA) were evaluated in vitro by exposing B cells to CGA during inflammatory stimulation, followed by washing and co-culture with MIN6 cells in CGA-free medium. Integrated transcriptomic analysis identified four T1DM-associated genes (CD180, KCNJ2, STEAP4, and ZXDA), among which CD180 showed the strongest association with B-cell-related immune alterations. Single-cell analysis showed increased Cd180 expression in inflammatory B-cell states together with enrichment of antigen-presentation-related programs. An exploratory DARTS experiment with matched loading-control data suggested altered CD180 proteolytic susceptibility following CGA exposure, although independent reproducibility remains to be established. In vitro, CGA exposure during inflammatory stimulation was associated with reduced CD180 expression in B cells and improved MIN6 cell viability and insulin-secretory responses during subsequent co-culture in CGA-free medium. CD180 is associated with inflammatory B-cell alterations in T1DM and may represent a candidate molecular feature of B-cell dysregulation. CGA treatment was associated with changes in CD180 expression in activated B cells and improved β-cell functional outcomes in vitro. These findings support further investigation of the relationship between CGA and CD180; however, whether the effects of CGA are specifically mediated through CD180 requires further experimental validation.",
+    "doi": "10.3390/ijms27198933",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics"
+    ],
+    "extra": {
+      "pmid": "42884178",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198933"
+  },
+  {
+    "kind": "article",
+    "title": "Integrated Transcriptomic and Network Analysis Identifies Candidate Kinase-Mediated Thyroid-Associated Targets of Withaferin A.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884168/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.221812+00:00",
+    "authors": [
+      "Ejlal Mohamed Abdullah",
+      "Alaa Alnoor Alameen",
+      "Nouf Omar AlAfaleq",
+      "Mona Shujaa Alharbi"
+    ],
+    "summary": "Withaferin A (WA), a bioactive steroidal lactone derived from Withania somnifera, has been reported to exhibit diverse pharmacological activities, including anti-inflammatory and metabolic regulatory effects. Although previous studies suggest a potential link between WA and thyroid-related molecular pathways, the molecular mechanisms underlying these effects remain incompletely understood. Here, we employed a comprehensive computational approach to explore WA-responsive molecular changes potentially relevant to thyroid-associated processes. RNA-sequencing data from WA-treated MCF-10A human mammary epithelial cells (GSE158085) were analysed to identify differentially expressed genes (DEGs). Because thyroid-specific WA transcriptomic datasets are not currently available, the DEGs were intersected with curated hypothyroidism-associated genes to generate a cross-tissue, exploratory set of candidate genes. The genes that overlapped were used to construct protein-protein interaction networks, prioritize high-centrality candidate genes, and conduct enrichment analyses for transcription factors and kinases. Further analysis of selected upstream kinases was performed using molecular docking and molecular dynamics simulations with WA. A total of 1458 differentially expressed genes (DEGs) were identified, 10 of which overlapped with hypothyroidism-associated genes. Network analysis identified candidate interactions among the overlapping genes, while higher-confidence analysis retained four connected genes (PTPN22, STAT4, DUOX2, and DUOXA2). Transcription factor enrichment identified ERG, SUZ12, NANOG, TCF3, RUNX1, and TP63 as potential upstream regulators, while kinase enrichment identified candidate upstream kinases associated with the predicted regulatory network. Based on enrichment evidence, structural availability, and literature-supported biological relevance, MAPK14 (p38α), AKT1, and MAPK8 (JNK1) were selected for molecular docking and molecular dynamics simulations. Structural analyses suggested potential interactions between WA and the selected kinases, with target-specific dynamic behaviour across the simulated systems. Collectively, the findings highlight WA-responsive genes and predicted gene-TF-kinase relationships that may be relevant to thyroid-associated molecular processes. However, these associations are hypothesis-generating and provide a basis for further investigation in thyroid-derived experimental models.",
+    "doi": "10.3390/ijms27198926",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics"
+    ],
+    "extra": {
+      "pmid": "42884168",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198926"
+  },
+  {
+    "kind": "article",
+    "title": "Protein Language Models Identify Early Folding Residues as Critical Hotspots for Pathogenic Variants and Cancer Prognosis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884156/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.222359+00:00",
+    "authors": [
+      "Lisha Guo",
+      "Fuchong Yuan",
+      "Na Zhou",
+      "Minghui Zhao",
+      "Ruotong Liu",
+      "Ming Jing",
+      "K Anton Feenstra",
+      "Qingzhen Hou"
+    ],
+    "summary": "Identifying the specific residues that initiate protein folding is critical for understanding protein stability and the mechanisms of misfolding-related diseases. However, the systematic, proteome-wide identification of these early folding residues (EFRs) has been hampered by both experimental and computational limitations. Here, we present LMEFold, a deep learning framework using protein language models (PLMs) to accurately predict EFRs from amino acid sequence alone. LMEFold outperforms existing sequence-based predictors on the Start2Fold benchmark (ROC AUC = 0.831), and its predicted scores show consistent associations with independent HDX-NMR protection-factor measurements, providing complementary biophysical evidence. Applying LMEFold to annotate over 6.6 million variants across diverse genomic datasets, we find that pathogenic mutations curated in ClinVar are significantly enriched within EFRs (~17%) compared to millions of population variants from large-scale cohorts including the UKB and gnomAD databases (~10%, P < 0.001). Critically, in the MSK-MET pan-cancer clinical cohort, EFR mutations are associated with severe functional disruption and significantly reduced overall patient survival. Structural analysis of hotspot cancer mutations, such as TP53 p.Y163C, suggests a mechanism whereby these variants destabilize protein structure by disrupting the early folding core. Our work establishes EFRs as critical sites of pathogenic vulnerability and provides a powerful framework for the rapid identification of folding-centric prognostic markers using sequence only.",
+    "doi": "10.3390/ijms27198914",
+    "company_slug": null,
+    "keywords_matched": [
+      "protein language model"
+    ],
+    "extra": {
+      "pmid": "42884156",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198914"
+  },
+  {
+    "kind": "article",
+    "title": "Sartans and Bisartans: Expanding Therapeutic Horizons Through Broad Receptor Interactions and Repurposing Potential.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884125/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.222909+00:00",
+    "authors": [
+      "Errikos Petsas",
+      "Vasso Apostolopoulos",
+      "Despoina P Kiouri",
+      "Konstantinos Kelaidonis",
+      "Harry Ridgway",
+      "Graham J Moore",
+      "Thomas Mavromoustakos",
+      "Laura Kate Gadanec",
+      "John M Matsoukas",
+      "Christos T Chasapis"
+    ],
+    "summary": "Angiotensin receptor blockers (ARBs), also known as sartans, are a family of highly selective angiotensin II type 1 receptor antagonists commonly prescribed to individuals with hypertension, heart failure, and chronic kidney disease. Additionally, the discovery and facile synthesis of bisartans, a novel class of ARB antihypertensives, have shown therapeutic promise for cardiovascular diseases. Recent computational and network pharmacology studies have shown a broader receptor interactome, encompassing alpha-adrenergic receptors, and delta- and mu-opioid receptors, highlighting the polypharmacology of ARBs. Herein, we combine molecular docking, molecular dynamics, and protein-protein interaction analyses to characterize the binding profiles of sartans and bisartans, as well as conformational impacts across multiple G-protein-coupled receptors. Emphasis is placed on their potential to modulate receptor desensitization states and influence pathways involved in neuropsychiatric disorders, addiction, viral infections, and cardiovascular diseases. Limitations of current computational approaches are discussed alongside the need for experimental proteomic validation. Collectively, this evidence positions sartans and bisartans as structurally privileged scaffolds for multi-target drug repurposing and precision medicine applications.",
+    "doi": "10.3390/ijms27198883",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics",
+      "drug repurposing",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42884125",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198883"
+  },
+  {
+    "kind": "article",
+    "title": "Cynaroside Attenuates Ethinylestradiol-Induced Cholestatic Liver Injury by Modulating the FXR/BSEP/CYP7A1/SHP Axis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884083/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.223546+00:00",
+    "authors": [
+      "Amany M Hamed",
+      "Doha M Al-Nouri",
+      "Nadia S Mahrous",
+      "Asmaa Sabry Bassit",
+      "Azza M A Abouelella",
+      "Asmaa Hassan",
+      "Gehad S Mokhtar",
+      "Ghada M Ahmad",
+      "Ahmed S Osman",
+      "Ahmed R H Ahmed",
+      "Aya A E Mahgoob",
+      "Shymaa A Thabet",
+      "Hany M R Abdel-Latif",
+      "Ghalia Shamlan",
+      "Haifeng Zhao",
+      "Ammar Al-Farga",
+      "Safaa S Soliman"
+    ],
+    "summary": "Cholestatic liver diseases are characterized by disrupted bile acid homeostasis, oxidative stress, and inflammation, ultimately leading to progressive hepatic injury. Although ursodeoxycholic acid (UDCA) remains the standard pharmacological therapy, its therapeutic efficacy is limited in several cholestatic conditions. This study investigated the hepatoprotective effects of cynaroside (CYN), a naturally occurring flavonoid glycoside, against ethinylestradiol (EE)-induced cholestatic liver injury and explored its underlying molecular mechanisms. Female Wistar rats were randomly allocated into four groups (n = 7): control, EE, EE + CYN, and EE + UDCA. Liver function indices, bile acids, cholesterol, oxidative stress and inflammatory biomarkers, histopathology, immunohistochemistry, Western blotting, qRT-PCR, and molecular docking analyses were performed. EE administration induced pronounced cholestatic liver injury, as evidenced by impaired liver function, hepatic accumulation of bile acids and cholesterol, oxidative imbalance, inflammatory responses, and marked histopathological alterations. CYN significantly ameliorated these biochemical and histological abnormalities, reduced hepatic bile acid and cholesterol accumulation, restored redox homeostasis, and attenuated inflammatory responses. Mechanistically, CYN modulated the hepatic FXR/BSEP/CYP7A1/SHP regulatory network, modulated hepatic FXR and Nrf2 protein expression, suppressed NF-κB activation, and favorably regulated TNF-α, IL-1β, and BCL2 expression. Histopathological and immunohistochemical findings further confirmed substantial preservation of hepatic architecture following CYN treatment. Molecular docking revealed favorable interaction of CYN with the FXR ligand-binding domain, with a predicted binding free energy of -8.18 kcal/mol, comparable to that of UDCA (-7.95 kcal/mol). Cynaroside attenuated EE-induced cholestatic liver injury by improving bile acid homeostasis and mitigating oxidative and inflammatory responses, potentially by modulating FXR-associated signaling and its downstream regulatory network. Collectively, the results provide a rationale for continued investigation of cynaroside in the context of cholestatic liver injury.",
+    "doi": "10.3390/ijms27198839",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42884083",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198839"
+  },
+  {
+    "kind": "article",
+    "title": "Conformational Sampling of CPT1A Enables Dynamic Structure-Based Ligand Screening.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884082/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.224155+00:00",
+    "authors": [
+      "Sijia Zhang",
+      "Yingbo Zhang",
+      "Jiasheng Zhao",
+      "Jiangang Long",
+      "Lei Zhang",
+      "Zhiwei Yang"
+    ],
+    "summary": "Carnitine palmitoyltransferase 1A (CPT1A) catalyzes a rate-limiting step in fatty acid β-oxidation and is a target for studies of metabolic disease and cancer. However, the structural dynamics of CPT1A remain poorly understood due to the lack of full-length structure. In this study, we employed an integrated computational approach combining molecular dynamics (MD) simulations, Markov state models (MSMs), and binding free energy calculations to elucidate the conformational landscape of human CPT1A. We performed an all-atom MD simulation of CPT1A embedded in a realistic outer mitochondrial membrane, and root-mean-square fluctuation (RMSF)-guided local region analysis coupled with MSM transition-path analysis and GROMOS clustering convergently identified a representative conformation. The pathway probabilities reported here describe dominant local transitions within specific mobile segments rather than the global equilibrium population of the full-length protein. Using this representative conformation, we performed a virtual screening of over 1.23 million compounds from the ChemDiv library, followed by Lipinski filtering, yielding five candidates with docking scores below -10 kcal/mol. Subsequent MD simulations and binding free energy calculations confirmed stable binding, with Compound 2 exhibiting the most favorable free energy of -25.99 kcal/mol. Principal component analysis (PCA) and secondary-structure analyses revealed ligand-specific modulation of CPT1A dynamics. A preliminary in vitro CPT1 activity assay revealed candidate-specific responses, and the free-energy and activity data were partially consistent. These results provide a dynamically informed structural basis for CPT1A ligand recognition, identify candidates with distinct energetic and functional profiles, and establish an integrated strategy for ligand discovery in structurally uncharacterized proteins.",
+    "doi": "10.3390/ijms27198840",
+    "company_slug": null,
+    "keywords_matched": [
+      "virtual screening",
+      "molecular dynamics"
+    ],
+    "extra": {
+      "pmid": "42884082",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198840"
+  },
+  {
+    "kind": "article",
+    "title": "Artificial Intelligence in Chronic Rhinosinusitis: From Molecular Profiling to Personalized Clinical Management-A Systematic Review.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884055/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.224697+00:00",
+    "authors": [
+      "Chi-Sheng Huang",
+      "Duen-Lii Hsieh",
+      "Jin-Yu Lin",
+      "Maysayawan Sreesawat",
+      "Te-Huei Yeh",
+      "Chih-Feng Lin"
+    ],
+    "summary": "Chronic rhinosinusitis (CRS) is a heterogeneous inflammatory disease imposing a substantial health and economic burden. Artificial intelligence (AI) has emerged as a promising tool to address CRS complexity in both clinical and research settings. We conducted a systematic review following PRISMA guidelines, searching PubMed, Web of Science, and Embase for peer-reviewed articles utilizing machine learning, deep learning, and natural language processing, with a focus on molecular-level or immunologic mechanisms in CRS. Thirty-one studies were included in the qualitative synthesis. Our results demonstrate that while AI-driven analysis helps stratify patient endotypes, the identified schemes exhibit substantial heterogeneity in cluster numbers and features, raising concerns about their reproducibility. AI applications also included histopathological image interpretation, drug discovery, biologic therapy selection, and prognostic modeling to evaluate revision surgery risks and olfactory dysfunction. However, using the PROBAST+AI framework, we found that 87.1% of the assessed studies carry a high overall risk of bias, mainly due to the reliance on apparent performance or internal validation and limited independent evaluation of model performance, indicating that many reported performance estimates may be optimistic. Future large-scale, multicenter collaborations integrating AI into clinical workflows will be essential to establish reliable and generalizable AI applications for personalized CRS management.",
+    "doi": "10.3390/ijms27198812",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "pmid": "42884055",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198812"
+  },
+  {
+    "kind": "article",
+    "title": "Ligustrum × vicaryi Fruit Polysaccharide Attenuates LPS/D-GalN-Induced Acute Liver Injury in Mice.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884047/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.225239+00:00",
+    "authors": [
+      "Shu-Ling Liu",
+      "Hui Zhang",
+      "Jian-An Wang",
+      "Run-Dong Lv",
+      "Shao-Jian Li",
+      "Li-Tao Wang"
+    ],
+    "summary": "The dried fruits of Ligustrum lucidum Ait. are well-established in East Asian medicine for hepatoprotection. Given this ethnopharmacological precedent and their close taxonomic kinship, we hypothesized that the fruit polysaccharide of its horticultural congener, Ligustrum × vicaryi L. (LVFP), may confer analogous hepatic benefits. We assessed LVFP in a murine model of acute liver injury (ALI) induced by lipopolysaccharide and D-galactosamine (LPS/D-GalN) to test this hypothesis. LVFP pretreatment significantly mitigated hepatic pathological damage, normalized serum aminotransferases (AST, ALT), and reversed lipid peroxidation (reduced MDA, elevated SOD). Simultaneously, LVFP reduced pro-inflammatory cytokines, including interleukin-6 (IL-6) and tumor necrosis factor-alpha (TNF-α), and corrected lipid metabolic abnormalities (CHO, TG). To decode these phenotypic rescues, network pharmacology and molecular docking nominated a 10-gene hub signature (featuring KDR (binding energy = -8.65 kcal/mol), AKT1, GSK3B, and IL2). we further found that this signature-particularly KDR and PKM-robustly discriminates ALI from controls (AUC = 1.00; AUPR = 0.848), supporting its disease relevance. Collectively, these findings support our initial hypothesis that LVFP exerts multi-dimensional hepatoprotection.",
+    "doi": "10.3390/ijms27198805",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42884047",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198805"
+  },
+  {
+    "kind": "article",
+    "title": "Anxiolytic Potential of Selected Essential Oils and Their Impact on Motor Function.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884030/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.225790+00:00",
+    "authors": [
+      "Alberto Souza Sá Filho",
+      "John Ihayi Ogbu",
+      "Ayobami J Olusola",
+      "Saheed Olanrewaju Afolabi",
+      "Gustavo Rodrigues Pedrino",
+      "Marcos Luiz Ferreira-Neto",
+      "Vicente Aprigliano",
+      "Renê Oliveira do Couto",
+      "Lucas Barbosa Ribeiro de Carvalho",
+      "Leonardo Luiz Borges",
+      "Mirely Vitória Farias da Silva",
+      "Edeildo Ferreira da Silva-Júnior",
+      "Antônio Sérgio Nakao de Aguiar",
+      "James Oluwagbamigbe Fajemiroye"
+    ],
+    "summary": "Plant essential oils (EOs) exhibit promising anxiolytic activity, but their application may be constrained by adverse motor effects arising from interactions with neural circuits controlling movement. Here, we investigated the anxiolytic-like effects and motor impairment liability of EOs from Pimenta pseudocaryophyllus, Melissa officinalis, Matricaria chamomilla, Lippia alba, Salvia rosmarinus, Ocimum basilicum, Spiranthera odoratissima, and Cymbopogon citratus, integrating computational target prediction with behavioral pharmacology. Prioritized EO constituents were subjected to target prediction, molecular docking, and 100-ns molecular dynamics simulations to identify molecular mechanisms potentially associated with motor impairment. Male and female Swiss mice received oral vehicle 10 mL/kg, EOs (10, 100, or 500 mg/kg) or diazepam (DZP 1 or 5 mg/kg), followed by the evaluation of anxiolytic-like behavior and motor coordination in the elevated plus maze and rotarod test, respectively. In silico analyses involving docking and molecular dynamics simulations of computationally prioritized EO constituents identified candidate targets within M1 and M2 receptors. All EOs exhibited anxiolytic-like activity at the intermediate dose. Motor impairment varied markedly among EOs. Integrating computational target prediction with behavioral assessment identified distinct motor liability profiles among EOs.",
+    "doi": "10.3390/ijms27198786",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42884030",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198786"
+  },
+  {
+    "kind": "article",
+    "title": "Construction of Adverse Outcome Pathway (AOP) for Triphenyl Phosphate (TPHP)-Induced Autism Spectrum Disorder (ASD) and Risk Identification of Neurodevelopmental Toxicity of Aryl Organophosphorus Flame Retardants (OPFRs) Based on Multidimensional Bioinformatic Data.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884012/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.226318+00:00",
+    "authors": [
+      "Yonghang Li",
+      "Kaidong Wang",
+      "Ai Qi",
+      "Qi Liu",
+      "Ge Shi",
+      "Min Huang"
+    ],
+    "summary": "Triphenyl phosphate (TPHP) is a widely used plasticizer and organophosphate flame retardant extensively applied in various industrial and consumer products. Due to its pervasive environmental exposure and detection in human samples such as amniotic fluid and breast milk, TPHP has become a pollutant of significant concern in recent years for its potential neurodevelopmental impacts on humans. This study employed a multimethod approach integrating network toxicology, transcriptomics, in silico gene knockout, molecular docking, and molecular dynamic simulations to investigate TPHP's potential toxic role in autism spectrum disorder (ASD). An adverse outcome pathway (AOP) was constructed, revealing that TPHP exposure may induce and exacerbate ASD by downregulating GAD1-the core gene encoding the GABA synthesis rate-limiting enzyme (glutamate decarboxylase)-leading to an excitation-inhibition imbalance in the brain. The batch molecular docking of 85 organophosphate flame retardants (OPFRs) (widely detected in human and biological matrices) with the GAD1 protein identified aryl-OPFRs as disruptors targeting GAD1 to induce neurodevelopmental toxicity. In summary, this research provides mechanistic insights into how TPHP promotes ASD progression and offers a valuable chemical reference for assessing the neurodevelopmental toxicity of OPFRs.",
+    "doi": "10.3390/ijms27198769",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42884012",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198769"
+  },
+  {
+    "kind": "article",
+    "title": "Curcumin-Based Tyrosinase-Targeting Derivatives for Cell Imaging and Depigmenting Effect.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42884001/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.884912+00:00",
+    "authors": [
+      "Maura Monforte",
+      "Marilena Pontoriero",
+      "Paola Maria Bonaccorsi",
+      "Antonella Calderaro",
+      "Leonardo Centorrino",
+      "Valeria D'Angelo",
+      "Laura De Luca",
+      "Maria Paola Germanò",
+      "Rosaria Gitto",
+      "Salvatore Mirabile",
+      "Giuseppe Tancredi Patanè",
+      "Stefano Putaggio",
+      "Domenica Scumaci",
+      "Chiara Maria Antonietta Gangemi"
+    ],
+    "summary": "Targeting melanogenesis through tyrosinase inhibition represents a key therapeutic strategy, highlighting the need for novel molecules capable of modulating melanin synthesis and/or serving as fluorescent probes for cellular and melanoma tracking. In this study, two curcumin (CUR) derivatives, CUR-C3-PP 1 and CUR-CO-PP 2, were designed and successfully synthesized by strategic integration of a 4-(piperazin-1-yl)phenol pharmacophore into CUR skeleton. In vitro enzymatic assays against Agaricus bisporus tyrosinase (AbTYR) revealed that derivatives CUR-C3-PP 1 and CUR-CO-PP 2 amplified the diphenolase inhibitory capacity (IC50 values of 51.20 μM and 12.89 μM, respectively) when compared to parent curcumin (IC50 = 168.57 μM). Notably, CUR-CO-PP 2 emerged as the most potent candidate, significantly eclipsing native CUR and outperforming the standard inhibitor kojic acid (KA). Enzyme kinetics and molecular docking simulations rationalized this enhanced profile, and the mechanism of inhibitory effects for compounds CUR-C3-PP 1 and CUR-CO-PP 2. Cellular assays highlighted that CUR-C3-PP 1 retained functional intrinsic luminescence, displaying selective accumulation and intense fluorescence within the cytoplasm of B16-F10 melanoma cells alongside preferential cytotoxicity. Screening in zebrafish (Danio rerio) embryos confirmed that both derivatives maintain an excellent biocompatibility profile up to 20 μM. In vivo, both compounds elicited robust, dose-dependent depigmentation, with CUR-CO-PP 2 closely approaching the efficacy of the control 1-phenyl-2-thiourea (PTU). Collectively, our findings demonstrate that the imaging and anti-melanogenic properties of curcuminoids can be independently optimized through rational linker modification, establishing CUR-C3-PP 1 as a promising fluorescent tracer for imaging and CUR-CO-PP 2 as a candidate for depigmenting therapies.",
+    "doi": "10.3390/ijms27198759",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42884001",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198759"
+  },
+  {
+    "kind": "article",
+    "title": "Microwave-Assisted Synthesis, Cytotoxic Profile, and Cellular Mechanism Analysis of Carveoylphenol Derivatives.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883993/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.885473+00:00",
+    "authors": [
+      "Evelyn Muñoz",
+      "Constanza Reyes",
+      "Joan Villena",
+      "Rut Vergara",
+      "Guillermo Bravo",
+      "Alejandro Madrid"
+    ],
+    "summary": "A series of carveoylphenol derivatives (1-12) was synthesized using a microwave-assisted approach and evaluated through an integrated in vitro and in silico strategy. Cytotoxicity was assessed against PC-3, MCF-7, and HT-29 human cancer lines, using non-tumorigenic CoN CCD841 cells as a reference. Derivatives 1, 2, 5, 6, 7, 8, and 11 exhibited activity (IC50 < 100 µM) against at least one cancer line, with 2 showing the highest potency (IC50 = 23.2 µM). Flow cytometry of compounds 1, 2, and 5 revealed structure-dependent cellular responses, where 2 at 40 µM induced maximum intracellular ROS generation (39.6%), 1 reduced mitochondrial membrane integrity to 42.1% intact cells, and 5 produced peak caspase activation (34.5%). Molecular docking against caspase-3 yielded predicted binding energies for all three molecules, with 5 scoring -6.4 kcal/mol. SwissADME analysis indicated comparable physicochemical profiles, high predicted gastrointestinal absorption, and potential blood-brain barrier permeability for these three derivatives. Overall, carveoylphenols, particularly compound 2, represent promising scaffolds for further structural optimization and mechanistic investigation.",
+    "doi": "10.3390/ijms27198749",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42883993",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198749"
+  },
+  {
+    "kind": "article",
+    "title": "From Dual Targeting to Clinical Validation: A Translational Framework for Bispecific Antibody-Drug Conjugates.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883992/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.886072+00:00",
+    "authors": [
+      "Jun Kim",
+      "Seounghun Kang"
+    ],
+    "summary": "Bispecific antibody-drug conjugates (bsADCs) are being developed to address limitations of conventional ADCs, including heterogeneous antigen expression, insufficient tumor-normal discrimination, and suboptimal intracellular trafficking. This review evaluates bsADCs from a preclinical-to-clinical translational perspective and defines the evidence needed to justify the added complexity of bispecific design. A structured search of PubMed/MEDLINE, Embase, Web of Science, Scopus, clinical-trial registries, and major oncology conference proceedings was conducted through 29 July 2026. Dual-antigen bsADCs were classified as coverage-oriented, co-expression-dependent, trafficking-assisted, or multifunctional, while biparatopic ADCs were considered mechanistically related comparators. Dual recognition can broaden tumor coverage, enhance avidity-dependent selectivity, improve intracellular trafficking, or add biological functions. These effects depend on target-pair biology, molecular format, valency, epitope geometry, arm affinity, linker-payload properties, drug-to-antibody ratio, pharmacokinetics, normal-tissue exposure, manufacturability, and biomarker feasibility. Clinically, izalontamab brengitecan supports the feasibility of selected architectures, whereas MEDI4276 and TQB2102 illustrate how complete molecular design shapes therapeutic index. We propose an integrated translational framework and functional design parsimony, defined as selecting the least complex ADC architecture capable of achieving the intended biological and translational objective. Bispecificity should be used only when it provides a demonstrable advantage over a simpler ADC design.",
+    "doi": "10.3390/ijms27198748",
+    "company_slug": null,
+    "keywords_matched": [],
+    "extra": {
+      "pmid": "42883992",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198748"
+  },
+  {
+    "kind": "article",
+    "title": "In Vitro Antigiardial Activity and In Silico Target Exploration of Quassinoids Isolated from Castela tortuosa Liebm.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883978/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.886647+00:00",
+    "authors": [
+      "Ulises Murrieta-Dionicio",
+      "Fernando Calzada",
+      "Elizabeth Barbosa",
+      "Miguel Valdes",
+      "Jesica Ramirez-Santos",
+      "Benito Reyes-Trejo",
+      "Holber Zuleta-Prada",
+      "Lino Reyes"
+    ],
+    "summary": "Giardiasis is a parasitic disease for which there is a growing need to develop new therapeutic alternatives due to the adverse effects associated with first-line treatments such as metronidazole and the increasing emergence of resistant strains. In this study, the in vitro antigiardial activity of three quassinoids, chaparrin (1), amarolide (2), and chaparrinone (3), isolated from the stems of Castela tortuosa Liebm., was evaluated. The compounds were obtained from the methanolic extract through fractionation and chromatographic purification, and their antigiardial activity was determined against Giardia lamblia trophozoites. In addition, in silico studies were conducted to evaluate their physicochemical, pharmacokinetic, and toxicological properties, as well as molecular docking studies against actin, aldose reductase (ARL), and pyruvate: ferredoxin oxidoreductase (PFOR). Chaparrinone (3) exhibited the highest antigiardial activity, with an IC50 18.98 μg mL-1, whereas chaparrin (1) and amarolide (3) showed lower activity. Amarolide (2) exhibited the highest binding affinities toward the molecular targets, while chaparrin (1) showed the most favorable overall toxicological/ADME profile. Taken together, these findings highlight chaparrinone (3) as a quassinoid of interest for the development of new antigiardial agents and support the need for further enzymatic, pharmacokinetic, and in vivo studies to more precisely determine its therapeutic potential.",
+    "doi": "10.3390/ijms27198733",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42883978",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198733"
+  },
+  {
+    "kind": "article",
+    "title": "Behavioral and Biochemical Effects of Vitexin-Isovitexin-Loaded Microcapsule Combination on Restraint Stress Mouse Model.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883975/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.887197+00:00",
+    "authors": [
+      "Huynh Nhu Mai",
+      "Kien Duc Ngo",
+      "Manh Hung Tran",
+      "Duc Tuan Nguyen",
+      "Hoang-Han Do",
+      "Lam Truong Tuong",
+      "Viet-Cuong Nguyen",
+      "Nopphadol Udomluck",
+      "Phuong Tram Nguyen",
+      "Minh Hien Khuu",
+      "Ngoc Phuc Nguyen Nguyen",
+      "Nhu Y Vo",
+      "Minh-Quan Le"
+    ],
+    "summary": "Chronic stress and anxiety highlight the need for safer natural alternatives to conventional therapies with severe adverse effects, yet the combined behavioral and biochemical effects of vitexin and its structural isomer, isovitexin, remain insufficiently investigated. This study evaluated the effects of a vitexin-isovitexin mixture in both crude and microencapsulated forms under acute and repeated restraint stress. In vitro radical-scavenging activity was assessed via the DPPH assay. In vivo, male Swiss albino mice subjected to acute (4 h) and repeated (4 h × 7 days) restraint stress received oral administration of the mixture (30 mg/kg) 30 min before each stress session, followed by behavioral testing and biochemical analysis; molecular docking was used as an exploratory approach to assess predicted structural compatibility with selected stress-related targets. In vitro, the mixture exhibited DPPH radical-scavenging activity. In vivo, the effects differed between the acute and repeated stress models, with significant changes in several behavioral outcomes, serum cortisol, and GSH levels, whereas MDA and TST responses were less consistent. Molecular docking suggested predicted structural compatibility of vitexin and isovitexin with SERT, 5-HT1A, GABAA, the glucocorticoid receptor, and Keap1. Overall, the VTX-iVTX mixture showed variable effects on stress-related behavioral and biochemical outcomes, with microencapsulation showing effects comparable to the crude form in most parameters and more pronounced effects in selected outcomes.",
+    "doi": "10.3390/ijms27198731",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42883975",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198731"
+  },
+  {
+    "kind": "article",
+    "title": "Intra-Abdominal Sporadic Desmoid Tumors with Canonical CTNNB1 and Uncommon Wnt/β-Catenin Pathway Somatic Mutations-A Clinicopathologic and Genetic Study of Five Cases.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883903/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.887790+00:00",
+    "authors": [
+      "Chi Sing Ng",
+      "Jilong Qin",
+      "Gloria Y Gao"
+    ],
+    "summary": "Desmoid tumors (DTs) may be sporadic or associated with familial polyposis syndromes, including familial adenomatous polyposis (FAP) and its variant, Gardner syndrome (GS). DTs are pathogenetically linked to activation of the Wnt/β-catenin signaling pathway. In sporadic DT, CTNNB1 is most frequently implicated, with exon 3 somatic mutations (T41A, S45F and S45P) being the most commonly reported. APC is implicated in FAP/GS-associated DTs and occasionally in sporadic DT, most often through alterations involving the exon 15 mutation cluster region. In this study of five sporadic intra-abdominal DTs, we identified uncommon somatic missense mutations in three cases involving APC (exons 2 and 13), LRP6 (exon 3) and TCF7L2 (exons 3, 6, 8 and 10). One case harbored the canonical activating CTNNB1 exon 3 p.S45P mutation, whereas another one case showed no detectable genomic alterations. Multi-algorithm in silico assessment using AlphaMissense, REVEL, CADD, SIFT and PolyPhen-2 provided supportive computational evidence for potential functional effects of several variants, particularly TCF7L2 p.P113L, p.R243W and p.C337Y, and CTNNB1 p.S45P, while predictions were variable for other variants. All five tumors arose intra-abdominally and presented as abdominal emergencies requiring surgical intervention. During a median follow-up of 24 months (range, 18-68 months), four patients remained recurrence-free, whereas one case developed multifocal intra-abdominal recurrence approximately five years after the initial resection and underwent repeat surgery. These findings broaden the spectrum of Wnt/β-catenin pathway alterations observed in intra-abdominal DTs, although the functional consequences of the uncommon variants require experimental validation.",
+    "doi": "10.3390/ijms27198655",
+    "company_slug": null,
+    "keywords_matched": [
+      "CADD",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42883903",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198655"
+  },
+  {
+    "kind": "article",
+    "title": "In Silico Pre-Screening as a Design-Assessment Tool for Gold Nanoparticle-Amplified DNA Displacement Assays: Identifying Sequence-Level Design Limitations Across Electrode and Magnetic-Bead Configurations.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883899/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.888344+00:00",
+    "authors": [
+      "Darius Riziki Martin",
+      "Tatchanun Ngamdee",
+      "Ruben Cloete",
+      "Abram Madimabe Madiehe",
+      "Mervin Meyer",
+      "Patsamon Rijiravanich"
+    ],
+    "summary": "The growing demand for decentralised and point-of-care (POC) nucleic acid testing has increased interest in label-free, sequence-specific DNA biosensors and computational approaches that can guide their design before extensive experimental optimisation. Here, an in silico workflow was first employed to evaluate a gold nanoparticle (AuNP)-amplified, target-induced DNA displacement assay. Nearest-neighbour duplex thermodynamics, DNA secondary-structure analysis, and High Ambiguity Driven biomolecular DOCKing (HADDOCK) were used to assess sequence complementarity and displacement behaviour. The analyses confirmed Watson-Crick complementarity among the electrode capture, reporter, and target sequences and identified an unintended mismatch in the magnetic bead-capture probe. HADDOCK analyses using default RNA and explicit DNA settings consistently favoured target over non-target displacement, although control poses were more setting-sensitive. Experimental testing subsequently provided supporting evidence for the computational assessment. Electrochemical measurements showed the anticipated signal hierarchy of target > non-target > buffer, although differences were not statistically significant at the replicate numbers tested. The magnetic bead platform produced weak, non-differential responses, consistent with the sequence-level design limitation identified computationally. Together, these findings demonstrate the utility of computational pre-screening for interrogating displacement mechanisms, identifying correctable design errors, and guiding rational experimental optimisation of nucleic acid biosensors. No statistically significant target discrimination was achieved at the replicate numbers tested, and the proposed corrected bead-capture sequence has not been experimentally validated.",
+    "doi": "10.3390/ijms27198652",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42883899",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198652"
+  },
+  {
+    "kind": "article",
+    "title": "Unveiling Novel Molecular Candidate Targets of Loratadine, Raloxifene, and Sorafenib in Hepatocellular Carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883895/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.888953+00:00",
+    "authors": [
+      "Fernanda Villarruel-Melquiades",
+      "Martha Noyola-Díaz",
+      "Gelacio Martínez-Gudiño",
+      "María Eugenia Mendoza-Garrido",
+      "José Rubén García-Sánchez",
+      "Cecilia Bañuelos",
+      "Julio Isael Pérez-Carreón",
+      "Javier Camacho"
+    ],
+    "summary": "Hepatocellular carcinoma (HCC) remains a major global health burden. We have recently demonstrated the synergistic cytotoxicity elicited by the combination of loratadine, raloxifene, and sorafenib in liver cancer cells. In this study, we investigated the potential mechanistic basis of this novel multi-drug regimen by identifying candidate protein targets of the three drugs. Potential protein targets of each drug were identified using the Drug Affinity Responsive Target Stability (DARTS) assay in protein extracts from the HCC cell line HuH7, and molecular docking was performed to predict binding modes and explore the structural feasibility of these drug-target interactions. Bioinformatics analyses were conducted to predict biological functions, molecular interactions, and clinical relevance. We identified 147 potential candidate DARTS-stabilized proteins for loratadine, 191 for sorafenib, and 157 for raloxifene; a proportion of these candidate proteins maintained a statistically significant association with overall survival in HCC patients: 20.14% for loratadine, 22.93% for raloxifene, and 24.47% for sorafenib. Cross-referencing with public databases confirmed several previously documented targets-complementing our experimental approach-while revealing numerous previously unreported target candidates. Docking analyses predicted favorable binding interactions between the drugs and several proteins, such as the putative complex between loratadine and N-glycanase 1 (NGLY1), whose expression correlates with reduced overall survival in HCC patients. Functional enrichment analysis showed that several targets are involved in hallmarks of cancer. Clinically relevant candidate targets of loratadine, raloxifene, and sorafenib were identified. However, as these candidate protein targets were identified exclusively in HuH7 cells, they may not fully generalize across all HCC models without further validation. Nevertheless, our results suggest that loratadine, raloxifene and sorafenib modulate key pathways involved in tumorigenesis. These findings strengthen the use of this combination as a promising therapeutic strategy for HCC and provide new opportunities for the identification of novel targets, prognostic markers, and molecular vulnerabilities suitable for pharmacological intervention in HCC and other malignancies and diseases.",
+    "doi": "10.3390/ijms27198648",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42883895",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198648"
+  },
+  {
+    "kind": "article",
+    "title": "The Glyco-Code Molecular Template Instructively Guides Skeletal and Neural Development, Tissue Regeneration and Dynamic Repair Responses Following Trauma and Disease.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883894/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.889532+00:00",
+    "authors": [
+      "James Melrose"
+    ],
+    "summary": "Glycosaminoglycans encode instructional information that cells can decipher to regulate tissue development, repair responses, regeneration and recovery of tissue function following trauma or disease. This information has been termed the glyco-code and is a road map for tissue development and repair. This review shows that a clearer understanding of the glyco-code will support improved strategies in repair biology, particularly in skeletal and neural repair, regeneration, and therapeutic biomaterial design. Emerging therapeutic approaches for peripheral nerve repair increasingly combine multimodal delivery, microenvironmental control, and biomimetic structural support; however, the electroconductive properties of glycosaminoglycans have not yet been fully incorporated into these strategies. This gap is clinically important because neurological disorders affect more than 40% of the global population, representing approximately three billion people across conditions such as stroke, migraine, Alzheimer's disease, and diabetic neuropathy. Nanoparticle-engineered platforms and glyco-code-driven biomaterials may, therefore, provide future regenerative therapies that integrate glycosaminoglycan structure, charge, ligand-binding capacity, informational functions, and electroconductive control of resident cell populations to drive neural recovery. Multifunctional glycosaminoglycan interactions with a diverse range of binding proteins orchestrate tissue form and function in a diverse range of tissues in health and disease and have been widely used in tissue engineering protocols in repair biology. Tissue atlases, advanced glycomics, and molecular dynamics binding studies are now identifying roles for glycosaminoglycan binding proteins in therapeutic repair processes at the single-cell level, aiding in the identification of molecular targets for more effective recovery of tissue function. DynamicBind and SurfDock are deep learning methods that accurately demonstrate state-of-the-art performance in understanding the docking of potential therapeutic drugs with prospective targets, identifying cryptic pockets in unseen protein targets, and accelerating the development of small molecules for previously undruggable targets, potentially expanding the horizons of computational drug discovery with glycan structures.",
+    "doi": "10.3390/ijms27198646",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery",
+      "molecular dynamics"
+    ],
+    "extra": {
+      "pmid": "42883894",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198646"
+  },
+  {
+    "kind": "article",
+    "title": "Targeting Obesity-Associated Breast Cancer: Curcumin Counteracts Leptin-Induced Tumorigenic and Metastatic Traits in MCF-7 and MDA-MB-231 Breast Cancer Cells.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883819/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.890095+00:00",
+    "authors": [
+      "Hanène Attia",
+      "Orace Mathieu Kenou",
+      "Khouloud Ayed",
+      "Stanley Arinze Abonyi",
+      "Rym Akrout",
+      "Rahma Boughriba",
+      "Ali Ben Cheikh",
+      "Sylvère Fidèle Fassinou",
+      "Tomabu Adjobimey",
+      "Wassim Y Almawi",
+      "Asma Gati"
+    ],
+    "summary": "Obesity-driven hyperleptinemia is a key driver of breast cancer (BC) aggressiveness; nevertheless, strategies to counteract leptin-mediated tumor progression remain limited. Curcumin, a natural polyphenol with established anti-obesity, anti-inflammatory, and anticancer properties, has emerged as a promising metabolic and tumor-modulating biomolecule, although its effects on leptin-induced oncogenic signaling remain unclear. This study evaluated Curcumin as an adjuvant nutraceutical against leptin-induced oncogenesis in MCF-7 and MDA-MB-231 cells. Cells were exposed to obesity-mimicking leptin levels alone or with non-toxic Curcumin doses. MTT, clonogenic, wound-healing, and 3D spheroid dissemination assays were used to assess phenotypic changes, while network pharmacology and molecular docking explored underlying mechanisms. Curcumin significantly inhibited leptin-induced proliferation (8-17%), colony formation (60-90%), migration (20-45%), and 3D spheroid dissemination (20%) in both BC cell lines. Network pharmacology identified shared hub proteins, including AKT1, RHOA, MAP2K1, and MAPK14, linking Curcumin targets with leptin-driven BC signatures, and molecular docking supported direct interactions of Curcumin with these proteins. These findings suggest that Curcumin counteracts hyperleptinemia-induced tumor progression by targeting the PI3K/AKT, MAPK/ERK, and RHOA/ROCK pathways. This integrated in vitro and in silico study supports Curcumin as a promising adjuvant nutraceutical for obesity-associated BC, although experimental pathway validation is still required.",
+    "doi": "10.3390/ijms27198572",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "in silico",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42883819",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198572"
+  },
+  {
+    "kind": "article",
+    "title": "In Vitro Anticancer Activity and Integrated Multi-Target Computational Analysis of Ylang-Ylang Essential Oil Against Breast Cancer.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883803/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.890743+00:00",
+    "authors": [
+      "Mohamed Chebaibi",
+      "Amine Elbouzidi",
+      "Mohamed Taibi",
+      "Mounir Haddou",
+      "Salah-Eddine Chebaibi",
+      "Aziz Tikent",
+      "Aimad Allali",
+      "Tarik Moubchir",
+      "Ibrahim Mssillou",
+      "Chakib Nejjari",
+      "Abdellah Baraich",
+      "Abdelfattah El Moussaoui",
+      "Sanae Achour"
+    ],
+    "summary": "Ylang-ylang essential oil (YEO), obtained from Cananga odorata, contains chemically diverse constituents with potential anticancer activity that warrants further investigation. This study investigated the anti-breast-cancer potential of YEO through an integrated experimental and computational approach. The essential oil was chemically characterized by gas chromatography-mass spectrometry, and its in vitro cytotoxic activity was evaluated against ER-positive MCF-7 and triple-negative MDA-MB-231 and MDA-MB-436 breast-cancer cell lines using the MTT assay. Peripheral blood mononuclear cells were included as a preliminary model for assessing cytotoxic selectivity toward non-tumoral cells. To generate hypotheses concerning possible molecular interactions, identified constituents were evaluated against three breast-cancer-relevant targets: estrogen receptor alpha (ER-α), epidermal growth factor receptor (EGFR), and poly(ADP-ribose) polymerase 1 (PARP1). The computational workflow included a structural confidence assessment based on AlphaFold 2, together with CNN-assisted Gnina docking, Glide docking, and in silico ADMET profiling. The in vitro experiments showed that YEO had biological activity against breast-cancer cells, and the computational analyses showed that the ligand profiles were dependent on the target. Gnina identified trans-geranylgeraniol, farnesyl-decanoate and linalool as the top candidates for ER-α, EGFR and PARP1, respectively, while Glide pointed out δ-cadinene for ER-α, benzyl salicylate for EGFR and benzyl benzoate for PARP1. Both benzyl benzoate and α-cadinol also had potentially favorable multi-target binding profiles. The ADMET analysis found that several components had acceptable drug-likeness, but the high lipophilicity of some sesquiterpenes might limit their pharmacokinetic behavior. Overall, the results support the prioritization of selected YEO constituents as candidates for further investigation of potential multi-target anticancer activity. Nevertheless, the docking results remain predictive and do not demonstrate direct target inhibition or molecular synergy. Further biochemical, mechanistic, pharmacokinetic, and in vivo studies are needed to evaluate the biological relevance and translational potential of the prioritized constituents.",
+    "doi": "10.3390/ijms27198557",
+    "company_slug": null,
+    "keywords_matched": [
+      "AlphaFold",
+      "ADMET",
+      "drug-likeness",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42883803",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198557"
+  },
+  {
+    "kind": "article",
+    "title": "Fasciolagigantica Recombinant Bone Morphogenetic Protein (FgBMP) Modulates Various Functions of Buffalo Peripheral Blood Mononuclear Cells.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883799/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.891319+00:00",
+    "authors": [
+      "Xinping Kong",
+      "Sijia Wang",
+      "Xiang Gao",
+      "Qingyuan He",
+      "Weiyu Zhang",
+      "Wenda Di"
+    ],
+    "summary": "Fasciolosis, a disease induced by liver fluke infection, poses a major threat to the livestock industry. The emergence of drug resistance and the lack of commercial vaccines necessitate the development of novel control strategies. Studies on helminth immunoregulatory molecules have become a key research focus. Bone morphogenetic proteins (BMPs), ligand members of the TGF-β superfamily, have been identified in Fasciola gigantica and designated FgBMPs, and are hypothesized to regulate host immune responses. To explore the effects of FgBMP on hosts, the mechanistic actions of FgBMP-1 on buffalo peripheral blood mononuclear cells (PBMCs) were investigated to preliminarily elucidate host-parasite interactions. Molecular docking predicted strong binding between FgBMP-1 and buffalo BMP receptors. Immunostaining using specific monoclonal antibodies revealed the tissue distribution of FgBMP-1, confirming its expression in adult worms, juvenile worms, and excretory-secretory products of F. gigantica (FgESP). Recombinant FgBMP-1 (rFgBMP-1) bound to buffalo PBMCs and significantly suppressed cell proliferation, migration, and phagocytosis while enhancing nitric oxide production. Transcriptional analysis showed that rFgBMP-1 downregulated IFN-γ and IL-10 transcription, whereas it upregulated IL-4 and TGF-β transcription. Transcriptome analysis revealed that rFgBMP-1 may activate the classical TGF-β and MAPK pathways independently or synergistically. Additionally, rFgBMP-1 may modulate host immune responses via crosstalk with the Th17 differentiation and Toll-like receptor signaling pathways. Therefore, FgBMP-1 may mediate immunosuppression in buffalo PBMCs via activation of the TGF-β pathway, thereby refining the theoretical understanding of parasite immune evasion.",
+    "doi": "10.3390/ijms27198552",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42883799",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198552"
+  },
+  {
+    "kind": "article",
+    "title": "Calycosin Attenuates LPS-Induced Cardiomyocyte Injury Through Regulation of the PPARγ/NF-κB Signaling Pathway.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883753/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.891948+00:00",
+    "authors": [
+      "Rui Zhao",
+      "Zhiwang Wang",
+      "Wuzhou Liu",
+      "Keke Liang"
+    ],
+    "summary": "Calycosin (CAL) is an isoflavone monomer derived from Astragalus membranaceus that possesses potent anti-inflammatory and antioxidative pharmacological activities. However, the specific role of CAL in lipopolysaccharide (LPS)-induced inflammatory injury in cardiomyocytes remains to be elucidated. In this study, we established an in vitro inflammatory injury model using LPS-stimulated H9c2 cardiomyocytes to evaluate the cardioprotective effects of CAL. We assessed cell viability, live/dead cell staining, oxidative stress markers, inflammatory cytokine profiles, and cardiac injury biomarkers to characterize the protective efficacy of CAL. Quantitative proteomics combined with bioinformatics analysis was employed to explore the underlying mechanisms. Molecular docking and molecular dynamics simulations were performed to analyze the predicted binding affinity and complex stability between CAL and the target proteins PPARγ and NF-κB. PPARγ and NF-κB mRNA and protein levels were measured by qPCR and Western blotting, and rescue experiments with the PPARγ-specific inhibitor GW9662 were performed to validate target dependency. Our results demonstrated that CAL exerted significant protective effects against LPS-induced cardiomyocyte injury, effectively enhancing cell viability, reducing cell death, alleviating intracellular ROS accumulation, modulating oxidative stress-related parameters, suppressing excessive inflammatory responses, and decreasing the release of cardiac injury biomarkers. Proteomic analysis revealed that differentially expressed proteins were significantly enriched in the PPAR signaling pathway. Molecular simulations predicted that CAL binds stably to both PPARγ and NF-κB. PCR and Western blotting results showed that CAL upregulated PPARγ and suppressed NF-κB-mediated pro-inflammatory gene expression at both the mRNA and protein levels. Notably, pharmacological blockade of PPARγ with GW9662 partially abolished the cardioprotective effects of CAL. Collectively, these findings indicate that CAL ameliorates LPS-induced inflammatory injury in H9c2 cardiomyocytes through a protective mechanism that depends on activation of PPARγ and subsequent inhibition of the NF-κB signaling pathway.",
+    "doi": "10.3390/ijms27198505",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics"
+    ],
+    "extra": {
+      "pmid": "42883753",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198505"
+  },
+  {
+    "kind": "article",
+    "title": "Differential Neurodevelopmental Toxicity of Propofol and Fospropofol: Mechanistic Insights and Potential Clinical Implications-A Zebrafish Model Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883742/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.892428+00:00",
+    "authors": [
+      "Zhe Liu",
+      "Yingying Deng",
+      "Yuanye Gao",
+      "Chunyu Jia",
+      "Xueqi Zhao",
+      "Leyan Tao",
+      "Baochang Lai",
+      "Xinyan Chen",
+      "Yansong Li",
+      "Yue Han",
+      "Yaomin Zhu"
+    ],
+    "summary": "Propofol and fospropofol are used in pediatric surgical anesthesia, but their comparative developmental safety remains uncertain. In this study, zebrafish embryos were exposed to equianesthetic concentrations of propofol or fospropofol. Embryonic survival, hatching, malformation, and post-anesthesia motor behavior were assessed. RNA sequencing and molecular docking were performed to explore potential molecular mechanisms. Fospropofol exhibited lower developmental toxicity than propofol, as shown by the higher survival and hatching rates and a lower malformation rate. Comparative toxicogenomic analysis revealed distinct molecular pathways and candidate targets that may underlie these differential effects. Collectively, these zebrafish data suggest a favorable developmental safety profile for fospropofol and underscore the need for dose optimization and monitoring in pediatric anesthetic management; validation in mammalian models and controlled human studies is further warranted.",
+    "doi": "10.3390/ijms27198494",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42883742",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198494"
+  },
+  {
+    "kind": "article",
+    "title": "Gut Microbiome Alterations in TAAR5 Knockout Mice and In Silico Ligand Prediction.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883741/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.893020+00:00",
+    "authors": [
+      "Ilya S Zhukov",
+      "Yazen Alnefeesi",
+      "Nikita S Gladyshev",
+      "Alexey Zolkin",
+      "Alena B Zalicheva",
+      "Yashar Chalabiani",
+      "Ildikó Miklya",
+      "Elena I Ermolenko",
+      "Raul R Gainetdinov"
+    ],
+    "summary": "Trace amine-associated receptors (TAARs) are a class of G protein-coupled receptors with roles in olfaction, behaviour, and immunity. Known best as an olfactory receptor, TAAR5 has been linked to emotional behaviour and hippocampal neurogenesis, yet its peripheral mechanisms remain poorly understood. Given bidirectional influences between the gut microbiota and the host, we investigated whether TAAR5 deletion alters the gut microbiome in mice. Using 16S rRNA sequencing, we compared the gut microbiota of TAAR5-knockout (TAAR5-KO) and wild-type mice. While alpha-diversity remained unchanged, beta-diversity analysis revealed significant separation between genotypes, with TAAR5-KO mice exhibiting markedly increased inter-individual variability. Taxonomically, KO mice showed a significant reduction in Ruminococcus and ASF356, alongside an enrichment of specific Lachnospiraceae and Prevotellaceae lineages. Functional metagenomic prediction (PICRUSt2) implied a reduction in the metagenomic capacity for central metabolic pathways (glycolysis, TCA cycle, fatty acid β-oxidation) and an increase in the capacity for guanosine nucleotide degradation pathways; these hypotheses remain untested. Molecular docking identified candidate microbial metabolites, including small amines (2-aminophenol, aminoacetone, butan-1-amine), with ligand efficiencies comparable to the known TAAR5 agonist trimethylamine. These findings suggest that TAAR5 may influence gut microbiome composition and function, with particular impact on Ruminococcus-a genus linked to intestinal inflammation. The increased compositional variability in TAAR5-KO mice suggests that TAAR5 may act as a homeostatic gatekeeper in gut microbial ecology. Our in silico results offer testable hypotheses for future validation of microbial metabolites as novel TAAR5 ligands.",
+    "doi": "10.3390/ijms27198493",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42883741",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198493"
+  },
+  {
+    "kind": "article",
+    "title": "Artificial Intelligence as a Catalyst for Novel Therapeutic Opportunities in Precision Oncology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883738/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.893517+00:00",
+    "authors": [
+      "Kostas A Papavassiliou",
+      "Amalia A Sofianidi",
+      "Angeliki Margoni",
+      "Athanasios G Papavassiliou"
+    ],
+    "summary": "Artificial intelligence (AI) is reshaping molecular oncology by making complex biological data tractable and by extending the reach of precision drug discovery. Its emerging value is particularly evident at the interface of immunoengineering and targeted therapy, where computational models can help prioritize tumor-selective antigens, predict neoantigen immunogenicity, optimize engineered receptors, support antibody and antibody-drug conjugate design, guide small-molecule discovery, refine genome-editing strategies, and anticipate treatment response. Across these applications, the central promise is not automation for its own sake, but a wider therapeutic window in which tumor control is increased while off-target toxicity is reduced. Yet the translational gap remains substantial. Many models are still preclinical, external validation is limited, and clinical implementation remains uncommon. This Commentary follows representative methods across a therapeutic continuum that now extends from target discovery and therapeutic engineering to imaging, liquid biopsy, resistance forecasting, combination selection, and drug repurposing. We argue that clinical value will depend on closed-loop workflows in which multimodal predictions are experimentally validated, externally tested, and longitudinally updated to guide the next therapeutic decision.",
+    "doi": "10.3390/ijms27198489",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery",
+      "drug repurposing"
+    ],
+    "extra": {
+      "pmid": "42883738",
+      "journal": "International journal of molecular sciences"
+    },
+    "dedupe_key": "doi:10.3390/ijms27198489"
+  },
+  {
+    "kind": "article",
+    "title": "Integrated Optimization of Opuntia stricta Extracts Coupled with HPLC-Based Phenolic Profiling: Linking Phytochemical Composition to Molecular Docking Simulation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883664/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.894101+00:00",
+    "authors": [
+      "Moufida Chaari",
+      "Sarra Akermi",
+      "Khaoula Elhadef",
+      "Walid Elfalleh",
+      "Hassan Ahmed Rudayni",
+      "Slim Smaoui"
+    ],
+    "summary": "This study intended to simultaneously model and optimize aqueous extracts obtained from whole Opuntia stricta fruits (OSE) to maximize the overall response profile, namely total phenolic content (TPC), total flavonoid content (TFC), antioxidant activity and antibacterial efficacy. For this purpose, the Response Surface Methodology was used to evaluate the influence of three extraction parameters: temperature, sample-to-solvent ratio, and time. Optimal extraction was predicted at 40 °C, 35.6 min, and a 1:50 (g/mL) ratio, yielding predicted TPC, TFC, ABTS IC50, and MIC values of 77.194 mg GAE/g, 3.787 mg CE/g, 0.187 mg/mL, 5.476 mg/mL, and 7.883 mg/mL, respectively. Experimental validation gave 77.23 mg GAE/g, 3.74 mg CE/g, 0.19 mg/mL, and MICs of 5 and 10 mg/mL against S. aureus and E. coli, respectively. Good agreement was observed between predicted and experimental values for most responses (relative errors: 0.05-9.52%), whereas anti-E. coli activity showed lower predictive accuracy, with a relative error of 21.17%. Principal component analysis (PCA) differentiated the various OSEs and revealed associations between their phytochemical composition and biological activities. High-performance liquid chromatography analysis of the optimized OSE revealed that 4-hydroxyphenylacetic acid was the predominant phenolic acid identified, while epicatechin was the major flavonoid detected. Molecular docking calculations revealed that catechin exhibited the most negative free energy of binding towards the studied virulence factors, including PPK (-8.2 Kcal/mol) and Fibronectin-binding protein A (-7.9 Kcal/mol) of E. coli and S. aureus, respectively. These findings indicate notable target interactions and highlight the bioactive potential of OSE, supporting further in vitro/in vivo validation and functional and industrial applications.",
+    "doi": "10.3390/foods15193557",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42883664",
+      "journal": "Foods (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/foods15193557"
+  },
+  {
+    "kind": "article",
+    "title": "Volatile Chemistry and Aroma Differences in Commercial Soy Sauces: Sensory Links and Odorant-Receptor Interactions.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883653/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.894675+00:00",
+    "authors": [
+      "Kun Zhao",
+      "Qinguo Quan",
+      "Ping Wang",
+      "Siqi Hu",
+      "Baoguo Sun",
+      "Dandan Pu"
+    ],
+    "summary": "Volatile and sensory differences among 28 commercial soy sauces were investigated using HS-GC-IMS, check-all-that-apply (CATA) evaluation, aroma addition experiments, and molecular docking. Ninety-nine volatile compounds from 14 chemical classes were detected. Total semiquantitative volatile concentrations ranged from 2024.56 to 6279.59 μg/mL, with esters, alcohols, and aldehydes accounting for 70.68% of the total. Of the 24 CATA descriptors, 13 were retained for product-level correlation analysis. Exploratory Pearson analysis indicated that alcoholic, savory, and malty attributes were associated with a group dominated by fatty acids, branched-chain alcohols, and esters, whereas woody and chocolate-like attributes showed an opposing pattern involving several aldehydes, ketones, and alkylpyrazines. Fifteen candidate compounds were evaluated by single-compound addition. Benzaldehyde and ethyl propanoate enhanced savory perception; 2-ethyl-3,5-dimethylpyrazine enhanced the alcoholic attribute; methyl 2-methylbutyrate enhanced smoky, meaty, and alcoholic attributes; and ethyl acetate enhanced malty, meaty, and alcoholic attributes. Several other additions produced opposing or nonsignificant effects, indicating matrix- and concentration-dependent responses. Among the binary docking models, guaiacol-2-ethyl-3,5-dimethylpyrazine and homofuraneol-benzaldehyde produced the lowest scores with OR10G4 (-10.10 kcal/mol) and OR5M3 (-13.32 kcal/mol), respectively. In combination, these results show that product-level correlations can guide candidate selection but require matrix-based sensory verification, while docking provides structural hypotheses for odorant co-binding.",
+    "doi": "10.3390/foods15193545",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42883653",
+      "journal": "Foods (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/foods15193545"
+  },
+  {
+    "kind": "article",
+    "title": "Integrated Multi-Omics and Molecular Docking Analysis of Malate Degradation by Lactiplantibacillus plantarum S4 During Sea Buckthorn Juice Fermentation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883624/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.895228+00:00",
+    "authors": [
+      "Xiaogang Guo",
+      "Menghui Lin",
+      "Laifeng Zhuo",
+      "Yanru Feng",
+      "Thanh Ninh Le",
+      "Minjie Zhao",
+      "Haiying Cai"
+    ],
+    "summary": "Sea buckthorn juice (SBJ) is nutritionally valuable, but its high malic acid content contributes to excessive sourness that limits consumer acceptance. In this study, the deacidification phenotypes of two lactic acid bacterial isolates, Lactiplantibacillus plantarum S4 and Lacticaseibacillus paracasei YJ2, were compared using fermentation phenotyping, sensory evaluation, enzyme assays, untargeted metabolomics, transcriptomics, and molecular docking. After 96 h of fermentation, S4 degraded 91.98% of malic acid, compared with 69.50% for YJ2, and exhibited higher viable-cell counts and overall sensory acceptability under the tested conditions. S4 also showed higher crude-extract malate-conversion activity under MLE-favoring conditions. Molecular docking predicted more favorable interactions of malate with S4-derived MleP and MleS than with the corresponding YJ2 proteins; however, these analyses did not directly measure MleP-mediated transport or MleS-specific catalytic flux. Metabolomic profiling showed lower abundance of malic acid and several other organic acids in S4-fermented SBJ, together with increased abundance of succinic acid, 2-oxoglutaric acid, phenyllactic acid-related metabolites, D-octopine, and N-lactoyl-phenylalanine. Transcriptomic analysis revealed differences between S4 and YJ2 in carbohydrate metabolism, glycolysis, pyruvate metabolism, energy generation, and late-stage cellular maintenance. Integration of these datasets supports a working model in which malate-associated conversion, central-carbon redistribution, organic-acid remodeling, and acid-stress adaptation may contribute to the greater malate-removal phenotype of S4. Because only one isolate of each species was examined, the observed differences should be interpreted as differences between S4 and YJ2 rather than as species-level effects.",
+    "doi": "10.3390/foods15193517",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42883624",
+      "journal": "Foods (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/foods15193517"
+  },
+  {
+    "kind": "article",
+    "title": "Mining KEAP1-Targeted Antioxidant Peptides from Porphyra umbilicalis Phycobiliproteins: In Silico Prioritization, Radical Scavenging, and Cellular Cytoprotection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883596/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:17.895757+00:00",
+    "authors": [
+      "Fujia Yang",
+      "Wenting Jiang",
+      "Kun Qiao",
+      "Tingting Zhuo",
+      "Honglin Chen",
+      "Yingmei Zhang",
+      "Zhiyu Liu",
+      "Ronglong Jiang",
+      "Yijuan Han",
+      "Songbiao Chen"
+    ],
+    "summary": "Phycobiliproteins from the red alga Porphyra umbilicalis are rich precursors of bioactive peptides, but targeted identification of high-potency sequences remains challenging. To address this, we combined an in silico screening pipeline with experimental validation to discover novel antioxidant peptides. Virtual enzymatic hydrolysis generated 908 candidate sequences, which were filtered down to 12 peptides based on molecular weight, toxicity, hydrophilicity, and bioactivity predictions. Molecular docking and molecular dynamics simulations further identified four candidate peptides (FK, FKP, FRS, and RRF) that were computationally predicted to bind stably within the KEAP1 Kelch domain. Chemical assays confirmed that all four synthesized peptides exhibited dose-dependent DPPH and ABTS radical-scavenging activities, along with Fe2+-chelating capacity and ferric reducing antioxidant power. In H2O2-stimulated Caco-2 cells, peptide pretreatment protected against cellular oxidative stress by restoring endogenous antioxidant enzyme activities, increasing total antioxidant capacity, and reducing lactate dehydrogenase leakage. Among these, RRF displayed the strongest protective efficacy. Overall, this study presents a practical workflow for mining marine-derived peptides and highlights four candidate peptides whose potential as functional food ingredients warrants further validation in actual P. umbilicalis hydrolysates.",
+    "doi": "10.3390/foods15193488",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42883596",
+      "journal": "Foods (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/foods15193488"
+  },
+  {
+    "kind": "article",
+    "title": "Systematic Comparison of Aroma Profiles and Tea Polysaccharide In Vitro Antioxidant Activities Among Six Anxi Oolong Tea Cultivars.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883521/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.565429+00:00",
+    "authors": [
+      "Zhong Wang",
+      "Zhelin Wan",
+      "Fanyu Liu",
+      "Changlian Wu",
+      "Shuaibo Shao",
+      "Yuting Li",
+      "Zhendong Zhang",
+      "Chengzhe Zhou",
+      "Cheng Zhang",
+      "Yuqiong Guo"
+    ],
+    "summary": "Oolong tea is prized for its floral aroma and bioactive tea polysaccharides (TPS), yet the independent contribution of cultivar genetic background to aroma chemistry and TPS functionality remains unclear due to confounding effects from environment and processing. Here, we systematically compared volatile organic compound (VOC) profiles and in vitro antioxidant activities of TPS from six Anxi oolong tea cultivars all grown in the same tea garden and processed under identical Qingxiang oolong tea protocols. Using headspace solid-phase microextraction-gas chromatography-mass spectrometry, 39 VOCs were identified across cultivars. Huangjingui exhibited the highest total VOC content (69.01 μg·g-1) and the greatest number of compounds with relative odor activity values (rOAV) over 1. Principal component analysis and hierarchical clustering revealed clear metabolic separation among cultivars, with Daye Wulong displaying the most distinct metabolome. PLS-DA combined with rOAV screening identified 12 key differential volatiles that form the chemical basis of floral aroma. Preliminary in silico molecular docking predicted the strongest binding affinity between nerolidol and OR1A1 (-7.54 kcal/mol). Cultivar-specific high rOAV volatiles were characterized, including (E)-2-octenal and 1-phenyl-2-nitroethane in Tieguanyin, 2-phenylethyl-2-methylbutyrate and cis-3-hexenyl isovalerate in Maoxie, α-ocimene and cis-3-hexenyl benzoate in Daye Wulong, and (E,E,Z)-1,3,5,8-undecatetraene in Meizhan, suggesting their potential as chemical markers for cultivar authentication. Crude TPS yields ranged from 2.76% to 3.99%; Tieguanyin had the highest yield and Meizhan the lowest. TPS from Daye Wulong exhibited the strongest DPPH and ABTS+· scavenging capacities, with IC50 values of 0.58 and 1.95 mg·mL-1, respectively, indicating the highest in vitro antioxidant activity among all tested samples. These results suggest that cultivar genetic background may be a primary determinant of both aroma metabolites and TPS bioactivity, providing a theoretical basis for cultivar selection and quality optimization in oolong tea production.",
+    "doi": "10.3390/foods15193406",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42883521",
+      "journal": "Foods (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/foods15193406"
+  },
+  {
+    "kind": "article",
+    "title": "Molecular Insights into the Mechanism of Caffeic Acid in Meat Color Improvement via Multispectral Spectroscopy and Molecular Dynamics Simulation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883472/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.566049+00:00",
+    "authors": [
+      "Jianzeng Xin",
+      "Yiming Wang",
+      "Xiangku Ye",
+      "Sheng Liu"
+    ],
+    "summary": "This study investigated the color-stabilizing effects of caffeic acid (CA) on meat and its interaction mechanism with myoglobin (Mb) using in situ and in vitro model assays, combined with physicochemical analyses, multi-spectroscopic techniques, molecular docking, and molecular dynamics (MD) simulations. Three 24-month-old Simmental crossbred steer carcasses were utilized, yielding 12 steaks (four per carcass). The steaks were divided into three treatment groups: a control (deionized water), 0.05% (w/v) CA, and 0.1% (w/v) CA. Samples were stored at 4 ± 0.5 °C for 7 days under simulated retail display conditions, overwrapped with polyvinyl chloride (PVC) film. Storage assays demonstrated that 0.1% CA significantly delayed beef browning and maintained its red color. Physicochemical analyses revealed that CA inhibited metmyoglobin (MetMb) formation by 6%, reduced Mb solubility, and decreased surface hydrophobicity by approximately 90%. Fluorescence spectroscopy confirmed that the interaction between CA and Mb was driven by hydrogen bonding and van der Waals forces, resulting in a static quenching mechanism with a binding constant of 259.41 × 103 L/mol at 293 K. Furthermore, UV-Vis and FT-IR spectroscopy indicated structural adjustments in Mb upon CA binding. Differential scanning calorimetry (DSC) showed an increased thermal denaturation temperature. Atomic Force Microscopy (AFM) showed CA-induced Mb aggregation. Consistently, molecular docking and MD simulations revealed that CA binds to the Mb molecule primarily through non-covalent interactions, such as hydrogen bonding. Collectively, these findings provide a theoretical basis for the application of CA as a natural color stabilizer in meat products.",
+    "doi": "10.3390/foods15193365",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics"
+    ],
+    "extra": {
+      "pmid": "42883472",
+      "journal": "Foods (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/foods15193365"
+  },
+  {
+    "kind": "article",
+    "title": "Molecular Characterization and Functional Analysis of Pomacea canaliculata Mos Gene (PcMos): A Molecular Switch of Female Fecundity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883447/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.566678+00:00",
+    "authors": [
+      "Haotian Gu",
+      "Haiyuan Teng",
+      "Tianshu Zhang",
+      "Yongda Yuan"
+    ],
+    "summary": "The invasive Pomacea canaliculata has emerged as a notorious pest that endangers aquatic crops, ecological services and functioning. Although well-documented as a mammalian oocyte maturation factor, the biological roles of Moloney sarcoma oncogene (Mos) in invertebrates, notably P. canaliculata, remain unfathomed. We integrated RNA interference (RNAi)-mediated gene silencing alongside bioinformatic, molecular, biochemical and histological approaches to dissect fecundity-related functions and modulatory mechanisms of PcMos at the mRNA, protein and in silico levels. Characterized by the conserved protein kinase domain and motif, the PcMos protein sequence presented close phylogeny with its molluscan counterparts. Spatiotemporal expression profiling showed that mRNA and protein levels of PcMos were enriched in female adults and ovarian tissues. Efficient in vivo RNAi effects were induced as the transcription and translation of PcMos significantly declined by 78.2% and 79.0%, respectively, following a microinjection of 5 μg dsPcMos per female post 48 h. The downstream MAPK pathway, comprising MEK1, ERK1 and p90RSK1, was depressed when subjected to dsPcMos treatment, as reflected by pronounced decreases in mRNA and phosphorylated protein levels. Substantial diminution of E2/Pg/LH/FSH contents were noticed in the PcMos-RNAi group versus the dsEGFP group, suggesting fundamental implications of PcMos in endocrine regulation. In addition, the concurrent expression and high affinity between PcMos and VTG were visualized by the immunofluorescence and molecular docking, which may be associated with the diminished VTG content and expression upon PcMos silencing. Moreover, PcMos knockdown led to impaired ovarian development and reduced SP content, the number ofmature oocytes, egg production and egg-hatching rates. Taken together, our findings pointed to PcMos as a molecular switch pivotal for female fecundity, potentially acting through coordinated effects on MAPK signaling, endocrine hormone homeostasis and yolk deposition. This study may inspire the precision pest management and inform the design of RNAi-based sterility agents to suppress P. canaliculata populations.",
+    "doi": "10.3390/biology15191774",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42883447",
+      "journal": "Biology"
+    },
+    "dedupe_key": "doi:10.3390/biology15191774"
+  },
+  {
+    "kind": "article",
+    "title": "In Silico Evaluation via Virtual Screening, ADMET Profiling and Molecular Dynamics Simulations: Synthesis and Biological Activity Analysis of a Novel Antitumor PI3K Inhibitor.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883415/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.567209+00:00",
+    "authors": [
+      "Wenqing Jia",
+      "Yukui Ma",
+      "Zhe Zhang"
+    ],
+    "summary": "The PI3K plays a crucial role in cancer progression, and the development of PI3K inhibitors has always been a hot research direction in oncology. Through virtual screening and docking, potential lead compounds were identified. ADMET prediction revealed that KTC101 possesses superior pharmacokinetic profile. Molecular dynamics simulations indicated that compound KTC101 could stably bind to PI3Kδ, with a binding free energy of -374.627 kJ/mol. Analysis of the metabolism of KTC101 revealed that this compound could undergo diverse phase I metabolic reactions catalyzed by hepatic CYP450 enzymes to form highly polar metabolites, indicating its strong metabolic potential and easy metabolic clearance in vivo. Then it was synthesized and evaluated for kinase inhibitory activity and antiproliferative effects in HNSCC cell lines. KTC101 was first reported as a PI3K inhibitor, with IC50 values of 191.23 ± 40.84 nM, 23.30 ± 5.68 nM, and 146.20 ± 21.82 nM for PI3Kα, PI3Kδ and PI3Kγ, respectively, and demonstrated dose-dependent inhibition of cancer cell growth in vitro, with IC50 values of 4.1 ± 0.73 μM for HSC3 cells and 2.2 ± 0.11 μM for HSC4 cells. It exhibited inhibitory activity against PI3K, showing greater inhibitory potency toward PI3Kδ. This study demonstrates the anti-tumor potential of KTC101.",
+    "doi": "10.3390/biology15191742",
+    "company_slug": null,
+    "keywords_matched": [
+      "virtual screening",
+      "ADMET",
+      "molecular dynamics",
+      "ADMET prediction",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42883415",
+      "journal": "Biology"
+    },
+    "dedupe_key": "doi:10.3390/biology15191742"
+  },
+  {
+    "kind": "article",
+    "title": "JAK3-Mediated Structural Remodeling of β-Catenin Suppresses Epithelial-Mesenchymal Transition: Insights from In Silico Modeling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883412/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.567756+00:00",
+    "authors": [
+      "Jugal Kishore Das",
+      "Jayshree Mishra",
+      "Narendra Kumar"
+    ],
+    "summary": "Janus kinase 3 (JAK3) is a non-receptor tyrosine kinase that phosphorylates multiple proteins, including β-catenin, a critical component of adherens junctions (AJs). We previously demonstrated that JAK3-mediated phosphorylation of β-catenin regulates its basolateral localization and preserves epithelial barrier integrity. However, the structural basis underlying JAK3-β-catenin interactions and their role in epithelial-mesenchymal transition (EMT) remains unclear. Here, we employed homology modeling, molecular docking, and structural simulations to investigate phosphorylation-dependent interactions between JAK3 and β-catenin. Our analysis revealed that Src-mediated phosphorylation at Y654 induces conformational remodeling of the β-catenin N-terminal domain (NTD), creating a favorable interface for JAK3 binding and shifting its interaction from the armadillo repeat domain to the NTD. Subsequent JAK3-mediated phosphorylation at Y30, Y64, and Y86 restores β-catenin conformation, stabilizes the E-cadherin/β-catenin complex, and limits nuclear translocation. Phosphomimetic analyses identified distinct structural contributions of these residues. Collectively, these findings reveal a sequential Src-JAK3 phosphorylation mechanism that maintains AJ integrity and suppresses EMT, providing potential therapeutic insights into epithelial cancer progression.",
+    "doi": "10.3390/biology15191738",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42883412",
+      "journal": "Biology"
+    },
+    "dedupe_key": "doi:10.3390/biology15191738"
+  },
+  {
+    "kind": "article",
+    "title": "Selective Cytotoxic Activity of Derivatives of the Natural Alkaloid Tetrandrine Against Cancer Cell Lines: In Vitro and In Silico Studies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883336/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.568406+00:00",
+    "authors": [
+      "María Daniela Alvarez-Campa",
+      "Carmen María López-Saiz",
+      "Héctor Enrique Trujillo-Ruiz",
+      "Carmen Lizette Del-Toro-Sánchez",
+      "Juan Carlos Gálvez-Ruiz",
+      "Ramón Alfonso Moreno-Corral",
+      "Maribel Plascencia-Jatomea",
+      "Ariel Humberto Soto-Sánchez",
+      "Erika Silva-Campa",
+      "Martin S Hernández-Zazueta",
+      "Karen Ochoa Lara"
+    ],
+    "summary": "Tetrandrine (TET) is a bisbenzylisoquinoline alkaloid with promising anticancer activity, although its limited selectivity toward malignant over non-cancerous cells restricts its therapeutic potential. A series of mono- and bis-N-substituted tetrandrine derivatives was therefore investigated to determine whether N-functionalization could improve the cytotoxic selectivity of the parent scaffold. The series included the two new compounds MU1NT and DPBT. Following initial screening in non-cancerous ARPE-19 retinal epithelial cells, selected derivatives were evaluated against 22Rv1 prostate carcinoma, A549 lung adenocarcinoma, MDA-MB-231 triple-negative breast cancer, HCT-116 colorectal carcinoma, and HeLa cervical cancer cells. TET exhibited broad but poorly selective cytotoxicity, with IC50 values of 6.81 ± 1.79 and 6.00 ± 1.96 μM in ARPE-19 and 22Rv1 cells, respectively, corresponding to a selectivity index (SI) of 1.13. By contrast, DBT showed IC50 values of 45.44 ± 1.37 μM in ARPE-19 cells and 9.89 ± 1.08 μM in 22Rv1 cells, with an SI of 4.59, the highest experimentally determined value among the tetrandrine-based compounds evaluated. MU1NT also displayed improved selectivity toward 22Rv1 cells (SI = 2.57), although with lower cytotoxic potency than DBT. Fluorescence microscopy using DAPI and phalloidin revealed pronounced nuclear and cytoskeletal alterations in DBT-treated 22Rv1 cells, whereas ARPE-19 morphology was comparatively preserved. Annexin V-FITC/PI flow cytometry further demonstrated an apoptosis-associated response in 22Rv1 cells, with total apoptosis reaching 86.30 ± 1.27% for TET and 34.77 ± 5.13% for DBT after 24 h at their respective MTT-derived IC50 concentrations. Molecular docking suggested distinct predicted interaction profiles for TET and DBT across the apoptosis-related proteins evaluated. Targeted redocking of co-crystallized venetoclax validated the Bcl-2 site-specific protocol (RMSD = 0.55 Å); however, both alkaloids scored less favorably than venetoclax, and the small score difference between TET and DBT did not account for their distinct cellular selectivity profiles. Collectively, these findings identify DBT as a promising tetrandrine derivative with improved selectivity, warranting further mechanistic studies and in vivo evaluation in prostate cancer models.",
+    "doi": "10.3390/molecules31193572",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42883336",
+      "journal": "Molecules (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/molecules31193572"
+  },
+  {
+    "kind": "article",
+    "title": "Design and Synthesis of New Thiazole Derivatives for Alzheimer's Disease Therapy as a Potential Cholinesterase Inhibitor; Toxicity Prediction and Molecular Docking Studies and Biological Evaluation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883332/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.568995+00:00",
+    "authors": [
+      "Mesut Işık",
+      "Gresa Halimi Syla",
+      "Abdüllatif Karakaya",
+      "Ulviye Acar Çevik",
+      "Nour El-Huda Daoud",
+      "Muhammet Fırat",
+      "Yüksel Öğünç Keçeci",
+      "Yusuf Özkay",
+      "Zafer Asım Kaplancıklı",
+      "Şükrü Beydemir"
+    ],
+    "summary": "In this study, thiazole derivatives 13-23 were synthesized as novel cholinesterase inhibitors. Their structures were elucidated using 1H-NMR, 13C-NMR, and elemental analysis techniques. The binding positions and efficiencies of the designed compounds on the enzyme were investigated through molecular docking studies, and the properties of ADMET were examined using computational methods. Cytotoxicity analyses of the synthesized compounds were performed to screen their inhibitory effects on acetylcholinesterase (AChE) and butyrylcholinesterase (BChE) in vitro. It has been determined that these compounds do not exhibit a significant cytotoxic effect on healthy endothelial cells. Although the compounds showed lower efficacy in AChE inhibition compared to the reference compound tacrine (IC50: 0.136 μM; KI: 0.46 ± 0.01 nM), they exhibited moderate inhibitory effects. Among these, compounds 16 and 23 were found to be the most potent AChE inhibitors, with IC50 values of 36.47 µM and 34.65 µM, and KI values of 22.20 ± 1.23 and 21.10 ± 1.58 µM, respectively, while compounds 15 and 20 were found to be the most potent BChE inhibitors, with IC50 values of 17.76 µM and 16.90 µM, and KI values of 14.10 ± 0.58 and 13.40 ± 0.48 µM, respectively, on other cholinesterases. These tested compounds can be considered potential candidates for further research in the treatment of Alzheimer's disease (AD).",
+    "doi": "10.3390/molecules31193568",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "ADMET"
+    ],
+    "extra": {
+      "pmid": "42883332",
+      "journal": "Molecules (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/molecules31193568"
+  },
+  {
+    "kind": "article",
+    "title": "Synthesis, Biological Evaluation, and Molecular Docking of Pyridine-Containing Squaramides as DNase I Inhibitors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883314/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.569622+00:00",
+    "authors": [
+      "Mariyana Atanasova",
+      "Nina Ruseva",
+      "Georgi Tirolski",
+      "Simeon Stoyanov",
+      "Ana Marković",
+      "Andrija Šmelcerović",
+      "Magdalena Angelova",
+      "Hristina Sbirkova-Dimitrova",
+      "Adriana Bakalova",
+      "Rositsa Mihaylova",
+      "Emiliya Cherneva"
+    ],
+    "summary": "DNase I inhibitors may be useful as biochemical tools and as potential leads for investigating pathological processes associated with excessive DNA degradation. Squaramides represent attractive scaffolds for drug discovery owing to their rigid, highly polarized structure and versatile hydrogen-bonding properties. Four novel pyridine-containing squaramides (5a-5d), comprising two symmetric and two asymmetric derivatives, were synthesized and structurally characterized by spectroscopic methods and, for 5a and 5b, single-crystal X-ray diffraction. Their DNase I inhibitory activity and cytotoxicity were evaluated experimentally. Comparative structure-activity analysis, molecular docking, molecular descriptor calculations, and in silico ADME profiling were additionally performed. All compounds inhibited bovine pancreatic DNase I, with IC50 values ranging from 34.42 ± 5.86 to 61.95 ± 9.61 μM. Compound 5a showed the highest inhibitory activity within the present series (IC50 = 34.42 ± 5.86 μM). Comparison with five previously reported structurally related derivatives identified preliminary structure-activity trends, with 5a exhibiting the highest activity among the nine compounds considered. Molecular docking predicted a common preferred binding region within the major DNA-contact/catalytic region of DNase I and suggested possible noncovalent ligand-enzyme interactions. Molecular descriptor calculations revealed differences in the electronic properties of selected compounds, while in silico ADME analysis predicted generally favorable physicochemical and absorption-related properties together with potential pharmacokinetic liabilities. No measurable cytotoxicity was observed against the investigated cancer cell lines at the tested concentrations. Pyridine-containing squaramides represent a promising scaffold for further investigation as DNase I inhibitors, with 5a providing a useful starting point for subsequent structural optimization and mechanistic studies.",
+    "doi": "10.3390/molecules31193548",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery",
+      "molecular docking",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42883314",
+      "journal": "Molecules (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/molecules31193548"
+  },
+  {
+    "kind": "article",
+    "title": "DFT, Molecular Docking, and Molecular Dynamics Analysis of Electronic Structure, Reactivity, and PTP1B Binding of Phenylacetic and Benzylmalonic Acid-Functionalized C60 Derivatives.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883306/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.570148+00:00",
+    "authors": [
+      "Verónica Rodríguez-Celestino",
+      "Zuriel Natanael Cisneros-García",
+      "Jaime Gustavo Rodríguez-Zavala",
+      "Carlos Iván Méndez-Barrientos",
+      "José Guadalupe Facio-Muñoz"
+    ],
+    "summary": "Water-soluble C60 derivatives functionalized with phenylacetic acid (PhAA) and benzylmalonic acid (BnMA), together with their di- and tetrahydroxylated derivatives, were investigated using density functional theory, molecular docking, and molecular dynamics simulations to evaluate their electronic structure, local and global reactivity, and interactions with protein tyrosine phosphatase 1B (PTP1B). Successive hydroxylation steps were thermodynamically favorable, while electronic structure and reactivity analyses indicated that the fullerene cage retains features compatible with further ROS-related reactivity after hydroxylation. Electrostatic potential analysis revealed differentiated polarity between the fullerene and functionalization regions. Docking showed functionalization-dependent binding modes: PhAA-derived systems sampled both peripheral regions near the WPD and R loops and the catalytic pocket, whereas BnMA-derived systems consistently occupied the catalytic site and interacted with key residues, including Cys215 and Arg221. Molecular dynamics showed reduced flexibility in functionally relevant regions, reorganization of correlated motions, and average catalytic-pocket conformations that were more open than in apo-PTP1B. Overall, these results support the potential of these derivatives for ROS-related reactivity and modulation of PTP1B, although experimental validation is required to establish their biological activity.",
+    "doi": "10.3390/molecules31193543",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics"
+    ],
+    "extra": {
+      "pmid": "42883306",
+      "journal": "Molecules (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/molecules31193543"
+  },
+  {
+    "kind": "article",
+    "title": "Synthesis, Biological Evaluation, Molecular Docking and DFT Studies of Electronically Tuned Benzylidene-Based Schiff Bases.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883283/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.570719+00:00",
+    "authors": [
+      "Kerem Buran",
+      "Elmas Rumeysa Yıldırım",
+      "Nazmiye Öner",
+      "Derya Doğanay",
+      "Esra Mertoğlu",
+      "Abdullahi İbrahim Uba",
+      "Gokhan Zengin"
+    ],
+    "summary": "Inspired by the medicinally relevant stilbene scaffold, a series of six electronically tuned benzylidene-based Schiff base derivatives were designed, synthesized, and characterized by FT-IR, 1H NMR, 13C NMR, and ESI-MS analyses. The biological properties of the synthesized compounds were investigated through antioxidant, enzyme inhibitory, and antimicrobial assays, while molecular docking and density functional theory (DFT) calculations were performed to rationalize the experimental findings and structure-activity relationships. Compounds 3 and 6 exhibited the strongest antioxidant activities, particularly in ABTS, CUPRAC, FRAP, phosphomolybdenum, and metal-chelating assays. Compounds 1-3 and 5 demonstrated measurable α-glucosidase inhibitory activity, although they were less potent than acarbose, whereas compounds 1 and 2 showed the highest tyrosinase inhibition within the synthesized series. Antimicrobial evaluation revealed moderate activity across the series, with compound 3 displaying relatively higher antimicrobial activity within the synthesized series. Docking studies demonstrated favorable interactions within enzyme active sites, while DFT calculations provided insights into electronic properties and molecular reactivity. As a result, the investigated substitution patterns were associated with differences in biological activity within the synthesized series, with compound 3 showing relatively favorable activity in selected assays and warranting further investigation.",
+    "doi": "10.3390/molecules31193519",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42883283",
+      "journal": "Molecules (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/molecules31193519"
+  },
+  {
+    "kind": "article",
+    "title": "Design and Synthesis of Geranylated Benzaldehydes: Evaluation of Antifungal Activities Against Botrytis cinerea and Phytophthora cinnamomi.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883246/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.571274+00:00",
+    "authors": [
+      "Ligia Llovera",
+      "Luis Espinoza-Catalán",
+      "Héctor Carrasco",
+      "Andrés F Olea",
+      "Marco Mellado",
+      "Lautaro Taborga",
+      "Mauricio Soto"
+    ],
+    "summary": "A series of ten geranylated benzaldehydes (11-20) was designed, synthesized via Suzuki cross-coupling for the C-C series and SN2 substitution for the C-O derivatives, and structurally characterized. The antifungal activity of all compounds against the phytopathogens Botrytis cinerea and Phytophthora cinnamomi, two important plant pathogens associated with substantial agricultural and economic losses worldwide, was evaluated in vitro using a mycelial growth inhibition assay. Dose-response treatment of the data indicates that (E)-2-((3,7-dimethylocta-2,6-dien-1-yl)oxy)-5-hydroxybenzaldehyde (19) is the most active compound exhibiting EC50 values of 83 µg/mL and 7.34 µg/mL against B. cinerea and P. cinnamomi, respectively. To gain insight into the molecular basis of the observed antifungal activity, molecular docking studies were performed targeting the active site of succinate dehydrogenase (SDH, PDB ID: 2FBW), a key enzyme in the mitochondrial respiratory chain and a validated fungicide target. The calculated docking scores ranged from -6.0 to -7.5 kcal/mol, with compound 19 showing the highest binding affinity. Docking analysis reveals that compound 19 is stabilized within the SDH binding pocket through a network of hydrogen bonding and π-cation interactions involving the heme prosthetic group and key amino acid residues, providing a plausible structural rationale for its high antifungal activity, particularly against P. cinnamomi.",
+    "doi": "10.3390/molecules31193481",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42883246",
+      "journal": "Molecules (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/molecules31193481"
+  },
+  {
+    "kind": "article",
+    "title": "Design, Synthesis, and Evaluation of Novel Cephalotaxine-Cinnamic Acid Derivatives Against Hepatocellular Carcinoma.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883242/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.571822+00:00",
+    "authors": [
+      "Wenxing Li",
+      "Yiming Qian",
+      "Hao Wang",
+      "Yang Hui",
+      "Haofu Dai",
+      "Wenhao Chen"
+    ],
+    "summary": "Cephalotaxine (1) is a parent compound within the cephalotaxine alkaloids class mainly derived from Cephalotaxus plants. In this study, by coupling 1 with cinnamic acid, 17 novel cephalotaxine-cinnamic acid derivatives (S1-S17) were designed and synthesized to enhance their anti-tumor efficacy. Among them, S10 showed the strongest cytotoxic activity against Huh7 cells, with the IC50 values of 9.3 and 5.9 μM after 24 h and 48 h, respectively, which were 21 and 32 times more potent than those of 1. In addition, compared with those against AML-12 cells, the proliferation inhibition rates of S10 against Huh7 cells were 5.0-fold lower, indicating a certain therapeutic window. Network pharmacology screening results indicate that S10 may exert regulatory effects closely related to cell migration and apoptosis through pathways such as PI3K/AKT. Molecular docking showed that S10 could effectively bind to the key targets PI3K and AKT. And the Western blot experiment results confirm that S10 could downregulate the expression of p-PI3K and p-AKT at the protein level while keeping total PI3K and AKT unchanged. Notably, S10 may regulate liver cancer cells by inhibiting the PI3K/AKT signaling pathway. Mechanistically, S10 induces S cycle arrest, reduces mitochondrial membrane potential, induces apoptosis, and inhibits migration and invasion. Overall, we reported S10 as a promising lead compound for the treatment of liver cancer.",
+    "doi": "10.3390/molecules31193478",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "network pharmacology"
+    ],
+    "extra": {
+      "pmid": "42883242",
+      "journal": "Molecules (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/molecules31193478"
+  },
+  {
+    "kind": "article",
+    "title": "Identification of Imidazole-Benzenesulfonamide Derivatives with Anti-Inflammatory Activity Through Modulation of NF-κB Signaling.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883238/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.572408+00:00",
+    "authors": [
+      "Povilas Kavaliauskas",
+      "Valdas Vainauskas",
+      "Vidmantas Petraitis",
+      "Ruta Petraitiene",
+      "Waldo Acevedo",
+      "Ramunė Grigalevičiūtė",
+      "Birutė Grybaitė",
+      "Božena Golcienė",
+      "Rolandas Stankevičius",
+      "Julius Rakickas",
+      "Vytautas Mickevičius"
+    ],
+    "summary": "Inflammatory disorders remain an important therapeutic challenge, highlighting the need to identify novel small molecules capable of modulating inflammatory signaling. In this study, an in-house library of aromatic and heterocyclic drug-like compounds was screened for inhibition of lipopolysaccharide (LPS)-induced nuclear factor kappa B (NF-κB) activation using THP-1 dual-reporter cells. Eight compounds markedly suppressed NF-κB activity, and five structurally related 4-phenylimidazole-based benzenesulfonamide derivatives (1232, 1239, 1241, 1242, and 1245) were prioritized based on their cytotoxicity profiles. Functional activity was subsequently evaluated in LPS-stimulated RAW 264.7 macrophages. The selected compounds reduced nitrite production, attenuated LPS-induced nuclear localization of NF-κB, and differentially affected IL-6, KC/CXCL1, and TNF-α production. The naphthyl-substituted derivative 1239 showed prominent inhibition of nitrite, IL-6, and KC/CXCL1 production, whereas the ethylthio derivative 1232 preferentially reduced TNF-α. Molecular docking against a panel of inflammation-associated proteins revealed favorable predicted interactions of compound 1239 with IκB kinase(IKK) and p38 mitogen-activated protein kinase (p38 MAPK), with docking scores of -10.3 kcal/mol for both proteins and binding poses overlapping the corresponding crystallographic ligand-binding regions. Collectively, these findings identify 4-phenylimidazole-based benzenesulfonamides as a promising chemical series with anti-inflammatory activity and suggest IKK and p38 MAPK as potential components of the affected signaling network. Further structure-activity and mechanistic studies are required to define the molecular targets and optimize the activity of this compound class.",
+    "doi": "10.3390/molecules31193472",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42883238",
+      "journal": "Molecules (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/molecules31193472"
+  },
+  {
+    "kind": "article",
+    "title": "Development of G Protein-Coupled Receptor 183 Benzimidazole Antagonists Utilizing a Core-Hopping Approach.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883234/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.572953+00:00",
+    "authors": [
+      "Angelina Ellis",
+      "Israel Olayide",
+      "Vanja Kalajdzic",
+      "Daniela Salvemini",
+      "Christopher Arnatt"
+    ],
+    "summary": "G protein-coupled receptor 183 (GPR183, EBI2) has emerged as a promising therapeutic target for neuropathic pain due to its role in neuroinflammatory signaling. Previously, our group identified SAE-14 as a potent GPR183 antagonist and lead scaffold for analgesic development. To further explore the structural requirements for receptor antagonism, a ligand-based core-hopping strategy was employed to identify novel chemotypes derived from SAE-14. Virtual screening identified a trisubstituted benzimidazole scaffold as a promising candidate for further investigation. A focused series of benzimidazole analogs was synthesized and evaluated for inhibition of 7α,25-dihydroxycholesterol (7α,25-OHC)-induced GPR183 activation using calcium mobilization assays. Several compounds exhibited potent antagonistic activity, with four analogs demonstrating comparable potency relative to SAE-14. The most active compounds displayed IC50 values of 15.7, 15.8, 18.0, and 19.3 nM. Structure-activity relationship studies revealed that both electron-rich aromatic substituents and heteroaromatic moieties were well tolerated within the benzimidazole scaffold. These findings identify benzimidazole as a novel scaffold for GPR183 antagonism, expand the chemical space surrounding GPR183 inhibitors, and provide a foundation for future lead optimization efforts.",
+    "doi": "10.3390/molecules31193469",
+    "company_slug": null,
+    "keywords_matched": [
+      "virtual screening"
+    ],
+    "extra": {
+      "pmid": "42883234",
+      "journal": "Molecules (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/molecules31193469"
+  },
+  {
+    "kind": "article",
+    "title": "Green Extraction and Molecular Docking-Guided Discovery of Asiaticoside as a Multi-Target Modulator of the SIRT1/HMGB1/p53-p21 Axis in H2O2-Induced Senescent Endothelial Cells.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883216/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.573504+00:00",
+    "authors": [
+      "Wenkai Li",
+      "Jianhua Huang",
+      "Fei Zeng",
+      "Yuping Wang",
+      "Xiong Liu",
+      "Junjie Wang",
+      "Siyu Liu"
+    ],
+    "summary": "Endothelial cell senescence is a key contributor to vascular ageing and cardiovascular diseases. Asiaticoside, a pentacyclic triterpenoid saponin from Centella asiatica, exhibits anti-inflammatory and antioxidant activities, yet its potential to modulate endothelial senescence remains unexplored. Herein, we report the molecular docking-guided discovery of asiaticoside as a multi-target modulator of the SIRT1/HMGB1/p53-p21 senescence regulatory axis. Asiaticoside was isolated via a green acid-hydrolysis strategy using dilute HCl as the extraction solvent, followed by polyamide enrichment and C18 reversed-phase purification (purity > 98%). Molecular docking revealed that asiaticoside binds favourably to SIRT1 (-8.1 kcal mol-1), the HMGB1-DNA complex (-10.7 kcal mol-1), and several senescence-associated secretory phenotype (SASP)-related inflammatory cytokines. In H2O2-induced senescent human umbilical vein endothelial cells (HUVECs), asiaticoside at 100 μM significantly reduced senescence-associated β-galactosidase activity and alleviated G0/G1 cell cycle arrest without cytotoxicity. Mechanistically, asiaticoside restored SIRT1 expression, suppressed the secretion of IL-1β, IL-6, IL-8, TNF-α, and HMGB1, downregulated p21 at both mRNA and protein levels, reduced p53 protein expression, and suppressed p16 mRNA expression. These findings demonstrate that asiaticoside attenuates endothelial senescence and SASP-driven inflammation, an effect associated with restoration of SIRT1 expression and suppression of the HMGB1/p53-p21 pathway.",
+    "doi": "10.3390/molecules31193451",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42883216",
+      "journal": "Molecules (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/molecules31193451"
+  },
+  {
+    "kind": "article",
+    "title": "Design, Synthesis and Antitumor Activity Evaluation of Novel Dual G9a/EZH2 Inhibitors.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883209/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.574051+00:00",
+    "authors": [
+      "Yajie Shi",
+      "Qiuyue Zhang",
+      "Maoying Zhang",
+      "Xiujuan Zhao",
+      "Shuhang Zhang",
+      "Jirui Li",
+      "Haofeng Li",
+      "Chenglin Fu",
+      "Guoliang Chen"
+    ],
+    "summary": "Targeting the crosstalk between histone methyltransferases G9a and EZH2 represents a promising strategy for cancer therapy. To improve upon our previously reported dual inhibitor SU08, we rationally designed and synthesized five series (SU, UA, UB, N, and L) of novel G9a/EZH2 dual inhibitors, incorporating diverse pyridone, urea, and thienopyrimidine moieties, yielding a total of 43 compounds. In vitro enzymatic screening revealed that compound SU101 against both EZH2 (IC50 = 4.08 nM) and G9a (IC50 = 2.92 nM) was comparable to SU08. Western blot analysis confirmed that SU101 and SU103 effectively suppressed both H3K27me3 and H3K9me2 expression in rhabdomyosarcoma RD cells. In cellular antiproliferative assays, SU101 showed the strongest activity (IC50 = 15.33 μM). Molecular docking and dynamics simulations verified stable binding interactions between SU101 and both target proteins. Pharmacokinetic studies in rats demonstrated that SU101 possesses excellent oral bioavailability (94.3%), moderate plasma protein binding (84.6%), and an acceptable acute toxicity profile (LD50 = 31.02 mg/kg in mice). Overall, these results suggest that SU101 may serve as a promising lead compound for further optimization and support the continued exploration of dual G9a/EZH2 inhibitors as a potential therapeutic approach for rhabdomyosarcoma.",
+    "doi": "10.3390/molecules31193446",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42883209",
+      "journal": "Molecules (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/molecules31193446"
+  },
+  {
+    "kind": "article",
+    "title": "Design, Synthesis, In Vitro and In Silico Evaluation of Triazole-Benzimidazole Hybrid Derivatives as Potential Inhibitors of EGFR, EGFR-L858R, and EGFR-L858R/T790M.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883199/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.574693+00:00",
+    "authors": [
+      "Harun Uslu",
+      "Arzu Hıdır",
+      "Esra Yumuşak",
+      "Derya Osmaniye",
+      "Bünyamin Göktaş",
+      "Yusuf Özkay",
+      "Zafer Asım Kaplancıklı"
+    ],
+    "summary": "Epidermal growth factor receptor (EGFR) has become one of the most important molecular targets for the development of anticancer agents because of its critical role in regulating cell proliferation, differentiation, and survival. In the present study, a novel series of benzimidazole-triazole derivatives were designed by incorporating pharmacophoric features of clinically used EGFR inhibitors, synthesized, characterized, and evaluated for their anticancer potential. Cytotoxicity studies against the A549 lung cancer cell line identified 2-((4-Ethyl-5-(2-(4-hydroxyphenyl)-1H-benzo[d]imidazol-6-yl)-4H-1,2,4-triazol-3-yl)thio)-N-methylacetamide, 2-((4-Ethyl-5-(2-(4-hydroxyphenyl)-1H-benzo[d]imidazol-6-yl)-4H-1,2,4-triazol-3-yl)thio)-N-(hydroxymethyl)acetamide, 2-((4-Ethyl-5-(2-(4-hydroxyphenyl)-1H-benzo[d]imidazol-6-yl)-4H-1,2,4-triazol-3-yl)thio)-N-methoxy-N-methylacetamide, and 2-((4-Ethyl-5-(2-(4-hydroxyphenyl)-1H-benzo[d]imidazol-6-yl)-4H-1,2,4-triazol-3-yl)thio)-N-phenylacetamide as active derivatives, with compound 5a exhibiting the highest antiproliferative activity (IC50 = 6.014 ± 0.758 µM), and relatively low cytotoxicity toward NIH/3T3 cells. Based on these findings, 2-((4-Ethyl-5-(2-(4-hydroxyphenyl)-1H-benzo[d]imidazol-6-yl)-4H-1,2,4-triazol-3-yl)thio)-N-methylacetamide was further evaluated against EGFR and its clinically relevant mutant forms, EGFR-L858R and EGFR-L858R/T790M. Retrospective in silico ADME analysis indicated that the synthesized compounds generally possessed favorable drug-like properties, with 2-((4-Ethyl-5-(2-(4-hydroxyphenyl)-1H-benzo[d]imidazol-6-yl)-4H-1,2,4-triazol-3-yl)thio)-N-methylacetamide showing the most favorable overall drug-likeness profile among the series. Molecular docking and molecular dynamics studies revealed that compound 2-((4-Ethyl-5-(2-(4-hydroxyphenyl)-1H-benzo[d]imidazol-6-yl)-4H-1,2,4-triazol-3-yl)thio)-N-methylacetamide formed stable interactions with key residues in the ATP-binding site of unmutated EGFR, supporting the in vitro inhibition results. Overall, synthesized benzimidazole-triazole derivatives may be promising precursor compounds for the development of novel EGFR inhibitors, particularly against unmutated EGFR cancer cells.",
+    "doi": "10.3390/molecules31193433",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics",
+      "drug-likeness",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42883199",
+      "journal": "Molecules (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/molecules31193433"
+  },
+  {
+    "kind": "article",
+    "title": "Exploratory Analysis of the Effects of Thymoquinone Alone and in Combination with 5-Fluorouracil on Inflammatory Mediators in Colorectal Cancer Cells: An In Vitro and In Silico Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883180/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.575262+00:00",
+    "authors": [
+      "Natalia Kurowska",
+      "Marcel Madej",
+      "Maria Książek",
+      "Barbara Strzałka-Mrozik"
+    ],
+    "summary": "Colorectal cancer (CRC) remains one of the leading causes of cancer-related morbidity and mortality worldwide. Chronic inflammation plays a pivotal role in CRC development and progression, with cyclooxygenase-2 (COX-2), interleukin-6 (IL-6), and interleukin-8 (IL-8) representing key mediators of tumor-promoting inflammation. This study aimed to evaluate the effects of thymoquinone (TQ), 5-fluorouracil (5-FU), and their combination on the expression of COX-2, IL-6, and IL-8 at both the mRNA and protein levels in colorectal cancer cell lines (SW1116 and RKO) and normal colon epithelial cells (CCD-841CoN). Although numerical changes in inflammation-associated mediator expression were observed following TQ monotherapy, none of the TQ-monotherapy comparisons versus the untreated control reached statistical significance after correction for multiple comparisons. Notably, combined TQ/5-FU treatment significantly reduced COX-2 protein levels in SW1116 cells compared with the untreated control. Differences between transcript and protein responses were observed across the investigated cell lines and treatment conditions. However, since both endpoints were assessed at a single time point, the mechanisms underlying these differences cannot be conclusively determined from the present data. Exploratory molecular docking analysis was additionally performed to examine potential direct interactions of TQ with COX-2, IL-6, and IL-8. The predicted docking scores ranged from -5.1 to -6.6 kcal/mol, with the most favorable predicted interaction observed for COX-2. These computational findings are hypothesis-generating and should be interpreted independently of the experimentally observed changes in target expression. Collectively, the present findings demonstrate treatment- and cell-line-dependent response patterns in inflammation-associated mediators, while providing no statistically significant evidence of an effect of TQ monotherapy versus the untreated control under the present experimental conditions.",
+    "doi": "10.3390/molecules31193415",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42883180",
+      "journal": "Molecules (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/molecules31193415"
+  },
+  {
+    "kind": "article",
+    "title": "Mechanistic Insights into Polyphenol Oxidase Inhibition by Four Bioactive Constituents from Hydrangea macrophylla Serrata: Antioxidant Activity of Single Compounds Compared to the Whole-Leaf Extract.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883176/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.575839+00:00",
+    "authors": [
+      "Sijie Mei",
+      "Thomas Heymann",
+      "Volker Böhm"
+    ],
+    "summary": "Hydrangea macrophylla serrata (tea-hortensia) leaves are traditionally used to produce a sweet herbal tea (\"Amacha\") and contain hydroxycinnamates and dihydroflavonols with potential bioactivities (e.g., anti-inflammatory, anti-allergy). In this study, from an extract of tea-hortensia leaves, we isolated and structurally characterized four major constituents: chlorogenic acid (CGA, 5-caffeoylquinic acid), hydrangenol (HG), hydrangeic acid (HGA), and phyllodulcin (PD). The four constituents and the extract were evaluated for antioxidant capacity via total phenolic content (TPC), ABTS radical scavenging (TEAC: Trolox equivalent antioxidant capacity), and oxygen radical absorbance capacity (ORAC) assays, and for anti-browning potential via polyphenol oxidase (PPO) inhibition assays. To elucidate the underlying mechanisms, we employed kinetic analysis to determine inhibition types, evaluated copper-chelating capacity, and performed molecular docking simulations to investigate ligand-PPO binding modes and key interacting residues. The tea extract exhibited significantly superior antioxidant capacity compared to all isolated compounds across all assays, with CGA being the most potent among the four compounds. For anti-browning activity, CGA and PD showed the strongest PPO inhibition (90%), while the tea extract (83% at 2 mg/mL) outperformed HG and HGA but was less potent than CGA and PD. Molecular docking further revealed that CGA formed stable interactions with key residues in the PPO active site. These findings provide a systematic comparative assessment of the anti-browning mechanisms of the major constituents of H. macrophylla serrata, highlighting the potential of this plant as a natural source of antioxidants and anti-browning agents for food applications. The integration of biochemical kinetics, copper-chelating analysis, and in silico docking offers a comprehensive mechanistic framework for understanding PPO inhibition by natural phenolic compounds.",
+    "doi": "10.3390/molecules31193411",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42883176",
+      "journal": "Molecules (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/molecules31193411"
+  },
+  {
+    "kind": "article",
+    "title": "Can Molecular Docking Predict Guest Orientation in β-Cyclodextrin? A Cross-Docking and DFT Refinement Study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42883148/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T14:12:18.576393+00:00",
+    "authors": [
+      "Ewa Napiórkowska",
+      "Konrad Adam Michalik",
+      "Łukasz Szeleszczuk"
+    ],
+    "summary": "Molecular docking is widely used to predict cyclodextrin host-guest structures, yet its ability to reproduce the directional orientation of asymmetric guests within the β-cyclodextrin (β-CD) cavity has rarely been evaluated systematically. Here, 20 crystallographically characterized 1:1 β-CD complexes containing asymmetric 1,4-disubstituted benzene guests were selected from the Cambridge Structural Database. Each guest was docked into each of 20 experimentally derived β-CD conformations, yielding 7916 retained poses. Poses reproducing the crystallographic direction of inclusion were classified as Up, whereas the opposite orientation was classified as Down. Across the complete dataset, approximately 26% of poses were Up, with guest-dependent frequencies ranging from 5% to 83%. Importantly, only one β-CD conformation generated Up poses for all 20 guests, whereas the complete receptor set sampled at least one crystal-consistent pose for every compound. However, GlideScore-based orientation recovery was 65% for Top-1, 95% for Top-2, and 100% for Top-3, demonstrating that successful sampling does not necessarily ensure correct top-ranked prediction. Selected poses were subsequently optimized using dispersion-corrected DFT. DFT-based energetic ranking did not consistently favour the crystallographic orientation and could either decrease or increase guest heavy-atom RMSD. Overall, the results demonstrate that reliable validation of β-CD docking requires explicit separation of pose generation, pose ranking, energetic refinement, and structural similarity, and support the use of structurally diverse crystal-derived receptor sets to broaden orientational sampling.",
+    "doi": "10.3390/molecules31193379",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42883148",
+      "journal": "Molecules (Basel, Switzerland)"
+    },
+    "dedupe_key": "doi:10.3390/molecules31193379"
   }
 ]
