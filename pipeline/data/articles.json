@@ -626,6 +626,97 @@
   },
   {
     "kind": "article",
+    "title": "Adaptive-optics lattice light-sheet microscopy enables correlative single-molecule imaging of endogenous proteins in native environments",
+    "url": "https://doi.org/10.64898/2026.10.10.758183",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T23:52:17.123274+00:00",
+    "authors": [
+      "Malivert, M.",
+      "Galizia, C. C.",
+      "Willems, B. A.",
+      "Mondin, M.",
+      "Lemoigne, C.",
+      "Lecompte Saint-Jean, P.",
+      "Demeer, B.",
+      "Marcelino, M.",
+      "Crippa, D.",
+      "Thoumine, O.",
+      "Harms, F.",
+      "Sainlos, M.",
+      "Choquet, D.",
+      "Ducros, M.",
+      "Getz, A. M."
+    ],
+    "summary": "Resolving molecular organization and dynamics in native environments remains challenging, as single-molecule imaging requires high sensitivity and spatiotemporal resolution while preserving 3D cellular context. Here, we present ALPINE (Adaptive-optics Lattice light-sheet microscopy for endogenous Protein Imaging in Native Environments), a modular framework for quantitative single-molecule imaging into complex biological samples. ALPINE combines adaptive-optics lattice light-sheet microscopy, programmable PSF shaping and acquisition stabilization, an engineered cell-specific labelling toolkit for endogenous cell-surface proteins and analysis pipelines assigning molecular localizations and trajectories to 3D cellular compartments. Labelling endogenous AMPA receptors in intact brain tissue, we demonstrate aberration-corrected 3D single-molecule localization and nanoscale organization within neuronal compartments. Importantly, fast optical sectioning of lattice light-sheet illumination further enables 3D single-molecule tracking in live tissue and quantification of molecular dynamics within native cellular environment. Together, ALPINE provides a modular approach to investigate how end",
+    "doi": "10.64898/2026.10.10.758183",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {
+      "category": "neuroscience"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.10.758183"
+  },
+  {
+    "kind": "article",
+    "title": "Immunoinformatics-Based Design of a Chimeric Vaccine Against Necator americanus Targeting the Na-APR-1, Na-GST-1, and Na-ASP-2 Vaccine Candidates",
+    "url": "https://doi.org/10.64898/2026.10.09.757581",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T23:52:17.124632+00:00",
+    "authors": [
+      "TANGAN, Y. A. S.",
+      "Nchanji, G. T.",
+      "Nkineh, K. P.",
+      "Efeti, T. M.",
+      "Chick, J. A.",
+      "Ndumu, E.",
+      "Shinyuy, L. M.",
+      "Moyeh, M. N.",
+      "Ghogomu, S. M.",
+      "Shey, R. A."
+    ],
+    "summary": "Hookworm infection, caused predominantly by Necator americanus, is a soil-transmitted helminthiasis that disproportionately affects impoverished communities across tropical and subtropical regions, with an estimated 406-480 million people infected globally. Control continues to rely largely on mass drug administration, an approach challenged by rapid reinfection, the absence of durable protective immunity, and growing concern over reduced drug efficacy. While the leading recombinant protein antigens Na-APR-1, Na-GST-1, and Na-ASP-2 have demonstrated clinical safety and immunogenicity, the withdrawal of Na-ASP-2 after triggering allergic reactions in individuals with prior natural exposure revealed both the promise and the risk of single-antigen approaches, underscoring the need for a rationally designed multi-antigen vaccine. We used an immunoinformatics approach to design a novel chimeric vaccine candidate by combining carefully selected B-cell and T-cell epitopes from the major clinical-stage hookworm protein antigens with an immunostimulatory adjuvant sequence. The candidate's 3D structure was predicted, refined, and validated using established bioinformatics approaches, and its",
+    "doi": "10.64898/2026.10.09.757581",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "vaccine design"
+    ],
+    "extra": {
+      "category": "bioinformatics"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.09.757581"
+  },
+  {
+    "kind": "article",
+    "title": "From Notch-Tip Stress to Mechanophore Activation - A Multiscale Study of Mechanochromic PMMA",
+    "url": "https://doi.org/10.26434/chemrxiv.15010613/v1",
+    "source": "ChemRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T23:52:26.693405+00:00",
+    "authors": [
+      "Alexander Dellwisch",
+      "Florian Bischoff",
+      "Lucio Colombi Ciacchi",
+      "Tim Neudecker"
+    ],
+    "summary": "Mechanophore-functionalized polymers enable optical readout of molecular-level stress under macroscopic deformation. Spiropyran (SP)-doped poly(methyl methacrylate) (PMMA) provides a well-established platform for mechanochemical stress sensing, yet molecular stress fields around defined geometric stress concentrators remain largely disconnected from continuum mechanics. To bridge this gap, we develop a geometry-matched molecular dynamics (MD) and finite-element (FE) approach for PMMA containing two opposing semi-elliptical notches of systematically varied depth and width. Molecular simulations employ a hybrid coarse-grained/all-atom (CG/AA) PMMA model with atomistically resolved, quantum-chemically (QC) informed SP, while the FE models use the MD-derived stress–strain response of bulk PMMA as input. Under uniaxial tension, both approaches capture notch-tip stress localization, plastic-zone propagation toward the ligament center, and the characteristic butterfly-shaped stress field. FE simulations reproduce MD notch-tip stresses, demonstrating that suitably parameterized continuum models capture key notch mechanics, whereas defect-mediated rearrangements require molecular resolution",
+    "doi": "10.26434/chemrxiv.15010613/v1",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {},
+    "dedupe_key": "doi:10.26434/chemrxiv.15010613/v1"
+  },
+  {
+    "kind": "article",
     "title": "Transfer seeding reveals divergent activation ensembles across tyrosine kinases",
     "url": "https://doi.org/10.64898/2026.06.26.734786",
     "source": "bioRxiv",
@@ -91383,5 +91474,134 @@
       "journal": "Rheumatology (Oxford, England)"
     },
     "dedupe_key": "doi:10.1093/rheumatology/keag565"
+  },
+  {
+    "kind": "article",
+    "title": "Disclosing pathogenic processes of monkeypox (MPOX) and drug repurposing through host-transcriptomics analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886687/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T23:50:43.045907+00:00",
+    "authors": [
+      "Sabkat Mahmud",
+      "Alvira Ajadee",
+      "Md Ahad Ali",
+      "Md Feroj Ahmed",
+      "Reaz Ahmmed",
+      "Md Masud Rana",
+      "Tasfia Noor",
+      "Md Fahim Faysal",
+      "Md Hadiul Kabir",
+      "Md Nurul Haque Mollah"
+    ],
+    "summary": "Monkeypox (MPOX) virus infection outbreak in Africa in 2022 was initially considered a neglected tropical disease (NTD). Now it is recognized as a global health problem. The recent global spread has emphasized the need for increased attention to combat MPOX. Although there are some vaccines against MPOX, most people worldwide are still not vaccinated due to their unawareness or unavailability. However, so far, there is no approved drug against MPOX yet. Therefore, effective drugs against MPOX are also essential. This study attempted to disclose pathogenic processes and therapeutic strategies of MPOX based on MPOX-associated host key-genes (hKGs). At first, three transcriptomic profile datasets were analyzed, identifying 166 common host differentially expressed genes (hDEGs) between MPOX patients and control groups, comprising 75 upregulated and 91 downregulated hDEGs. Subsequently, six top-ranked host key genes (hKGs): ALB, HSP90AA1, CDH1, PTPRC, IGF1, and ABL1, were identified as potential MPOX-causing genes through protein-protein interaction (PPI) network analysis. Functional enrichment analysis of these hKGs revealed critical pathogenic processes of MPOX infection, including biological processes, molecular functions, cellular components, and KEGG pathways. Regulatory network analysis involving transcription factors and miRNAs provided further insights into disease mechanisms. Based on molecular docking analysis, five top-ranked drug molecules Tecovirimat, Beclabuvir, Maraviroc, Raltegravir, and Brincidofovir were identified as potential repurposable therapeutics against MPOX. ADME/T and drug-likeness evaluations confirmed favorable pharmacokinetic properties for these candidates. Additionally, 100 ns molecular dynamics (MD) simulations of the top three complexes (ALB-Tecovirimat, CDH1-Maraviroc, and PPARG-Beclabuvir) demonstrated strong binding stability, supported by RMSD, RMSF, and MM-GBSA results. Therefore, the results provided in this study might be potential resources for diagnosis and therapies of MPOX patients. However, the findings require experimental validation in wet lab for further confirmation.",
+    "doi": "10.1371/journal.pntd.0014797",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics",
+      "drug repurposing",
+      "drug-likeness"
+    ],
+    "extra": {
+      "pmid": "42886687",
+      "journal": "PLoS neglected tropical diseases"
+    },
+    "dedupe_key": "doi:10.1371/journal.pntd.0014797"
+  },
+  {
+    "kind": "article",
+    "title": "Exploring the pharmacological basis of adverse effects in oxazolidinone and antidepressant cotherapy: an in silico study.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886400/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T23:50:43.046585+00:00",
+    "authors": [
+      "Gael García-Valdez",
+      "Luis Fernando Méndez-López",
+      "Set Mondragon-Gutiérrez",
+      "Daniela Treviño-Almaguer",
+      "María Del Rayo Camacho-Corona",
+      "Bryan Alejandro Espinosa-Rodríguez"
+    ],
+    "summary": "Linezolid and related oxazolidinones are frontline antibiotics against multidrug-resistant Gram-positive pathogens, including methicillin-resistant Staphylococcus aureus (MRSA), yet their co-administration with antidepressants has been clinically associated with serotonin syndrome (SS) or hypertensive crisis (HC). While traditionally attributed to monoamine oxidase (MAO) inhibition, clinical observations remain variable and the underlying mechanism is not completely understood. In this exploratory study, we applied an integrated in silico framework combining target prediction, network similarity, and structural modeling to generate testable hypotheses regarding potential alternative targets. Consensus profiling using SwissTargetPrediction and an integrative structural- and physicochemical-based target prediction methodology predicted possible interactions of linezolid and tedizolid with MAO isoforms, alongside exploratory aminergic targets including the 5-HT1A (HTR1A) receptor and adrenergic clusters. Comparing predicted targets with clinical datasets revealed an overlap with genes associated with SS and HC. Pathway enrichment and Jaccard similarity showed notable functional convergence with sertraline (OC > 0.90). Structural comparisons and physicochemical clustering grouped oxazolidinones near neurotransmitter intermediates, such as N-acetylserotonin. Furthermore, molecular docking across multiple crystallographic structures and ligand efficiency (LE) estimations suggested theoretically favorable interactions within MAO and HTR1A binding pockets, supported by shared pharmacophoric features. These computational findings provide a preliminary, hypothesis-generating basis suggesting that oxazolidinone-induced toxicity may involve targets beyond MAO, highlighting HTR1A modulation as a candidate mechanism requiring dedicated in vitro and in vivo validation.",
+    "doi": "10.1007/s10822-026-00964-6",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "in silico"
+    ],
+    "extra": {
+      "pmid": "42886400",
+      "journal": "Journal of computer-aided molecular design"
+    },
+    "dedupe_key": "doi:10.1007/s10822-026-00964-6"
+  },
+  {
+    "kind": "article",
+    "title": "Computer-aided development of novel thiazolidinone-thiazole derivatives: multidimensional structure-activity relationships revealed by quantum chemical analysis, molecular docking and biological investigation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886389/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T23:50:43.047253+00:00",
+    "authors": [
+      "Tayyiaba Iqbal",
+      "Shoaib Khan",
+      "Asrar Khan",
+      "Hassnain Sajjad",
+      "Masi A Almalki",
+      "Souhir Abid",
+      "Majdi Abid",
+      "Syed Kashif Ali",
+      "Zaripov Bakridin",
+      "Eshmuratov Baltabay",
+      "Sobhi M Gomha",
+      "Magdi E A Zaki"
+    ],
+    "summary": "Diabetes mellitus is a major global health challenge, highlighting the need for new inhibitors of the carbohydrate-hydrolyzing enzymes α-amylase and α-glucosidase. In this study, a series of thiazole-based thiazolidinone derivatives (1-10) was designed, synthesized, and structurally characterized using spectroscopic techniques. Among the synthesized compounds, 8 showed the strongest inhibitory activity against α-amylase and α-glucosidase, with IC50 values of 5.50 ± 0.40 and 5.90 ± 0.10 µM, respectively, and compared with 10.80 ± 0.50 and 11.10 ± 0.30 µM for acarbose. Molecular docking suggested that compound 8 can adopt a favorable binding orientation within the active sites of both enzymes through hydrogen-bonding and hydrophobic contacts. Enzyme kinetic studies further characterized its mode of inhibition. DFT calculations were performed to examine the electronic properties, frontier molecular orbitals, and molecular electrostatic potential of selected derivatives. ADMET analysis was also conducted to provide preliminary insight into their predicted pharmacokinetic and toxicity-related properties. Overall, the experimental and computational findings identify compound 8 as a promising lead structure for further investigation as an α-amylase and α-glucosidase inhibitor.",
+    "doi": "10.1007/s10822-026-00962-8",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "ADMET"
+    ],
+    "extra": {
+      "pmid": "42886389",
+      "journal": "Journal of computer-aided molecular design"
+    },
+    "dedupe_key": "doi:10.1007/s10822-026-00962-8"
+  },
+  {
+    "kind": "article",
+    "title": "Pyranocoumarin-enriched residue extracts of Angelica gigas suppress NLRP3 inflammasome activation and neuroinflammation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886278/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T23:50:43.047887+00:00",
+    "authors": [
+      "Hye-Sun Lim",
+      "Chang-Seob Seo",
+      "Dong-Seon Kim",
+      "Eunjung Son",
+      "Woo-Young Jeon",
+      "Seong Eun Jin",
+      "Jung-Hee Jang",
+      "Gunhyuk Park"
+    ],
+    "summary": "Angelica gigas Nakai is a medicinal plant rich in pyranocoumarins with well-documented anti-inflammatory and neuroprotective properties. However, the pharmacological potential of residues remaining after conventional aqueous extraction remains largely unexplored. This study investigated the phytochemical composition and anti-neuroinflammatory activity of residue-derived extracts of A. gigas, focusing on the regulation of the NOD-like receptor family pyrin domain-containing 3 (NLRP3) inflammasome. A water extract (PO6W), an ethanol extract (PO6E), and a residue-derived ethanol extract (PO6RE) were chemically characterized and evaluated in lipopolysaccharide-stimulated BV2 microglial cells and an LPS-induced mouse model. Molecular docking, surface plasmon resonance, and MCC950 intervention were used to investigate the association between decursin and NLRP3 signaling. Despite prior aqueous extraction, the residual biomass retained substantial amounts of pyranocoumarins, and subsequent ethanol extraction yielded PO6RE with the highest levels of decursin and decursinol angelate. PO6RE significantly suppressed the expression levels of NLRP3, apoptosis-associated speck-like protein containing a caspase recruitment domain, cleaved caspase-1, and interleukin-1β in BV2 cells and reduced microglial activation in vivo. Decursin showed measurable binding to NLRP3 and reduced NLRP3 expression and interleukin-1β production. A. gigas biomass remaining after aqueous extraction retains bioactive pyranocoumarins that can be recovered by subsequent ethanol extraction. The resulting residue-derived extract exhibited anti-neuroinflammatory activity associated with NLRP3 inflammasome signaling, highlighting extraction residues as an underutilized and potentially sustainable source of bioactive phytochemicals.",
+    "doi": "10.1007/s11033-026-12951-z",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking"
+    ],
+    "extra": {
+      "pmid": "42886278",
+      "journal": "Molecular biology reports"
+    },
+    "dedupe_key": "doi:10.1007/s11033-026-12951-z"
   }
 ]
