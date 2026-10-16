@@ -464,6 +464,168 @@
   },
   {
     "kind": "article",
+    "title": "Two Pleckstrin homology domains scaffold SNAP-47-containing SNARE complexes",
+    "url": "https://doi.org/10.64898/2026.10.15.759244",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T19:01:22.902602+00:00",
+    "authors": [
+      "Alickovic, I.",
+      "Wise, M.",
+      "Tela, R.",
+      "Fausnaught, C.",
+      "Lee, L.",
+      "Beasley, C.",
+      "Carr, C.",
+      "Carr, C.",
+      "Schwindt, L.",
+      "Peters, J. J."
+    ],
+    "summary": "Long-term potentiation requires the regulated insertion of AMPA receptors into the postsynaptic membrane of neurons, a process mediated by a SNARE complex containing SNAP-47, syntaxin-3, and synaptobrevin-2. Compared to other SNAP proteins, SNAP-47 exhibits slower fusion kinetics and contains uncharacterized regions whose functions remain unclear. Here, we integrated biochemical approaches with artificial intelligence structure prediction tools and molecular dynamics to investigate the architecture of SNAP-47-containing SNARE complexes. AlphaFold3 predictions of the ternary SNAP-47-containing SNARE complex revealed one known Pleckstrin homology domain (PH1) and one previously unidentified PH domain (PH2), which we validated experimentally. BioEmu and molecular dynamics simulations indicated that PH1 and PH2 form a stable and energetically favorable interface. In this bound state, PH1 stably interacted with the SNARE coiled coil, and in silico acetylation at a lysine whose acetylation is known to impair SNAP-47 function disrupted this PH1-SNARE interface. AMPAR insertion via SNAP-47-containing SNARE complexes is triggered by the calcium sensor synaptotagmin, and we observed that PH1",
+    "doi": "10.64898/2026.10.15.759244",
+    "company_slug": null,
+    "keywords_matched": [
+      "AlphaFold",
+      "molecular dynamics",
+      "in silico"
+    ],
+    "extra": {
+      "category": "molecular biology"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.15.759244"
+  },
+  {
+    "kind": "article",
+    "title": "Protein Deimmunization with a Generative Diffusion Model",
+    "url": "https://doi.org/10.64898/2026.10.09.758136",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T19:01:22.903800+00:00",
+    "authors": [
+      "Chen, Z.",
+      "Yu, C.-c.",
+      "Zhou, C.",
+      "Jiang, X.",
+      "Nguyen, L.",
+      "Myhrvold, C.",
+      "Jaakkola, T. S.",
+      "Jiang, K."
+    ],
+    "summary": "Protein immunogenicity is a major cause of biologic drug failure, leading to the production of anti-drug antibodies (ADA) that accelerate drug clearance, rejection of repeated doses, abolished efficacy, and sometimes life threatening anaphylaxis in patients. These responses constrain the clinical use of synthetic protein therapeutics from non-human origin. To efficiently deimmunize protein therapeutics, we developed a generative discrete diffusion model (MESSI), which takes protein structures as input and outputs sequences that preserve structure without containing peptides predicted to bind major histocompatibility complex class II molecules. MESSI designs sequences with high structural recovery and down to 0 predicted epitopes for specified MHC molecules at higher efficiency than post-hoc filtering approaches. Experimentally, we first applied MESSI to deimmunize a luciferase and a de novo designed mini-binder against PD-1, resulting in variants with no predicted epitopes and higher activity than their parents. Lastly, we coupled MESSI with evolution guidance to deimmunize uricase, a clinically approved enzyme with severe immunogenicity, and found deimmunized variants with higher ",
+    "doi": "10.64898/2026.10.09.758136",
+    "company_slug": null,
+    "keywords_matched": [
+      "diffusion model protein"
+    ],
+    "extra": {
+      "category": "bioengineering"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.09.758136"
+  },
+  {
+    "kind": "article",
+    "title": "RePurpose: An LLM-Assisted, Source-Traceable Drug Repurposing Tool with Retrospective Validation on Clemastine in Multiple Sclerosis",
+    "url": "https://doi.org/10.64898/2026.10.14.759218",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T19:01:25.132261+00:00",
+    "authors": [
+      "Nayagam, N.",
+      "Arun, A."
+    ],
+    "summary": "Summary Thus far, evidence for drug repurposing is contained in target-, drug-, trial-, and literature-based data sources that are challenging to synthesize for non-specialists. Here, we introduce RePurpose, a web-based tool that takes as input a topic written in plain language and returns candidate drugs built from data in Open Targets, ClinicalTrials.gov, UniProt, and PubMed. For queries in the form of a goal, RePurpose filters candidate drugs by whether they modulate all targets implicated in the goal in the corresponding direction. Every candidate has a source that contributes evidence: a structured database, a clinical trial, or a proposal from a large language model. An adjustable ranking adjusts the order of candidates from well-studied to less well-known candidate drugs. We retrospectively tested RePurpose with the trial drug clemastine, which was being considered as a remyelinating agent in multiple sclerosis (MS). RePurpose retrieved clemastine in each replicate of the mechanism-worded queries, but in no replicates of the disease-worded queries, and no structured query retrieved it without the language model enabled. Its ranked outputs reflected the evidence supporting cl",
+    "doi": "10.64898/2026.10.14.759218",
+    "company_slug": null,
+    "keywords_matched": [
+      "drug repurposing"
+    ],
+    "extra": {
+      "category": "pharmacology and toxicology"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.14.759218"
+  },
+  {
+    "kind": "article",
+    "title": "An agent-based model of wound healing in fibroblast scratch assays",
+    "url": "https://doi.org/10.64898/2026.10.15.759485",
+    "source": "bioRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T19:01:25.133020+00:00",
+    "authors": [
+      "Sumanaweera, R. T. K.",
+      "Stansbury, C.",
+      "Meixner, W.",
+      "Cwycyshyn, J.",
+      "Muir, l.",
+      "Rajapakse, I."
+    ],
+    "summary": "Wound healing assays are widely used to study fibroblast migration and proliferation in the lab. Although traditional scratch assays provide valuable insight, they can be time-intensive, inflexible, and difficult to reproduce. Computational models provide an efficient and reproducible way to study fibroblast behavior in silico. We developed an agent-based simulation of fibroblast scratch assays that models migration, proliferation, contact inhibition, cell-cell mechanical interactions, and the extracellular matrix (ECM) through a particle representation of fibroblasts and the ECM. To validate our model, we performed two tests: a leave-one-out test, where model parameters were calibrated to 6 imaging time series and tested on the remaining one, and a prediction test, where model parameters were calibrated to the first 24 hours of data and the remaining 66 hours of data were predicted. In our leave-one-out test, our model achieved a mean normalized root mean squared error (mean NRMSE) of 3.34%, and a Pearsons R of > 0.98 across all tested wound geometries time series. In the prediction test, the model predicted the remaining 66 hours of wound closure with an NRMSE of 2.08%. These res",
+    "doi": "10.64898/2026.10.15.759485",
+    "company_slug": null,
+    "keywords_matched": [
+      "in silico"
+    ],
+    "extra": {
+      "category": "systems biology"
+    },
+    "dedupe_key": "doi:10.64898/2026.10.15.759485"
+  },
+  {
+    "kind": "article",
+    "title": "Confinement-Controlled Cluster Percolation Shifts the Widom Crossover in Supercritical Methane",
+    "url": "https://doi.org/10.26434/chemrxiv.15010314/v2",
+    "source": "ChemRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T19:01:35.375649+00:00",
+    "authors": [
+      "Adel Najafimarghmaleki",
+      "Paola Carbone"
+    ],
+    "summary": "Supercritical fluids undergo significant structural and dynamic changes near the Widom line, which separates gas-like and liquid-like regimes. These phenomena are well understood for bulk fluids, but their evolution under nanoscale confinement remains poorly understood. Using a Grand Canonical Monte Carlo and Molecular Dynamics simulation framework, we show that confinement of supercritical CH4 in clay slit nanopores shifts the Widom crossover to lower pressures, with the shift increasing as pore size decreases. Energy-based cluster analysis reveals that this shift is associated with the emergence of system-spanning molecular clusters. Confinement promotes the percolation of these clusters at lower pressures, extending liquid-like behaviour into regimes that are gas-like under bulk conditions. The crossover is also reflected in transport properties as an inflection in both the effective mean distance between free molecules and clusters and the molecular diffusion coefficient. These results establish a direct link between confinement-controlled cluster percolation and the Widom crossover.",
+    "doi": "10.26434/chemrxiv.15010314/v2",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular dynamics"
+    ],
+    "extra": {},
+    "dedupe_key": "doi:10.26434/chemrxiv.15010314/v2"
+  },
+  {
+    "kind": "article",
+    "title": "3H-1,5-Benzodiazepine Derivatives as Novel Antimalarial Agents: Synthesis, Biological Evaluation and Computational Target Exploration",
+    "url": "https://doi.org/10.26434/chemrxiv.15010605/v1",
+    "source": "ChemRxiv",
+    "source_type": "preprint",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-16T19:01:35.375869+00:00",
+    "authors": [
+      "Pranali Vijaykumar Kuthe",
+      "Mohammed Muzaffar-Ur-Rehman",
+      "Abirla Murugan",
+      "Mina Rashid",
+      "Nicoletta Basilico",
+      "Sajad Hussain Syed",
+      "Kondapalli Venkata Gowri Chandra Sekhar",
+      "Sankaranarayanan Murugesan",
+      "Murugesan Sankaran"
+    ],
+    "summary": "Malaria remains a major global health challenge worldwide and the emergence of resistance to frontline antimalarial drugs, including artemisinin-based combination therapies, underscores the need for novel antimalarial agents with distinct mechanism of action. Herein, eighteen novel 3H-1,5-benzodiazepine derivatives (5a-r) were synthesized and evaluated against chloroquine-sensitive (PfD10) and chloroquine resistant (PfW2) strains of Plasmodium falciparum. Cytotoxicity was assessed against human hepatocellular carcinoma (HepG2) cells to determine preliminary selectivity. Compound 5e, 5k, 5m, 5n, and 5o exhibited promising anti-plasmodial activity. Compound 5o was the most potent, with IC50 values of 5.88 ± 0.36 and 6.68 ± 2.03 µM against PfD10 and PfW2, respectively, whereas 5k and 5n displayed the most favourable selectivity profiles. Considering the potency of compounds 5k and 5o, we further evaluated them against human G9a, a histone lysine methyltransferase which showed exhibited weak inhibition relative to the reference inhibitor BIX-01294. Computational studies that include frontier molecular orbital analysis, molecular docking, MM-GBSA calculations, molecular dynamics simulat",
+    "doi": "10.26434/chemrxiv.15010605/v1",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics"
+    ],
+    "extra": {},
+    "dedupe_key": "doi:10.26434/chemrxiv.15010605/v1"
+  },
+  {
+    "kind": "article",
     "title": "Transfer seeding reveals divergent activation ensembles across tyrosine kinases",
     "url": "https://doi.org/10.64898/2026.06.26.734786",
     "source": "bioRxiv",
@@ -91137,5 +91299,89 @@
       "journal": "Molecules (Basel, Switzerland)"
     },
     "dedupe_key": "doi:10.3390/molecules31193379"
+  },
+  {
+    "kind": "article",
+    "title": "The Qing Chang Hua Shi Formula combined with allicin alleviates Cryptosporidium parvum infection in immunosuppressed mice and is associated with restoration of NLRP6, IL-18, IFN-γ, and intestinal microbiota.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42885911/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T18:59:38.894404+00:00",
+    "authors": [
+      "Chang Xu",
+      "Xinyue Wu",
+      "Qing He",
+      "Luying Yang",
+      "Saima Talib",
+      "Kun Li"
+    ],
+    "summary": "Cryptosporidium parvum is a highly pathogenic zoonotic parasite with limited therapies. Current study explored the anti-C. parvum effect of Qing Chang Hua Shi Formula (QHF) and allicin in vitro in immunosuppressed mice. In vitro, QHF and allicin inhibited over 90% of C. parvum. In vivo, the 8-day treatment reduced fecal oocyst shedding to 12.88% of the model group. Infection disrupted intestinal homeostasis, reduced tight-junction protein expression, and downregulated NLRP6, while inducing systemic inflammation and elevating IL-18/IFN-γ levels, which were further increased by treatment. Treated mice also showed increased abundance of Archangium and Corallococcus and decreased abundance of Clostridioides and Butyricimonas. Predicted microbial functional pathways revealed enrichment of glycolysis-related genes (L-lactate dehydrogenase [LDH], glyceraldehyde-3-phosphate dehydrogenase [GAPDH]) in infected mice, with treatment-associated shifts in amino acid synthesis pathways. Molecular docking suggested potential binding of benzoylpaeoniflorin, baicalin, and wogonoside to C. parvum LDH, ATP/ADP translocase, and gp40/15. Together, these findings indicate that QHF combined with allicin alleviates C. parvum infection in immunosuppressed mice and is associated with restoration of intestinal barrier markers, immune responses, and gut microbiota composition, suggesting a potential therapeutic approach for cryptosporidiosis.IMPORTANCECurrent study demonstrates that Qing Chang Hua Shi Formula (QHF) combined with allicin effectively inhibits Cryptosporidium parvum proliferation and concurrently mitigates intestinal damage and dysbiosis induced by C. parvum infection. QHF treatment was associated with upregulation of NLRP6, improved gut microbiota profiles, and elevated IFN-γ levels. These changes correlated with reduced parasite burden and alleviated intestinal injury, suggesting a potential immunomodulatory role that warrants further mechanistic investigation. Metagenomics disclosed that QHF and allicin were associated with changes in predicted microbial functional pathways, including those involved in glycolysis and amino acid metabolism, and with enrichment of certain bacterial taxa, such as Corallococcus and Archangium. Molecular dynamics simulations suggested that benzoylpaeoniflorin and baicalin may bind stably to C. parvum L-lactate dehydrogenase (LDH) and ATP/ADP translocase, raising the hypothesis that they could interfere with parasite energy metabolism. However, enzymatic validation is required to confirm this possibility. These findings suggest a potential therapeutic approach for cryptosporidiosis and highlight alterations associated with C. parvum infection.",
+    "doi": "10.1128/spectrum.03662-25",
+    "company_slug": null,
+    "keywords_matched": [
+      "molecular docking",
+      "molecular dynamics"
+    ],
+    "extra": {
+      "pmid": "42885911",
+      "journal": "Microbiology spectrum"
+    },
+    "dedupe_key": "doi:10.1128/spectrum.03662-25"
+  },
+  {
+    "kind": "article",
+    "title": "Multivariate Genomic Analysis Reveals Shared Genetic Architecture and Potential Therapeutic Targets for Atherosclerotic Cardiovascular Disease.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42885799/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T18:59:38.894863+00:00",
+    "authors": [
+      "Yifeng Xu",
+      "Jie Wang",
+      "Ruoqi Zhang",
+      "Chengzhi Hou",
+      "Xuan Sun",
+      "Qiyang Li",
+      "Chao Liu"
+    ],
+    "summary": "Atherosclerotic cardiovascular disease (ASCVD) is a leading cause of mortality worldwide and comprises multiple clinical phenotypes, but their shared genetic architecture remains incompletely defined. We integrated genome-wide association study summary statistics for coronary artery disease, peripheral artery disease, large-artery atherosclerotic stroke, and carotid plaque using genomic structural equation modeling to derive a multivariable ASCVD common factor. We applied fine-mapping, multi-marker analysis of genomic annotation, transcriptome-wide association studies, Mendelian randomization, colocalization, mediation analysis, and virtual screening. We identified 289 linkage disequilibrium-independent lead single-nucleotide polymorphisms mapping to 177 genomic risk loci; 13 lacked corresponding genome-wide significant signals in the input genome-wide association studies. Eleven had prior genome-wide association study catalog association records, whereas no relevant records were identified for the loci represented by rs2294777 near SASH1 and rs4843053 near AKAP13. Fine-mapping prioritized 26 putative causal variants. Integrated functional summary-based imputation, multi-tissue transcriptome-wide association study, and multi-marker analysis of genomic annotation analyses implicated 123 genes. Enrichment analyses highlighted endothelial cells and H3K27ac-marked regulatory regions. Lipidomic analyses linked higher triacylglycerols and sterol esters to increased multivariable ASCVD common factor risk. Protein Mendelian randomization analyses in deCODE and Fenland prioritized aldehyde dehydrogenase 2 (ALDH2), phosphodiesterase 5A (PDE5A), HtrAserinepeptidase 1 (HTRA1), and transcription elongation factor A2 (TCEA2) as candidate targets. Colocalization supported a shared causal variant between TCEA2 and multivariable ASCVD common factor. Mediation analyses suggested partial mediation by diastolic blood pressure for ALDH2, PDE5A, and TCEA2 and by triglycerides for TCEA2. Virtual screening identified candidate compounds with favorable predicted binding to PDE5A and ALDH2. Integrating multivariate genome-wide association study with multi-omics and causal inference analyses identified shared genetic signals associated with ASCVD susceptibility and prioritized candidate protein targets, informing future functional studies and target validation.",
+    "doi": "10.1161/JAHA.126.050689",
+    "company_slug": null,
+    "keywords_matched": [
+      "virtual screening"
+    ],
+    "extra": {
+      "pmid": "42885799",
+      "journal": "Journal of the American Heart Association"
+    },
+    "dedupe_key": "doi:10.1161/jaha.126.050689"
+  },
+  {
+    "kind": "article",
+    "title": "CD40-CD40L interactions in systemic autoimmune diseases.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42885554/",
+    "source": "PubMed",
+    "source_type": "journal",
+    "published_date": null,
+    "collected_at": "2026-10-16T18:59:38.895173+00:00",
+    "authors": [
+      "Motomu Hashimoto",
+      "Masao Katsushima",
+      "Fabienne Mackay",
+      "Chaim Putterman"
+    ],
+    "summary": "Systemic autoimmune diseases arise from a heterogeneous interplay of genetic, epigenetic, and environmental factors that culminates in loss of tolerance, chronic inflammation, and tissue injury. Among the pathways linking susceptibility to effector disease, CD40-CD40L is a central regulator of antigen presentation, T-B cell collaboration, and germinal centre responses, while also contributing to extrafollicular autoantibody production. In this review, we first introduce the disease-specific rationale for targeting CD40-CD40L interactions, with a particular focus on systemic lupus erythematosus, Sjögren's disease, and rheumatoid arthritis. We then summarize the multifaceted roles of CD40-CD40L signalling across adaptive immunity, innate immune priming, tissue inflammation, and platelet-driven thrombo-inflammation. Finally, we review the therapeutic translation of this pathway, highlighting insights from early trials of anti-CD40/CD40L antibodies and recent advances in Fc-silent antibody engineering that preserve target binding while minimizing platelet activation. Together, these data support CD40-CD40L blockade as a renewed and promising mechanism-based strategy in systemic autoimmune rheumatic diseases.",
+    "doi": "10.1093/rheumatology/keag565",
+    "company_slug": null,
+    "keywords_matched": [
+      "antibody engineering"
+    ],
+    "extra": {
+      "pmid": "42885554",
+      "journal": "Rheumatology (Oxford, England)"
+    },
+    "dedupe_key": "doi:10.1093/rheumatology/keag565"
   }
 ]
