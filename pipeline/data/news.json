@@ -1,6 +1,258 @@
 [
   {
     "kind": "news",
+    "title": "AI Can Design a Drug. It Still Can’t Prove It Works. - Vocal",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sdFVmb1M5cEkxLS1xXy1weHJVTXhWZnhQV2hTeGNmbkN0emw1UzFEWHFUT250WGU0cnM0T0R0YTVvUDB1blA0VGVJbTNKazdyb1lUakZETmw2WG9UMzBDYTJuT1FwS1k2Tk9nSDB2MXd0WXlPa2dISy1GOFY?oc=5",
+    "source": "Vocal",
+    "source_type": "news",
+    "published_date": "2026-10-17",
+    "collected_at": "2026-10-17T13:10:40.966229+00:00",
+    "authors": [],
+    "summary": "AI Can Design a Drug. It Still Can’t Prove It Works. Vocal",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmifefvx3lxte9sdfvmb1m5cekxls1xxy1wehjvtxhwznhqv2htegnmbkn0emw1uzfewhfut250wgu0cnm0t0r0ytvvudb1bla0vgvjbtnkazdyb1luakzetmw2wg9umzbdytjut1fws1k2tk9nsdb2mxd0wxlpa2disy1gofy?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Cathie Wood-Led Ark Invest's Biggest Q3 Winners and Losers — PLTR, NVDA, TXG Led While TSLA, RKLB Dragged - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTW5qTGV6RmVzV3l3RHFUbENUVGczTTREV1hFYzVCTC1LcTNhYTFvMVhJN0hxME9aLUUxbW9seGZPaFJ5N19GbldOaEpRTFB2ck9zdk4xRkJBSEVBTjkwemRzYnk2anprZWR4X1NOZlZKOThLX2JKYU5mZkx1YVR1cEtFY2xFVlFhS1hTdUdZcXFIUlFnUldhOWdMZXVPS3lkcWRSWWlNUUlMRWYycTFqTDBiWXF0RUV6OF9XVl9mN19kUTVFSTRQU2ZaY2x6RHNfYy1sbGlBUVViTC1zVFBkeUtfcWxpU0tsVERIT3VnZERYVG8?oc=5",
+    "source": "TradingView",
+    "source_type": "news",
+    "published_date": "2026-10-17",
+    "collected_at": "2026-10-17T13:10:40.967096+00:00",
+    "authors": [],
+    "summary": "Cathie Wood-Led Ark Invest's Biggest Q3 Winners and Losers — PLTR, NVDA, TXG Led While TSLA, RKLB Dragged TradingView",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"AI drug discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi8wfbvv95cuxotw5qtgv6rmvzv3l3rhfubenuvgczttrev1hfyzvctc1lctnhytfvmvhjn0hxme9aluuxbw9segzpafj5n19gbldoaeprtfb2ck9zdk4xrkjbsevbtjkwemrzynk2anprzwr4x1nozlzkothlx2jkyu5mzkx1yvr1cetfy2xfvlfhs1htdudzcxfiulfnuldhowdmzxvps3lkcwrswwlnuulmrwyyctfqtdbiwxf0ruv6of9xvl9mn19kutvfstrqu2zay2x6rhnfyy1sbglbuvvitc1zvfbkeutfcwxpu0tsverit3vnzeryvg8?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AI protein design lessons from COVID-19 point to pandemic-ready vaccines - Bioengineer.org",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3VmbUljb2Etc202Ym5kU19peG05ZHQ1R3hzc0pLbTdkN2xXYldmWXZWSE10bjNaa2l0SEJYenlHRy1KM1Z6aDR2bXBFdkZOblU2c0ctUjZKVWEtbkZmU1otaTJsVWxfQVhlNTkyY2RyeGd5eTBzbFh3MWIxZjhvcmRub2daajVJQ1J5b19scXF0bjE1Y0hqZkZnNFctUQ?oc=5",
+    "source": "Bioengineer.org",
+    "source_type": "news",
+    "published_date": "2026-10-17",
+    "collected_at": "2026-10-17T13:10:42.311386+00:00",
+    "authors": [],
+    "summary": "AI protein design lessons from COVID-19 point to pandemic-ready vaccines Bioengineer.org",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "protein design\" AI"
+    ],
+    "extra": {
+      "query": "\"protein design\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmingfbvv95cuxpd3vmbuljb2etc202ym5ku19peg05zhq1r3hzc0plbtdkn2xxyldmwxzwse10bjnaa2l0sejyenlhry1km1z6adr2bxbfdkzoblu2c0ctujzkvwetbkzmu1otatjsvwxfqvhlntkyy2ryegd5etbzbfh3mwixzjhvcmrub2daajvjq1j5b19scxf0bje1y0hqzkznnfctuq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "DeepMind AlphaFold Database: How to Access Millions of Predicted Protein Structures for Free - cristinaiglesias.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLTRVelIzc2NHLUFtbTNlX1hsQWFVM1RaUTRGb2lOTjJ5VGVlVzdXd3hEM0x6a29RM3U2S1FkZHE3cEoxTUFTLU9wcHdodTQxcTJvazJrYnNVZk40Qy1tOExFcy1UcUdCQm5paXliQlNad2h2aGJwa19uNmRDemU3VHNTaG5PdlFpM2pfX3dNY1c1dV9iME5nZHRENUlTMFhrcFM2N0FPVV82eVo4aFZpOU5wLTVSV1l0ZUl2dFZsMUxiZWhnSHh1WA?oc=5",
+    "source": "cristinaiglesias.com",
+    "source_type": "press",
+    "published_date": "2026-10-17",
+    "collected_at": "2026-10-17T13:10:55.829660+00:00",
+    "authors": [],
+    "summary": "DeepMind AlphaFold Database: How to Access Millions of Predicted Protein Structures for Free cristinaiglesias.com",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "AlphaFold"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiyafbvv95cuxoltrvelizc2nhluftbtnlx1hsqwfvm1rautrgb2lotjj5vgvlvzdxd3hem0x6a29rm3u2s1fkzhe3ceoxtuftlu9wchdodtqxctjvazjrynnvzk40qy1toexfcy1ucudcqm5paxliqlnad2h2agjwa19unmrdemu3vhntag5pdlfpm2pfx3dny1c1dv9ime5nzhrenultmfhrcfm2n0fpvv82evo4afzpou5wltvsv1l0zul2dfzsmuxizwhnshh1wa?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Google DeepMind Backs 200 European Scientists with AlphaFold 3 Access and $3M Compute Grant - cristinaiglesias.com",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDRtUFBnWU9PU2N3Y0x3VVFVNWlfY0NCRzVkNWYzZERlUUxmZU1kbkttQnF2M1hBVHZBTFZIY2s1ZUJnTkRBN1JseE1mYnRkbmh5YktvcHVZRTBOeGZGQXlUTDFqeGk1ZW9FdXhoLXd5S2l0WDJXMHg3aW9jQ1puVzM0YVVQR1hUdWZfZEtTb2RtSjRfX1ZtZ0g0cHNfT0FKbEdDN0YyeVpKRkxMTlRRcktzUGR2d01WWFkzYzYyS2hPd2F4Qk0w?oc=5",
+    "source": "cristinaiglesias.com",
+    "source_type": "press",
+    "published_date": "2026-10-17",
+    "collected_at": "2026-10-17T13:10:55.831174+00:00",
+    "authors": [],
+    "summary": "Google DeepMind Backs 200 European Scientists with AlphaFold 3 Access and $3M Compute Grant cristinaiglesias.com",
+    "doi": null,
+    "company_slug": "google-deepmind",
+    "keywords_matched": [
+      "AlphaFold"
+    ],
+    "extra": {
+      "query": "\"Google DeepMind\" (protein OR AlphaFold OR \"drug discovery\" OR biology OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmixwfbvv95cuxnmdrtufbnwu9pu2n3y0x3vvfvnwlfy0ncrzvknwyzzerluuxmzu1kbkttqnf2m1hbvhzbtfziy2s1zujntkrbn1jsee1mynrkbmh5yktvchvzrtboegzgqxlutdfqegk1zw9fdxholxd5s2l0wdjxmhg3aw9jq1puvzm0yvvqr1hudwzfzettb2rtsjrfx1ztz0g0chnft0fkbeddn0yyevpkrkxmtlrrcktzugr2d01wwfkzyzyys2hpd2f4qk0w?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Science & Tech: Anthropic proposes law regulating AI to US l - NewVision.co.ug",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmszZnRMY0hoNVdqV0U1ZWw1Y3ZxN0M1cDUzZHhEdUxKdGZHRVgxX08tZm5OTWtQRDJCdGU1SS1FR0NZQ2FLeGlaOGNBYm0xbVU3Tk9NQ3NpV2E3LU90ek1qRWJmb29SZmRuSEptbTVEV0VObll5cjB1a1g1NGd4N3FtUjg5MjI3Mk1FU1BNRmpmTHZ5TUs1SUNsZ0NuQ0xLMnpLcnc1czJTbVU?oc=5",
+    "source": "NewVision.co.ug",
+    "source_type": "press",
+    "published_date": "2026-10-17",
+    "collected_at": "2026-10-17T13:10:56.363018+00:00",
+    "authors": [],
+    "summary": "Science & Tech: Anthropic proposes law regulating AI to US l NewVision.co.ug",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqwfbvv95cuxnnmszznrmy0honvdqv0u1zww1y3zxn0m1cduzzhheduxkdgzhrvgxx08tzm5otwtqrdjcdgu1ss1fr0nzq2fleglaognbym0xbvu3tk9nq3npv2e3lu90ek1qrwjmb29szmruseptbtvev0vobll5cjb1a1g1ngd4n3ftujg5mji3mk1fu1bnrmpmthz5tus1sunsz0nuq0xlmnplcnc1czjtbvu?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Responsive Playbooks and the DNA Inflection - Stock Traders Daily",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQWJYVGtXX2RwTEJlOWNveDVIZDFNVEVtMHZEN3N3NnZxQWV5QlNHSXhNeXY4MmlWMVlwUG1TZzdYYXRhNGlzNnFsWVoyLUp5bU9KUVpJbmRXcWlNSkQ4MllxUkxWMG53WTJkNEJXUEZLS2lTSjJfMTVaV0Z6bDNoYTk4QS1tem03cUFqdXkyTy1SYk1Qam54M0h4MlYyNU5rTXVqQUxkTFNTbXJWdFRQVVRadl9tUHFWTk9vN0x1dW0?oc=5",
+    "source": "Stock Traders Daily",
+    "source_type": "press",
+    "published_date": "2026-10-17",
+    "collected_at": "2026-10-17T13:11:11.271679+00:00",
+    "authors": [],
+    "summary": "Responsive Playbooks and the DNA Inflection Stock Traders Daily",
+    "doi": null,
+    "company_slug": "ginkgo-bioworks",
+    "keywords_matched": [
+      "Ginkgo Bioworks"
+    ],
+    "extra": {
+      "query": "\"Ginkgo Bioworks\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwafbvv95cuxpqwjyvgtxx2rwtejlownvedvizdfnvevtmhzen3n3nnzxqwv5qlnhsxhnexy4mmlwmvlwug1tzzdyyxrhnglznnfswvoylup5bu9kuvpjbmrxcwlnskq4mllxukxwmg53wtjknejxuezls2ltsjjfmtvav0z6bdnoytk4qs1tem03cufqdxkyty1syk1qam54m0h4mlyynu5rtxvqquxktfntbxjwdfrqvvradl9tuhfwtk9vn0x1dw0?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "WuXi AppTec announces EcoVadis gold recognition for third year - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOTJ0U3VhQU1MRmJ3RVYtamxzVlpiMVF3dHBmLXdmSHhyR3Q3cFRzM3Z6dXk5NzFjdFBzTVI3NDZSSjhZRXNWVlc1UUgxVF9nX2NQRFhfNUhZY1FkbXNqY29Wc3VmZC05VVpPOVpNZVI5UlE4U0wzYkFNS283WXdJaHktS0pRWk1xczJLdGlkX2g5aEl1cnktYXZKbVZWRHBNUUxMUVJKXzhXMlhtaGNQQWt2cHlkLVZPNXVyZFktaVlDYmM?oc=5",
+    "source": "ad-hoc-news.de",
+    "source_type": "press",
+    "published_date": "2026-10-17",
+    "collected_at": "2026-10-17T13:11:12.645175+00:00",
+    "authors": [],
+    "summary": "WuXi AppTec announces EcoVadis gold recognition for third year ad-hoc-news.de",
+    "doi": null,
+    "company_slug": "wuxi-apptec",
+    "keywords_matched": [
+      "WuXi AppTec"
+    ],
+    "extra": {
+      "query": "\"WuXi AppTec\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwwfbvv95cuxnotj0u3vhqu1mrmj3rvytamxzvlpimvf3dhbmlxdmshhyr3q3cfrzm3z6dxk5nzfjdfbztvi3ndzssjhzrxnwvlc1uugxvf9nx2nqrfhfnuhzy1fkbxnqy29wc3vmzc05vvppovpnzvi5ule4u0wzykfns283wxdjahkts0prwk1xczjldglkx2g5ael1cnktyxzkbvzwrhbnuuxmuvjkxzhxmlhtagnqqwt2chlklvzpnxvyzfktavldymm?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "U.S. IPO Weekly Recap: Biotechs City Therapeutics And Iambic Headline The Week's Pricings - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZlY4cmlfd0xNWjloS0ZpOXlOVGZfcU1XN3VrM3c0d2JiWEwzdHhEZXp4TlBiNEJaWnNrcUtTS2Mzc1JIVGhMNHpPcWJxQlFNaXNjSDNXcXcwZ1lwVFQzTEdHOEt0TGRjLU8wczFtVG9Wa2RLeVdzVWIyVjAtMDJ4dHdEbVM2QmtUSGFVcWp2SV9rckJCTHJ1S0pIZDhJeW40WGpjMEYyWFk?oc=5",
+    "source": "Seeking Alpha",
+    "source_type": "press",
+    "published_date": "2026-10-17",
+    "collected_at": "2026-10-17T13:11:18.285075+00:00",
+    "authors": [],
+    "summary": "U.S. IPO Weekly Recap: Biotechs City Therapeutics And Iambic Headline The Week's Pricings Seeking Alpha",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqafbvv95cuxqzly4cmlfd0xnwjlos0zpoxlovgzfcu1xn3vrm3c0d2jiwewzdhhezxp4tlbinejawnnrcutts2mzc1jivghmnhppcwjxqlfnaxnjsdnxcxcwz1lwvfqztedhoet0tgrjlu8wczftvg9wa2rlevdzvwiyvjatmdj4dhdebvm2qmtusgfvcwp2sv9rckjcthj1s0pizdhjew40wgpjmeyywfk?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Form 4 Iambic Therapeutics: Neil Josephson (Chief Medical Officer) For: 14 October - Investing.com Canada",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEZXRWNnYjI4SHlvWmZvV0QtMHo1RWo3NjRycWhNM3dXQVNrQ1N2bFpGVFhIb1lCdEJZQ29xYjhzczBoVTRDT1RNZzEtX2V5V190WDhtM2kwS0FzbjBxTGdBbW04RkNJYVg1dXFrbElhRXJqclUzU3BaMWJ6NEpaWThIMGN5ajZyMWlveUdmMzNHNHVwWnNlUnpzTHVDaDNHQm1Rcnkzd19zQ3hlQ1BrUDVKS3BpbmNVQVl4MWpIcFhGc0VWdVl2Rk9SdjFuUXl4eUVOanJR?oc=5",
+    "source": "Investing.com Canada",
+    "source_type": "press",
+    "published_date": "2026-10-17",
+    "collected_at": "2026-10-17T13:11:18.287271+00:00",
+    "authors": [],
+    "summary": "Form 4 Iambic Therapeutics: Neil Josephson (Chief Medical Officer) For: 14 October Investing.com Canada",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi1gfbvv95cuxozezxrwnnyji4shlvwmzvv0qtmho1rwo3njrycwhnm3dxqvnrq1n2bfpgvfhib1lcdejzq29xyjhzczbovtrdt1rnzzetx2v5v190wdhtm2kws0fzbjbxtgdbbw04rknjyvg1dxfrbelhrxjqcluzu3bamwj6nepawthimgn5ajzymwlveudmmznhnhvwwnnlunpzthvdadnhqm1rcnkzd19zq3hlq1brudvks3bpbmnvqvl4mwpicfhgc0vwdvl2rk9sdjfuuxl4euvoanjr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Iambic’s IPO Funds a Test of AI Drugmaking - https://streamlinefeed.co.ke/",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPak1NNTduWWhLbEhHQ2pnUThpYmtaU1gtVXhrb0VSWGNHQUU0QzlhMld6MDRTOGpHZVRXRDlVRjItZXdJX0JzMTFWOEcyakctTXdVN3FlUUpzUUFQOVNUR3dMMmVpWEt1QnV3NVBVZnJQQV9PcXc2ZUtjbjFoZmlHWA?oc=5",
+    "source": "https://streamlinefeed.co.ke/",
+    "source_type": "press",
+    "published_date": "2026-10-17",
+    "collected_at": "2026-10-17T13:11:18.294740+00:00",
+    "authors": [],
+    "summary": "Iambic’s IPO Funds a Test of AI Drugmaking https://streamlinefeed.co.ke/",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmigafbvv95cuxpak1nntduwwhlbehhq2pnuthpymtau1gtvxhrb0vswgnhquu0qzlhmld6mdrtogphzvrxrdlvrjitzxdjx0jzmtfwoecyakcttxdvn3fluupzuufqovnur3dmmmvpwet1qnv3nvbvznjqqv9pcxc2zutjbjfozmlhwa?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AstraZeneca announces new insitro collaboration - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2dKcGxfRXpqdVBlMHhNTEsxSXdtXzZnRENETnRLbk1CaTRSdGpaa3JKMGEycllISGQwM2NwMkFIeWdkLTJYYkJMeUFqd25faXBXQlBNTEhlR3p1WHc1SThES0dMZ2ZyMGRVNzBqU0tpS28xUHJHc1dSMWtiRXRuSGxoVmk5WXUyakVQS0JzU1UyVGtSTy1BZ0pVQmpuSFhqdGdCanNNNnM2SFZPSTRz?oc=5",
+    "source": "ad-hoc-news.de",
+    "source_type": "press",
+    "published_date": "2026-10-17",
+    "collected_at": "2026-10-17T13:11:18.793407+00:00",
+    "authors": [],
+    "summary": "AstraZeneca announces new insitro collaboration ad-hoc-news.de",
+    "doi": null,
+    "company_slug": "insitro",
+    "keywords_matched": [
+      "insitro"
+    ],
+    "extra": {
+      "query": "\"insitro\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmirwfbvv95cuxob2dkcgxfrxpqdvblmhhntesxsxdtxzznrenetnrlbk1catrsdgpaa3jkmgeycllisgqwm2nwmkfiewdkltjyykjmeufqd25faxbxqlbntehlr3p1whc1sthes0dmz2zymgrvnzbqu0tps28xuhjhc1dsmwtirxrusgxovmk5wxuyakvqs0jzu1uyvgtsty1bz0pvqmpusfhqdgdcannnnnm2sfzpstrz?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "AstraZeneca partners with AI biotech insitro on liver, heart drugs - Quartz",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBERkxtdjNZbEthLWJFbUdhaHQ0Z3VBcHk0dUZvM292WnBFVEEwbE9WQ2NGNzRXR0h3VG1pZ2t3Y1VYbVRNUms0eUZNNDk1bmpGSm9KOGlvMkxfTWM5OUhKaTBMb0J4aUIzUFp3eURrN3BMQQ?oc=5",
     "source": "Quartz",
@@ -1505,6 +1757,193 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi2gfbvv95cuxpoeduty1qsgl0vm9utllxyjzmbupxuxrbwupfzeflzezrqzrhrwrlcmpzwnz5wuzivkxnvnfwm3nqrtl3mfrkdzbpc3ruvjm1bupvm1zvdnlavdu1wdbumwfysdben09krjqtc2rnmtvpd2hkog80x19hq016r1zycnvvem40tk1yaxrzwnzyumxxqmfoovbqynnynxvvclnfb0trmfizeufadgltnwe3uxr4evdmajroztlhqm43lxf2yjv6cnlltdvhy2prnktksulobkv6ahdzzw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "13 AI drug discovery companies you should know about",
+    "url": "https://www.labiotech.eu/best-biotech/ai-drug-discovery-companies/",
+    "source": "Labiotech",
+    "source_type": "newsletter",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-17T13:10:40.396720+00:00",
+    "authors": [],
+    "summary": "Take a look at 13 of the top AI drug discovery companies around today, using their technology to speed up the drug discovery process. The post 13 AI drug discovery companies you should know about appeared first on Labiotech.eu . © Labiotech UG and Labiotech.eu. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Labiotech UG and Labiotech.eu with appropriate and specific direction to the original content.",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "drug discovery",
+      "AI drug discovery"
+    ],
+    "extra": {},
+    "dedupe_key": "url:https://www.labiotech.eu/best-biotech/ai-drug-discovery-companies"
+  },
+  {
+    "kind": "news",
+    "title": "Valuing a preclinical biotech at $50B is a bad idea — a Perspective - BioCentury",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFBiOVkyc085ZHliOGt0WFRqVmdLSW1aVzhKWU9SZjZvSUtEbmZDb09HekxmREE5and3cHFULTJTRGcyNzVLVnlOblV5TTB4S2dZTjRpNEl4WllSZ0JBSEdxcUxTZVZadE4tbHVscWFtREdCOWhBREtJSC05eVlfTnZUUHRfM20zU1BKNUpHdERRQU53cS1pSVBuTVpxTVRwa3l1ZjViMGtwdw?oc=5",
+    "source": "BioCentury",
+    "source_type": "press",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-17T13:10:49.516032+00:00",
+    "authors": [],
+    "summary": "Valuing a preclinical biotech at $50B is a bad idea — a Perspective BioCentury",
+    "doi": null,
+    "company_slug": "isomorphic-labs",
+    "keywords_matched": [
+      "Isomorphic Labs"
+    ],
+    "extra": {
+      "query": "\"Isomorphic Labs\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqgfbvv95cuxncfbiovkyc085zhliogt0wfrqvmdlsw1avzhkwu9szjzvsutebmzdb09hekxmree5and3chfultjtrgcynzvlvnloblv5ttb4s2dztjrpnel4wllsz0jbsedxcuxtzvzade4tbhvscwftredcowhbretjsc05evlftnzuuhrfm20zu1bknuphderrqu53cs1psvbutvpxtvrwa3l1zjvimgtwdw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Physicist Reacts: Why OpenAI & Anthropic Are Hyping AI Doom | Jacob, Marko And Daniel The Rookie North (ATlDu2M7WC) - Unisba Media",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ3BCSDY5U204UDBURTRWeVFSQ0xXcTNBMjhFZVlxUEZwYUQwR3FWTVJ1VXJja2otMGR1ZzFzeHNrYUYtR3JKRFJOMFpSOEd4WEotVFdJeVd3cTIyZEp6YUE4bC1WUllxR1cyLTdDdHVkSkxVRE0tb3VRbDFEM0Q5RkZn?oc=5",
+    "source": "Unisba Media",
+    "source_type": "press",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-17T13:10:56.364636+00:00",
+    "authors": [],
+    "summary": "Physicist Reacts: Why OpenAI & Anthropic Are Hyping AI Doom | Jacob, Marko And Daniel The Rookie North (ATlDu2M7WC) Unisba Media",
+    "doi": null,
+    "company_slug": "anthropic",
+    "keywords_matched": [
+      "Anthropic"
+    ],
+    "extra": {
+      "query": "\"Anthropic\" (science OR biology OR \"drug discovery\" OR \"Claude Science\" OR chemistry)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiggfbvv95cuxpz3bcsdy5u204udburtrwevfsq0xxctnbmjhfzvlxuezwyuqwr3fwtvj1vxjja2otmgr1zzfzehnryuytr3jkrfjomfpsoed4weotvfdjevd3ctiyzep6yue4bc1wullxr1cyltdddhvkskxvre0tb3vrbdfem0q5rkzn?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models - alphaXiv",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aVVdDb2I2ZjZWbkpZQ25EUGJPVGhUQWZQb2t0MVE3b0tPMkVqdU9CVVR0UzJQaFRuVkxzakNqMEY4aG9TdU9kQ3FoRHJVR0gw?oc=5",
+    "source": "alphaXiv",
+    "source_type": "press",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-17T13:11:01.002739+00:00",
+    "authors": [],
+    "summary": "DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models alphaXiv",
+    "doi": null,
+    "company_slug": "boltz",
+    "keywords_matched": [
+      "Boltz"
+    ],
+    "extra": {
+      "query": "\"Boltz PBC\" OR \"Boltz-2\" OR \"BoltzGen\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiuefvx3lxte5avvddb2i2zjzwbkpzq25eugjpvghuqwzqb2t0mve3b0tpmkvqdu9cvvr0uzjqafruvkxzaknqmey4ag9tdu9kq3forhjvr0gw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "XtalPi Holdings Limited (V0I.F) income statement - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85YUI5YWNVdTRhWlVsSnl6eTVfTktnelBRUG5ET3F1cWt3bXB5QzlXcnEwRXo0LTRQaHE2Ry1QTm9QSm1JcUZXSU1IVnJjcmV4b1JyTUFELTZUR2JUUDNpdWtn?oc=5",
+    "source": "Yahoo Finance UK",
+    "source_type": "press",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-17T13:11:03.700042+00:00",
+    "authors": [],
+    "summary": "XtalPi Holdings Limited (V0I.F) income statement Yahoo Finance UK",
+    "doi": null,
+    "company_slug": "xtalpi",
+    "keywords_matched": [
+      "XtalPi"
+    ],
+    "extra": {
+      "query": "\"XtalPi\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiykfvx3lxte85yui5ywnvdtrhwlvssnl6etvftktnelbrug5et3f1cwt3bxb5qzlxcnewrxo0ltrqahe2ry1qtm9qsm1jcuzxsu1ivnjjcmv4b1jytufeltzur2juudnpdwtn?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "XtalPi Holdings Limited (V0I.F) stock major holders - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Sa0hBWmY4X01GQ2RHbEpRR2RtS0NjNkdUWU9zWjZDTEp4SlRRM3FFa3NzRDhWTHpMWHpfOHd2RndCZnBqdFN0VGtRSWFtVVZtNS1DMGtibU1hTmN3Z0E?oc=5",
+    "source": "Yahoo Finance UK",
+    "source_type": "press",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-17T13:11:03.700358+00:00",
+    "authors": [],
+    "summary": "XtalPi Holdings Limited (V0I.F) stock major holders Yahoo Finance UK",
+    "doi": null,
+    "company_slug": "xtalpi",
+    "keywords_matched": [
+      "XtalPi"
+    ],
+    "extra": {
+      "query": "\"XtalPi\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmixkfvx3lxte1sa0hbwmy4x01gq2rhbeprr2rts0njnkduwu9zwjzdtep4slrrm3ffa3nzrdhwthpmwhpfohd2rndcznbqdfn0vgtrswftvvztns1dmgtibu1htmn3z0e?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "XtalPi Holdings Limited (V0I.F) stock historical prices and data - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YZFJEOW5YMzRSbk40cXRpUnFjUU9fa2d3c2xoUTFlOUdvQU9oYVFmX0RpRWxzUDNZbDBWWEdLRG5OM1VmRHY1YXVSLWZlRF9ScWpod0d6enFqODhhaGc?oc=5",
+    "source": "Yahoo Finance UK",
+    "source_type": "press",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-17T13:11:03.700643+00:00",
+    "authors": [],
+    "summary": "XtalPi Holdings Limited (V0I.F) stock historical prices and data Yahoo Finance UK",
+    "doi": null,
+    "company_slug": "xtalpi",
+    "keywords_matched": [
+      "XtalPi"
+    ],
+    "extra": {
+      "query": "\"XtalPi\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmixkfvx3lxte1yzfjeow5ymzrsbk40cxrpunfjuu9fa2d3c2xoutfloudvqu9oyvfmx0rprwxzudnzbdbwwedlrg5om1vmrhy1yxvslwzlrf9scwpod0d6enfqodhhagc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "WuXi AppTec stock: Morgan Stanley keeps HKD 207.40 target for WuXi AppTec stock - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONW5wV0t5UnozQ3pGWWF1YUlsMFZBYjFHUEd4Rkg5dlJzRDRxcVVBOHh0LTU5VUxqM2hfVC1fU2h0b3Z3cXpTSEtZem92UzgyZXR4U0UtbnJIRFp3UGduc2tYZGU3MDZFNDRHOUxmNFZzQnRiN0w2Tlk0a2otTWV2SUlmMVAzZ0ZreHRpSERGRmFudHZKOExNR0pXMTFvVVpmaUlIR1ZGT2V1YUJuOU5IRXM5cVNMS1VtYUlNNnh1NUx2d29iU21SVVI2N05YeElSYnRrZWtocHo?oc=5",
+    "source": "ad-hoc-news.de",
+    "source_type": "press",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-17T13:11:12.649742+00:00",
+    "authors": [],
+    "summary": "WuXi AppTec stock: Morgan Stanley keeps HKD 207.40 target for WuXi AppTec stock ad-hoc-news.de",
+    "doi": null,
+    "company_slug": "wuxi-apptec",
+    "keywords_matched": [
+      "WuXi AppTec"
+    ],
+    "extra": {
+      "query": "\"WuXi AppTec\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi2afbvv95cuxonw5wv0t5unozq3pgwwf1yulsmfzbyjfhued4rkg5dljzrdrxcvvbohh0ltu5vuxqm2hfvc1fu2h0b3z3cxptsetzem92uzgyzxr4u0utbnjirfp3ugduc2tyzgu3mdzfndrhouxmnfzzqnrin0w2tlk0a2ottwv2sulmmvazz0zrehrpsergrmfudhzkoexnr0pxmtfvvvpmaulir1zgt2v1yujuou5irxm5cvnms1vtyulnnnh1nux2d29iu21svvi2n05yeelsynrrzwtocho?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Stocktwits Biotech Dealmaker: Gilead, AstraZeneca And Roche Chase Pipeline Expansion Over Buyouts - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaGNmVVN1NnZaUkpRWk1IdE8xOFZLS0tjeDZCblRmQ3gyYlNhaW1Kd19MMmo3Q2VsSXA1bGN1cXRrc284LWEycmtiUUhqUk4xRkc3VTVFMjB1UDJWY2c5X3FJalVmcGhDWEV3c2tEVldWVEZtZjhPdzNiSVlhQTk3eDIxZkFWZl9hWFRsajVZRG5UQ25iOHVmX1Y4d1V5cC0yZG1SOFNZdnE0bkc2ZHBma3FOMkNZb0tCTjY3QkpyenFFTGs2XzFYOUx6eGhwQmFobERNalJXRmRrX3EyTHhQcHh0QnE3dnIwcjM4Nw?oc=5",
+    "source": "TradingView",
+    "source_type": "press",
+    "published_date": "2026-10-16",
+    "collected_at": "2026-10-17T13:11:18.790304+00:00",
+    "authors": [],
+    "summary": "Stocktwits Biotech Dealmaker: Gilead, AstraZeneca And Roche Chase Pipeline Expansion Over Buyouts TradingView",
+    "doi": null,
+    "company_slug": "insitro",
+    "keywords_matched": [
+      "insitro"
+    ],
+    "extra": {
+      "query": "\"insitro\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi7afbvv95cuxqagnmvvn1nnzaukprwk1ide8xofzls0tjedzcblrmq3gyylnhaw1kd19mmmo3q2vssxa1bgn1cxrrc284lweycmtiuuhquk4xrkc3vtvfmjb1udjwy2c5x3fjalvmcghdwev3c2tevldwveztzjhpdznisvlhqtk3edixzkfwzl9hwfrsajvzrg5uq25iohvmx1y4d1v5cc0yzg1sofnzdne0bkc2zhbma3fomknzb0tctjy3qkpyenfftgs2xzfyoux6eghwqmfobernaljxrmrrx3eythhqchh0qne3dniwcjm4nw?oc=5"
   },
   {
     "kind": "news",
@@ -4027,6 +4466,48 @@
   },
   {
     "kind": "news",
+    "title": "Iambic Therapeutics raises $150 million in US IPO for cancer drugs - NewsBytes",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTGdxZ08yTklScFVEZHNjMC0zYlhTYk1ndFRYUkp2R29OOG04c3dvLXppd3oyY0YyUWF5bktRUk5lbmNLTTUzbDM1T3hVQ2o4b09sTnpGS0dDdDN5bXNwQnpsbmNwYzQ2UlhxYTRXcXNNa2xXdUViazFiUlhMcnNLTWcyTlNzQUhBSnJRRzJCYmJKVjJ2cHlMbUxCcTZuYUpYb19zRDJNNjhPS2p0QUx6Uzl2OA?oc=5",
+    "source": "NewsBytes",
+    "source_type": "press",
+    "published_date": "2026-10-15",
+    "collected_at": "2026-10-17T13:11:18.294883+00:00",
+    "authors": [],
+    "summary": "Iambic Therapeutics raises $150 million in US IPO for cancer drugs NewsBytes",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiswfbvv95cuxptgdxz08ytklscfvezhnjmc0zylhtyk1ndfryukp2r29oog04c3dvlxppd3oyy0yyuwf5bktruk5lbmnlttuzbdm1t3hvq2o4b09stnpgs0ddddn5bxnwqnpsbmnwyzq2ulhxytrxcxnna2xxduviazfiulhmcnnltwcytlnzquhbsnjrrzjcymjkvjj2chlmbuxcctzuyupyb19zrdjnnjhps2p0qux6uzl2oa?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AstraZeneca Enters Strategic Collaboration with insitro for Drug Discovery - Intellectia AI",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0Nuc1I2UmhaNTUyeDFUQkNPMGZtMGp0VmJtdUxaV0tBeG82ekM1b1RhcHRWOHJYeXRGd0VOMGN0MVAwRm12dGh5cGZEc09oTXBfVnNVcEdGZDhRV25SdnExeExUdURSMTNHcHBzMFJWZTkyU25NWEN6LWZNOThkdlZWMGJOSGlzS0hfSXd2aFJUblFfUVBzZDRuWUlFdG9DR2FTOFlsazBabGo1?oc=5",
+    "source": "Intellectia AI",
+    "source_type": "press",
+    "published_date": "2026-10-15",
+    "collected_at": "2026-10-17T13:11:18.792069+00:00",
+    "authors": [],
+    "summary": "AstraZeneca Enters Strategic Collaboration with insitro for Drug Discovery Intellectia AI",
+    "doi": null,
+    "company_slug": "insitro",
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "query": "\"insitro\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmirafbvv95cuxnn0nuc1i2umhantuyedfuqknpmgztmgp0vmjtduxav0tbeg82ekm1b1rhchrwohjyexrgd0vomgn0mvawrm12dgh5cgzec09otxbfvnnvcedgzdhrv25sdnexeexudursmtnhchbzmfjwztkyu25nwen6lwznothkdlzwmgjosglzs0hfsxd2afjublffuvbzzdruwulfdg9dr2ftoflsazbabgo1?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Targeting SHOC2 as an Emerging Approach to RAS-Driven Cancers",
     "url": "https://drughunter.com/articles/targeting-shoc2-as-an-emerging-approach-to-ras-driven-cancers",
     "source": "Drug Hunter",
@@ -5728,6 +6209,48 @@
   },
   {
     "kind": "news",
+    "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs - Google Research",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYnZNdjBZLU0yRFZOazIzQzdQb2ZvOTN2eWtxclh4Sm5qa2hlOFViX3NoRktsM2R6LUxCTzMxVkxWSWlYZllpTE56RWJJODdSQmNibFVGbmZNcWNGdVhZSkpwSmtrdW5zYUpEdWxIeGhUTHN5emw4TWFScWlOZGZJZGFtSmMxVFM5Y2RNRFZLMkpySmhTTmNSX29zeHZtMWRWM2tSdGplMm4xMHVfU2g0Rw?oc=5",
+    "source": "Google Research",
+    "source_type": "news",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-17T13:10:42.311634+00:00",
+    "authors": [],
+    "summary": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs Google Research",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "protein design\" AI"
+    ],
+    "extra": {
+      "query": "\"protein design\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisafbvv95cuxoynzndjbzlu0yrfzoazizqzdqb2zvotn2ewtxclh4sm5qa2hlofvix3norktsm2r6luxctzmxvkxwswlyzllpte56rwjjoddsqmnibfvgbmzncwngdvhzskpwsmtrdw5zyupedwxieghuthn5emw4twfscwlozgzjzgftsmmxvfm5y2rnrfzlmkpysmhttmnsx29zehztmwrwm2tsdgplmm4xmhvfu2g0rw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Iambic Therapeutics prices IPO at $16 per share By Investing.com - Investing.com UK",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWElUU2V0VTJ1SGVBMk5LU1U4eTRhZ0FrWkcwSWtLT2NLZGxRSUItbm1YSjM3WThoYnJwNWRJWGhCWmZ2c2dIOHRuYXdaV2Z0UjNpTmdGYlpoSmxONktxQU5XdFhMcWhCSUNPQ25NYjgwR1l3bzhvc0tHOHFzN2VMd1F4cm90U2ZXbTRMSEVlVmFwWmpMSk11ZnBMTTVta2xmam5uVWZtVlZucUU?oc=5",
+    "source": "Investing.com UK",
+    "source_type": "press",
+    "published_date": "2026-10-14",
+    "collected_at": "2026-10-17T13:11:18.289326+00:00",
+    "authors": [],
+    "summary": "Iambic Therapeutics prices IPO at $16 per share By Investing.com Investing.com UK",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqwfbvv95cuxqweluu2v0vtj1sgvbmk5lu1u4etrhz0frwkcwswtlt2nlzgxrsuitbm1ysjm3wthoynjwnwrjwghcwmz2c2diohruyxdav2z0ujnptmdgylposmxonktxqu5xdfhmcwhcsunpq25nyjgwr1l3bzhvc0thohfzn2vmd1f4cm90u2zxbtrmsevlvmfwwmpmsk11znbmttvta2xmam5uvwztvlzucuu?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Form 4 Recursion Pharmaceuticals Inc: Dean Y. Li (Director) For: 1 October - Investing.com India",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRDVnRFZxbnpVRDJ1ajkwVUZ6NnljRi11WUR6UVFSUUdXTFgyVmxyY0c2RVRJTE1PZW9YOFM5WG5VZ2FJY1dQakFQSVdnOEVvOEFNWW10dmlFd3F0SXhLY1pKdjFCSWg2RHY3NzFWVERiZ2l5b3c4ZTJyZFNuenpRWEJRMTN5NnJIbjVQbkxxY2ZubnhLejBfY1dZZ1h0eXdvNGdmUVhJWXBPZEFoaUdJcGRPamQ4NWlLU25zME1SSE1kXzMzX3owdFVn?oc=5",
     "source": "Investing.com India",
@@ -7154,6 +7677,48 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiiafbvv95cuxprxrzuepisgeyckvlc01mm1rgsvixakzfx2ltztr6wuxvwfy0u2xpzvj2zmdxburtym8yt200oetvri1tuwzzttrlrtbry295yjrmdc16dnhjbmfaugrxsvdkwk9oawu1shjwmmd5tmq5rfuzdnhzz3e0si1czfzivxhfsljsu2rk?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Generate Biomedicines and Zealand Pharma Enter Collaboration and License Agreement to Develop Protein Therapeutics Engineered with AI for Metabolic Diseases - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOOHpLanoyT2hDcVh1akNjTFc0U04yT1JTV2lNdnI5VTh6bWtDcTVFS3dibURJbzNCTHFyQUtIeGtNMDVQaHB0dFZteHFpMGljeV92TDBkZTRwUkNvaElMbk5YQUQxLTlmQjVuUkt2cjZadFhTS0JoMmxPOThsUmxJMlc1Z0NlX21lTlRhSkZPejlvZFVudXZubERUZzREdTlod1JtNkxzS2U4Y0NfU0JVNk94SWEtMlpBMU5xN3kyWFVNNGF1dUpTWnREb3NJdnRfV2hMQnYwcEc4dlczbHZyUEs4Wno1ZldOY0RvRVBFMkxzU1pseVNQcmxLUWsyT2xuSktoM0xGNGhGWXhIalZFZ2p0aTJzVENMa0JDeGZLeUlESFlaZUhTWGhZMmlaZnlwUW5iUEo5UTMzQkVTN211TC1TU3VwT2VRb3c2NGNOVdIB1AJBVV95cUxNR2ZwNlU4OVhrdmt5UEVhaHA3SzNlRnpMenRKR2E2Vk5DMmstdlktRmhpeHVudUhJVVU3YV9zbFFJT1RSNTVJNFVGYUNYUXpRVGp5eDFiWncxTkdBZVZfSlBxcFBERzY1UGlSeW1kbWNhNnhmSUJvRU5uWnVfTlY3SHVXT29oQnFuY2xCRC1VeXA5MzNwbFg2dzdJZDBTSGdiTkRiclJyMUM2MFFfei1JcE5TMWprMFdTXzF1YmpTSDRqQ0dZeHA2UUVtZzFXWUIzVDY3aktoZ3NaZktSTm1SNXZkdHE1ajdVelZYc3pmUnNyNUViTWZLQTJNbWlfSFA3SUNRUE5aamdCc19fQWJsZnhqeXlPWkI2TjVrSkZXR1JwYlJKMFVWTGlHMDlDVFYxTDBEaGJ2YjA3d0VYY19XeE1rMzc3N0Jodjk2TVlHbUpBRWk1?oc=5",
+    "source": "The Manila Times",
+    "source_type": "press",
+    "published_date": "2026-10-13",
+    "collected_at": "2026-10-17T13:11:03.098619+00:00",
+    "authors": [],
+    "summary": "Generate Biomedicines and Zealand Pharma Enter Collaboration and License Agreement to Develop Protein Therapeutics Engineered with AI for Metabolic Diseases The Manila Times",
+    "doi": null,
+    "company_slug": "generate-biomedicines",
+    "keywords_matched": [
+      "Generate:Biomedicines"
+    ],
+    "extra": {
+      "query": "\"Generate Biomedicines\" OR \"Generate:Biomedicines\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmizwjbvv95cuxoohplanoyt2hdcvh1aknjtfc0u04yt1jtv2lndni5vth6bwtdctvfs3diburjbzncthfyqutiegtnmdvqahb0dfztehfpmgljev92tdbkztrwuknvaelmbk5yquqxltlmqjvuukt2cjzadfhts0jommxpothsumxjmlc1z0nlx21ltlrhskzpejlvzfvudxzuberuzzredtlod1jtnkxzs2u4y0nfu0jvnk94swetmlpbmu5xn3kywfvnngf1duptwnreb3njdnrfv2hmqnywcec4dlczbhzyues4wno1zldoy0rvrvbfmkxzu1psevnqcmxluwsyt2xusktom0xgnghgwxhialzfz2p0atjzvenma0jdegzleulesflazuhtwghzmmlaznlwuw5iueo5utmzqkvtn211tc1tu3vwt2vrb3c2ngnovdib1ajbvv95cuxnr2zwnlu4ovhrdmt5uevhaha3sznlrnpmenrkr2e2vk5dmmstdlktrmhpehvuduhjvvu3yv9zbffjt1rsntvjnfvgyunyuxprvgp5edfiwncxtkdbzvzfslbxcfberzy1uglsew1kbwnhnnhmsujvru5uwnvftly3shvxt29oqnfuy2xcrc1vexa5mznwbfg2dzdjzdbtsgditkricljymum2mfffei1jce5tmwprmfdtxzf1ymptsdrqq0dzeha2uuvtzzfxwuizvdy3aktoz3nazktstm1snxzkdhe1ajdvelzyc3pmunnynuvitwzlqtjnbwlfsfa3sunrue5aamdcc19fqwjsznhqexlpwki2tjvrskzxr1jwyljkmfvwtglhmdldvfyxtdbeagj2yja3d0vyy19xee1rmzc3n0jodjk2tvlhbupbrwk1?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "IPO Rating: Iambic Therapeutics, Inc. - Smartkarma",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oWmE0RU9IYXdtclg4ZXB1aXRqTW1YT1d3WmNGMVY1NWlKa09XSzZDb0VHemtTdTNOX0o2U1FNdGJUYVplcUl0ZUlsVFdGR0Z3Yml4QWJ0Xy1heGxpa3VBenJ6QUt3alh1YUsyY2stM2dTWS1fWktieEZn?oc=5",
+    "source": "Smartkarma",
+    "source_type": "press",
+    "published_date": "2026-10-13",
+    "collected_at": "2026-10-17T13:11:18.289899+00:00",
+    "authors": [],
+    "summary": "IPO Rating: Iambic Therapeutics, Inc. Smartkarma",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiekfvx3lxte9owme0ru9iyxdtclg4zxb1axrqtw1yt1d3wmngmvy1nwlka09xszzdb0vhemttdtnox0o2u1fndgjuyvplcul0zulsvfdgr0z3yml4qwj0xy1hegxpa3vbenj6qut3alh1yusyy2stm2dtws1fwktieezn?oc=5"
   },
   {
     "kind": "news",
@@ -10491,6 +11056,48 @@
   },
   {
     "kind": "news",
+    "title": "Form 144 RELAY THERAPEUTICS For: 10 October By Investing.com - Investing.com Canada",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdUZCQUFnS3I4akFyZ2xPTmwyRTI0MXNLVlBpc3ZuMkdkVXhyanEtbTRPSEF0TlJPRnNnaUJOMkxPSnFmeGRqcVhDenItTGVtS3dvanV5QjVERzVqYlJoRVRvYl9ySDE2VW1LdFR0QTNtMkxnOXYzUEdBU1ptRkNjdFdHVk51SWxEVEdrU2NBNVNYb0JSSzhYcWs3U3lyTDd2dmtPRllR?oc=5",
+    "source": "Investing.com Canada",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-17T13:11:17.826880+00:00",
+    "authors": [],
+    "summary": "Form 144 RELAY THERAPEUTICS For: 10 October By Investing.com Investing.com Canada",
+    "doi": null,
+    "company_slug": "relay-therapeutics",
+    "keywords_matched": [
+      "Relay Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Relay Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmipgfbvv95cuxnduzcqufns3i4akfyz2xptmwyrti0mxnlvlbpc3zumkdkvxhyanetbtrpsef0tljprnnnaujomkxpsnfmegrqcvhdenittgvts3dvanv5qjverzvqyljorvrvyl9ysde2vw1ldfr0qtntmkxnoxyzuedbu1ptrknjdfdhvk51swxevedru2nbnvnyb0jsszhycws3u3lytdd2dmtprllr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "IPO Databook: Iambic Therapeutics (IAM US) - Oct 2026 - Smartkarma",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYU5nWkJ3cDZzNm9waGJvbnJETHpUZ0lWaTYwWi1oMXhzbUxyRTFySGRJX1ZpVlhpbkRHMXA0N251WVJjOWhwWHc1Z3ZTdU5yX21CVUxiTjdDMXRLNDlqXzdkV19WWjlLOGxhX0tJLUtNN2d5bXpjWC11dUQwYV9KRUVqM0ZLZTVxRzNnWg?oc=5",
+    "source": "Smartkarma",
+    "source_type": "press",
+    "published_date": "2026-10-10",
+    "collected_at": "2026-10-17T13:11:18.291625+00:00",
+    "authors": [],
+    "summary": "IPO Databook: Iambic Therapeutics (IAM US) - Oct 2026 Smartkarma",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijafbvv95cuxqyu5nwkj3cdzznm9wagjvbnjethpuz0lwatywwi1omxhzbuxyrtfysgrjx1zpvlhpbkrhmxa0n251wvjjowhwwhc1z3ztdu5yx21cvuxitjddmxrlndlqxzdkv19wwjllogxhx0tjlutnn2d5bxpjwc11duqwyv9kruvqm0zlztvxrznnwg?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "brepocitinib",
     "url": "https://drughunter.com/molecule/brepocitinib",
     "source": "Drug Hunter",
@@ -11712,6 +12319,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmipgfbvv95cuxosvrxwjfxwdy4sdzsv3lyqu5us1r6b3p6azmyd3k3r3n3mdbyoddlb1hhqxz4rli0d2hermj3bxfgtwk1tgn2ngf4a055a2pwzkjnswr0d2vute1ewhu4elrivfc1amdtdm8zx3jncjhtrwywothrmnb0s1bqtjutb1ntumm4dunxyvkyu2hdrvzrwgpqszy5x19goe91bno4awrlx19n?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Fiocruz alerta para alta de virus respiratórios em todo o país - A Notícia do Ceará",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcXRTVWgxeWZ4aHNITXJrcjFQRHRyRzR6clhLYTlfWTNtYXRmVWJlb3RUQXBIX3RXLXBqNGZQRTdJSEFoaXhkLThMSlR0cXhwVjdZYlBKbU96RDFqS19hNGxLcTI5aXR2eW5ObnRmVU5OTzBXakxoWDRIYXMtUnlodFRlWjBaZ016eF9SY2JTYTI4d0pVYUlINGJB?oc=5",
+    "source": "A Notícia do Ceará",
+    "source_type": "news",
+    "published_date": "2026-10-09",
+    "collected_at": "2026-10-17T13:10:48.410369+00:00",
+    "authors": [],
+    "summary": "Fiocruz alerta para alta de virus respiratórios em todo o país A Notícia do Ceará",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmimgfbvv95cuxqcxrtvwgxewz4ahnitxjrcjfqrhryrzr6clhlytlfwtntyxrmvwjlb3ruqxbix3rxlxbqngzqrtdjsefoaxhklthmslr0cxhwvjdzylbkbu96rdfqs19hngxlcti5axr2ew5obnrmvu5otzbxakxowdriyxmtunlodfrlwjbaz016ef9sy2jtyti4d0pvyulingjb?oc=5"
   },
   {
     "kind": "news",
@@ -21366,6 +21994,27 @@
   },
   {
     "kind": "news",
+    "title": "GENB Options Chain — NASDAQ:GENB - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCaTRrMU5XSXFCVmphT0ZqSG92MF9oUWlYYTY5ZDN4QWUtNmpQbVNVUS03NElQLXdnaW1VUkVxaGZpWk9ucEU1ZnNlRkMzZkhvTUJJUFpIR0J1UWFxSlZmYUwtN0VPSjNrd0tzVkVOQQ?oc=5",
+    "source": "TradingView",
+    "source_type": "press",
+    "published_date": "2026-10-02",
+    "collected_at": "2026-10-17T13:11:03.105777+00:00",
+    "authors": [],
+    "summary": "GENB Options Chain — NASDAQ:GENB TradingView",
+    "doi": null,
+    "company_slug": "generate-biomedicines",
+    "keywords_matched": [
+      "Generate:Biomedicines"
+    ],
+    "extra": {
+      "query": "\"Generate Biomedicines\" OR \"Generate:Biomedicines\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmib0fvx3lxtfbcatrrmu5xsxfcvmpht0zqsg92mf9ouwlyyty5zdn4qwutnmpqbvnvus03nelqlxdnaw1vukvxagzpwk9uceu1znnlrkmzzkhvtujjufpir0j1uwfxslzmyuwtn0vpsjnrd0tzvkvoqq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "VENT-03",
     "url": "https://drughunter.com/molecule/vent-03",
     "source": "Drug Hunter",
@@ -23534,6 +24183,48 @@
   },
   {
     "kind": "news",
+    "title": "Estonia and Owkin Partner to Advance Sovereign AI in Biology - STT Info",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR3luaVNRdGxWcmhZUTJCT00tdVlyV1kyRE14NGxMZXBReHJpZkpudmEzbzlzMi11NE9BVE5RLWVNVl9uT3hKQXRJQ1NxZmhDRGd1ejl5VjJOQktXTDJPcV9XazBvbWhSM0lRR0VuWXBBSTBPMndnQURUNjJQNFVBU2xPLWhBd2VXYm9fbldMemdPMkEzbmYxcGM0bW9Bc3ZZV1RLdjhPSEpRMHVRLXhISzNaUUxTT0kyQ2VBa09YYVZUUnJTRlNlbA?oc=5",
+    "source": "STT Info",
+    "source_type": "press",
+    "published_date": "2026-09-29",
+    "collected_at": "2026-10-17T13:11:14.588457+00:00",
+    "authors": [],
+    "summary": "Estonia and Owkin Partner to Advance Sovereign AI in Biology STT Info",
+    "doi": null,
+    "company_slug": "owkin",
+    "keywords_matched": [
+      "Owkin"
+    ],
+    "extra": {
+      "query": "\"Owkin\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiyafbvv95cuxor3luavnrdgxwcmhzutjct00tdvlyv1kyre14ngxmzxbrehjpzkpudmezbzlzmi11ne9bve5rlwvnvl9ut3hkqxrjq1nxzmhdrgd1ejl5vjjoqktxtdjpcv9xazbvbwhsm0lrr0vuwxbbstbpmndnqurunjjqnfvbu2xplwhbd2vxym9fbldmemdpmkezbmyxcgm0bw9bc3zzv1rldjhpseprmhvrlxhisznauuxtt0kyq2vba09yyvzuunjtrlnlba?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Estonia Tests 'Sovereign AI' on National Health Data - BankInfoSecurity",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeFV6UEZtZGZjZjlDcG9yVWttR29GTjcyMnFTRHExZERJRVdHQmdxeHl2MUthQ2FZV09mSWJRT1I5SmlBRWNINVBXYzdXb2MwZUtlOGRUdlY3VEdkQ082bGM4Y0FNUjBTUGt5VW85elFTMmoyUHE0RGJQYkJsM0gwNDBVaFF0VzZ4NV9DVm1VUmFPc0NJcGc?oc=5",
+    "source": "BankInfoSecurity",
+    "source_type": "press",
+    "published_date": "2026-09-29",
+    "collected_at": "2026-10-17T13:11:14.589723+00:00",
+    "authors": [],
+    "summary": "Estonia Tests 'Sovereign AI' on National Health Data BankInfoSecurity",
+    "doi": null,
+    "company_slug": "owkin",
+    "keywords_matched": [
+      "Owkin"
+    ],
+    "extra": {
+      "query": "\"Owkin\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmilgfbvv95cuxpefv6ueztzgzjzjldcg9yvwttr29gtjcymnftrhexzerjrvdhqmdxehl2muthq2fzv09mswjrt1i5smlbrwninvbxyzdxb2mwzutlogrudly3vedkq082bgm4y0fnujbtugt5vw85elftmmoyuhe0rgjqykjsm0gwndbvaff0vzz4nv9dvm1vumfpc0njcgc?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Can Oral Small Molecules Challenge IL-17 Biologics?",
     "url": "https://drughunter.com/articles/can-oral-small-molecules-challenge-il-17-biologics",
     "source": "Drug Hunter",
@@ -24151,6 +24842,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi1wfbvv95cuxpvwvuneliv2vzt2nmodnry0j3oha2wfq4ywniyzfxthhtmfhnqudzetjjn01xzm9yn2pjrxjjbtc4bmnvrujzq3ztu2jqowhrmgtlugznt21zu3nns1lxze5nv01gbmtatmy4y0fjykdsq1duyl9iwezsrjfous1envdnowrry2ryc09dafvdbwnvsupctkmzruxotghsbhg2ddlirfets3llt2vntxznzwjgawpqd1ffnfvksexxmjgzcl91ng1rdvfoufzzsgxqceniaeptwq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Veeva says its new AI agent can build a clinical study in a day - RuntimeWire",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYWFPRjNwbnVvQWRDODBLYlpmSDdxYTUzbVNPS2RsaTc0N29BcG1odklzSExFc2QzWWsxaE5iY1A4ck9SVXEwR3NYT3c5WWNZd1cwUVpRUkxOamRRTE1NczdidUh0RnplUTZ4cXo1M2wwX2xuYXRFSjdfNk80UDVFSzhYbmxGNHY0YkVva0J5bw?oc=5",
+    "source": "RuntimeWire",
+    "source_type": "press",
+    "published_date": "2026-09-26",
+    "collected_at": "2026-10-17T13:11:13.708171+00:00",
+    "authors": [],
+    "summary": "Veeva says its new AI agent can build a clinical study in a day RuntimeWire",
+    "doi": null,
+    "company_slug": "veeva-systems",
+    "keywords_matched": [
+      "Veeva Systems"
+    ],
+    "extra": {
+      "query": "\"Veeva\" (\"clinical\" OR \"life sciences\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijwfbvv95cuxpywfprjnwbnvvqwrdodblylpmsddxytuzbvnps2rsatc0n29bcg1odklzsexfc2qzwwsxae5iy1a4ck9svxewr3nyt3c5wwnzd1cwuvprukxoamrrte1nczdiduh0rnplutz4cxo1m2wwx2xuyxrfsjdfnk80udvfszhybmxgnhy0ykvva0j5bw?oc=5"
   },
   {
     "kind": "news",
@@ -24984,6 +25696,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiggfbvv95cuxnytr2u3frzxm0swzvbe1qufjrmkdumghjsjbut2kwqlj0dfbjm3kxzfppumtcudlyejjaqwvqagzczwd4te9sqnrvduezsdk1cmlkq0rmnkq4bnzvwuroawpibdz4mlhvbhmxawx2d3pdcgjqtkhkc09cshzgeta3vgzr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "XtalPi Files IND for KQTD-126, Gut-Restricted TRK Inhibitor for Chronic Intestinal Pain - The Clinical Trial Vanguard",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObnNmZExKV0RKZXlYZ3B5bU1OMFA4UzFRenY2SGpZWFZLQVZwMkN2VlgzMTBfN0JGMXdJUzVNenE2SS1IZ3l1VlpyTHlGRXhfM2xlemJVZ2hPZUtkbEtGR05ZN01wdUoweHhNUXZTOHZtOXk5cXZUaDc4Mll4R1ZzQmVOX1k0aHZqelRPSldJZzhCQk8zV3U2aGh2RTZWY1pWRmF2dl9Nc005WFpjRU11cDBFZHA3Q25yZzlwTkdHaWVxX3ZYV3ltQVF3?oc=5",
+    "source": "The Clinical Trial Vanguard",
+    "source_type": "press",
+    "published_date": "2026-09-25",
+    "collected_at": "2026-10-17T13:11:03.699604+00:00",
+    "authors": [],
+    "summary": "XtalPi Files IND for KQTD-126, Gut-Restricted TRK Inhibitor for Chronic Intestinal Pain The Clinical Trial Vanguard",
+    "doi": null,
+    "company_slug": "xtalpi",
+    "keywords_matched": [
+      "XtalPi"
+    ],
+    "extra": {
+      "query": "\"XtalPi\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiygfbvv95cuxobnnmzexkv0rkzxlyz3b5bu1omfa4uzfreny2sgpzwfzlqvzwmkn2vlgzmtbfn0jgmxdjuzvnene2ss1iz3l1vlpythlgrxhfm2xlemjvz2hpzutkbetgr05zn01wduowehhnuxztohztoxk5cxzuadc4mll4r1zzqmvox1k0ahzqelrpsldjzzhcqk8zv3u2agh2rtzwy1pwrmf2dl9nc005wfpjru11cdbfzha3q25yzzlwtkdhawvxx3zyv3ltqvf3?oc=5"
   },
   {
     "kind": "news",
@@ -28824,6 +29557,48 @@
   },
   {
     "kind": "news",
+    "title": "Nvidia-backed AI drugmaker Iambic Therapeutics files for US IPO - MedWatch",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wN0M0enJXelNBVnNhX2Q2bUxNckxLMkpaVjNlckR4c2VhWHlHYWl3ZHFBRmFKNlM4QkE1c1JlSHVReERMcU04MVFEVGxFcHNJaEtYbEhULTBITVJNMmowWjdCU0VXRFlwZ3p0dndR?oc=5",
+    "source": "MedWatch",
+    "source_type": "press",
+    "published_date": "2026-09-22",
+    "collected_at": "2026-10-17T13:11:18.291761+00:00",
+    "authors": [],
+    "summary": "Nvidia-backed AI drugmaker Iambic Therapeutics files for US IPO MedWatch",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmibkfvx3lxte0wn0m0enjxelnbvnnhx2q2buxnckxlmkpavjnlckr4c2vhwhlhywl3zhfbrmfknlm4qke1c1jlshvreermcu04mvfevgxfchnjaetybehultbitvjnmmowwjdcu0vxrflwz3p0dndr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Nvidia, QIA-backed Iambic Therapeutics files for US IPO as biotech boom rolls on - The Star",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR1lnYXE1bzlVS2hLNUZMVEloOFgtWG51aHdnT3BKdEM1cjJwQzdyMTAzTVI0R0NsZm1UbEdRRmRMcGNySk9pLTdXa1VwLW5mc0RYY0ZPVFI3clkwWUpBS09yZG1DUjJIc0hiOHJVLU9NandWejJuZ3Vtd2NYVHFtVHpITHlmODJRdl9ncjRyY3hBQkgtRXZqNjVvMUQxQVNnQjFyd2pvanhhRmtoSW5Fa1RWMzYxa3pRMDh4SmNWckdGUnpVVzdrQVdJdmU?oc=5",
+    "source": "The Star",
+    "source_type": "press",
+    "published_date": "2026-09-22",
+    "collected_at": "2026-10-17T13:11:18.292184+00:00",
+    "authors": [],
+    "summary": "Nvidia, QIA-backed Iambic Therapeutics files for US IPO as biotech boom rolls on The Star",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmizafbvv95cuxnr1lnyxe1bzlvs2hlnuzmveloofgtwg51ahdnt3bkdem1cjjwqzdymtaztvi0r0nszm1ubedrrmrmcgnysk9pltdxa1vwlw5mc0ryy0zpvfi3clkwwupbs09yzg1dujjic0hiohjvlu9nandwejjuz3vtd2nyvhftvhpithlmodjrdl9ncjryy3hbqkgtrxzqnjvvmuqxqvnnqjfyd2pvanhhrmtosw5fa1rwmzyxa3prmdh4smnwckdgunpvvzdrqvdjdmu?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "selgantolimod",
     "url": "https://drughunter.com/molecule/gs-9688-selgantolimod",
     "source": "Drug Hunter",
@@ -30410,6 +31185,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmitkfvx3lxtfbhy1dhmmjar3zcetlibvverje4qty2x09vx2hiwnh3zhmzt1fzs1dcd0qxntl5mjlaslbmam9etzlnmdlirxm1sllsadnnuq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Brenton Mar: Reflecting on Transformative Journey in Cancer Drug Development at Relay Therapeutics - Oncodaily",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhdjdnSjNMb0RFbjNBVTYycEMwcWdEZWF4Z3dnU0pjalVyRDBjYjg0MXVpUzViUHI2Y1lobFFwYnl6SkVWOG8wUFdENnBFVHVYQVFoX1VBNUcyUEE?oc=5",
+    "source": "Oncodaily",
+    "source_type": "press",
+    "published_date": "2026-09-21",
+    "collected_at": "2026-10-17T13:11:17.820978+00:00",
+    "authors": [],
+    "summary": "Brenton Mar: Reflecting on Transformative Journey in Cancer Drug Development at Relay Therapeutics Oncodaily",
+    "doi": null,
+    "company_slug": "relay-therapeutics",
+    "keywords_matched": [
+      "Relay Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Relay Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiw0fvx3lxtfbhdjdnsjnmb0rfbjnbvtyycemwcwdezwf4z3dnu0pjalvyrdbjyjg0mxvpuzviuhi2y1lobffwynl6skvwog8wufdennbfvhvyqvfox1vbnucyuee?oc=5"
   },
   {
     "kind": "news",
@@ -37535,6 +38331,48 @@
   },
   {
     "kind": "news",
+    "title": "Ginkgo Bioworks Starts Selling the Robotic Labs Behind Its Fermentation Work - Cultivated X",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTTFSZS1nem1OZXJtaGpNTkk5Mk1fbFFwWDR6Z05MWGpVb0ZVMFp1TWx0Q2RETnBpZlBaZDVOLVBqRGVHLTVfMGMwdnpfbjJkcWRvY0ljT3YzSU8tYkhIcHh6WTFRd0JfdUhBV09sSzVSNWpJWmNSU1BfbHEtcnA3UnF2VHhyelNpTUhtNjI0Sk1xcjl6ZUhyaUVZTWZNMmktU1dJQWdpdzZfVjlqYnFrMUIyTzl1MUZPSWI2ZFlLWGM?oc=5",
+    "source": "Cultivated X",
+    "source_type": "press",
+    "published_date": "2026-09-16",
+    "collected_at": "2026-10-17T13:11:11.272722+00:00",
+    "authors": [],
+    "summary": "Ginkgo Bioworks Starts Selling the Robotic Labs Behind Its Fermentation Work Cultivated X",
+    "doi": null,
+    "company_slug": "ginkgo-bioworks",
+    "keywords_matched": [
+      "Ginkgo Bioworks"
+    ],
+    "extra": {
+      "query": "\"Ginkgo Bioworks\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwafbvv95cuxpttfszs1nem1ozxjtagpntkk5mk1fbffwwdr6z05mwgpvb0zvmfp1twx0q2retnbpzlbazdvolvbqrgvhltvfmgmwdnpfbjjkcwrvy0ljt3yzsu8tykhichh6wtfrd0jfduhbv09sszvsnwpjwmnsu1bfbhetcna3unf2vhhyelnptuhtnji0sk1xcjl6zuhyauvztwznmmktu1djqwdpdzzfvjlqynfrmuiytzl1muzpswi2zfllwgm?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Ginkgo Datapoints Announces Partnership with TuneLab to Close the Gap between AI Models and Lab Data - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX0UwQXJtWU5VZHczRmlUamdjV1VVVEI2NVctaDlQNG90cDlubEM2MEtWcEhGMkIxdHpGSlRxMXJaQmVGUzJfLU4xTGQyVkJKR05GcVJQRVRlajF5bU1yaU5VakdJQXNpWDBOWWVOTDNDemtDZEQ3VHlVNnV6VzBsQ1ZGamY2TU1fUVl1ajlYa09sRU5PODUxSFNIbHJoWlJpZjVJR056S2k3aGlQMkdhMG13Mm5fTGVKT0h4OWh3aXF2VVg5aHZfcDRxUmhad1pVXy1VeDc4dlRKVWp2aXRSTlFEQ2lTU1o4VW4yZHJ3?oc=5",
+    "source": "Business Wire",
+    "source_type": "press",
+    "published_date": "2026-09-16",
+    "collected_at": "2026-10-17T13:11:11.277839+00:00",
+    "authors": [],
+    "summary": "Ginkgo Datapoints Announces Partnership with TuneLab to Close the Gap between AI Models and Lab Data Business Wire",
+    "doi": null,
+    "company_slug": "ginkgo-bioworks",
+    "keywords_matched": [
+      "Ginkgo Bioworks"
+    ],
+    "extra": {
+      "query": "\"Ginkgo Bioworks\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi7gfbvv95cuxqx0uwqxjtwu5vzhczrmluamdjv1vvvei2nvctadlqng90cdlubem2metwcehgmkixdhpgslrxmxjaqmvguzjflu4xtgqyvkjkr05gcvjqrvrlajf5bu1yau5vakdjqxnpwdbowwvotdndemtdzeq3vhlvnnv6vzbsq1zgamy2tu1fuvl1ajlya09sru5poduxsfnibhjowljpzjvjr056s2k3aglqmkdhmg13mm5ftgvkt0h4owh3axf2vvg5ahzfcdrxumhad1pvxy1vedc4dlrkvwp2axrstlfeq2ltu1o4vw4yzhj3?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Insilico Launches AI-driven Longevity Vaccines Research for Aging-related Diseases and Human Longevity - Insilico Medicine",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wSU5QTXNUdmtaaGl0RTVlTW9zUzE0ZnRfQ0U5NGNIUUJaWXQwWnVVZkIxRXlkc0tWUjk2OHR2cW1vMnNPR3hJT0k5TVZDVXZqcUlFa3FndmxxTDZMYnc1R2ZJbk0ycTgybF8zQXRBd2tXYUxr?oc=5",
     "source": "Insilico Medicine",
@@ -38542,6 +39380,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwgfbvv95cuxqsuo4zno4adatx2tsoxlvqlr1vjlymhbxuvdgvktydfbtmjrvbwhowc1xtmjtvmvcbxvwc0rfq19lqvnzmudmbzd4ofnurullofvemgfwaldwam1nnlfpdkjlbutbdmx1zkczx3bvdnd3tldnmhziuxm5egdan3yxuvljx1numhayslq0a20tyjfmexridldesmq0wtljc3lvrjrkbc1gsmh0tllddhljbl80sw1eumf4tk5itvrvctz0dw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "What is a virtual cell? - Drug Discovery News",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XMmE0cFJJd3p1czdLRURyaU5fWlpILTdCWDJCcEFqbGh1Tk5uTXRsTDFsS1Jld3ZHeHR2VVBYRnp1Z0VoZmgzZGc5VGVYTDVWZ0Y4UkFlQ2JUZkpJRV94aWdaSWtYN3VFZEtiLURKUQ?oc=5",
+    "source": "Drug Discovery News",
+    "source_type": "news",
+    "published_date": "2026-09-14",
+    "collected_at": "2026-10-17T13:10:45.260068+00:00",
+    "authors": [],
+    "summary": "What is a virtual cell? Drug Discovery News",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "virtual cell\" AI"
+    ],
+    "extra": {
+      "query": "\"virtual cell\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmib0fvx3lxte9xmme0cfjjd3p1czdlruryau5fwlpiltdcwdjccefqbgh1tk5utxrstdfss1jld3zhehr2vvbyrnp1z0vozmgzzgc5vgvytdvwz0y4ukflq2juzkpjrv94awdaswtyn3vfzetilurkuq?oc=5"
   },
   {
     "kind": "news",
@@ -39764,6 +40623,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi5gfbvv95cuxodjvfzdhsrxrdzlvqqvhtzjrkvw9rtkpcetbym0thcevwdephm2uzbdaydm9tuvkzaxpoa1rccxp0cv9czfzftlbuake4cxvkwvoxu1d0m0hwdjc2bndmn3jvd25esdbkx1lkuevomupzmvhryuhwx0zwmi1qrez3wjjqoufwmdjzthzmwxfes3pnmudlwwlpuhb6dxaybfnutk9huk9ov20zvnhcdlgwbknuekflwujpytntbdh5bjdyvk90quf4zg8tynizx2lnbzhzuzhqatjgckhnsvfqejm2qjjezw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Owkin Licenses K Pro, Patient Data to Servier for Oncology Research - Unite.AI",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa1ZvQjhuRTVpR1YzRU5ua3pJdHppLXB2WmE1SDQyd1NnaFg4LXBjcjFRaHQ4VUp2blhnSmg3Rnp3OGFBbHE5THI4SnBIaWRJNEgyUjd2RzBDbFpicUFHb1BYOW5yQ2U5ZmZzTGFHRHRVcmpSU3VDbm5jQ0ptT09XdlIwR29fOTBPSWdoUFNsNVZEUQ?oc=5",
+    "source": "Unite.AI",
+    "source_type": "press",
+    "published_date": "2026-09-11",
+    "collected_at": "2026-10-17T13:11:14.586433+00:00",
+    "authors": [],
+    "summary": "Owkin Licenses K Pro, Patient Data to Servier for Oncology Research Unite.AI",
+    "doi": null,
+    "company_slug": "owkin",
+    "keywords_matched": [
+      "Owkin"
+    ],
+    "extra": {
+      "query": "\"Owkin\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmikgfbvv95cuxna1zvqjhurtvpr1yzru5ua3pjdhpplxb2wme1sdqyd1nnafg4lxbjcjfrahq4vup2blhnsmg3rnp3ogfbbhe5thi4snbiawrjnegyujd2rzbdbfpicufhb1byow5yq2u5zmzztgfhrhrvcmpsu3vdbm5jq0ptt09xdliwr29fotbpswdoufnsnvzeuq?oc=5"
   },
   {
     "kind": "news",
@@ -48885,6 +49765,28 @@
   },
   {
     "kind": "news",
+    "title": "Owkin signs AI drug discovery deal with Boehringer for cancer, immunology - CNA",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUy1wNWp1RjUwY2ZzeDVmVS03SDBWbU44T3NoQUNTa0g3NFFpTTc4VTJ4NVFYX3AyY29Dd1NnX0tCQVBnVENIY0JuckFuSVdLalBXSGF5ZUFKYl9kaUctRzZwY2RLMVd6ZS1ZX0dqa3BVcmhyb2dxTUppbWJFaGtRNWVqZEQxOUVrN290dnhOajQ5dXFKUXBZWkxMVXh4bW4wN2I4YURFYmZUcTNCVldKZ1hB?oc=5",
+    "source": "CNA",
+    "source_type": "press",
+    "published_date": "2026-09-02",
+    "collected_at": "2026-10-17T13:11:14.589584+00:00",
+    "authors": [],
+    "summary": "Owkin signs AI drug discovery deal with Boehringer for cancer, immunology CNA",
+    "doi": null,
+    "company_slug": "owkin",
+    "keywords_matched": [
+      "drug discovery",
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"Owkin\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmisgfbvv95cuxpuy1wnwp1rjuwy2zzedvmvs03sdbwbu44t3noqunta0g3nffpttc4vtj4nvfyx3ayy29dd1nnx0tcqvbnveniy0juckfusvdlalbxsgf5zufkyl9kauctrzzwy2rlmvd6zs1zx0dqa3bvcmhyb2dxtuppbwjfagtrnwvqzeqxouvrn290dnhoajq5dxfkuxbzwkxmvxh4bw4wn2i4yurfymzuctncvldkz1hb?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Enlicitide (MK-0616)",
     "url": "https://drughunter.com/molecule/mk-0616",
     "source": "Drug Hunter",
@@ -52043,6 +52945,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmidkfvx3lxte9hqvlzmlpvzgi2mf9rmhjpsg9utut2yvfobdu4v3bhtlblzwzerk9rnm9hsdnucddnnmg1zfjrmgd4n2lybzqyb2zptkwyaudlym0yaznudvjlmgo3metpslhjdgrtm3lzr3nloxzhzhvny1r2tmc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Veeva Vault CRM Selected by Regeneron - PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQVNVX2RUSkJjT3ozWmt4WlBlYjJrM1RtLXI3UkRLdmFXVllub2YtRW9RV1pVeUZRMUpmb2xudGhSTWJaWDJVR1RKRDZfMm9VM2I1VENsNjlWVzg1TDVHWGRwZk9nSVZkODlCZ1dyRVBQSzNTTkp4d0RrOHJPemFfUGlMUFIySV9IRzlVOTN4anRQdWFJOWhJcw?oc=5",
+    "source": "PR Newswire",
+    "source_type": "press",
+    "published_date": "2026-08-25",
+    "collected_at": "2026-10-17T13:11:13.708335+00:00",
+    "authors": [],
+    "summary": "Veeva Vault CRM Selected by Regeneron PR Newswire",
+    "doi": null,
+    "company_slug": "veeva-systems",
+    "keywords_matched": [
+      "Veeva Systems"
+    ],
+    "extra": {
+      "query": "\"Veeva\" (\"clinical\" OR \"life sciences\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmimafbvv95cuxpqvnvx2ruskjjt3ozwmt4wlblyjjrm1rtlxi3ukrldmfxvllub2ytrw9rv1pveuzrmupmb2xudghstwjawdjvr1rkrdzfmm9vm2i1vensnjlwvzg1tdvhwgrwzk9nsvzkodlcz1dyrvbqsznttkp4d0rrohjpemffuglmufiysv9irzlvotn4anrqdwfjowhjcw?oc=5"
   },
   {
     "kind": "news",
@@ -62459,6 +63382,27 @@
   },
   {
     "kind": "news",
+    "title": "AI-Designed Proteins Help Scientists See Inside Living Cells - Technology Networks",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdmhQRWxaeG1fOG5NV2VudnVuMjhmX2pxMFBGRlZ3dTNFUkx5aWZ0SkhJRDh3OE5DVVducWpVaUhoVHpuTG9uY1pmR3M5cld6TTdnZTJ0WHRKaXpSTVVLeGVPaW5abFk0ZFNnbGE3MXZhTHg5Qzh4RHRBSU5lXzRRTkNLLW4zQ0NENEFmNlZNY3k3ZTRsS3NiVkE0c0NST0pIeS1lMjBEVG54VzFnS2syeVB4bzE3c1Ezbl9Z?oc=5",
+    "source": "Technology Networks",
+    "source_type": "news",
+    "published_date": "2026-07-20",
+    "collected_at": "2026-10-17T13:10:42.313967+00:00",
+    "authors": [],
+    "summary": "AI-Designed Proteins Help Scientists See Inside Living Cells Technology Networks",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "protein design\" AI"
+    ],
+    "extra": {
+      "query": "\"protein design\" AI",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiuwfbvv95cuxpdmhqrwxaeg1fog5nv2vudnvumjhmx2pxmfbgrlz3dtnfukx5awz0skhjrdh3oe5dvvducwpvauhovhputg9uy1pmr3m5cld6ttdnztj0whrkaxpstvvlegvpaw5abfk0zfnnbge3mxzhthg5qzh4rhrbsu5lxzrrtknllw4zq0nenefmnlzny3k3ztrss3nivke0c0nst0pies1lmjbevg54vzfns2syevb4bze3c1ezbl9z?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "AI-Driven Discovery Platforms: Takeda Has Signed With Insilico Medicine's Pharma AI Suite - Trend Hunter",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EcTZsSDR1cHpVSk5XLXhORE5kX2tEanJwYUZScGJaVlNSTS05NXZnWU5WdjZaQjdjbmdYdXNITTJPWko1LTMtb3hCYlNrbnJscmVCUUpnWnpxZ3Ezc0lB?oc=5",
     "source": "Trend Hunter",
@@ -70735,6 +71679,27 @@
   },
   {
     "kind": "news",
+    "title": "Absci Shares Soar After Positive Early Clinical Results for Hair Loss Therapy (ABSI) - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDRiX1R1V04wSkNRaFUyc19lM2VmN2FrS0JPV1dwWnZkSlBCc1R5Q2hNSXRUWXQ4ZFk5VXR0Q2s4MURYanN2dERZTHVsOWIta1E5VEVJZHhjQkQ4cWFIaURlQ1JxRTRjRHZzZi13cDFnZXVPTS1BaWhWTVBqUFBSZUhQUlFMMi1lb2V0SThXUk9GVWJMT0JMbw?oc=5",
+    "source": "Yahoo Finance",
+    "source_type": "press",
+    "published_date": "2026-06-24",
+    "collected_at": "2026-10-17T13:11:02.606529+00:00",
+    "authors": [],
+    "summary": "Absci Shares Soar After Positive Early Clinical Results for Hair Loss Therapy (ABSI) Yahoo Finance",
+    "doi": null,
+    "company_slug": "absci",
+    "keywords_matched": [
+      "Absci"
+    ],
+    "extra": {
+      "query": "\"Absci\" (AI OR antibody OR biologics)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmimafbvv95cuxnzdrix1r1v04wsknrafuyc19lm2vmn2frs0jpv1dwwnzkslbcc1r5q2hnsxruwxq4zfk5vxr0q2s4muryann2derzthvsowita1e5vevjzhhjqkq4cwfiaurlq1jxrtrjrhzzzi13cdfnzxvpts1bawhwtvbqufbszuhqulfmmi1lb2v0sthxuk9gvwjmt0jmbw?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Boltz built its drug-discovery API ‘for agents as much as for people’ - R&D World",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUNJM2J3dWJLMXZ5QlYxNkxKVnVrS1hYajZ0Wkk4b1l0aW9henY5ZW5WT2F1dWF6bzM5UWI3M0l4SnpSb1NNRW9ObVZHT2lEb01ySDBqLWhISmlBYV9FellKY24wM3BmaUE0Vk9CT0RSWmlvU01CZElPU3otc3Z6WXBwN3Z5WnFPOHFQdmtvZWJTYTRNNmFfb2k2d0Z5eVU?oc=5",
     "source": "R&D World",
@@ -71743,6 +72708,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiuafbvv95cuxomurswlnzcuhqskd6cwlyrxqwek9hbwfrnwpyafvbte0xvmlczml5vnrithluu0xewfbydwtubknwwldxyjdycjjhlw03te5tt1ffru4tndnhqkets2hkrnbjvzdldm9hmhfkn0tocelsqkxgru0xmmcyndjos3nbwvdteeztsxm4cdb1r01wvdfuzkljznrxqknllxh0nwlymxl5u1buyuzmamputnppsg4wdkdmyvvs?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Bayer and Iambic collaborate to advance drug discovery with AI - Bayer Global",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd3hFcGFoLW5TNUdEaUVVWG9HVnpMSS1ZMnZMd1lzbHNEV3BielBhVDQ5LWtaTW5VWXZ5MFA4WVVZQXVONGhpeVhMVTNzYm5oZGpZaFpjUm5mSXREOVctV1BLRU9WTDZpbS1Sajdzd1dnNnlwc2dfbkRXU0t1Ny1WaU9VbHY4VTJaVVdPcWg1WVJFRzBMZVZ2OW9KekhQUQ?oc=5",
+    "source": "Bayer Global",
+    "source_type": "press",
+    "published_date": "2026-06-22",
+    "collected_at": "2026-10-17T13:11:18.291900+00:00",
+    "authors": [],
+    "summary": "Bayer and Iambic collaborate to advance drug discovery with AI Bayer Global",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmingfbvv95cuxnd3hfcgfolw5tnudeauvvwg9hvnpmss1zmnzmd1lzbhnev3bielbhvdq5lwtatw5vwxz5mfa4wvvzqxvonghpevhmvtnzym5ozgpzafpjum5msxreovctv1blru9wtdzpbs1sajdzd1dnnnlwc2dfbkrxu0t1ny1wau9vbhy4vtjavvdpcwg1wvjfrzbmzvz2ow9kekhquq?oc=5"
   },
   {
     "kind": "news",
@@ -73444,6 +74430,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmijafbvv95cuxpt0pwwgrmyjlxqknkyknwqxrznwq1ytvyegzwrxzxcffztkq4txjlm0zjr3gwqwt2qlj2teo1vmg5vedirnhyeme5z09oytv0wdr1ektkctraexl3svzrd19ru0v4udvzwnzlqza4vxc0v0jrqxjqmgutbtzuzgxjqxn5y3fwae0wnxr5uw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "What makes IQVIA Site Enrollment and Engagement Leads Different? - IQVIA",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZzdBdm5VdERqTXotRTRRcnR3SVNtbVRjd0NuYVR5NUN2Uzh3amlrMVd2aDBRUXJxWUR0TmU5eEk5RUtxVHdmZjkydkFxeXVJSXJnOHRwNHhZWml4X1Qtcm5BOUl5bWVvQVdORWpHcXBSNU9yMUgtVGM1S1c4NVlONUdEU2VyZ3pWeDBqdm9pd2w4WG5zWlVnSXBmNjZwUHFQYkE?oc=5",
+    "source": "IQVIA",
+    "source_type": "press",
+    "published_date": "2026-06-16",
+    "collected_at": "2026-10-17T13:11:16.090958+00:00",
+    "authors": [],
+    "summary": "What makes IQVIA Site Enrollment and Engagement Leads Different? IQVIA",
+    "doi": null,
+    "company_slug": "iqvia",
+    "keywords_matched": [
+      "IQVIA"
+    ],
+    "extra": {
+      "query": "\"IQVIA\" (\"clinical\" OR \"real-world\" OR \"life sciences\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiogfbvv95cuxnzzdbdm5vderqtxotrtrrcnr3svntbvrjd0nuyvr5nun2uzh3amlrmvd2adbruxjxwur0tmu5eek5rutxvhdmzjkydkfxexvjsxjnohrwnhhzwml4x1qtcm5boul5bwvvqvdorwphcxbsnu9ymugtvgm1s1c4nvlonudeu2vyz3pwedbqdm9pd2w4wg5zwlvnsxbmnjzwuhfqyke?oc=5"
   },
   {
     "kind": "news",
@@ -78231,6 +79238,27 @@
   },
   {
     "kind": "news",
+    "title": "New Orbitrap Systems Accelerate Multiomics and Drug Discovery - Technology Networks",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYnE2V1p0WkpuT1FnMlJ6Ulh2QkdFX1ZTMjZuRzhhMDNPSWxReDdPb3Uydnowb3BPS3Y3TzBjajJsWVZNWXpDR3kzc3dacV9ydkRVUHFsVk1oSF9uSjF1M2JTd1hhUnUtRXlhSXRWeENlemlKclAtRWhLdXp4WXUtYmw0b2pSMklSUTd0UlV1SVpUVGpmSjlNSjNaSFRGS1hXVHlyVXVlc1dKQ1B4c3BYN0dtekJBV1RPWVVvZFJ1NnZnSUFiUHNJ?oc=5",
+    "source": "Technology Networks",
+    "source_type": "press",
+    "published_date": "2026-06-04",
+    "collected_at": "2026-10-17T13:11:21.557093+00:00",
+    "authors": [],
+    "summary": "New Orbitrap Systems Accelerate Multiomics and Drug Discovery Technology Networks",
+    "doi": null,
+    "company_slug": "thermo-fisher",
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "query": "\"Thermo Fisher\" (\"drug discovery\" OR PPD OR \"clinical trials\" OR \"cryo-EM\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmixwfbvv95cuxpyne2v1p0wkput1fnmlj6ulh2qkdfx1ztmjzurzhhmdnpswxreddpb3uydnowb3bps3y3tzbjajjswvznwxpdr3kzc3dacv9ydkrvuhfsvk1osf9usjf1m2jtd1hhunutrxlhsxrweenlemlkclatrwhldxp4wxutymw0b2psmklsutd0ulv1svpuvgpmsjlnsjnasfrgs1hxvhlyvxvlc1dkq1b4c3byn0dtekjbv1rpwvvvzfj1nnznsufiuhnj?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Multi-omics and artificial intelligence for precision drug discovery and potential clinical applications - Nature",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wR0FVVnY0NXYwaURXUkJPZjVxeHFmZjc2REFWTTk4eU1RdlIxaDhiYkh2TEhKdHVwdnhBalhpU1FjdldrV1k3MUxWdVI5aldHUG5PaFRIWVVLa3V2UlVZ?oc=5",
     "source": "Nature",
@@ -79260,6 +80288,48 @@
   },
   {
     "kind": "news",
+    "title": "XtalPi Receives Second Payment from DoveTree; First Oncology Asset Advances into IND-Enabling Studies - PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaVhsSDZMVmh6WDdPTG9hM0VuTkhaY1N0ZEZSUkZkUlhDUy1DSlBMUFAydmRTT3RRQkdlN1YyYWQwUDRUTThoZFVRTGRmMkdhRUFKQy1mRG8xRkVRQUV2X3hfVzlyWTg3Nk1MV2drUkMySnlhbDRsNGhjNFVYQmM0c3F2NF9GUjlseWdpNHBPQkRzVjFITzlEdXpzSVdtdnpaT0VCOGpyZXNla2dlYXJiQmFWNTY1a3pXbDk5cTRpcmFjUWRxaFFoVEU3VU5QbTRwTWJhLXBFZHVaRDUyWnZKOG5RLXZCWWlkbTdQOQ?oc=5",
+    "source": "PR Newswire",
+    "source_type": "press",
+    "published_date": "2026-05-29",
+    "collected_at": "2026-10-17T13:11:03.701970+00:00",
+    "authors": [],
+    "summary": "XtalPi Receives Second Payment from DoveTree; First Oncology Asset Advances into IND-Enabling Studies PR Newswire",
+    "doi": null,
+    "company_slug": "xtalpi",
+    "keywords_matched": [
+      "XtalPi"
+    ],
+    "extra": {
+      "query": "\"XtalPi\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi7afbvv95cuxpavhssdzmvmh6wddptg9hm0vutkhay1n0zezsukzkulhduy1dslbmufaydmrtt3rrqkdln1yyywqwudrutthozfvrtgrmmkdhrufkqy1mrg8xrkvrquv2x3hfvzlywtg3nk1mv2drukmysnlhbdrsnghjnfvyqmm0c3f2nf9gujlsewdpnhbpqkrzvjfitzledxpzsvdtdnpat0vcogpyzxnla2dlyxjiqmfwnty1a3pxbdk5ctrpcmfjuwrxaffoveu3vu5qbtrwtwjhlxbfzhvarduywnzkog5rlxzcwwlkbtdqoq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Veeva vs. IQVIA: Which Life Sciences Tech Stock Holds More Promise? - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQalJGUGd2bFdJcWNwYzMyaEc0VVRuTXg5VlNLTTNXWE1MbnQ4WEloVTFORGNIRGZVN3ZCd0VYRDFsYXJCX0hMb3dyOVpqZnJoYmNnMHRVNVNlMTJhWndvTDFVVUZ5WkIzd1EtajlUZTRZSFJpYmlfM3dNbjlJRkVlWmNlU21WWE5Cc0dPSWg4RHMyeUFKRGZuNDd5RjFmU3ZReWdhMEpGbk1uR3VmQTVrSDNxaUgzWTgydkZTNw?oc=5",
+    "source": "TradingView",
+    "source_type": "press",
+    "published_date": "2026-05-29",
+    "collected_at": "2026-10-17T13:11:13.712251+00:00",
+    "authors": [],
+    "summary": "Veeva vs. IQVIA: Which Life Sciences Tech Stock Holds More Promise? TradingView",
+    "doi": null,
+    "company_slug": "veeva-systems",
+    "keywords_matched": [
+      "Veeva Systems"
+    ],
+    "extra": {
+      "query": "\"Veeva\" (\"clinical\" OR \"life sciences\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmivafbvv95cuxqaljgugd2bfdjcwnwyzmyaec0vvrutxg5vlnlttnxwe1mbnq4welovtforgnirgzvn3zcd0vyrdfsyxjcx0hmb3dyovpqznjoymnnmhrvnvnlmtjhwndvtdfvvuz5wkizd1etajluztrzsfjpymlfm3dnbjljrkvlwmnlu21wwe5cc0dpswg4rhmyeufkrgzundd5rjfmu3zrewdhmepgbk1ur3vmqtvrsdnxaugzwtgydkztnw?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Biohub Open-Source AI Model Targets Protein Design for Drug Discovery - BioPharm International",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDhuV0NqTndZVDZZbU4wMGoySGNoeHdZYXVNMzdqaUtGSFN3VDB0WjRHZ0VZMkM4OXN1MUNOY21sWjk5X041eGp3dnVmUXdmdmh1NXUxWU1VdlVaSno2NTJlVDhkWnRnNG00MlRQNGZVSHRPbzhJZHphby1rbl9aN3k5ZzN6RTl2R2k2V1lVU3NxM0syMW1TTjVmaWtlRUQxbnExYmlZZVFINWl5TjdqaVNB?oc=5",
     "source": "BioPharm International",
@@ -79467,6 +80537,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmigwjbvv95cuxnttzfb3jiqthmt3rjy3hsbm5jvlzezdlsy0dpakcyavpts3mxdtfldm1zrhq0vfzsqxl1u3u2btk1r1ftuwhmahpbngvlwev1chizvkf2u2fltlbmvdjjctrncnz3tl96ujzqothtcdzvng5vae9wzhlxt2rvru5hc1falvbftnnwowtunkdgqutnthvesdbtcs0ty3f4aw9pb21fx2xgzkdkr21xx0g0sg5gy2s4vdvczzvuc0htzw1hnzmwqk50qtrkqzfuotzvvwnnr2hcyju2tfffexy5mk9qr1btcmyzytnpb3dny19ltvzrlxpgtkewew9lvlflcg93?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Generate Biomedicines Inc. to Participate in Goldman Sachs 47th Annual Global Healthcare Conference - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOXhMNXAyeEdLcmx4bzdhdkpRNXlqT1hGenp0dHh1emIxSDE3cWZuZldRalNVWUJ0QkpjM0hNZU9BY3Roby1MMlR1clBrSUZCYnBZZ01uSkVnWmlncDFFMU5aWXkwbTNaeHJYYlMwQ2ZYOGRyVmVCbmttc05PTFhieEo0bU5idWZOSkRJR2J6RXFsZzB3R1Z3dFV4MVRYX2k4aWpCRHNnSlRpRmNFT1BsZjBJLU0?oc=5",
+    "source": "Yahoo Finance",
+    "source_type": "press",
+    "published_date": "2026-05-28",
+    "collected_at": "2026-10-17T13:11:03.099356+00:00",
+    "authors": [],
+    "summary": "Generate Biomedicines Inc. to Participate in Goldman Sachs 47th Annual Global Healthcare Conference Yahoo Finance",
+    "doi": null,
+    "company_slug": "generate-biomedicines",
+    "keywords_matched": [
+      "Generate:Biomedicines"
+    ],
+    "extra": {
+      "query": "\"Generate Biomedicines\" OR \"Generate:Biomedicines\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmitafbvv95cuxpoxhmnxayeedlcmx4bzdhdkprnxlqt1hgenp0dhh1emixsde3cwzuzldralnvwuj0qkpjm0hnzu9by3roby1mmlr1clbrsuzcynbzz01uskvnwmlncdffmu5awxkwbtnaehjyylmwq2zyogryvmvcbmttc05ptfhieeo0bu5idwzoskrjr2j6rxfszzb3r1z3dfv4mvryx2k4awpcrhnnslrprmnft1bszjbjlu0?oc=5"
   },
   {
     "kind": "news",
@@ -84964,6 +86055,27 @@
   },
   {
     "kind": "news",
+    "title": "Ginkgo Bioworks Reports First Quarter 2026 Financial Results, Completes Divestiture of Biosecurity and Continues to Scale Autonomous Lab - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGFQRmU4RTdxTTRLTmY5VVQ5eThFMnFhYWNWem85UXJ6cXl2QS10NnFRdUpCUENTbTlwOF9QMENyTVVCWnVCZFpyUmxlR01GNHdfd2hSUkkyN0dHNDN1Z1BEWVkzSGw1NVRjcHNiUWtwZl92OUh2bzEyNU9DeGpyekR0WnpFQjVsU2RSWmhlMlowUVpVbWhnUVREM0w3MXg2NVVZTDIyMkRydw?oc=5",
+    "source": "Yahoo Finance",
+    "source_type": "press",
+    "published_date": "2026-05-07",
+    "collected_at": "2026-10-17T13:11:11.283423+00:00",
+    "authors": [],
+    "summary": "Ginkgo Bioworks Reports First Quarter 2026 Financial Results, Completes Divestiture of Biosecurity and Continues to Scale Autonomous Lab Yahoo Finance",
+    "doi": null,
+    "company_slug": "ginkgo-bioworks",
+    "keywords_matched": [
+      "Ginkgo Bioworks"
+    ],
+    "extra": {
+      "query": "\"Ginkgo Bioworks\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiqgfbvv95cuxpagfqrmu4rtdxttrltmy5vvq5ethfmnfhywnwem85uxj6cxl2qs10nnfrdupcuentbtlwof9qmenytvvcwnvczfpyumxlr01gnhdfd2hsukkyn0dhndn1z1bewvkzsgw1nvrjchniuwtwzl92ouh2bzeynu9degpyekr0wnpfqjvsu2rswmhlmlowuvpvbwhnuvrem0w3mxg2nvvztdiymkrydw?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "😺 🎙️ Watch: How Isomorphic Labs works to drug \"undruggable\" diseases - The Neuron",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM0JpZlM3aE5teTc4RW5aeTF2M2xQN0hLUllhUThjTXNfSGhzTXVhcGg4MVlELTRfWUwtdUZoNm1NeHNVLUt6S3dvUU5rVnBrNGhtYWxiZWFDNUFsNFpiWmJpNk1CcXg3UzFleEEtbWNVUC1HZjdFdzhYLTBMNy1ON0RLVFNiUC1WTkZKc2pURFhEZUtWekxpMA?oc=5",
     "source": "The Neuron",
@@ -86161,6 +87273,27 @@
   },
   {
     "kind": "news",
+    "title": "São Paulo amplia vacinação contra a dengue e libera Butantan-DV para a população geral de 59 anos - agenciasp.sp.gov.br",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONlJlYUk2VHAtSEVvSU5jNXNyZUlwdUtZRi1jVjliZ05LRFVwX19Vb3FzblBsZHlELUg2U2t0MjZOSDlvdGw3QUtyZUlVdHRuZ29GQ0RUeWxRTTMzTUZzRUtaY0JoaEw3aXExOWtmeXFNNFB0c1Uyc0pBTHR2VDQ3bDg4N3Q4NHV6XzZfSVp6UXAyTC1fb1BwTTIwTjVoT1lYV0dCODZ0MFZXSzQzM05tblFoVy1EVVdTdWJPUGxJN0UySjlFWF8yUlU3Rnd4QmQzc3c?oc=5",
+    "source": "agenciasp.sp.gov.br",
+    "source_type": "news",
+    "published_date": "2026-04-30",
+    "collected_at": "2026-10-17T13:10:47.830180+00:00",
+    "authors": [],
+    "summary": "São Paulo amplia vacinação contra a dengue e libera Butantan-DV para a população geral de 59 anos agenciasp.sp.gov.br",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi0gfbvv95cuxonljlyuk2vhatsevvsu5jnxnyzulwdutzri1jvjliz05lrfvwx19vb3fzblbszhlelug2u2t0mjzosdlvdgw3qutyzulvdhruz29gq0ruewxrttmztuzzrutay0joaew3axexowtmexfnnfb0c1uyc0pbthr2vdq3bdg4n3q4nhv6xzzfsvp6uxaytc1fb1bwttiwtjvot1lyv0dcodz0mfzxszqzm05tblfovy1evvdtdwjpugxjn0uysjlfwf8yulu3rnd4qmqzc3c?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Insilico’s Rentosertib inhalation solution receives IND clearance for the world’s first AI-driven candidate to enter direct-to-lung clinical study - EurekAlert!",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhOWdQZGl6UzkyUEtzN1IzUXBOR3ltallUcG1NMWVOcUk5WDROZFJzMHczTUhlZnJoVkMzOThyX211dUswNW5LTEdZcUJQWnBmS29kbDh6MkFXVnhZ?oc=5",
     "source": "EurekAlert!",
@@ -86937,6 +88070,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmidefvx3lxte5pwlpsqlq4umkwoevuajqzcjqzvgdumffjdgpysejpwlc2x1bmmjbxawxgbmrpn2x3yu0ydujcytroagj0ujbfeetxr241c0t3dw4xdkd5m3bqm0ixekp2qkutsxzpzxfasfl1nevlwflitlz2?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Absci Corp. (ABSI) Offering Impressive Upside to Potential Investors - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSERtRHY3Sk0yc2hqU1lKNjVRT1l5MjhXSU1NeTc0RERicXZYQ2lENlRLcGVDaDhETnVjMy1oSVpBLWZ0eURfVHh4aWNMUDZKWkN1WWJOc253eVJ4cHppOVVXc0VZZmhZODI3c3FweVA5QzA3X0tMeUV0cVpjeFh0RnE2RS0wVUNHNVVpQVZ6VFlZX0tEV3ZSeG9sVmpGVmZPZWc?oc=5",
+    "source": "Yahoo Finance",
+    "source_type": "press",
+    "published_date": "2026-04-26",
+    "collected_at": "2026-10-17T13:11:02.607843+00:00",
+    "authors": [],
+    "summary": "Absci Corp. (ABSI) Offering Impressive Upside to Potential Investors Yahoo Finance",
+    "doi": null,
+    "company_slug": "absci",
+    "keywords_matched": [
+      "Absci"
+    ],
+    "extra": {
+      "query": "\"Absci\" (AI OR antibody OR biologics)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiogfbvv95cuxnsertrhy3sk0yc2hqu1lknjvrt1l5mjhxsu1netc0rericxzyq2lenlrlcgvdadhetnvjmy1osvpblwz0eurfvhh4awnmudzkwkn1wwjoc253evj4chppovvxc0vzzmhzodi3c3fweva5qza3x0tmeuv0cvpjefh0rne2rs0wvunhnvvpqvz6vflzx0tev3zseg9svmpgvmzpzwc?oc=5"
   },
   {
     "kind": "news",
@@ -89353,6 +90507,27 @@
   },
   {
     "kind": "news",
+    "title": "From PDF To Platform: Building An AI-Ready Clinical Trial Through Digital Protocols - IQVIA",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXBYc01WVThjV2M4a0QxWmxIbGh0ekhEM1hSd1NSMHRpT1JQWUFlTklNVENfd044QWZzSHVvMnBPc0Vla1g1cEZQb1lEc0JsYXR5b1JrQTlZX25KMkpERTJFZ05ua3pfaDd0Vmw3MGlwSGNOQXpfUjlGMkNwdG1MWk4zdlNuTkE5Umg1bWVUUWktTnpjbExLN1lYRHpkaU1YVkhVbDNCZXhGaG4tOHdrVzl4TW1KUUE1Rnc?oc=5",
+    "source": "IQVIA",
+    "source_type": "press",
+    "published_date": "2026-04-08",
+    "collected_at": "2026-10-17T13:11:16.091671+00:00",
+    "authors": [],
+    "summary": "From PDF To Platform: Building An AI-Ready Clinical Trial Through Digital Protocols IQVIA",
+    "doi": null,
+    "company_slug": "iqvia",
+    "keywords_matched": [
+      "IQVIA"
+    ],
+    "extra": {
+      "query": "\"IQVIA\" (\"clinical\" OR \"real-world\" OR \"life sciences\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiugfbvv95cuxqlxbyc01wvthjv2m4a0qxwmxibgh0ekhem1hsd1nsmhrpt1jqwufltklnvenfd044qwzzshvvmnbpc0vla1g1cezqb1lec0jsyxr5b1jrqtlzx25kmkpertjfz05ua3pfadd0vmw3mglwsgnoqxpfujlgmknwdg1mwk4zdlnutke5umg1bwvuuwkttnpjbexln1lyrhpkau1yvkhvbdnczxhgag4tohdrvzl4tw1kuue1rnc?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "AI is reengineering drug discovery by speeding up testing and scanning petabytes of data for connections between diseases - The Conversation",
     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZVdUT3RpLWgycV92NUVRaHQzamJxQUlJSWFpYkpDSkVOWVdzSzJPZ3ZxU2QxeXFseHJ6NkhkZkotblBIVXZPMHdnT2xEbXgtejU0QzNSQ01OUFpCb0VGZldIdWphc3R5TlhNaXl4UG4tRk0xNDdhay1IYTFiNHhjTXU3ZWtHS3p0REd2cjFqWTlMbEdGWDZNSFZfTVVJRWtwVEZIVms5UFpSRE5IUWhlOTRHSlNzQjJXcWxZaURsWE53ZEpBZWcyMnJzYVBfZ2o0Q0UwRm1OOXYxTWdYUmIzdFdyNjE4T1VCRzZ5SA?oc=5",
     "source": "The Conversation",
@@ -91563,6 +92738,48 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiyefvx3lxte1oseswbxi3a2debu9szkz3nktpsvnvbm9uqwf6ynhssnrjstlly2nulwrbwgfqdwsxwur3mnzzrvznafjqwfbhm1utsejhuedamtvmde5qyne0meiwrwxhmg?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Absci Reports Business Updates and Fourth Quarter and Full Year 2025 Financial and Operating Results - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQWNvTjFwOVVWbk9yU1hDaTBHcWY0M1ZBUFFlSW9GaWlyeG9vSDdPYTk4bndlQmI3SERuSTF6ZTBkTm5GNkxzWVJaRmVvcThRX0wzNlpzMzZobGFlQ082aW1QeUlMekV1ZkVURzZRVjVXektyWUdhMnpmNVhaOG12MzJ0RTlBQmZiVU5BSTM5clN5WTY2dTZkaXVZMUdjTnRoa3VZaUhqSHhaTzUxSXVmc0FvR2RiR2h4WVdUSG1ueXo5bzhfYWowZmlzODBvY0h1bjNLWkQ4M2V4cExYdmV1T0tCb3VYNFd1Unl0UTdzLVBRSWlNTnZ3cWxfYVdKdDJYcm40Y9IBigJBVV95cUxPSHRQbTdWRUxwdkRWay1PNnFEVEgzWmt1cnZQT1JtcjJSalJUMHUwLXBYZkJGYl90U2xkYlN3MmhkSnh6ZExxRnZOYnAxTWJLSjhBRG1jNWNWNThleHZnWDFvTUhfV05hVnFueG5IZzl2RXJCckdjeGdFbG1xMlVfTTc2SHFBa2kxbmtDSy1tQ1NWMENtcDQ1QmY3ZlR5WlV4WTRJNEUyMTdrdExxdXB3WlE0VVlwU1VaNWdJbVV2blA1ZG43azNvZ24wNWhMN09zU0xXNEFYM3JwcHc4LTZNTk10ZUdlZjRjOXFheGpDSEtTeDVBR1FyZzQyQzMzUGtDVWhJNUFIYXgtUQ?oc=5",
+    "source": "The Manila Times",
+    "source_type": "press",
+    "published_date": "2026-03-25",
+    "collected_at": "2026-10-17T13:11:02.613559+00:00",
+    "authors": [],
+    "summary": "Absci Reports Business Updates and Fourth Quarter and Full Year 2025 Financial and Operating Results The Manila Times",
+    "doi": null,
+    "company_slug": "absci",
+    "keywords_matched": [
+      "Absci"
+    ],
+    "extra": {
+      "query": "\"Absci\" (AI OR antibody OR biologics)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmihajbvv95cuxnqwnvtjfwovvwbk9yu1hdatbhcwy0m1zbufflsw9gawlyeg9vsddpytk4bndlqmi3serustf6ztbktm5gnkxzwvjarmvvcthrx0wznlpzmzzobgflq082aw1qeulmekv1zkvurzzrvjvxektywudhmnpmnvhaog12mzj0rtlbqmzivu5bstm5cln5wty2dtzkaxvzmudjtnroa3vzauhqshhatzuxsxvmc0fvr2rir2h4wvdusg1uexo5bzhfywowzmlzodbvy0h1bjnlwkq4m2v4cexydmv1t0tcb3vynfd1unl0utdzlvbrswlntnz3cwxfyvdkddjycm40y9ibigjbvv95cuxpshrqbtdwruxwdkrway1pnnfevegzwmt1cnzqt1jtcjjsaljumhuwlxbyzkjgyl90u2xkyln3mmhksnh6zexxrnzoynaxtwjlsjhbrg1jnwnwnthlehznwdfvtuhfv05hvnfueg5izzl2rxjcckdjegdfbg1xmlvfttc2shfba2kxbmtdsy1tq1nwmentcdq1qmy3zlr5wlv4wtrjneuymtdrdexxdxb3wle0vvlwu1vanwdjbvv2bla1zg43aznvz24wnwhmn09zu0xxnefym3jwchc4ltzntk10zudlzjrjoxfhegpdsettedvbr1fyzzqyqzmzugtdvwhjnufiyxgtuq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AI in drug discovery & development: News watch, March 2026 - pharmaphorum",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZElZUXpfdmgzc181MUx0dWhuYzY2d1RHdWdUaHpRR19uQU1OdFE1emVfWlFnSGpCNVcyTUZCSkxNaFFhVnBfR1RFazhfUFFoWmU5ZVdYN0ZuT2FHV3Raa3R0Mk9nVjRPRUtvc0pTV3JHMXlQM0gwRU5uTUF2S29LR3pyUHlyaUtl?oc=5",
+    "source": "pharmaphorum",
+    "source_type": "press",
+    "published_date": "2026-03-25",
+    "collected_at": "2026-10-17T13:11:18.798764+00:00",
+    "authors": [],
+    "summary": "AI in drug discovery & development: News watch, March 2026 pharmaphorum",
+    "doi": null,
+    "company_slug": "insitro",
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "query": "\"insitro\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiiafbvv95cuxqzelzuxpfdmgzc181mux0dwhuyzy2d1rhdwduahprr19uqu1odfe1emvfwlfnsgpcnvcytuzcskxnaffhvnbfr1rfazhfuffowmu5zvdyn0zut2fhv3raa3r0mk9nvjrprutvc0ptv3jhmxlqm0gwru5utuf2s29lr3pyuhlyautl?oc=5"
   },
   {
     "kind": "news",
@@ -93976,6 +95193,27 @@
   },
   {
     "kind": "news",
+    "title": "Evo 2 Enables AI to Model and Design Genetic Code Across All Life Domains - Bioengineer.org",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2tibEl1X2lCaHJ3QlZQWWR5R2sxMEFxY2N4bF9XWHFnaDd2SlI1UXJ2QkMyQWd5YUdQNDNPdGJPb0pSWUE3VUtLXzZROTQxcGxLdEJ6Slc5Nl9FakhRRVpYNDQ4a0NlbmpIVkpOWHhVZkVuaFJzSG53c2xzMVlDM1pMX24wNWt4bmFRSEpBVW1hME83TmFwWUNHTjV4NDQ?oc=5",
+    "source": "Bioengineer.org",
+    "source_type": "press",
+    "published_date": "2026-03-04",
+    "collected_at": "2026-10-17T13:11:15.332195+00:00",
+    "authors": [],
+    "summary": "Evo 2 Enables AI to Model and Design Genetic Code Across All Life Domains Bioengineer.org",
+    "doi": null,
+    "company_slug": "arc-institute",
+    "keywords_matched": [
+      "Arc Institute"
+    ],
+    "extra": {
+      "query": "\"Arc Institute\" (\"virtual cell\" OR \"Evo 2\" OR \"foundation model\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbminwfbvv95cuxqy2tibel1x2lcahj3qlzqwwr5r2sxmefxy2n4bf9xwhfnadd2sli1uxj2qkmyqwd5yudqndnpdgjpb0pswue3vutlxzzrotqxcgxldej6slc5nl9fakhrrvpyndq4a0nlbmpivkpowhhvzkvuafjzsg53c2xzmvldm1pmx24wnwt4bmfrsepbvw1hme83tmfwwunhtjv4ndq?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "AI fragmentation-based optimization of Sorafenib derivatives targeting VEGFR2 for angiogenesis-related pathologies: a structure-based in-silico study - Nature",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wZHA0YVl4aUNfZFVjVS1uN1RZRTdxLTB3dnJ4cEZnaEY1elBHTUIzbXhvU0ViYVN6alZ1RjhXamhXcUh3T24tYTNDWUYwaktOY094SUMwczZLU3U4TUpz?oc=5",
     "source": "Nature",
@@ -94120,6 +95358,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiwwfbvv95cuxnetg5tertcuxuwupmqnbiu0nmdvluc1f1d3fxbg9fos1hnjq3mufxqkdftwdrn0lud05jqjjtcw0yd21jynbsufzlu25pnm9puzd4mdn2yvpft1g0cjniohjqtk9yb3n3nmx1r3bnyw9sbvpwm3e2buzymmxwmwplwwx6qnhlukhsmudpwhjfmtfpb3jbqvzpswvnmw5nahz5ss10zwhsdvvpreszlwfhrgd0emlqmkltdk9smdrpqjqyzwc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Owkin | Company Overview & News - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BaUVLXzVqX3Z5RG5QZjNKNGJLa01RbGd6c0tJY0ZhNUlidzcwRmp6SnQ1OU0wd1gtQlhlYUtlWmRYZ3lBSWRkZWhvNEtGLTBW?oc=5",
+    "source": "Forbes",
+    "source_type": "press",
+    "published_date": "2026-03-03",
+    "collected_at": "2026-10-17T13:11:14.587292+00:00",
+    "authors": [],
+    "summary": "Owkin | Company Overview & News Forbes",
+    "doi": null,
+    "company_slug": "owkin",
+    "keywords_matched": [
+      "Owkin"
+    ],
+    "extra": {
+      "query": "\"Owkin\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiuefvx3lxte9bauvlxzvqx3z5rg5qzjnkngjla01rbgd6c0tjy0zhnulidzcwrmp6snq1ou0wd1gtqlhlyutlwmryz3lbswrkzwhvnetgltbw?oc=5"
   },
   {
     "kind": "news",
@@ -95972,6 +97231,27 @@
   },
   {
     "kind": "news",
+    "title": "Ginkgo Bioworks Holdings, Inc. (DNA) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOclJCZUlkemN1MXAwdGVVZ3FiRmxDVEZUYUxHWktMMkhETVZ1SUZBR0lLQ3RnRXE2WmMtUHUzZlJWTjdaZDl4ZU4waFdwbVFPTERVRElnMjdUZ2lONjBWeTlCdGx4VzhQZTFvcUdfaW1mUU1aTmtVOW1LQ0w5N1lWN2hCZ3I?oc=5",
+    "source": "Yahoo Finance",
+    "source_type": "press",
+    "published_date": "2026-02-17",
+    "collected_at": "2026-10-17T13:11:11.284284+00:00",
+    "authors": [],
+    "summary": "Ginkgo Bioworks Holdings, Inc. (DNA) Stock Dips While Market Gains: Key Facts Yahoo Finance",
+    "doi": null,
+    "company_slug": "ginkgo-bioworks",
+    "keywords_matched": [
+      "Ginkgo Bioworks"
+    ],
+    "extra": {
+      "query": "\"Ginkgo Bioworks\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmihafbvv95cuxocljczulkemn1mxawdgvvz3firmxdvezuyuxhwktmmkhetvz1suzbr0llq3rnrxe2wmmtuhuzzljwtjdazdl4zu4wafdwbvfptervrelnmjduz2lonjbwetlcdgx4vzhqztfvcudfaw1muu1atmtvow1lq0w5n1lwn2hcz3i?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "AI in drug discovery: predictions for 2026 - Drug Target Review",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbGJCUEhzVThHRUpJeWdiS21tSUM0Wjd0T25SZXYyQ0hLaWpOUU5sUHVncThHRHJiR2ctRVFucVE2Qmlqdzc4ZzNZd2hFbkZsLWFEZGg1YkR4bFZQT3RkT0Myb0pvTDBzZUJ4b1BFNXFjb2JIc0Z6d2NQZDAxQ05OZTdXV0c5UTNoTFd3N2ZTQTFQMmJG?oc=5",
     "source": "Drug Target Review",
@@ -96999,6 +98279,48 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiugfbvv95cuxpvdjyc2teujc0uwvrvdhvt0thrmnsd2tbbmh0yzb2b3vgbwlytlliajlwynhtc01wnhrvzdjvq0njcdq4etm1wnp6vxpfs0fndwp2nvj2shjzbzfbtwzvck5fz0pbvjljm0tcwexsck5xyujqqvf4zuvtndjhbmdhttmxoxrgdhrhajbomgcxv25xwghgbg5tedfbre1eov9lthr3nmr4ujdhzflqvdhpulmwbeg4owqttke?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Iambic could earn almost $2 billion in new Takeda deal - Chemical & Engineering News",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmJWbHBEWlNOMDdOWXBRNWpaSDc0Rk9KM0tUU21LUWc3MzZaRnJuek1KMnNFUDBrYmYxalNXZmJ1RlJmaTVsajJ2TTg3eVdoOEJ0YXhQNmdxSTNvcWNDUldyX0tvNUd5VmlwM2puNzhNUXRIdFYxdjNGXzRlVndUNHBfdEwxVUZjOXZrZw?oc=5",
+    "source": "Chemical & Engineering News",
+    "source_type": "press",
+    "published_date": "2026-02-09",
+    "collected_at": "2026-10-17T13:11:18.292343+00:00",
+    "authors": [],
+    "summary": "Iambic could earn almost $2 billion in new Takeda deal Chemical & Engineering News",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijafbvv95cuxqrmjwbhbewlnomddowxbrnwpasdc0rk9km0tuu21luwc3mzzarnjuek1kmnnfudbrymyxalnxzmj1rljmatvsajj2ttg3evdooej0yxhqnmdxstnvcwnduldyx0tvnud5vmlwm2punzhnuxridfyxdjngxzrlvndunhbfdewxvuzjoxzrzw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Takeda, Iambic partner in latest pharma AI push - BioPharma Dive",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOExZRFJRZ3lheFdmbzVBSmZjTFR4TkJxaGZ2TEhodlZWelVpTVZfQzFkZU1tb3dNZ3dUOTh6dXMtdXVqY1hVQ2N3MS1EMGpIMnlQd0JnYnBqMTJRM201X0x6aU9kaDR1UUFoWUhuWVZlT3g4cEk1aFdicHBGVUVPSjdwcG1Cemd5dFNGc3FBa2c?oc=5",
+    "source": "BioPharma Dive",
+    "source_type": "press",
+    "published_date": "2026-02-09",
+    "collected_at": "2026-10-17T13:11:18.292481+00:00",
+    "authors": [],
+    "summary": "Takeda, Iambic partner in latest pharma AI push BioPharma Dive",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmikafbvv95cuxooexzrfjrz3lhefdmbzvbsmzjtfr4tkjxagz2tehodlzwelvptvzfqzfkzu1tb3dnz3duoth6dxmtdxvqy1hvq2n3ms1emgpimnlqd0jnynbqmtjrm201x0x6au9kadr1uufowuhuwvzlt3g4cek1afdichbgvuvpsjdwcg1cemd5dfngc3fba2c?oc=5"
   },
   {
     "kind": "news",
@@ -99396,6 +100718,27 @@
   },
   {
     "kind": "news",
+    "title": "8 perguntas e respostas sobre a vacina da dengue do Instituto Butantan que começa a ser aplicada na população - agenciasp.sp.gov.br",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWGFzOHhKWnNESThsV1djczFVTEJRTXA3QnU5eFhQRmZfdEtNQmZzeU5nVmVUcDIwNFdJUHpVR3RNang1clBjemFpckxvbmx5dzc2V3hNY3Y4c0dMTVpLOW1CVGtwYlpTSFVZamViUGxtNUM5QUtYUEpxWHhxUEJmcnNVWERVZUZHaU92RHRxbjVaeXI1YXJsTEtkR0Jub3l3RmdrbEROdFFzN3luLTN3Vmc4RXJkWUxTLXNlNmpYUXVrUlhaNUtybGZTQ3M0RXBfWkJyczN5TkJKalQ3R0g4VVBn?oc=5",
+    "source": "agenciasp.sp.gov.br",
+    "source_type": "news",
+    "published_date": "2026-01-19",
+    "collected_at": "2026-10-17T13:10:47.830818+00:00",
+    "authors": [],
+    "summary": "8 perguntas e respostas sobre a vacina da dengue do Instituto Butantan que começa a ser aplicada na população agenciasp.sp.gov.br",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")"
+    ],
+    "extra": {
+      "query": "\"Instituto Butantan\" (pesquisa OR vacina OR \"inteligência artificial\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi4gfbvv95cuxnwgfzohhkwnnesthsv1djczfvtejrtxa3qnu5efhqrmzfdetnqmzzeu5nvmvucdiwnfdjuhpvr3rnang1clbjemfpckxvbmx5dzc2v3hny3y4c0dmtvplow1cvgtwylptsfvzamviugxtnum5qutyuepxwhhxuejmcnnvwervzuzhau92rhrxbjvaexi1yxjstetkr0jub3l3rmdrberodffzn3lultn3vmc4rxjkwuxtlxnlnmpyuxvrulhanutybgztq3m0rxbfwkjyczn5tkjkalq3r0g4vvbn?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "AI-driven protein design accelerates the synthetic biology of plant natural products - EurekAlert!",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rWnRneHNDSmlrdnVvNmE5Y0ZsbVNVNUkwQkQ4UXpmc1lRQW1BbnpTcFZZVlE5a1VTalBheHpqeWJPQjZfLU9LMmVuVGowbVJncmlRellNeGQ5Q1h6?oc=5",
     "source": "EurekAlert!",
@@ -99561,6 +100904,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmihgjbvv95cuxpnng2rtqwrxz5r0u5wedtzenuovrqexdwb2jnuhnbagftuu5bszrwdlata2docfbtvgetstvrvhdbsexpturpdmhps0zgafl0ctdic0fpbefztgc2ngzjaumtqmnem0l3zdzua0xfwvdusejouxqzxza0vy1fwerub0rpd3jodu5mtenwdghybfntrvfqsdnplthqqle5yvlhuvmyzuvrelvzru9sa3hoquzlytn0aendvllwmdzmy3jyrxllsnbgavdxmzvrdhb2d1zjcmhjdwu1endir21fu2p6zm5lmevoanv5cejcwtjcwnnsnv9vq2jrzs1fmwq0dhr1bll3?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "En'owkin Centre in Penticton awarded $960K investment to continue supporting Indigenous artists across the country - Castanet",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVll2eVFZR3hUckFWQWUyenU3RFZHQ3ZmZzE4XzVjaFJtS2k4WXBOS1hUN3FaN1dySXZsWWpFbkFWcUhDeTYwS0pnOThZQUllZjdsc1dCekltcXdCRU1mTU5XSVNoRU9oclJ6OFFtUXJrbHlNRnZLVTNsSkhGdFFHNTFNYlNhdXNKMWwyN244dFFJUHdUWlBKWFowbTZQTElwbmZFa2hXal9kWnJWTGJsbHZMZjNuM0FPbWs1WjlsUi1zcllYM3pWN0VUcElTU0dJbTVleGk4LWFncUlYNnNHbHVZVGZnZ1RiZmt3VXBva2NCdw?oc=5",
+    "source": "Castanet",
+    "source_type": "press",
+    "published_date": "2026-01-16",
+    "collected_at": "2026-10-17T13:11:14.592849+00:00",
+    "authors": [],
+    "summary": "En'owkin Centre in Penticton awarded $960K investment to continue supporting Indigenous artists across the country Castanet",
+    "doi": null,
+    "company_slug": "owkin",
+    "keywords_matched": [
+      "Owkin"
+    ],
+    "extra": {
+      "query": "\"Owkin\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi8gfbvv95cuxqvll2evfzr3huckfwqwuyenu3rfzhq3zmzze4xzvjafjts2k4wxbos1hun3fan1dysxzswwpfbkfwcuhdetyws0pnothzqullzjdsc1dcekltcxdcru1mtu5xsvnoru9oclj6offtuxjrbhlnrnzlvtnsskhgdffhntfnylnhdxnkmwwyn244dffjuhduwlbkwfowbtzqtelwbmzfa2hxal9kwnjwtgjsbhzmzjnum0fpbws1wjlsui1zcllym3pwn0vuceltu0djbtvlegk4lwfnculynnnhbhvzvgznz1rizmt3vxbva2ncdw?oc=5"
   },
   {
     "kind": "news",
@@ -101031,6 +102395,28 @@
   },
   {
     "kind": "news",
+    "title": "Why AI drug discovery isn’t the layup that VCs expected - PitchBook",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbktkcklWcmRxTFRVOWNscmwxNnZPclNMVDl6UHplWHU2b1lZRlBraWFrTU1mSVIwSlBaMjdoZjdYMVFSZWVoTWViOXJVbFFUWHBXd3U5ekdlbkRvN0NOc0d3YjkxRXZOakFKNVNYam9aVFhxTklwQmozTTFTOGJjYWJ5S3VYWVVSZ1VjTmpR?oc=5",
+    "source": "PitchBook",
+    "source_type": "press",
+    "published_date": "2026-01-09",
+    "collected_at": "2026-10-17T13:11:00.232810+00:00",
+    "authors": [],
+    "summary": "Why AI drug discovery isn’t the layup that VCs expected PitchBook",
+    "doi": null,
+    "company_slug": "chai-discovery",
+    "keywords_matched": [
+      "drug discovery",
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"Chai Discovery\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmijgfbvv95cuxpbktkcklwcmrxtfrvownscmwxnnzpclnmvdl6uhplwhu2b1lzrlbrawfrtu1msviwslbamjdozjdymvfszwvotwvioxjvbffuwhbxd3u5ekdlbkrvn0noc0d3yjkxrxzoakfknvnyam9avfhxtklwqmozttftogjjywj5s3vywvvsz1vjtmpr?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Deep contrastive learning enables genome-wide virtual screening - Science | AAAS",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BRUp5akdvVHladjdOUEkxMDdFR2hhQXFWVlRjSU93WGFWMXRITjQwSDJsdFJwckxCZlpwT01zN1dTdmo3RmQ0d1g1MmlCNUpUTFJxSmpCQVo3bFF0N1lvSg?oc=5",
     "source": "Science | AAAS",
@@ -101284,6 +102670,28 @@
   },
   {
     "kind": "news",
+    "title": "Chinese AI drug discovery firm XtalPi to raise $2.87 billion from zero coupon convertible bonds - The Standard (HK)",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMlBldHFsQ0dBTTZRSUpHaDFPYUxQcUNjN1BpekdYckl4NmF5b1VyS3lHaEdBNzB1c3hNUUUwRnIwdVl5OWFQd3NOUnU5dHJVS2M2TlRHcDRwQzh6cUhrWXJwQVFoSUFJWEYyQzUxSFNQYnM4QnFTLXlyUEVXMVd6VmV1dW1mYlhhSGw0UW5FLVJ2YnNLdHI5OG9xT3N4M1BpOF9wVFdMMTBGbndRYm5jMGNvcnR6ZkZ5cllQamd0dzBSRFR0c3FmRTZuN21RU3ZXWFpoNEZtUDBzTHNsdnhOM3hOOA?oc=5",
+    "source": "The Standard (HK)",
+    "source_type": "press",
+    "published_date": "2026-01-08",
+    "collected_at": "2026-10-17T13:11:03.710689+00:00",
+    "authors": [],
+    "summary": "Chinese AI drug discovery firm XtalPi to raise $2.87 billion from zero coupon convertible bonds The Standard (HK)",
+    "doi": null,
+    "company_slug": "xtalpi",
+    "keywords_matched": [
+      "drug discovery",
+      "AI drug discovery"
+    ],
+    "extra": {
+      "query": "\"XtalPi\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi4wfbvv95cuxqmlbldhfsq0dbttzrsuphadfpyuxqcunjn1bpekdyckl4nmf5b1vys3lhaedbnzb1c3hnuuuwrniwdvl5owfqd3nounu5dhjvs2m2tlrhcdrwqzh6cuhrwxjwqvfosufjweyyqzuxsfnqynm4qnftlxlyuevxmvd6vmv1dw1mylhhsgw0uw5flvj2ynnldhi5og9xt3n4m1bpof9wvfdmmtbgbndrym5jmgnvcnr6zkz5cllqamd0dzbsrfr0c3fmrtzun21ru3zxwfponeztudbzthnsdnhom3hooa?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Quantum-machine-assisted drug discovery - npj Drug Discovery - Nature",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBQTBrb1lramhSQzFQSVhxREtmV19IOFFSRmpuWmc3d3pfUXdEd1NOSS1URUU2Z193SENwUEVpeXV3NWl6VG1UQkRGVTN3RUszdDFaNWZ5Tzd4V19jcUJz?oc=5",
     "source": "Nature",
@@ -101470,6 +102878,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmi6afbvv95cuxoms0tbtnwmjgtqlpcytb4exzhzdzfuhlnduq1awrzyzbdohp3b01nnmxfogjuv3bfauf0odnmrjg5vju4etf6qlqzcgrxakhjunf0vvpardfcc0lhegktrwpoqkfluja0c3pdwxfnn0stdmpjytzdevfalu5wltq4uu5kce9znxfzwkhgm3lkqzffunhjcgp2rgvxm3jiewcytc13mf9kvnb1utc5s3vcclrqq095amluofdvyuryngy4cs10dlpmy2u2c3e4ywpyzjnmduryatlydhy4dexmdfr4nhgzc29e?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "AI has finally started making drug-like antibodies. When will it revolutionize biopharma? - STAT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDRtc1Rtck5rT0tsX3duVkpyaElhT21DVW1kR1lOOUZ3bmxna0xIZ3B5Z2FjODhjR0c5X0N4b3BXbjdvblZ4RGtxaERvQ1hYbUx6WXNjRC1EV0Vyei1JX3UtdEdJTVc2bzRuV0YtUFpRTF9pa0JHUWMxLWhjcXlpck5iSkJlWE5Zdm43SXVDZWc5RmJYa08yM25FUnNuV1R4aDdseEVSd1F3UlRlYlZUdV9Za1dOQQ?oc=5",
+    "source": "STAT",
+    "source_type": "news",
+    "published_date": "2026-01-06",
+    "collected_at": "2026-10-17T13:10:45.751337+00:00",
+    "authors": [],
+    "summary": "AI has finally started making drug-like antibodies. When will it revolutionize biopharma? STAT",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "AI drug design"
+    ],
+    "extra": {
+      "query": "\"AI drug design\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmitgfbvv95cuxqudrtc1rtck5rt0tsx3duvkpyaelht21dvw1kr1loouz3bmxna0xiz3b5z2fjodhjr0c5x0n4b3bxbjdvblz4rgtxaervq1hybux6wxnjrc1ev0vyei1jx3utdedjtvc2bzruv0ytufprtf9pa0jhuwmxlwhjcxlpck5iskjlwe5zdm43sxvdzwc5rmjya08ym25funnuv1r4addseevsd1f3ulrlylzudv9za1doqq?oc=5"
   },
   {
     "kind": "news",
@@ -105144,6 +106573,69 @@
   },
   {
     "kind": "news",
+    "title": "AI-driven Iambic raises $100M-plus as it looks to advance pipeline, strike more deals - Fierce Biotech",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWlORl9uSTlGQklkYkpCbVd3dzNudjVHZ0NSd2pKLW5jc0ZSRG9FNDFUYy1CMGowVFFBc3NtcXVLMldXNjhwRlBZV1hVT1VackRSU0doX2JlRE5zTXZOa1ZoaS1Ld1dDTEh3Q08xVFhxUjNLeTlVdENZclFFRkN6Z05XVEdCUXpCbURqYTVNaUpYM1o1SFQyWTBxR0g2ZXlvc2pyck1KeGRPd2ZKT2Y3VTUyZkR4WExkYkE?oc=5",
+    "source": "Fierce Biotech",
+    "source_type": "press",
+    "published_date": "2025-11-10",
+    "collected_at": "2026-10-17T13:11:18.292630+00:00",
+    "authors": [],
+    "summary": "AI-driven Iambic raises $100M-plus as it looks to advance pipeline, strike more deals Fierce Biotech",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "biotech AI"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiugfbvv95cuxorwlorl9ustlgqklkykpcbvd3dznudjvhz0nsd2pklw5jc0zsrg9fndfuyy1cmgowvffbc3ntcxvlmldxnjhwrlbzv1hvt1vackrsu0dox2jlre5ztxzoa1zoas1ld1ddteh3q08xvfhxujnletlvdenzclffrkn6z05xvedcuxpcburqytvnaupym1o1sfqywtbxr0g2zxlvc2pyck1kegrpd2zkt2y3vtuyzkr4wexkyke?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Iambic Raises Over $100 Million in an Oversubscribed Round to Advance Its Portfolio of AI-Discovered Therapeutics and Leading Platform Technologies - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNWlRSOTlJUjJDMDFtM09zbjZweFFJZU1aQ0FiMGpLLUYzeWJ3THg1elBpdVo5cy1RUXExOTFSbGtMT0l2dWlUMXdZWnd4V0xhQzdJYlNBdm5DRGM3SnprcXV3bEYtTWhIM1hoOFN2N0FtRmd6c2E5RGRZeE9RNEcwT3l0ZGlqNFlOYmRHamFQNjUyUGZubzV4MmJ1SklmUzliOFFZX3FlMmhTMGhUTmZNM3FOVHNtT2NIWDJrdUdack9QeGhXRTFmZ1kxMWhFTlBZWkt0ZEd1UnFfelRVRTh1QlIzeHVnM2xIdHJFdWI2NDBlcGdjRXVGd3d0aUc0TzJMWENhMmJBUjQzMlJwRUQyT1BnMHEyM21vU1ZXeUhfQ2hWQks2Mk1xTGlJTC1GSmM?oc=5",
+    "source": "Business Wire",
+    "source_type": "press",
+    "published_date": "2025-11-10",
+    "collected_at": "2026-10-17T13:11:18.292782+00:00",
+    "authors": [],
+    "summary": "Iambic Raises Over $100 Million in an Oversubscribed Round to Advance Its Portfolio of AI-Discovered Therapeutics and Leading Platform Technologies Business Wire",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmirwjbvv95cuxnwlrsotljujjdmdftm09zbjzweffjzu1aq0fimgplluyzewj3thg1elbpdvo5cy1ruxexotfsbgtmt0l2dwlumxdzwnd4v0xhqzdjylnbdm5drgm3snprcxv3beyttwhim1hoofn2n0ftrmd6c2e5rgrzee9rnecwt3l0zglqnfloymrhamfqnjuyugzubzv4mmj1sklmuzlioffzx3flmmhtmghutmznm3fovhntt2niwdjrdudack9qeghxrtfmz1kxmwhftlbzwkt0zed1unffelrvrth1qlizehvnm2xidhjfdwi2ndblcgdjrxvgd3d0auc0tzjmwenhmmjbujqzmljwruqyt1bnmheym21vu1zxeuhfq2hwqks2mk1xtgljtc1gsmm?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Exclusive: AI biotech Iambic raises $100M, expects three drugs in clinic in 2026 - Endpoints News",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LQVI1X2xONEtVQ2RDeFZZb1BtTkQ2RmxGUlQ4aFAtMTFCS3pMaXdQM2d3T24tZU9ka3NUWXlEMmo0OEJMVld0RWYza3BTWUJCMElVQVkxcjJsR1BYb0FJYTNuV19ncmdnaTVFLXU1NExGUS1MODN4bVBkUGg?oc=5",
+    "source": "Endpoints News",
+    "source_type": "press",
+    "published_date": "2025-11-10",
+    "collected_at": "2026-10-17T13:11:18.292923+00:00",
+    "authors": [],
+    "summary": "Exclusive: AI biotech Iambic raises $100M, expects three drugs in clinic in 2026 Endpoints News",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmifefvx3lxte9lqvi1x2xonetvq2rdefzzb1bttkq2rmxgulq4afatmtfcs3pmaxdqm2d3t24tzu9ka3nuwxlemmo0oejmvld0rwyza3btwujcmelvqvkxcjjsr1byb0fjytnuv19ncmdnatvflxu1nexgus1modn4bvbkugg?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Computational-aided drug design strategies for drug discovery and development against oral diseases - Frontiers",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObTNid2JyQWoxaHBHbU4tR1FVZlU3NUJOQnlKamt3NDRIME9Jb0V0anF6SlpaTVM0eEFGV2dLWHhjUWVUMU40bVBuUkVKMGdVSGxEN19TVE0zX3doR1oyTlE3MGZMWWNmUkJkUzczNlNycnBhOEF2UXAwaWdkMUdTYkRJblBTT3ZramVKbDNLVXJ4ck5v?oc=5",
     "source": "Frontiers",
@@ -106838,6 +108330,27 @@
   },
   {
     "kind": "news",
+    "title": "In its first clinical readout, Iambic shows early promise for AI-designed cancer drug - Endpoints News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSjFVelRYTXpiNThMTVVrY21CaFFVM0U0R3p2TWRUVGllOFVQYTIzaGVFcGxnYVM1cGsxUFU2VWpwaVE0Y09kb1VocGFZZ2swQUx4eU9raTJHSFdzekN5WXJrb08wd1EzSDdKMXVRSnJJOXoxaDdSLWlKamIxclFBNW1DWjFoUC0xMWNlYVBFWEdVRVh6aWJPcFIxZ1QtVGZYTUE?oc=5",
+    "source": "Endpoints News",
+    "source_type": "press",
+    "published_date": "2025-10-20",
+    "collected_at": "2026-10-17T13:11:18.293368+00:00",
+    "authors": [],
+    "summary": "In its first clinical readout, Iambic shows early promise for AI-designed cancer drug Endpoints News",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiogfbvv95cuxqsjfvelrytxpinthmtvvry21caffvm0u0r3p2twruvgllofvqytizagvfcgxnyvm1cgsxufu2vwpwave0y09kb1vocgfzz2swqux4eu9ratjhsfdzekn5wxjrb08wd1ezsddkmxvrsnjjoxoxaddslwlkamixclfbnw1dwjfouc0xmwnlyvbfwedvrvh6awjpcfixz1qtvgzytue?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Fiocruz pra Você celebra Dia D da vacinação em diversas cidades - Poder360",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQlBZU2hSQlpKeGY5WjVCUzRCT3B1eExsRlM2NEdRTnE0a25SZjJxSFN0TDg3UEJucmxzVFM5bHVVRkU4ZTR6NVJyTzVlMmh6ejVtLXFsMTNoeG9rR2MwY2I5LWFncjUwTVZYMFBYdmZ4cmxIN3J3aGpCUjNFMVREbTZReU50RmhoTnpaNGQwenN6TEVaVnBENUNGSHdPNDJ6MkE?oc=5",
     "source": "Poder360",
@@ -107969,6 +109482,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmingfbvv95cuxpcxfhqzb0amtun2dimdvibdzcv1pvngnzrm1tsulpsehqetneotcxctbfv3dkd3lqellwr25rxzi4wlvfnxboadvozjbjuxzmamvpc2c0x19zvxdrq3h5rde4t0dlz05scxbszgk4m2paq3lvdtztyuzrszrqbdd6u01indyytc01be5zofdpodjqclvmnevesurjruqwuq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "2 Reasons Absci Could Be the Future of AI Biotech, and 1 Risk - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOelB2UXVoYVBucU1tR2FRcHl5N3lJb0EzUXlCRUFFRmVEeEhyM0YwVUxwaU4zd3F2UjhlcEl3YnRkZm9MMkh6bzVpM1QxSTJIcEFIZ2dEWVBteC1DTFE2UmtQaFNTeDh2NmVKZEJ3Qmx3NDVLb2JyVDluN1JZOTVFWi1UVXFEQWljNGlvZVVqNWJkZHU2UHUtTnRRS1RLYWE0MFVVYnFReENlNnVob216VlRTNGJPZ0xHbS1pdU9R?oc=5",
+    "source": "TradingView",
+    "source_type": "press",
+    "published_date": "2025-10-13",
+    "collected_at": "2026-10-17T13:11:02.614898+00:00",
+    "authors": [],
+    "summary": "2 Reasons Absci Could Be the Future of AI Biotech, and 1 Risk TradingView",
+    "doi": null,
+    "company_slug": "absci",
+    "keywords_matched": [
+      "Absci"
+    ],
+    "extra": {
+      "query": "\"Absci\" (AI OR antibody OR biologics)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmivgfbvv95cuxoelb2uxvoyvbucu1tr2frchl5n3ljb0ezuxlcruffrmveeehym0ywvuxwau4zd3f2ujhlcel3ynrkzm9mmkh6bzvpm1qxstjicefiz2dewvbtec1dtfe2umtqafntedh2nmvkzej3qmx3ndvlb2jyvdlun1jzotvfwi1uvxfeqwljnglvzvvqnwjkzhu2uhuttnrrs1rlywe0mfvvynfreenlnnvob216vlrtngjpz0xhbs1pdu9r?oc=5"
   },
   {
     "kind": "news",
@@ -111231,6 +112765,27 @@
   },
   {
     "kind": "news",
+    "title": "Wilson Sonsini Advises Iambic Therapeutics on Technology and Research Collaboration with Revolution Medicines - Wilson Sonsini",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcGs4NnZzemR0NlczRzIwczFWNDRveTAzT2p3Wmxsam94b1d4azlaUnhYc3dSdmczeXRXdTZBWTg1YjExZG1jbkFYcjl0NThld1RmcUs4WXdEMjI4d0tUbGk1M2dlbGpGOG81d0M3VW91cGZhb2FSZnMybmxoNzNzQkk5S1JVaGEzVmJaVGRqM1BTalFOZjBsOVd3TnFrcHBzQzB1RTZ4WjFsY194TmNSMTJDVm52NVJTQzIybmM3WDQ0R25ObDFaeHFJc2NSUXlaWEdnUjNpWTJBN3gxS2g0VA?oc=5",
+    "source": "Wilson Sonsini",
+    "source_type": "press",
+    "published_date": "2025-07-10",
+    "collected_at": "2026-10-17T13:11:18.293069+00:00",
+    "authors": [],
+    "summary": "Wilson Sonsini Advises Iambic Therapeutics on Technology and Research Collaboration with Revolution Medicines Wilson Sonsini",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi4afbvv95cuxpcgs4nnzzemr0nlczrziwczfwndrvetazt2p3wmxsam94b1d4azlaunhyc3dsdmczexrxdtzbwtg1yjexzg1jbkfycjl0nthld1rmcus4wxdemji4d0tubgk1m2dlbgpgog81d0m3vw91cgzhb2fsznmybmxonznzqkk5s1jvagezvmjavgrqm1btalfozjbsovd3tnfrchbzqzb1rtz4wjfsy194tmnsmtjdvm52nvjtqziybmm3wdq0r25obdfaehfjc2nsuxlawednujnpwtjbn3gxs2g0va?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Resultados da investigação científica da UPM em concepção de medicamentos por inteligência artificial foram publicados na revista internacional de topo Nature Communications - 澳門特別行政區政府入口網站",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRZFpaYTVMRGNRZkdCaERULWZPdGtrZ1AyMGt2dWFQZnJhZVFzRTY3bUY1WC0xV051bGpDTkViY2lpVTRwTDNUZDVCZkxhT1E?oc=5",
     "source": "澳門特別行政區政府入口網站",
@@ -111249,6 +112804,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmit0fvx3lxtfbrzfpaytvmrgnrzkdcaerulwzpdgtrz1aymgt2dwfqznjhzvfzrty3buy1wc0xv051bgpdtkviy2lpvtrwtdnuzdvczkxht1e?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Revolution lines up Iambic's AI platform in discovery collab worth up to $25M - Fierce Biotech",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZm5pZHB1dzRxN3BmekU1ZUZYVi1YX0hqQ0pTaTBSeTRDOGowYlF1UHZJb1M5Qkw5aUZ6b3Q5akhoSVZJOHFiX1RJcl9ydGJseXBWbzFPaHRQR1RhdFdoLWJSWFBMWFp6WWtfR1lIN2tjUHFUbmtkSlFhaGx5d2ZfWkxYTmJnOTJVYTE2T25JdGliWjRHTm9yeDJiU2h3dWN6?oc=5",
+    "source": "Fierce Biotech",
+    "source_type": "press",
+    "published_date": "2025-07-09",
+    "collected_at": "2026-10-17T13:11:18.293509+00:00",
+    "authors": [],
+    "summary": "Revolution lines up Iambic's AI platform in discovery collab worth up to $25M Fierce Biotech",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmioafbvv95cuxqzm5pzhb1dzrxn3bmeku1zuzyvi1yx0hqq0ptatbsetrdogowylf1uhzjb1m5qkw5auz6b3q5akhosvzjohfix1rjcl9ydgjsexbwbzfpahrqr1rhdfdolwjswfbmwfp6wwtfr1lin2tjuhfubmtkslfhagx5d2zfwkxytmjnotjvyte2t25jdgliwjrhtm9yedjiu2h3dwn6?oc=5"
   },
   {
     "kind": "news",
@@ -112881,6 +114457,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmikwfbvv95cuxqz0rsci13zne1ws1vzg5irgdxqjy1q3phdzg0y2ltbwzswmperlatn0x2njhvanfwvjnyby1sy21fxzluzzzlmfljudm3cg5zzdzoqnjxvxdjugzxaefvtdron0s0rxdgyvnhv1fumhnsrvdnb1a0lw1mekjjrvbwcmy4vwx2yjzky0j5wwdpquxvblu?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "26. Iambic Therapeutics - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiLTZDQ3E2aXo2WjRFVHFFbGFXMHlZWkd5RXcta1JtbHNFYnY3MDBXVFVwVkJGYklmWWJWaFJBVU1WRlF0TGpuVTdkTHoyd05DOGIweFhaRUhtUFdGZDZSY01RWGhybGR3OW1JRUxMV0NBRU9jNU1qMHNxRTNmYVXSAYQBQVVfeXFMTk5wbDdVc3E3MnFIaWdMQ1FjR29fMUVGWE9FUkRoQXlJR1V4TEtBbE15VHAwVEdiLUw3NW4yUlJtckRkR09Nb0M4V2dYUnpvYmdiQTFyYmYxSVg2ZGxnaHdYRmpNajRBd1FkTjc1dGtvN2NjX3NJT18xUmxyS2V5Y1FQQVAw?oc=5",
+    "source": "CNBC",
+    "source_type": "press",
+    "published_date": "2025-06-10",
+    "collected_at": "2026-10-17T13:11:18.293219+00:00",
+    "authors": [],
+    "summary": "26. Iambic Therapeutics CNBC",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmif0fvx3lxtfbiltzdq3e2axo2wjrfvhffbgfxmhlzwkd5rxcta1jtbhnfyny3mdbxvfvwvkjgyklmwwjwafjbvu1wrlf0tgpuvtdkthoyd05dogiwefharuhtufdgzdzsy01rwghybgr3ow1jruxmv0nbru9jnu1qmhnxrtnmyvxsayqbqvvfexfmtk5wbddvc3e3mnfiawdmq1fjr29fmuvgwe9fukroqxljr1v4tetbbe15vhawvediluw3nw4yuljtckrkr09nb0m4v2dyunpvymdiqtfyymyxsvg2zgxnahdyrmpnajrbd1fktjc1dgtvn2njx3njt18xumxys2v5y1fqqvaw?oc=5"
   },
   {
     "kind": "news",
@@ -115412,6 +117009,27 @@
   },
   {
     "kind": "news",
+    "title": "Medidata Launches the Site Insights Program to Elevate the Site Voice for Trials - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQkZtZ3JYZUNvYy1YQlhxRmV0SV9QSUNmYl9FWGxVVHVqQUpBMlRhXzF3TkQ0NmhNampRSjNTaDgtQ3otY3UtWXdnektwYXh2YzJBa0JuME1FZVk0MTJFMHBuUk1STUdZV2VlaFNSRDlNWHZEb05OOWt2V3M3WjBCWVRkVFhtb0x5WVBWVTZwZV8xUWI4OUhqYXd5YmI1SkIwYmtIb1laSDlWN3pzeFk5aU9GTlR1MTJER20xNXpiM3ZDc2FwRks5aHhXYXNDWGRYZk5V?oc=5",
+    "source": "Business Wire",
+    "source_type": "press",
+    "published_date": "2025-03-27",
+    "collected_at": "2026-10-17T13:11:13.144309+00:00",
+    "authors": [],
+    "summary": "Medidata Launches the Site Insights Program to Elevate the Site Voice for Trials Business Wire",
+    "doi": null,
+    "company_slug": "medidata",
+    "keywords_matched": [
+      "Medidata"
+    ],
+    "extra": {
+      "query": "\"Medidata\" (\"clinical trial\" OR \"clinical trials\" OR \"Rave\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi0wfbvv95cuxnqkztz3jyzunvyy1yqlhxrmv0sv9qsunmyl9fwgxvvhvqqupbmlrhxzf3tkq0nmhnamprsjntadgtq3oty3utwxdnektwyxh2yzjba0jume1fzvk0mtjfmhbuuk1studzv2vlafnsrdlnwhzeb05oowt2v3m3wjbcwvrkvfhtb0x5wvbwvtzwzv8xuwi4ouhqyxd5ymi1skiwymtib1lasdlwn3pzefk5au9gtlr1mtjer20xnxpim3zdc2fwrks5ahhxyxndwgryzk5v?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Schrödinger Finally Embraces AI – Is It a Buy? - Nanalyze",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SOTk1OTF4eUtyMEJERG11OFk4LUtqejlBWmdrX1FfVC16NUxCbENKUmVFX20yencyV3ZKREJFOHNjczhQb1dWeXFMaFJ4d3VZRlhmMngtbHlrSTNCRWpQRUJtNFZHQjVRaDBidkJvdk5Ra00?oc=5",
     "source": "Nanalyze",
@@ -115514,6 +117132,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiuafbvv95cuxpyw5feuk1u055elrzltvnsdfnek03set0a01wrfdxtmdhm0vry0utd3rhb01mv05qzdr0txdvvtzwztrbtnlyn3hnyy1iz0tvd0txmdzum3awr0zhsdzubxa1v0h4tvpvrldbs3rnn09ubhu0bzvwqlywtnlkdtf6cfnvvtnilte2rf83cuhuve1wzfbrywlntdvimjdoytl3ufdvv2vqogtva1dsegtywfvac0pazect?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Charles River, Valo Health discover lupus candidate using AI-driven discovery platform - FirstWord Pharma",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLczJMdU84SEY2VjNQeno2ZTA0TTNDX0lWaTcwUzBjZmFjb1R4alR1TDlwLTktTjdjMXFuMnVKMm54VU1uZDdUTF9OcGJDWnh5M3pN?oc=5",
+    "source": "FirstWord Pharma",
+    "source_type": "press",
+    "published_date": "2025-03-25",
+    "collected_at": "2026-10-17T13:11:19.599119+00:00",
+    "authors": [],
+    "summary": "Charles River, Valo Health discover lupus candidate using AI-driven discovery platform FirstWord Pharma",
+    "doi": null,
+    "company_slug": "valo-health",
+    "keywords_matched": [
+      "Valo Health"
+    ],
+    "extra": {
+      "query": "\"Valo Health\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiu0fvx3lxtfblczjmdu84sey2vjnqeno2zta0ttndx0lwatcwuzbjzmfjb1r4alr1tdlwltkttjdjmxfumnvkmm54vu1uzddutf9ocgjdwnh5m3pn?oc=5"
   },
   {
     "kind": "news",
@@ -116669,6 +118308,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmijgfbvv95cuxnmtlkqw1krem0ddmtzmywbuhkdhhoanhfbdnoawd0szzcmzezbdrtoejavdlvr3d2rvpwdmpdvw9vyjjscc1gywtoevrkmg5ha0xxmullqkrxdvhobnrktge5m3e0alvormo3new2zff5qnl0qwpusvvsofhky3dkdljtouftuvc4z0otvgt3?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Arc Institute’s new AI can read and write the code of life - Freethink",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5WmRoYmRsakY2WHNTVHlVRTc2RkVENkRGcS13NzV1eFIxelBLUExJOEdHd0ZqV3lfWFR5UTZpZW5ITVhCaDBNSUJHRWxIdWxmYkNBOUxXUi1QdTF2Z090SHBkd1A3UDdDc2fSAXJBVV95cUxOWmdhcFVmN3RTZGN2M1QyNzZROU9SX1htSHlMOWF4RGVuM2diMDdZWXRwOHYySEpMSTU0TkZzdlZna3haR2Q5Wk1RVmRSSjhqYl83aE8tbEdPcWZyUGt3YjVaV0tuNDRqalAzNlAwOEVrSUE?oc=5",
+    "source": "Freethink",
+    "source_type": "press",
+    "published_date": "2025-03-01",
+    "collected_at": "2026-10-17T13:11:15.334234+00:00",
+    "authors": [],
+    "summary": "Arc Institute’s new AI can read and write the code of life Freethink",
+    "doi": null,
+    "company_slug": "arc-institute",
+    "keywords_matched": [
+      "Arc Institute"
+    ],
+    "extra": {
+      "query": "\"Arc Institute\" (\"virtual cell\" OR \"Evo 2\" OR \"foundation model\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiakfvx3lxtfb5wmroymrsaky2whntvhlvrtc2rkvenkrgcs13nzv1efixelbluexjoedhd0zqv3lfwfr5utzpzw5itvhcadbnsujhrwxidwxmyknbouxxui1qdtf2z090shbkd1a3udddc2fsaxjbvv95cuxowmdhcfvmn3rtzgn2m1qynzzrou9sx1htshlmowf4rgvum2dimddzwxrwohyysepmstu0tkzzdlzna3har2q5wk1rvmrssjhqyl83ae8tbedpcwzyugt3yjvav0tundrqalaznlawoevrsue?oc=5"
   },
   {
     "kind": "news",
@@ -119089,6 +120749,27 @@
   },
   {
     "kind": "news",
+    "title": "Iambic Therapeutics Appoints Michael Secora, Ph.D. as Chief Corporate Development Officer and Chief Financial Officer - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUFRsb2pMcjlkZllpX3JjcFZJSkpuVTRYbG40Y0dydzJURnZQVmhKY1FfLUNYaWpwTnR1NzVKcnVnU2ZUM01JXzA4UmhNQlRmMEx1QUo4Q3BDTzgwLVpPRENSbEJVSTZpR2FBRXRzV2ZsZXhaWHpTcDhMTmJkZjdxcVhwTjc3eGVVTGY4UGtWak5xWG5KNGM1ank3Qm83Mm1WVFdXVEEyQUpvM3ZaZzllRXRkaTBPWUx4Qy1MMjJ4U3pfMXRsVG91UGNfV29NYXUyczJLT1B0aWVGZmNrdWJXQ3BPWk9nc3I2dWY1Q2g1VmNTZUE1OGE3aEZVelF5WWI1QnN3?oc=5",
+    "source": "Business Wire",
+    "source_type": "press",
+    "published_date": "2025-01-06",
+    "collected_at": "2026-10-17T13:11:18.293656+00:00",
+    "authors": [],
+    "summary": "Iambic Therapeutics Appoints Michael Secora, Ph.D. as Chief Corporate Development Officer and Chief Financial Officer Business Wire",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmigwjbvv95cuxpufrsb2pmcjlkzllpx3jjcfzjskpuvtrybg40y0dydzjurnzqvmhky1fflunyawpwtnr1nzvkcnvnu2zum01jxza4umhnqlrmmex1quo4q3bdtzgwlvpprensbejvstzpr2fbrxrzv2zszxhawhptcdhmtmjkzjdxcvhwtjc3egvvtgy4ugtwak5xwg5kngm1ank3qm83mm1wvfdxveeyqupvm3zazzllrxrkatbpwux4qy1mmjj4u3pfmxrsvg91ugnfv29nyxuyczjlt1b0awvgzmnrdwjxq3bpwk9nc3i2dwy1q2g1vmntzue1oge3aezvelf5wwi1qnn3?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Will AI revolutionize drug development? Researchers explain why it depends on how it’s used - The Conversation",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR29MeXB4T1V0YUdpMHpxYnVQUGc5S1JsN1FsTlpybzFyblJIRFktUmIydXpTZXpCVWZPWU1iZVNYa2FDVnF0ZDhFZ0lDT3ozN3oxWEt4T3JvNVBuX0syYm9va2E4YjJpZElXZFpFc1hVSlNvc0FiODRGdUUtaGFpQnZHMXk4bC1VVm0zSEtveHNPWFk0VXNKWkl5WDFOajJmMzd6LW5lay1TSURmWW9UMzV1RU1kOG9mWk5Uc1NxbGJDZw?oc=5",
     "source": "The Conversation",
@@ -121168,6 +122849,27 @@
   },
   {
     "kind": "news",
+    "title": "Iambic Therapeutics Announces “Enchant,” an AI Platform that Predicts Clinical Outcomes from the Earliest Stages of Drug Discovery - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQdWFScXJEWExFLVg4SHN4a015ZlBlMmZaX0cyNWxCTTdOYzA2Ykg4VkxKeWV6QnVDWEhxZVg1WHFvMklBMDl5T0pXT18ySERvTHBIeWZjNEFQbmZENXhfNWZDa1RDbUFTZmQtN1kyTGFmd0p1N1NNZnNkX1ZzZ3d2VEZWa1g0UjU0dEp0aEU3UzduRG52eW5NLS1ibmlaTEdQZFp6WWlGTzE3SzBpM1dQNHJLLW1kTXptTjIwX3FZeFNoajBmOFNkZTd5RnRzeUZtSE9pMkUzdWpQYUNwNU04NUVWaTRZeFZ4RzJWdkY2US1KQW5iQVVCWTY0M1U3akpabXBIMmNidG9vbTZkejN0d2Nn?oc=5",
+    "source": "Business Wire",
+    "source_type": "press",
+    "published_date": "2024-10-29",
+    "collected_at": "2026-10-17T13:11:18.293959+00:00",
+    "authors": [],
+    "summary": "Iambic Therapeutics Announces “Enchant,” an AI Platform that Predicts Clinical Outcomes from the Earliest Stages of Drug Discovery Business Wire",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmikgjbvv95cuxqdwfscxjewexflvg4shn4a015zlblmmzax0cynwxcttdoyza2ykg4vkxkewv6qnvdwehxzvg1whfvmklbmdl5t0pxt18yservthbiewzjnefqbmzenxhfnwzda1rdbuftzmqtn1kytgfmd0p1n1nnznnkx1zzz3d2vezwa1g0uju0dep0aeu3uzdurg52ew5nls1ibmlatedqzfp6wwlgtze3szbpm1dqnhjllw1ktxpttjiwx3fzefnoajbmofnkztd5rnrzeuztse9pmkuzdwpqyunwnu04nuvwatrzefz4rzjwdky2us1kqw5iqvvcwty0m1u3akpabxbimmnidg9vbtzkejn0d2nn?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Tommi Jaakkola presents on the power of generative AI in molecular sciences - The Johns Hopkins News-Letter",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeEdyQVctUi16YzFFWm5qZmdMZ19jR2NlckJWZXZVbzBENDJLa18wb1Z1ZnBjQ3VqLXFMMnJYNHllTHpwc1JqVUcxNGw0ZVFmWWZtVEZkRzc2bWVFSVBoTEZxSnFObzR1ZEZvbFdjMS1xWm1sRVF5bUlhY1V6WHRlSzJfYzFXODF2dUkzQkJVVFByYVVpbGlWbmxsSHJKN1hzR1NsNWZ5M3Etb19zOWNwVjdnSWhVWWMyU2hSaWhKTmY?oc=5",
     "source": "The Johns Hopkins News-Letter",
@@ -122300,6 +124002,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiywfbvv95cuxpbvl4sgludtrkdfbsdg1jdkluc0fzre5ezglpumjjz2f3lwrxel9yyvu3chzwntrubja0ekhmbw8tneotm0dammx1x0n4twtbodnkzv9itdnlexjwwk5jrhzqclfdrujqz2t6mgyxu096agzznnnwefrjbgrhb1zrvvbwqxi5stroykl6c2d3ewdredlur1vpouf2thhrog1hbwlqsxuzwgwxy01dd1nqt1n0shjvsdfwvgl3wejnsnnutwzfdnhaexnwwq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Medidata Recognized as a Leader in Everest Group’s Inaugural Electronic Data Capture Peak Matrix® Assessment - Dassault Systèmes",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdVpTWXByNWpNVHZIcmZSTkgzRWJvcnNqc0trYWN2ckxxUDBraDZKY3N1aktub0FKbjE0OWx5WjZwd290MWp1ck40VWpvTlJldHBVdzZJeHNtVWJQR0xyMXFYSFVQRTJrWHlxdkpBWEI5NmhJSnZaMTJ4MWlHNldkakZGZzIyWEZDVFlDWVAzS2VLX0tYOWlSdndWei1JcFFWUHJJR0ZwOGk2eVd1TFk1X0tBeVYtenhwMkZWQW5LTXdBckhVeHZ6N0U0QTJBdTVzdzFUaTlaVWlGOGc?oc=5",
+    "source": "Dassault Systèmes",
+    "source_type": "press",
+    "published_date": "2024-09-17",
+    "collected_at": "2026-10-17T13:11:13.143578+00:00",
+    "authors": [],
+    "summary": "Medidata Recognized as a Leader in Everest Group’s Inaugural Electronic Data Capture Peak Matrix® Assessment Dassault Systèmes",
+    "doi": null,
+    "company_slug": "medidata",
+    "keywords_matched": [
+      "Medidata"
+    ],
+    "extra": {
+      "query": "\"Medidata\" (\"clinical trial\" OR \"clinical trials\" OR \"Rave\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi2wfbvv95cuxqdvptwxbynwpnvhzicmzstkgzrwjvcnnqc0trywn2ckxxudbradzky3n1aktub0fkbje0owx5wjzwd290mwp1ck40vwpvtljldhbvdzzjehntvwjqr0xymxfysfvqrtjrwhlxdkpbwei5nmhjsnzamtj4mwlhnldkakzgzziywezdvfldwvazs2vlx0tyowlsdndwei1jcffwuhjjr0zwogk2evd1tfk1x0tbevytenhwmkzwqw5ltxdbckhvehz6n0u0qtjbdtvzdzfuatlavwlgogc?oc=5"
   },
   {
     "kind": "news",
@@ -124860,6 +126583,27 @@
   },
   {
     "kind": "news",
+    "title": "Wilson Sonsini Advises Iambic Therapeutics on $50 Million Series B Extension, Bringing Total Series B Funding to Over $150 Million - Wilson Sonsini",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPOThYOU94OUpzdHNybmZCVlQ4Ti1PSU5SaTY5bk9VRFZvVlZFUVMzYU5RdXp4MXBfaVc5RkNoS1d0VmUwb3pXMllSbm1leDJYT24xMnl3RGZkWXhHdko0Yk5JamtpMDZxU0VKRkZQYkN5VzRyRUFZc1lxdGpCV252TlMyVndQdzJDeHVSWndiTFMxZ19TUFhmOGxuWEw2STJXemZtS1VCMWU5UzV2emRtM01Vak9lWHNCUGl3RmlrSGpsNEprZExVWG5sMXluNFdOQ0ZudHhQSkRMbVRyN2FWMDZaVzFwZTFMbGQ4QkNxQ1VOb0RlQkhJbGctNUE0ek9VVGtXei0xYmI?oc=5",
+    "source": "Wilson Sonsini",
+    "source_type": "press",
+    "published_date": "2024-06-18",
+    "collected_at": "2026-10-17T13:11:18.294108+00:00",
+    "authors": [],
+    "summary": "Wilson Sonsini Advises Iambic Therapeutics on $50 Million Series B Extension, Bringing Total Series B Funding to Over $150 Million Wilson Sonsini",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiiajbvv95cuxpothyou94oupzdhnybmzcvlq4ti1psu5saty5bk9vrfzvvlzfuvmzyu5rdxp4mxbfavc5rknos1d0vmuwb3pxmllsbm1ledjyt24xmnl3rgzkwxhhdko0yk5jamtpmdzxu0vkrkzqykn5vzryrufzc1lxdgpcv252tlmyvndqdzjdehvswnditfmxz19tufhmogxuwew2stjxemzts1vcmwu5uzv2emrtm01vak9lwhncugl3rmlrsgpsneprzexvwg5smxlunfdoq0zudhhqskrmbvryn2fwmdzavzfwztfmbgq4qknxq1vob0rlqkhjbgctnue0ek9vvgtxei0xymi?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Imidazole-thiadiazole hybrids: A multitarget de novo drug design approach, in vitro evaluation, ADME/T, and in silico studies - Wiley Online Library",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kMHJoY3N5Rk5fMXhpd0stMmtyREgxQnlZcVE2SlFRaVRVYzhFMlVrcHppV29EUkZNdUc5OUtTM2kzN3hIV0ZyQW5QR0ZqTlBqSDhJa1dnVWtKTDVjM3pxVVRWY0NSS0ZpS2EtN191elY?oc=5",
     "source": "Wiley Online Library",
@@ -126863,6 +128607,27 @@
   },
   {
     "kind": "news",
+    "title": "Electrochemical Asymmetric Radical Functionalization of Aldehydes Enabled by a Redox Shuttle - Wiley Online Library",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pa1p3OGt1aFc0LU9BZmFvdFhTMnpjZ0FFNGRVS08xMS0zQnVMamdTalZiMXNWN05SY3lYZDB4US1MQTdlcC12Ujg5bnlGNlBlT2ZGMFNoMDdvYnVocEdGZHZwV2F0QWl0MkctNFV2Yk8?oc=5",
+    "source": "Wiley Online Library",
+    "source_type": "press",
+    "published_date": "2024-04-16",
+    "collected_at": "2026-10-17T13:11:22.015610+00:00",
+    "authors": [],
+    "summary": "Electrochemical Asymmetric Radical Functionalization of Aldehydes Enabled by a Redox Shuttle Wiley Online Library",
+    "doi": null,
+    "company_slug": "enamine",
+    "keywords_matched": [
+      "Enamine"
+    ],
+    "extra": {
+      "query": "\"Enamine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmicefvx3lxte5pa1p3ogt1afc0lu9bzmfvdfhtmnpjz0ffngrvs08xms0zqnvmamdtalzimxnwn05sy3lyzdb4us1mqtdlcc12ujg5bnlgnlblt2zgmfnomddvynvocedgzhzwv2f0qwl0mkctnfv2yk8?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Insilico Medicine announces “Generative AI for Sustainability” vision as part of Middle East tour - EurekAlert!",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1V0NNMmtSU1VIaUwyOEI1NXdYR3RmaGpFblVfS1JOczlUVWxzRzRkeGpoZ2JBbWJGU2RtRDhTdVNsVm1GblpQZmNNWk93N29SVEF4UVBpS2txSFZP?oc=5",
     "source": "EurekAlert!",
@@ -127344,6 +129109,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmikgfbvv95cuxqajdyqvp4ev9cz3lzcgnlm2lxamjudvpoz1hhduxkudrvr0rzwlfsx1z6oxmwngtizlnfwenazursdmyzmvhfv3hxbxprmndvuzrlmwtywdfuadzsee51ltblufvwde94nhhvsjziu05wqznivhpinlyzm0nrc2ddm3dtvnfpx0lfauhzz1i3nhduqq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Iambic Therapeutics and NVIDIA partner to slash cancer drug development timelines - Drug Discovery & Development",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVBmRWpZaWtic29zVmpzLW9TU0lQbDMtVGxyVEVDREtlbjJtOXk0akxSdTFzWUZLUFhMRU5oMVo5UFFXUklON3ZaOE1jbmY3RVFYSkFqczlaUnE0NERuNHhVRTU4ckt5ZVFla2ZEVHYxMmhlNER2aHBBVC1SZjBOamlNa1V6MFZoelIzYlRla01Bb0NLN1FkdFhfSDV6Z2Iwc0l6cVhMaDFGX2F3dzY0bFgwd3k?oc=5",
+    "source": "Drug Discovery & Development",
+    "source_type": "press",
+    "published_date": "2024-03-18",
+    "collected_at": "2026-10-17T13:11:18.294268+00:00",
+    "authors": [],
+    "summary": "Iambic Therapeutics and NVIDIA partner to slash cancer drug development timelines Drug Discovery & Development",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "drug discovery"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmitafbvv95cuxozvbmrwpzawtic29zvmpzlw9tu0lqbdmtvgxyvevdretlbjjtoxk0akxsdtfzwuzlufhmru5omvo5uffxuklon3zaoe1jbmy3rvfyskfqczlaune0nerunhhvrtu4ckt5zvfla2zevhyxmmhlner2ahbbvc1szjboamlna1v6mfzoelizylrla01bb0nln1fkdfhfsdv6z2iwc0l6cvhmadfgx2f3dzy0bfgwd3k?oc=5"
   },
   {
     "kind": "news",
@@ -128031,6 +129817,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmisgfbvv95cuxpq2ljnxlxu0jubui3z0t1x25qlulntmvdnfztrejnyxhyukhuq0zisthoznf3qnlcd096uvplc0t3yzixy2tivviyrhd2repirgt4ymttdgnxqxfezejlwko3el9usutcru1jsmu2ewlfanbrcgzvcmfdoe5lbulbbu5rtfbqwtb2qwpcsditsnrczxlxeurtt25qrda3a2lvz1dvwuv3azbpng1kv3fqcvjr?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Iambic Therapeutics Announces New Research Published in Nature Machine Intelligence Demonstrating the Capabilities of Its Generative AI NeuralPLexer Technology to Predict Protein-Ligand Complex Structures - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNdVJjOU1XeFRsbV8tUjZzS1dqdkJMV2k4cGNLd2daRHJYN3hENnZSSUVjQUEwVVdQRGxNc0pHNENvajFrN0NWWEI2dG96RDNvd21pdWV1Y0VVV1NQX2V0WXktUkt0REtSOUZlU1VYMkx1c1NJNzA2dnNwWDZaSE4yVjhJNFBkM05ZUUdZb3dZYWlNdXR6Z1Y3aHB0Rlhud2syc0tIWEJ4YVVCX3lyV2JIVnFkZHltWTNuc3NScTJvUG0tbXZjbFJINklvaWFzQzIzM0lXaHZHX0pvZm1kZXVlMGlYT1FwUGJIZmV5X2pKTkhnZVk5Ni1WeHZteXVYVklycVYxZV9CdUZudktyaVYzLUU4T3V3NHBMdTJOX0pOdmhUNVhHMm9HNDU2RURLdHRBVENRMDFBU1hhWkRjcFZ4R1B2U1BsbkJlc0poZzROQUlLenQzaU43bmZXUlVUdC10YUFGZk5nd3JzWHlmdFZvekRDOG50ZDVE?oc=5",
+    "source": "Business Wire",
+    "source_type": "press",
+    "published_date": "2024-02-12",
+    "collected_at": "2026-10-17T13:11:18.294595+00:00",
+    "authors": [],
+    "summary": "Iambic Therapeutics Announces New Research Published in Nature Machine Intelligence Demonstrating the Capabilities of Its Generative AI NeuralPLexer Technology to Predict Protein-Ligand Complex Structures Business Wire",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi-ajbvv95cuxndvjjou1xefrsbv8tujzzs1dqdkjmv2k4cgnld2darhjyn3hennzssuvjquewvvdqrgxnc0phnenvajfrn0nwwei2dg96rdnvd21pdwv1y0vvv1nqx2v0wxktukt0retsouzlu1vymkx1c1njnza2dnnwwdzase4yvjhjnfbkm05zuudzb3dzywlndxr6z1y3ahb0rlhud2syc0tiwej4yvvcx3lyv2jivnfkzhltwtnuc3nsctjvug0tbxzjbfjinklvawfzqzizm0lxahzhx0pvzm1kzxvlmglyt1fwugjizmv5x2pktkhnzvk5ni1wehztexvyvklycvyxzv9cduzudktyavyzluu4t3v3nhbmdtjox0podmhunvhhmm9hndu2rurldhrbvenrmdfbu1hhwkrjcfz4r1b2u1bsbkjlc0pozzroqullenqzau43bmzxulvudc10yufgzk5nd3jzwhlmdfzvekrdog50zdve?oc=5"
   },
   {
     "kind": "news",
@@ -128784,6 +130591,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmivgjbvv95cuxoeei2eunbyu00q24ttuvgd0qwcevjbvddwfjomty3efh6dhjbvthuug1qvtziaxl3b3zmyjdls1vzejfob3buvejsnjyydzetrgdrlvdmv0lfuehcdhetvhk0nfzfvud2rutjavvrvgxqq3vivf9rdmjiumfjuxpjsziybxfaqvnvdulytg15uk1gu0vhv2robuhzz3q4ttnudldnunztnmxycvzuaw9hlvzgnkuyqlbfethmrm0yrhn4mvdfafe3bjroxzvobi0yetjudgc3djlsqmutwwotu1riwxjjehpnodlpwk05nezvmwv2qvfgedi0ltnbb1pnwvzluurwn3f2ec0wrzjhbxyxulnqa1ytrfa1wvblqxp0mhh5v2hhstzlq0thctvtsgm0ntlzs2rmb25twhc?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Novo taps Flagship startups to develop drugs for obesity, MASH - BioPharma Dive",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQjBOTnNDcXM3NUpNdmVUekM2bnlKNlIxSHlBeEVPakwtVURtMkZzc2FnZFNVa25JWDRCZ05mTmcwMWFmM0RCa29FZE1hRk43TEh1M0dIdC05eDhWaXRCS1NpZ2JhZzNkWHVodzNDU1FwbkU2TDV1OHRiekc0eGlKMHVYZ3ctRTFGQjJiQzA5UHgtZjBhNWlwRGpKcVVxX3FZ?oc=5",
+    "source": "BioPharma Dive",
+    "source_type": "press",
+    "published_date": "2024-01-04",
+    "collected_at": "2026-10-17T13:11:19.154897+00:00",
+    "authors": [],
+    "summary": "Novo taps Flagship startups to develop drugs for obesity, MASH BioPharma Dive",
+    "doi": null,
+    "company_slug": "cellarity",
+    "keywords_matched": [
+      "Cellarity"
+    ],
+    "extra": {
+      "query": "\"Cellarity\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmioafbvv95cuxpqjbotnndcxm3nupndmvuekm2bnlknlixshlbeevpakwtvurtmkzzc2fnzfnva25jwdrcz05mtmcwmwfmm0rca29fze1hrk43teh1m0didc05edhwaxrcs1npz2jhzznkwhvodzndu1fwbku2tdv1ohriekc0eglkmhvyz3ctrtfgqjjiqza5uhgtzjbhnwlwrgpkcvvxx3fz?oc=5"
   },
   {
     "kind": "news",
@@ -130497,6 +132325,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbminwjbvv95cuxnvnzmanlpqw1qyws2uk5vqxbfx09kykrbvtjrv2zfallfuglqrnhmlw1nqju4skxdztlivdhtoutqbtvvdwjzetnvqvbolve4nfhius10adc3vk1tetlvc2vyv3djtkhrbhhqsnlkbnjpuje2zmu4tujytddzbvc4zy1av3dpwvphrg84cgjfy0iyrm5cotzrquzmntv1ym0yzutnsnhntu83udl3rxpvlwrjnxc0ajnvn0vksmnfv1bmzc1qb0h3euvmx0vgsdvidmzcaghey0zvb3r1qjbtltbmtzbknwnzek50wgj3zjbhcdjewxzqmdfhedcxekhpx0tvvhjhn05mq01ueffir3d6a1ltamvfzgzhvhlwyw?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Iambic Therapeutics Announces Close of Oversubscribed $100 Million Series B Financing to Advance AI-Discovered Therapeutics into Clinical Development and Enters Collaboration with NVIDIA - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNRkRJZW5tc3pFQVNPYWNTMndfU3VqWTlLcGwzaDdCc0pPSS10MGtuekxhbzRWOHdlbkhXblJZTGtYT2FJLTNQNFNOSXBoajk3UnVBTzJDNzYwNEEzeFFRczVWNGJUVTRGTTByWVpDT2poVWRfQlZTQ3plWkcwY3UtM0NCZGpyX2FEWlhTV1JMdnkzQmxGS2h6aFQySVlITHVhNG5Cb0J2U3ZfQ0l4czVyUVJtdldyRlI5R01XWTZVTlhUM1FjRkNXU0pVblBVVGhVTnpXdnQyb0pHV0pINF9KUmJiZW1ObEM4eTRYX3RoVjgwWkgyTE5oNDh5anJNRTAyN1FnU3hoNGt0cFBfb2wyWUluUjVoOW80ZWJ0dmVtd21OclJHRVR2NGhhcEZjVnp2Wm9LZ0NxWDVRaWU2YTFoc3gzOWN1MHZ5YVZlOHl2cDl4dXlNQmRVM0RhTXZvZlV2ejNR?oc=5",
+    "source": "Business Wire",
+    "source_type": "press",
+    "published_date": "2023-10-03",
+    "collected_at": "2026-10-17T13:11:18.294432+00:00",
+    "authors": [],
+    "summary": "Iambic Therapeutics Announces Close of Oversubscribed $100 Million Series B Financing to Advance AI-Discovered Therapeutics into Clinical Development and Enters Collaboration with NVIDIA Business Wire",
+    "doi": null,
+    "company_slug": "iambic-therapeutics",
+    "keywords_matched": [
+      "Iambic Therapeutics"
+    ],
+    "extra": {
+      "query": "\"Iambic Therapeutics\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmi4wjbvv95cuxnrkrjzw5tc3pfqvnpywntmndfu3vqwtllcgwzaddcc0ppss10mgtuekxhbzrwohdlbkhxbljztgtyt2fjltnqnfnosxboajk3unvbtzjdnzywneezeffrczvwngjuvtrgttbywvpdt2povwrfqlztq3plwkcwy3utm0nczgpyx2fewlhtv1jmdnkzqmxgs2h6afqysvlithvhng5cb0j2u3zfq0l4czvyuvjtdldyrli5r01xwtzvtlhum1fjrknxu0pvblbvvghvtnpxdnqyb0phv0pinf9kumjizw1obem4etryx3rovjgwwkgyte5ondh5anjnrtayn1fnu3hongt0cfbfb2wywuluujvoow80zwj0dmvtd21ocljhrvr2nghhcezjvnp2wm9lz0nxwdvrawu2ytfoc3gzown1mhz5yvzlohl2cdl4dxlnqmrvm0rhtxzvzlv2ejnr?oc=5"
   },
   {
     "kind": "news",
@@ -134993,6 +136842,27 @@
   },
   {
     "kind": "news",
+    "title": "Enantioselective Biocascade Catalysis with a Single Multifunctional Enzyme - Wiley Online Library",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YVGNubEZMWHlMLWFzNHJSMUkyX3pFWndRdktlNjZpRm85dmZSZ2ltN0M4NVZpRWRPVEdQcjlOejBfQURYa2tfemVSNlZCTmZMZ2oxelJuYXFvQkVVZW1ZdHIweERSTEpHaVE?oc=5",
+    "source": "Wiley Online Library",
+    "source_type": "press",
+    "published_date": "2022-08-31",
+    "collected_at": "2026-10-17T13:11:22.014196+00:00",
+    "authors": [],
+    "summary": "Enantioselective Biocascade Catalysis with a Single Multifunctional Enzyme Wiley Online Library",
+    "doi": null,
+    "company_slug": "enamine",
+    "keywords_matched": [
+      "Enamine"
+    ],
+    "extra": {
+      "query": "\"Enamine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmiakfvx3lxte5yvgnubezmwhlmlwfznhjsmukyx3pfwndrdktlnjzprm85dmzsz2ltn0m4nvzprwrpvedqcjloejbfqurya2tfemvsnlzctmzmz2oxeljuyxfvqkvvzw1zdhiweerstephave?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Fiocruz e UFMG: vacina brasileira contra Covid está pronta para testes em humanos - O GLOBO",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ08xeHJrbm1XMmY5T1NtR1BQMTVJQzE1clI0YUNHUnBYckY2Y0FEeVE0VUJpVHpGOGxtWmtURjh3OWNvdFBQaXM1T1BVRDVjY1h5TWZnd0ExUDdKSFNtb0xhY19IcTQ3YUZGd0VRdl93OFB1NGduSkVqYzNYUzFBRTJTSVY0aUZZXzR6XzJQS2VLODZuSHhGRUw0dHZ2Yy1HZk9vUVY2ZGNGaVpVMktYbkdoZTNEVlZadWJIV0hvRHdjbmlTQVh4M0k5aGVPNElKTGFmam5COTNGQdIB6AFBVV95cUxNeURJLUVsX1Z2cGl3LWNUcTdkaVc4X1cxQVgtT1ZWMnd6WThnU0ZrY08zWVF5ZGFXSDFYN2FkcERzbjd2ekxuYTBUWWZsV2xaTkhHMl95OUJQQnRibTBpVzNqMnQya2dEa2E4VUlZdzMtWkU3M1V2VmRhVDdKNjY3Y1YycnhhbVd1N1J6emZqSTdDc0hIRjVoSFdNXzkxMG5xMHFKTXFOem04ZHZ1eFVRaHlHYTBEOGFoR0hHcnRRYmtxYlcxMG5pQmMtTUkyWllGTjhJc2V5SGRDb19rYktVRDdSa19ORjlq?oc=5",
     "source": "O GLOBO",
@@ -137924,6 +139794,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmiswfbvv95cuxqykvxouprc3yxctvawvq3runzt0xqcgx0ckfwsuhlsfrhekdfr1m1serpxzvmcfnnveuwvmdxs1dlmudyvujowv9stug0ofu2dewxvfnhmxbpmfc2rgzun0tdaejjcxm4mvrhnzfsvjbgyvniudgwuzb5s1q4swpguddwoxblwkr4rhpwnultzhlwyjvqdk5cmlywberhrf8xthzwdzzuwmkyz3rkq3pvyurwna?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "Fiocruz entrega cerca de 4 milhões de doses da vacina de covid-19 - Agência Brasil",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzlwdnlONEpLREFLLVRtazh0bnhtTVlBRXY0bTdMMXdGOE1QZlFjQWVYemZvdVQtTmRac2l2Q2lTbzFVWlJDVnVFbDFkRE9fLS1CNHVSNGlKaWhqY3BxbFdkb2M0cU5hZHNVMXRVWmlseENJVU1WQmtaZWlLSUpJTDN0OEEwUDZCZ2paV05Ia1h0azhrekROaU53VHZldjNFQVRWSEJlMXZ6Smlzb25GU2NMN19Pc1FCbFdjUQ?oc=5",
+    "source": "Agência Brasil",
+    "source_type": "news",
+    "published_date": "2021-10-15",
+    "collected_at": "2026-10-17T13:10:48.412790+00:00",
+    "authors": [],
+    "summary": "Fiocruz entrega cerca de 4 milhões de doses da vacina de covid-19 Agência Brasil",
+    "doi": null,
+    "company_slug": null,
+    "keywords_matched": [
+      "Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)"
+    ],
+    "extra": {
+      "query": "\"Fiocruz\" (\"inteligência artificial\" OR vacina OR fármaco)",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmivafbvv95cuxqnzlwdnloneplrefllvrtazh0bnhttvlbrxy0btdmmxdgoe1qzlfjqwvyemzvdvqttmrac2l2q2ltbzfvwljdvnvfbdfkre9fls1cnhvsnglkawhqy3bxbfdkb2m0cu5hzhnvmxrvwmlseenjvu1wqmtazwllsupjtdn0oeewudzcz2pav05ia1h0azhrekroau53vhzldjnfqvrwsejlmxz6smlzb25gu2nmn19pc1fcbfdjuq?oc=5"
   },
   {
     "kind": "news",
@@ -143662,6 +145553,27 @@
   },
   {
     "kind": "news",
+    "title": "Emulate raises $36M to develop organ-on-chip tech - BioPharma Dive",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0ZkMFlmejM4RHdLd0NYZlo2T1pVUnctajBLQ0RvbGRYNGdsdW9GdFFVeTlwUmVESnVGNElCal9vOTFTcEZqTmJkdWljRE41Q0FGRXQ4b29ZUUwtM2o0ZGFVOXZSeTNOV25JLWdvWWdhVGh3R0NjR0Q2a1U4Wk1UeVVXenVQT3J4cFA3X0NvanM0aTB2RUE?oc=5",
+    "source": "BioPharma Dive",
+    "source_type": "press",
+    "published_date": "2018-06-21",
+    "collected_at": "2026-10-17T13:11:22.417105+00:00",
+    "authors": [],
+    "summary": "Emulate raises $36M to develop organ-on-chip tech BioPharma Dive",
+    "doi": null,
+    "company_slug": "emulate",
+    "keywords_matched": [
+      "Emulate"
+    ],
+    "extra": {
+      "query": "\"Emulate\" (\"Organ-Chip\" OR \"organ chip\" OR \"Liver-Chip\")",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmilgfbvv95cuxox0zkmflmejm4rhdld0nyzlo2t1pvunctajblq0rvbgryngdsdw9gdffvetlwumvesnvgnelcal9votftcezqtmjkdwljre41q0fgrxq4b29zuuwtm2o0zgfvoxzsetnov25jlwdvwwdhvgh3r0njr0q2a1u4wk1uevvxenvqt3j4cfa3x0nvanm0atb2rue?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Organ-chip developer Emulate raises $36M in VC funding - Fierce Biotech",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYm5ySFQtOEJCcjNzLUR3UDBKWlJ1ajZMWVlLZXFmQ1BuaEpMbnZsMngycUVoQ19pbU1Gbm9LcnJoN1hMeWl3QnliOG9rSmx4U1N0LU5JYTlyandON3ZqUnowR0NiTTZubWJBRF9XZHlrUVp0d3FMY2NXTWFXZnVyS2ZfQXRfSVdIcWtibmVSWVNEUQ?oc=5",
     "source": "Fierce Biotech",
@@ -145657,6 +147569,27 @@
   },
   {
     "kind": "news",
+    "title": "Asymmetric Inverse‐Electron‐Demand Hetero‐Diels–Alder Reaction of Six‐membered Cyclic Ketones: An Enamine/Metal Lewis Acid Bifunctional Approach - Wiley Online Library",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fbWo4MkcyTENEOHFKczRZbmloRzc5MkY5VVZ5RUp5YnJ4ZS1VSWhPSHVrNUtKN1BQNnNMSFBxeVRYTmZfck1pNXU0TTRuRWtnQWdJSUV1OV8xZ1dMMm5pWlRJMDY5TW83QXl5U2JrTXU?oc=5",
+    "source": "Wiley Online Library",
+    "source_type": "press",
+    "published_date": "2011-03-10",
+    "collected_at": "2026-10-17T13:11:22.016533+00:00",
+    "authors": [],
+    "summary": "Asymmetric Inverse‐Electron‐Demand Hetero‐Diels–Alder Reaction of Six‐membered Cyclic Ketones: An Enamine/Metal Lewis Acid Bifunctional Approach Wiley Online Library",
+    "doi": null,
+    "company_slug": "enamine",
+    "keywords_matched": [
+      "Enamine"
+    ],
+    "extra": {
+      "query": "\"Enamine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmicefvx3lxte5fbwo4mkcyteneohfkczrzbmlorzc5mky5vvz5rup5ynj4zs1vswhpshvrnutkn1bqnnnmsfbxevrytmzfck1pnxu0ttrurwtnqwdjsuv1ov8xz1dmmm5pwlrjmdy5tw83qxl5u2jrtxu?oc=5"
+  },
+  {
+    "kind": "news",
     "title": "Organocatalytic enantioselective β-functionalization of aldehydes by oxidation of enamines and their application in cascade reactions - Nature",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DaS1fbG1WMW81MWNQMlk4Slp6ZzBsb1d3TVljRWp3NlhfaGxGQ0FzRUU4T0ZQVnc3TVpBTUdhc09WMkZpODhWYWxvOHlMTUwyWHY0NQ?oc=5",
     "source": "Nature",
@@ -145780,6 +147713,27 @@
       "via": "google_news"
     },
     "dedupe_key": "url:https://news.google.com/rss/articles/cbmimafbvv95cuxpqzl1dtrgzwd4egvyadfwbhrldlrnrjlfz0vqylbqewjtqjixs1k2zjhunvbjbwlvqw9wb2puv3mymtmtwur2oedjzfjrdu5wnkdzsufanc1atu9keglrnvpua3m2y19lwgvxrvzabjfxnmx1s2lklwpjrmrzexpprkpyrjc1vzdhbuyzae50mlrkqmpivmhgsq?oc=5"
+  },
+  {
+    "kind": "news",
+    "title": "In Situ Enamine Activation in Aqueous Salt Solutions: Highly Efficient Asymmetric Organocatalytic Diels–Alder Reaction of Cyclohexenones with Nitroolefins - Wiley Online Library",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uYll1QXZORFl6WElmYjFEcDcxNGpvcnk3ZDVGTnUyazBhNDgxQmRsbkcxZV9DNGpDaC1KdG8xX2xyWjJRa05zemsyOGx0TWF1WVhsTEdWcVRwaWdRTFV3Yk9LNVdzSXRIOTgzbFZOaTQ?oc=5",
+    "source": "Wiley Online Library",
+    "source_type": "press",
+    "published_date": "2009-05-04",
+    "collected_at": "2026-10-17T13:11:22.015297+00:00",
+    "authors": [],
+    "summary": "In Situ Enamine Activation in Aqueous Salt Solutions: Highly Efficient Asymmetric Organocatalytic Diels–Alder Reaction of Cyclohexenones with Nitroolefins Wiley Online Library",
+    "doi": null,
+    "company_slug": "enamine",
+    "keywords_matched": [
+      "Enamine"
+    ],
+    "extra": {
+      "query": "\"Enamine\"",
+      "via": "google_news"
+    },
+    "dedupe_key": "url:https://news.google.com/rss/articles/cbmicefvx3lxte1uyll1qxzorfl6welmyjfecdcxngpvcnk3zdvgtnuyazbhndgxqmrsbkcxzv9dngpdac1kdg8xx2xywjjra05zemsyogx0twf1wvhstedwcvrwawdrtfv3yk9lnvdzsxriotgzbfzoatq?oc=5"
   },
   {
     "kind": "news",
